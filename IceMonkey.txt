@@ -1,19 +1,19 @@
 000 
 20r
-*freeze*- 1d, 30p, 2.4s, cold
+*freeze*- 1d, 40p, 2.4s, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
- ‎ ‎ ‎ ‎ ‎ ‎	-only affects top layer
+ ‎ ‎ ‎ ‎ ‎ ‎    -only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 footprint radius: 6 (small)
 
 100 
 20r
-*freeze*- 1d, 30p, 2.4s, cold
+*freeze*- 1d, 40p, 2.4s, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
- ‎ ‎ ‎ ‎ ‎ ‎	-only affects top layer
+ ‎ ‎ ‎ ‎ ‎ ‎    -only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
@@ -22,10 +22,10 @@ __Changes from 0-0-0__
 
 010 
 20r
-*freeze*- 1d, 30p, 1.8s, cold
+*freeze*- 1d, 40p, 1.8s, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
- ‎ ‎ ‎ ‎ ‎ ‎	-only affects top layer
+ ‎ ‎ ‎ ‎ ‎ ‎    -only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from 0-0-0__
@@ -34,10 +34,10 @@ __Changes from 0-0-0__
 
 001 
 27r
-*freeze*- 1d, 30p, 2.4s, cold
+*freeze*- 1d, 40p, 2.4s, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
- ‎ ‎ ‎ ‎ ‎ ‎	-only affects top layer
+ ‎ ‎ ‎ ‎ ‎ ‎    -only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from 0-0-0__
@@ -45,10 +45,10 @@ __Changes from 0-0-0__
 
 110 
 20r
-*freeze*- 1d, 30p, 1.8s, cold
+*freeze*- 1d, 40p, 1.8s, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
- ‎ ‎ ‎ ‎ ‎ ‎	-only affects top layer
+ ‎ ‎ ‎ ‎ ‎ ‎    -only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
@@ -58,7 +58,7 @@ __Changes from 0-0-0__
 
 101 
 27r
-*freeze*- 1d, 30p, 2.4s, cold
+*freeze*- 1d, 40p, 2.4s, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -70,7 +70,7 @@ __Changes from 0-0-0__
 
 011 
 27r
-*freeze*- 1d, 30p, 1.8s, cold
+*freeze*- 1d, 40p, 1.8s, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -82,7 +82,7 @@ __Changes from 0-0-0__
 
 200 
 20r
-*freeze*- 1d, 30p, 2.4s, cold, camo
+*freeze*- 1d, 40p, 2.4s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -105,16 +105,15 @@ __Changes from 0-0-0__
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from Previous Tier__
-*freeze* gets +10p (40)
 *frozen* status duration 1.75s -> 2.2s, affects top 2 layers
  
 __Changes from 0-0-0__
-*freeze* gets 75%s, +10p (40)
+*freeze* gets 75%s
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
 
 002 
 27r
-*freeze*- 1d, 30p, 2.4s, glacier
+*freeze*- 1d, 40p, 2.4s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -128,7 +127,7 @@ __Changes from 0-0-0__
 
 210 
 20r
-*freeze*- 1d, 30p, 1.8s, cold, camo
+*freeze*- 1d, 40p, 1.8s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -151,12 +150,12 @@ __Changes from 0-0-0__
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from 0-0-0__
-*freeze* applies *permafrost*, can pop lead, gets 75%s, can pop camo, +10p (40)
+*freeze* applies *permafrost*, can pop lead, gets 75%s, can pop camo
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
 
 201 
 27r
-*freeze*- 1d, 30p, 2.4s, cold, camo
+*freeze*- 1d, 40p, 2.4s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -169,7 +168,7 @@ __Changes from 0-0-0__
 
 202 
 27r
-*freeze*- 1d, 30p, 2.4s, glacier, camo
+*freeze*- 1d, 40p, 2.4s, glacier, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -190,7 +189,7 @@ __Changes from 0-0-0__
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from 0-0-0__
-*freeze* applies *permafrost*, gets 75%s, +10p (40)
+*freeze* applies *permafrost*, gets 75%s
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers 
 
 021 
@@ -202,7 +201,7 @@ __Changes from 0-0-0__
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from 0-0-0__
-*freeze* gets 75%s, +7r, +10p (40)
+*freeze* gets 75%s, +7r
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
 
 022 
@@ -214,12 +213,12 @@ __Changes from 0-0-0__
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from 0-0-0__
-*freeze* gets 75%s, +7r, damage type cold -> glacier, +10p (40)
+*freeze* gets 75%s, +7r, damage type cold -> glacier 
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
 
 102 
 27r
-*freeze*- 1d, 30p, 2.4s, glacier
+*freeze*- 1d, 40p, 2.4s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -231,7 +230,7 @@ __Changes from 0-0-0__
 
 012 
 27r
-*freeze*- 1d, 30p, 1.8s, glacier
+*freeze*- 1d, 40p, 1.8s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -242,95 +241,90 @@ __Changes from 0-0-0__
 *frozen* status duration 1.5s -> 1.75s
 
 300 
-25r
-*freeze*- 1d, 30p, 2.4s, cold, camo
+20r
+*freeze*- 1d, 40p, 2.4s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 1d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* gets +5r
-*frozen* bloons emit *shards* when hit
+frozen bloons emit shards when hit
 
 310 
-25r
-*freeze*- 1d, 30p, 1.8s, cold, camo
+20r
+*freeze*- 1d, 40p, 1.8s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 1d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* gets +5r
-*frozen* bloons emit *shards* when hit
+frozen bloons emit shards when hit
  
 __Crosspath Benefits__
 *freeze* gets 75%s
 *frozen* status duration 1.5s -> 1.75s
 
 320 
-25r
+20r
 *freeze*- 1d, 40p, 1.8s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the top 2 layers are popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 1d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* gets +5r
-*frozen* bloons emit *shards* when hit
+frozen bloons emit shards when hit
  
 __Crosspath Benefits__
-*freeze* gets 75%s, +10p (40)
+*freeze* gets 75%s
 *frozen* status duration 1.5s -> 2.2s, freezes top 2 layers
 
 301 
-32r
-*freeze*- 1d, 30p, 2.4s, cold, camo
+27r
+*freeze*- 1d, 40p, 2.4s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 1d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* gets +5r
-*frozen* bloons emit *shards* when hit
+frozen bloons emit shards when hit
  
 __Crosspath Benefits__
 +7r 
 
 302 
-32r
-*freeze*- 1d, 30p, 2.4s, glacier, camo
+27r
+*freeze*- 1d, 40p, 2.4s, glacier, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 1d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead
  
 __Changes from Previous Tier__
-*freeze* gets +5r
-*frozen* bloons emit *shards* when hit
+frozen bloons emit shards when hit
  
 __Crosspath Benefits__
 *freeze* gets +7r, damage type cold -> glacier
@@ -342,14 +336,14 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
  
 __Changes from Previous Tier__
-*freeze* gets +60p (100)
+*freeze* gets +60p
 gets *wind* zone 
 
 130 
@@ -360,14 +354,14 @@ gets *wind* zone
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the top 2 layers are popped
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
  
 __Changes from Previous Tier__
-*freeze* gets +60p (100)
+*freeze* gets +60p
 gets *wind* zone
  
 __Crosspath Benefits__
@@ -382,14 +376,14 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the top 2 layers are popped
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
  
 __Changes from Previous Tier__
-*freeze* gets +60p (100)
+*freeze* gets +60p
 gets *wind* zone
  
 __Crosspath Benefits__
@@ -402,14 +396,14 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
  
 __Changes from Previous Tier__
-*freeze* gets +60p (100)
+*freeze* gets +60p
 gets *wind* zone
  
 __Crosspath Benefits__
@@ -422,14 +416,14 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
  
 __Changes from Previous Tier__
-*freeze* gets +60p (100)
+*freeze* gets +60p
 gets *wind* zone
  
 __Crosspath Benefits__
@@ -437,31 +431,31 @@ __Crosspath Benefits__
 
 003 
 46r
-*bomb*- 2d, 30p, 1.2s, glacier, frozen
+*bomb*- 2d, 30p, 1.15s, glacier, frozen
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from Previous Tier__
-*freeze* replaced with *bomb*: +26r (46), +1d (2), 50%s (1.2s)
+*freeze* replaced with *bomb*: +26r, +1d, -10p, 47.9%s
 
 103 
 46r
-*bomb*- 2d, 30p, 1.2s, glacier
+*bomb*- 2d, 30p, 1.5s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  
 __Changes from Previous Tier__
-*freeze* replaced with *bomb*: +26r (46), +1d (2), 50%s (1.2s)
+*freeze* replaced with *bomb*: +26r, +1d, -10p, 47.9%s
  
 __Crosspath Benefits__
 *bomb* applies *permafrost*
 
 203 
 46r
-*bomb*- 2d, 30p, 1.2s, glacier, camo
+*bomb*- 2d, 30p, 1.15s, glacier, camo
   ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
@@ -469,20 +463,20 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead
  
 __Changes from Previous Tier__
-*freeze* replaced with *bomb*: +26r (46), +1d (2), 50%s (1.2s)
+*freeze* replaced with *bomb*: +26r, +1d, -10p, 47.9%s
  
 __Crosspath Benefits__
 *bomb* applies *permafrost*, can pop lead and camo
 
 013 
 46r
-*bomb*- 2d, 30p, 0.9s, glacier
+*bomb*- 2d, 30p, 0.8625s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.75s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from Previous Tier__
-*freeze* replaced with *bomb*: +26r (46), +1d (2), 50%s (0.9s)
+*freeze* replaced with *bomb*: +26r, +1d, -10p, 47.9%s
  
 __Crosspath Benefits__
 *bomb* gets 75%s
@@ -490,57 +484,59 @@ __Crosspath Benefits__
 
 023 
 46r
-*bomb*- 2d, 40p, 0.9s, glacier
+*bomb*- 2d, 30p, 0.8625s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from Previous Tier__
-*freeze* replaced with *bomb*: +26r (46), +1d (2), 50%s (0.9s)
+*freeze* replaced with *bomb*: +26r, +1d, -10p, 47.9%s
  
 __Crosspath Benefits__
-*bomb* gets 75%s, +10p (40)
+*bomb* gets 75%s
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
 
 400 
 25r
-*freeze*- 1d, 30p, 2.4s, cold, camo
+*freeze*- 1d, 40p, 2.4s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- affected bloons take +1d for 2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose **immunties** from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow them
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* removes camo and regrow, applies de*buff*
+*freeze* gets +5r, removes camo and regrow, applies de*buff*
 targets blimps
 bloons frozen lose frozen and lead immunities
+shards get +1d
 
 410 
 25r
-*freeze*- 1d, 30p, 1.8s, cold, camo
+*freeze*- 1d, 40p, 1.8s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.75s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- affected bloons take +1d for 2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow them
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* removes camo and regrow, applies de*buff*
+*freeze* gets +5r, removes camo and regrow, applies de*buff*
 targets blimps
 bloons frozen lose frozen and lead immunities
+shards get +1d
  
 __Crosspath Benefits__
 *freeze* gets 75%s
@@ -555,63 +551,66 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- affected bloons take +1d for 2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow them
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* removes camo and regrow, applies de*buff*
+*freeze* gets +5r, removes camo and regrow, applies de*buff*
 targets blimps
 bloons frozen lose frozen and lead immunities
+shards get +1d
  
 __Crosspath Benefits__
-*freeze* gets 75%s, +10p (40)
+*freeze* gets 75%s
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
 
 401 
 32r
-*freeze*- 1d, 30p, 2.4s, cold, camo
+*freeze*- 1d, 40p, 2.4s, cold, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- affected bloons take +1d for 2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow them
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* removes camo and regrow, applies de*buff*
+*freeze* gets +5r, removes camo and regrow, applies de*buff*
 targets blimps
 bloons frozen lose frozen and lead immunities
+shards get +1d
  
 __Crosspath Benefits__
 +7r
 
 402 
 32r
-*freeze*- 1d, 30p, 2.4s, glacier, camo
+*freeze*- 1d, 40p, 2.4s, glacier, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- affected bloons take +1d for 2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow them
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
  
 __Changes from Previous Tier__
-*freeze* removes camo and regrow, applies de*buff*
+*freeze* gets +5r, removes camo and regrow, applies de*buff*
 targets blimps
 bloons frozen lose frozen and lead immunities
+shards get +1d
  
 __Crosspath Benefits__
 *freeze* gets +7r, damage type cold -> glacier
@@ -623,13 +622,12 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 30s cooldown, deals 1d, shatter to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+**Snowstorm** ability: 30s cooldown (battle ready), deals 1d, shatter to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 6s to bloons and 3s to moabs
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  
@@ -645,13 +643,12 @@ gets **Snowstorm** ability
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the top 2 layers are popped
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 30s cooldown, deals 1d, shatter to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+**Snowstorm** ability: 30s cooldown (battle ready), deals 1d, shatter to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 6s to bloons and 3s to moabs
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  
@@ -671,13 +668,12 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the top 2 layers are popped
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 30s cooldown, deals 1d, normal to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+**Snowstorm** ability: 30s cooldown (battle ready), deals 1d, normal to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 6s to bloons and 3s to moabs
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  
@@ -687,7 +683,6 @@ gets **Snowstorm** ability
  
 __Crosspath Benefits__
 *freeze* applies *permafrost*, can pop lead and camo
-**Snowstorm** ability damage type shatter -> normal
 
 041 
 37r
@@ -696,13 +691,12 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 30s cooldown, deals 1d, shatter to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+**Snowstorm** ability: 30s cooldown (battle ready), deals 1d, shatter to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 6s to bloons and 3s to moabs
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  
@@ -720,13 +714,12 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
-*wind*- 50% slow to non-moabs in range, cold
+*wind*- bloons move at 40% speed to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 30s cooldown, deals 1d, shatter to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+**Snowstorm** ability: 30s cooldown (battle ready), deals 1d, shatter to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 6s to bloons and 3s to moabs
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  
@@ -739,29 +732,27 @@ __Crosspath Benefits__
 
 004 
 46r
-*bomb*- 2d, 30p, 1s, glacier, frozen
+*bomb*- 2d, 30p, 1.15s, glacier, frozen
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons grow *icicles* for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, sharp
- ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow or apply *icicles* to them
+ ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from Previous Tier__
-*bomb* gets 83.33%s, can target moabs
 frozen bloons grow *icicles* 
 
 104 
 46r
-*bomb*- 2d, 30p, 1s, glacier
+*bomb*- 2d, 30p, 1.15s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons grow *icicles* for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, sharp
- ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow or apply *icicles* to them
+ ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from Previous Tier__
-*bomb* gets 83.33%s, can target moabs
 frozen bloons grow *icicles* 
  
 __Crosspath Benefits__
@@ -769,17 +760,16 @@ __Crosspath Benefits__
 
 204 
 46r
-*bomb*- 2d, 30p, 1s, glacier, camo
+*bomb*- 2d, 30p, 1.15s, glacier, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons grow *icicles* for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, glacier
- ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow or apply *icicles* to them
+ ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead
  
 __Changes from Previous Tier__
-*bomb* gets 83.33%s, can target moabs
 frozen bloons grow *icicles* 
  
 __Crosspath Benefits__
@@ -788,15 +778,14 @@ __Crosspath Benefits__
 
 014 
 46r
-*bomb*- 2d, 30p, 0.75s, glacier
+*bomb*- 2d, 30p, 0.8625s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.75s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons grow *icicles* for 1.75s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, sharp
- ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow or apply *icicles* to them
+ ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from Previous Tier__
-*bomb* gets 83.33%s, can target moabs
 frozen bloons grow *icicles* 
  
 __Crosspath Benefits__
@@ -805,24 +794,23 @@ __Crosspath Benefits__
 
 024 
 46r
-*bomb*- 2d, 40p, 0.75s, glacier
+*bomb*- 2d, 30p, 0.8625s, glacier
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons grow *icicles* for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, sharp
- ‎ ‎ ‎ ‎ ‎ ‎- can target moabs but cannot slow or apply *icicles* to them
+ ‎ ‎ ‎ ‎ ‎ ‎- cannot target moabs
  
 __Changes from Previous Tier__
-*bomb* gets 83.33%s, can target moabs
 frozen bloons grow *icicles* 
  
 __Crosspath Benefits__
-*bomb* gets 75%s, +10p (40)
+*bomb* gets 75%s
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
 
 500 
 25r
-*freeze*- 1d, 30p, 2.16s, normal, camo
+*freeze*- 1d, 40p, 2.16s, normal, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -831,8 +819,8 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs move at 75% speed
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- does not affect moabs
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  
@@ -842,7 +830,7 @@ de*buff* +1d -> +4d, duration 2s -> 3s
 
 510 
 25r
-*freeze*- 1d, 30p, 1.62s, normal, camo
+*freeze*- 1d, 40p, 1.62s, normal, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.75s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -851,8 +839,8 @@ de*buff* +1d -> +4d, duration 2s -> 3s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs move at 75% speed
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- does not affect moabs
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  
@@ -875,8 +863,8 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs move at 75% speed
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- does not affect moabs
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  
@@ -885,12 +873,12 @@ __Changes from Previous Tier__
 de*buff* +1d -> +4d, duration 2s -> 3s
  
 __Crosspath Benefits__
-*freeze* gets 75%s, +10p (40)
+*freeze* gets 75%s
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
 
 501 
 32r
-*freeze*- 1d, 30p, 2.16s, normal, camo
+*freeze*- 1d, 40p, 2.16s, normal, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -899,8 +887,8 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead statu
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs move at 75% speed
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- does not affect moabs
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  
@@ -913,7 +901,7 @@ __Crosspath Benefits__
 
 502 
 32r
-*freeze*- 1d, 30p, 2.16s, normal, camo
+*freeze*- 1d, 40p, 2.16s, normal, camo
  ‎ ‎ ‎ ‎ ‎ ‎- zone
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
@@ -922,8 +910,8 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- bloons frozen by this tower lose immunties from frozen and lead status
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the layer is popped
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs move at 75% speed
- ‎ ‎ ‎ ‎ ‎ ‎- *frozen* bloons emit *shards* when hit
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *shards*- 2d, 3p, 3j, shatter
+ ‎ ‎ ‎ ‎ ‎ ‎- frozen bloons emit shards when hit
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- shards- 2d, 3p, 3j, shatter
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- does not affect moabs
  ‎ ‎ ‎ ‎ ‎ ‎- removes camo and regrow
  
@@ -941,13 +929,12 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 3 layers
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs cannot be frozen
-*wind*- 60% slow to non-moabs in range, cold
+*wind*- 80% slow to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 20s cooldown, deals 1d, normal to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 10s
+**Snowstorm** ability: 20s cooldown (initial: 10s reduced from existing cooldown), deals 1d, normal to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 10s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  ‎ ‎ ‎ ‎ ‎ ‎- *buff*- 66.66%s to all ices on screen during ability
@@ -955,8 +942,8 @@ __Crosspath Benefits__
 __Changes from Previous Tier__
 *freeze* gets +200p, +10r, can target blimps
 *frozen* status affects top 3 layers 
-*wind* slow 50% -> 60%
-**Snowstorm** ability cooldown 30s -> 20s, 10s duration, damage type shatter -> normal, grants *buff* during duration
+*wind* slow strength 50% -> 60%
+**Snowstorm** ability cooldown 30s -> 20s, 10s duration, grants *buff* during duration
 
 150 
 40r
@@ -967,22 +954,21 @@ __Changes from Previous Tier__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs cannot be frozen
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the top 3 layers are popped
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs move at 75% speed
-*wind*- 60% slow to non-moabs in range, cold
+*wind*- 80% slow to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 20s cooldown, deals 1d, normal to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 10s
+**Snowstorm** ability: 20s cooldown (initial: 10s reduced from existing cooldown), deals 1d, normal to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 10s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  ‎ ‎ ‎ ‎ ‎ ‎- *buff*- 66.66%s to all ices on screen during ability 
  
 __Changes from Previous Tier__
 *freeze* gets +200p, +10r, can target blimps
-*frozen* status affects top 3 layers
-*wind* slow 50% -> 60% 
-**Snowstorm** ability cooldown 30s -> 20s, 10s duration, damage type shatter -> normal, grants *buff* during duration
+*frozen* status affects top 3 layers 
+*wind* slow strength 50% -> 60%
+**Snowstorm** ability cooldown 30s -> 20s, 10s duration, grants *buff* during duration
  
 __Crosspath Benefits__
 *freeze* applies *permafrost*
@@ -997,22 +983,21 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *permafrost* status- bloons move at 50% speed until the top 3 layers are popped
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs move at 75% speed
  ‎ ‎ ‎ ‎ ‎ ‎- can pop lead but not frozen
-*wind*- 60% slow to non-moabs in range, cold
+*wind*- 80% slow to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 20s cooldown, deals 1d, normal to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 10s
+**Snowstorm** ability: 20s cooldown (initial: 10s reduced from existing cooldown), deals 1d, normal to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 10s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  ‎ ‎ ‎ ‎ ‎ ‎- *buff*- 66.66%s to all ices on screen during ability 
  
 __Changes from Previous Tier__
 *freeze* gets +200p, +10r, can target blimps
-*frozen* status affects top 3 layers
-*wind* slow 50% -> 60% 
-**Snowstorm** ability cooldown 30s -> 20s, 10s duration, damage type shatter -> normal, grants *buff* during duration
+*frozen* status affects top 3 layers 
+*wind* slow strength 50% -> 60%
+**Snowstorm** ability cooldown 30s -> 20s, 10s duration, grants *buff* during duration
  
 __Crosspath Benefits__
 *freeze* applies *permafrost*, can pop lead and camo
@@ -1024,22 +1009,21 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 3 layers
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs cannot be frozen
-*wind*- 60% slow to non-moabs in range, cold
+*wind*- 80% slow to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 20s cooldown, deals 1d, normal to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 10s
+**Snowstorm** ability: 20s cooldown (initial: 10s reduced from existing cooldown), deals 1d, normal to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 10s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  ‎ ‎ ‎ ‎ ‎ ‎- *buff*- 66.66%s to all ices on screen during ability 
  
 __Changes from Previous Tier__
 *freeze* gets +200p, +10r, can target blimps
-*frozen* status affects top 3 layers
-*wind* slow 50% -> 60% 
-**Snowstorm** ability cooldown 30s -> 20s, 10s duration, damage type shatter -> normal, grants *buff* during duration
+*frozen* status affects top 3 layers 
+*wind* slow strength 50% -> 60%
+**Snowstorm** ability cooldown 30s -> 20s, 10s duration, grants *buff* during duration
  
 __Crosspath Benefits__
 +7r
@@ -1051,29 +1035,28 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 3 layers
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- moabs cannot be frozen
-*wind*- 60% slow to non-moabs in range, cold
+*wind*- 80% slow to non-moabs in range, cold
  ‎ ‎ ‎ ‎ ‎ ‎- zone, ∞p
  ‎ ‎ ‎ ‎ ‎ ‎- land towers can be placed on water in the ice’s range
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- water freeze radius cannot be buffed externally
  ‎ ‎ ‎ ‎ ‎ ‎- can affect lead
-**Snowstorm** ability: 20s cooldown, deals 1d, normal to all bloons on screen, camo
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 10s
+**Snowstorm** ability: 20s cooldown (initial: 10s reduced from existing cooldown), deals 1d, normal to all bloons on screen, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 10s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
  ‎ ‎ ‎ ‎ ‎ ‎- *buff*- 66.66%s to all ices on screen during ability 
  
 __Changes from Previous Tier__
 *freeze* gets +200p, +10r, can target blimps
-*frozen* status affects top 3 layers
-*wind* slow 50% -> 60% 
-**Snowstorm** ability cooldown 30s -> 20s, 10s duration, damage type shatter -> normal, grants *buff* during duration
+*frozen* status affects top 3 layers 
+*wind* slow strength 50% -> 60%
+**Snowstorm** ability cooldown 30s -> 20s, 10s duration, grants *buff* during duration
  
 __Crosspath Benefits__
 *freeze* gets +7r, damage type cold -> glacier
 
 005 
 46r
-*bomb*- 2d, 50md, 30p, 0.75s, shatter
+*bomb*- 2d, 50md, 30p, 0.8625s, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
@@ -1081,11 +1064,11 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, sharp
  
 __Changes from Previous Tier__
-*bomb* gets +48md, 75%s, damage type glacier -> shatter
+*bomb* gets +48md, 75%s, damage type glacier -> shatter, can target blimps
 
 105 
 46r
-*bomb*- 2d, 50md, 30p, 0.75s, shatter
+*bomb*- 2d, 50md, 30p, 0.8625s, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
@@ -1095,14 +1078,14 @@ __Changes from Previous Tier__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, sharp
  
 __Changes from Previous Tier__
-*bomb* gets +48md, 75%s, damage type glacier -> shatter
+*bomb* gets +48md, 75%s, damage type glacier -> shatter, can target blimps
  
 __Crosspath Benefits__
 *bomb* applies *permafrost*
 
 205 
 46r
-*bomb*- 2d, 50md, 30p, 0.75s, normal, camo
+*bomb*- 2d, 50md, 30p, 0.8625s, normal, camo
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.5s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
@@ -1112,7 +1095,7 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, glacier
  
 __Changes from Previous Tier__
-*bomb* gets +48md, 75%s, damage type glacier -> shatter
+*bomb* gets +48md, 75%s, damage type glacier -> shatter, can target blimps
  
 __Crosspath Benefits__
 *bomb* applies *permafrost*, damage type shatter -> normal, can pop camo
@@ -1120,7 +1103,7 @@ __Crosspath Benefits__
 
 015 
 46r
-*bomb*- 2d, 50md, 30p, 0.5625s, shatter
+*bomb*- 2d, 50md, 30p, 0.421875s, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 1.75s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top layer
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
@@ -1128,7 +1111,7 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, sharp
  
 __Changes from Previous Tier__
-*bomb* gets +48md, 75%s, damage type glacier -> shatter
+*bomb* gets +48md, 75%s, damage type glacier -> shatter, can target blimps
  
 __Crosspath Benefits__
 *bomb* gets 75%s
@@ -1136,7 +1119,7 @@ __Crosspath Benefits__
 
 025 
 46r
-*bomb*- 2d, 50md, 40p, 0.5625s, shatter
+*bomb*- 2d, 50md, 30p, 0.421875s, shatter
  ‎ ‎ ‎ ‎ ‎ ‎- applies *frozen* status for 2.2s
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- only affects top 2 layers
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- zomgs travel at half speed, other moabs travel at standard zomg speed
@@ -1144,8 +1127,8 @@ __Crosspath Benefits__
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- *icicles*- 2d, 3p, sharp
  
 __Changes from Previous Tier__
-*bomb* gets +48md, 75%s, damage type glacier -> shatter
+*bomb* gets +48md, 75%s, damage type glacier -> shatter, can target blimps
  
 __Crosspath Benefits__
-*bomb* gets 75%s, +10p (40)
+*bomb* gets 75%s
 *frozen* status duration 1.5s -> 2.2s, affects top 2 layers
