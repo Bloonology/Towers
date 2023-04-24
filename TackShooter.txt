@@ -49,10 +49,10 @@ __Changes from 0-0-0__
 *tack*- 1d, 1p, 0.63s, 8j, sharp
  
 __Changes from Previous Tier__
-*tack* gets 75%s
+*tack* gets 60%s
  
 __Changes from 0-0-0__
-*tack* gets 56.25%s
+*tack* gets 45%s
 
 020
 31r
@@ -76,31 +76,31 @@ __Changes from 0-0-0__
 
 210
 27r
-*tack*- 1d, 1p, 0.7875s, 8j, sharp
+*tack*- 1d, 1p, 0.63s, 8j, sharp
  
 __Changes from 0-0-0__
-*tack* gets +4r, 56.25%s
+*tack* gets +4r, 45%s
 
 220
 31r
-*tack*- 1d, 2p, 0.7875s, 8j, sharp
+*tack*- 1d, 2p, 0.63s, 8j, sharp
  
 __Changes from 0-0-0__
-*tack* gets +8r, +1p, 56.25%s
+*tack* gets +8r, +1p, 45%s
 
 201
 23r
-*tack*- 1d, 1p, 0.7875s, 10j, sharp
+*tack*- 1d, 1p, 0.63s, 10j, sharp
  
 __Changes from 0-0-0__
-*tack* gets +2j, 56.25%s
+*tack* gets +2j, 45%s
 
 202
 23r
-*tack*- 1d, 1p, 0.7875s, 12j, sharp
+*tack*- 1d, 1p, 0.63s, 12j, sharp
  
 __Changes from 0-0-0__
-*tack* gets +4j, 56.25%s
+*tack* gets +4j, 45%s
 
 120
 31r
@@ -142,14 +142,14 @@ __Changes from 0-0-0__
 *tack*- 2d, 1p, 0.63s, 8j, normal
  
 __Changes from Previous Tier__
-*tack* gets +1d, 80%s, normal type 
+*tack* gets +1d, normal type 
 
 310
 27r
 *tack*- 2d, 1p, 0.63s, 8j, normal
  
 __Changes from Previous Tier__
-*tack* gets +1d, 80%s, normal type
+*tack* gets +1d, normal type
  
 __Crosspath Benefits__
 +4r 
@@ -159,7 +159,7 @@ __Crosspath Benefits__
 *tack*- 2d, 2p, 0.63s, 8j, normal
  
 __Changes from Previous Tier__
-*tack* gets +1d, 80%s, normal type
+*tack* gets +1d, normal type
  
 __Crosspath Benefits__
 *tack* gets +8r, +1p
@@ -169,7 +169,7 @@ __Crosspath Benefits__
 *tack*- 2d, 1p, 0.63s, 10j, normal
  
 __Changes from Previous Tier__
-*tack* gets +1d, 80%s, normal type
+*tack* gets +1d, normal type
  
 __Crosspath Benefits__
 *tack* gets +2j
@@ -179,7 +179,7 @@ __Crosspath Benefits__
 *tack*- 2d, 1p, 0.63s, 12j, normal
  
 __Changes from Previous Tier__
-*tack* gets +1d, 80%s, normal type
+*tack* gets +1d, normal type
  
 __Crosspath Benefits__ 
 *tack* gets +4j
@@ -203,13 +203,13 @@ __Crosspath Benefits__
 
 230
 31r
-*blade*- 1d, 6p, 0.6694s, 8j, sharp
+*blade*- 1d, 6p, 0.5355s, 8j, sharp
  
 __Changes from Previous Tier__
 *tack* replaced with *blade*: 85%s, +4p
  
 __Crosspath Benefits__ 
-*blade* gets 56.25%s
+*blade* gets 45%s
 
 031
 31r
@@ -250,13 +250,13 @@ __Crosspath Benefits__
 
 203
 23r
-*tack*- 1d, 1p, 0.5906s, 16j, sharp
+*tack*- 1d, 1p, 0.4725s, 16j, sharp
  
 __Changes from Previous Tier__
 *tack* gets +4j, 75%s
  
 __Crosspath Benefits__
-*tack* gets 56.25%s
+*tack* gets 45%s
 
 023
 27r
@@ -280,52 +280,52 @@ __Crosspath Benefits__
 
 400
 23r
-*fire-zone*- 5d, 40p, 0.315s, fire
+*fire-zone*- 3d, 60p, 0.5355s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
  
 __Changes from Previous Tier__
-*tack* replaced with *fire-zone*: +3d, +39p, 50%s, damage type normal -> fire
+*tack* replaced with *fire-zone*: +1d, +59p, 85%s, damage type normal -> fire
 
 410
 27r
-*fire-zone*- 5d, 50p, 0.315s, fire
+*fire-zone*- 3d, 70p, 0.5355s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
  
 __Changes from Previous Tier__
-*tack* replaced with *fire-zone*: +3d, +39p, 50%s, damage type normal -> fire
+*tack* replaced with *fire-zone*: +1d, +59p, 85%s, damage type normal -> fire
  
 __Crosspath Benefits__
 *fire-zone* gets +4r, +10p
 
 420
 31r
-*fire-zone*- 5d, 60p, 0.315s, fire
+*fire-zone*- 3d, 80p, 0.5355s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
  
 __Changes from Previous Tier__
-*tack* replaced with *fire-zone*: +3d, +39p, 50%s, damage type normal -> fire
+*tack* replaced with *fire-zone*: +1d, +59p, 85%s, damage type normal -> fire
  
 __Crosspath Benefits__
 *fire-zone* gets +8r, +20p
 
 401
 23r
-*fire-zone*- 6d, 40p, 0.315s, fire
+*fire-zone*- 4d, 60p, 0.5355s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
  
 __Changes from Previous Tier__
-*tack* replaced with *fire-zone*: +3d, +39p, 50%s, damage type normal -> fire
+*tack* replaced with *fire-zone*: +1d, +59p, 85%s, damage type normal -> fire
  
 __Crosspath Benefits__
 *fire-zone* gets +1d
 
 402
 23r
-*fire-zone*- 7d, 40p, 0.315s, fire
+*fire-zone*- 5d, 60p, 0.5355s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
  
 __Changes from Previous Tier__
-*tack* replaced with *fire-zone*: +3d, +39p, 50%s, damage type normal -> fire
+*tack* replaced with *fire-zone*: +1d, +59p, 85%s, damage type normal -> fire
  
 __Crosspath Benefits__
 *fire-zone* gets +2d
@@ -333,8 +333,7 @@ __Crosspath Benefits__
 040
 31r
 *blade*- 1d, 6p, 1.19s, 8j, sharp
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 3s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 6.67s
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 1d, 200p, 0.0333s, 2j, sharp
  
 __Changes from Previous Tier__
@@ -343,8 +342,7 @@ gets **Blade Maelstrom** ability
 140
 31r
 *blade*- 1d, 6p, 0.8925s, 8j, sharp
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 3s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 6.67s
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 1d, 200p, 0.0333s, 2j, sharp
  
 __Changes from Previous Tier__
@@ -355,22 +353,20 @@ __Crosspath Benefits__
 
 240
 31r
-*blade*- 1d, 6p, 0.6694s, 8j, sharp
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 3s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 6.67s
+*blade*- 1d, 6p, 0.5355s, 8j, sharp
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 1d, 200p, 0.0333s, 2j, sharp
  
 __Changes from Previous Tier__
 gets **Blade Maelstrom** ability
  
 __Crosspath Benefits__
-*blade* gets 56.25%s
+*blade* gets 45%s
 
 041
 31r
 *blade*- 1d, 6p, 1.19s, 10j, sharp
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 3s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 6.67s
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 1d, 200p, 0.0333s, 2j, sharp
  
 __Changes from Previous Tier__
@@ -382,8 +378,7 @@ __Crosspath Benefits__
 042
 31r
 *blade*- 1d, 6p, 1.19s, 12j, sharp
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 3s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 6.67s
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 1d, 200p, 0.0333s, 2j, sharp
  
 __Changes from Previous Tier__
@@ -411,13 +406,13 @@ __Crosspath Benefits__
 
 204
 23r
-*tack*- 1d, 2p, 0.1969s, 16j, sharp
+*tack*- 1d, 2p, 0.1575s, 16j, sharp
  
 __Changes from Previous Tier__
 *tack* gets +1p, 33.33%s
  
 __Crosspath Benefits__
-*tack* gets 56.25%s
+*tack* gets 45%s
 
 014
 27r
@@ -441,32 +436,34 @@ __Crosspath Benefits__
 
 500
 34.5r
-*fire-zone*- 8d, +4md (12), 40p, 0.1s, fire
+*fire-zone*- 8d, +4md (12), 60p, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
 *meteor*- 700d, 1p, 4.0s, camo, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎     ‎- creates *explosion* on hit
+‎ ‎ ‎ ‎ ‎ ‎ - always targets elite
+‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* on hit
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50d, 10p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot pop more than one layer
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4.1s duration
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4s duration
  
 __Changes from Previous Tier__
-*fire-zone* gets +11.5r, +3d, +4md, 31.75%s
+*fire-zone* gets +11.5r, +5d, +4md, 18.67%s
 gets *meteor* at*tack*
 
 510
 38.5r
-*fire-zone*- 8d, +4md (12), 50p, 0.1s, fire
+*fire-zone*- 8d, +4md (12), 70p, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
 *meteor*- 700d, 1p, 4.0s, camo, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
+‎ ‎ ‎ ‎ ‎ ‎ - always targets elite
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* on hit
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50d, 10p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot pop more than one layer
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4.1s duration
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4s duration
  
 __Changes from Previous Tier__
-*fire-zone* gets +11.5r, +3d, +4md, 31.75%s
+*fire-zone* gets +11.5r, +5d, +4md, 18.67%s
 gets *meteor* at*tack*
  
 __Crosspath Benefits__
@@ -474,17 +471,18 @@ __Crosspath Benefits__
 
 520
 42.5r
-*fire-zone*- 8d, +4md (12), 60p, 0.1s, fire
+*fire-zone*- 8d, +4md (12), 80p, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
 *meteor*- 700d, 2p, 4.0s, camo, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ ‎- creates *explosion* on hit
+‎ ‎ ‎ ‎ ‎ ‎ - always targets elite
+‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* on hit
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50d, 10p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot pop more than one layer
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4.1s duration
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4s duration
  
 __Changes from Previous Tier__
-*fire-zone* gets +11.5r, +3d, +4md, 31.75%s
+*fire-zone* gets +11.5r, +5d, +4md, 18.67%s
 gets *meteor* at*tack*
  
 __Crosspath Benefits__
@@ -493,17 +491,18 @@ __Crosspath Benefits__
 
 501
 34.5r
-*fire-zone*- 9d, +4md (13), 40p, 0.1s, fire
+*fire-zone*- 9d, +4md (13), 60p, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
 *meteor*- 700d, 1p, 4.0s, camo, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* on hit
+‎ ‎ ‎ ‎ ‎ ‎ - always targets elite
+‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* on hit
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50d, 10p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot pop more than one layer
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4.1s duration
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4s duration
  
 __Changes from Previous Tier__
-*fire-zone* gets +11.5r, +3d, +4md, 31.75%s
+*fire-zone* gets +11.5r, +5d, +4md, 18.67%s
 gets *meteor* at*tack*
  
 __Crosspath Benefits__
@@ -515,13 +514,14 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - zone
 *meteor*- 1000d, 1p, 4.0s, camo, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
+‎ ‎ ‎ ‎ ‎ ‎ - always targets elite
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* on hit
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50d, 10p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot pop more than one layer
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4.1s duration
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 50d/1.0s, fire, 4s duration
  
 __Changes from Previous Tier__
-*fire-zone* gets +11.5r, +3d, +4md, 31.75%s
+*fire-zone* gets +11.5r, +5d, +4md, 18.67%s
 gets *meteor* at*tack*
  
 __Crosspath Benefits__
@@ -531,8 +531,7 @@ __Crosspath Benefits__
 050
 31r
 *blade*- 2d, 6p, 1.19s, 8j, normal
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 9s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 9s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 2d, 500p, 0.0333s, 4j, normal
  
 __Changes from Previous Tier__ 
@@ -543,8 +542,7 @@ __Changes from Previous Tier__
 150
 31r
 *blade*- 2d, 6p, 0.8925s, 8j, normal
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 9s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 9s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 2d, 500p, 0.0333s, 4j, normal
  
 __Changes from Previous Tier__ 
@@ -553,13 +551,12 @@ __Changes from Previous Tier__
 *super-blade* gets +300p, +2j
  
 __Crosspath Benefits__
-*blade* gets 75%s	
+*blade* gets 75%s   
 
 250
 31r
-*blade*- 2d, 6p, 0.6694s, 8j, normal
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 9s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+*blade*- 2d, 6p, 0.5355s, 8j, normal
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 9s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 2d, 500p, 0.0333s, 4j, normal
  
 __Changes from Previous Tier__ 
@@ -568,13 +565,12 @@ __Changes from Previous Tier__
 *super-blade* gets +300p, +2j
  
 __Crosspath Benefits__ 
-*blade* gets 56.25%s
+*blade* gets 45%s
 
 051
 31r
 *blade*- 2d, 6p, 1.19s, 10j, normal
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 9s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 9s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 2d, 500p, 0.0333s, 4j, normal
  
 __Changes from Previous Tier__ 
@@ -588,8 +584,7 @@ __Crosspath Benefits__
 052
 31r
 *blade*- 2d, 6p, 1.19s, 12j, normal
-**Blade Maelstrom** ability: 20s cooldown, emits *super-blades* for 9s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+**Blade Maelstrom** ability: 20s cooldown (battle ready), emits *super-blades* for 9s
 ‎ ‎ ‎ ‎ ‎ ‎ - *super-blade*- 2d, 500p, 0.0333s, 4j, normal
  
 __Changes from Previous Tier__ 
@@ -602,47 +597,47 @@ __Crosspath Benefits__
 
 005
 30r
-*tack*- 1d, +1md (2), 4p, 0.2625s, 32j, sharp
+*tack*- 2d, 4p, 0.2625s, 32j, sharp
  
 __Changes from Previous Tier__
-*tack* gets +7r, +1md, +2p, 75%s, +16j
+*tack* gets +7r, +1d, +2p, 75%s, +16j
 
 105
 30r
-*tack*- 1d, +1md (2), 4p, 0.1969s, 32j, sharp
+*tack*- 2d, 4p, 0.1969s, 32j, sharp
  
 __Changes from Previous Tier__
-*tack* gets +7r, +1md, +2p, 75%s, +16j
+*tack* gets +7r, +1d, +2p, 75%s, +16j
  
 __Crosspath Benefits__
 *tack* gets 75%s
 
 205
 30r
-*tack*- 1d, +1md (2), 4p, 0.1477s, 32j, sharp
+*tack*- 2d, 4p, 0.1181s, 32j, sharp
  
 __Changes from Previous Tier__
-*tack* gets +7r, +1md, +2p, 75%s, +16j
+*tack* gets +7r, +1d, +2p, 75%s, +16j
  
 __Crosspath Benefits__
-*tack* gets 56.25%s
+*tack* gets 45%s
 
 015
 34r
-*tack*- 1d, +1md (2), 4p, 0.2625s, 32j, sharp
+*tack*- 2d, 4p, 0.2625s, 32j, sharp
  
 __Changes from Previous Tier__
-*tack* gets +7r, +1md, +2p, 75%s, +16j
+*tack* gets +7r, +1d, +2p, 75%s, +16j
  
 __Crosspath Benefits__
 *tack* gets +4r 
 
 025
 50r
-*tack*- 1d, +1md (2), 10p, 0.2625s, 32j, sharp
+*tack*- 2d, 10p, 0.2625s, 32j, sharp
  
 __Changes from Previous Tier__
-*tack* gets +7r, +1md, +2p, 75%s, +16j
+*tack* gets +7r, +1d, +2p, 75%s, +16j
  
 __Crosspath Benefits__
 *tack* gets +20r, +6p
