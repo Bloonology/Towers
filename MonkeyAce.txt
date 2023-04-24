@@ -1,0 +1,1025 @@
+000
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.68s, 8j, sharp
+ 
+footprint dimensions: 28 [x axis] x 18 [y axis] (XL)
+
+100
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 8j, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 75%s
+
+010
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.68s, 8j, sharp
+*pineapple*- 1d, 20p, 2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from 0-0-0__
+gets *pineapple* attack
+
+001
+∞r
+ ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.68s, 8j, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +3p
+
+110
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 8j, sharp
+*pineapple*- 1d, 20p, 1.2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from 0-0-0__
+*dart* gets 75%s
+gets *pineapple* attack
+
+101
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.26, 8j, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 75%s, +3p
+
+011
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.68s, 8j, sharp
+*pineapple*- 1d, 32p, 2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from 0-0-0__
+*dart* gets +3p
+gets *pineapple* attack
+
+200
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 12j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets +4j
+ 
+__Changes from 0-0-0__
+*dart* gets 75%s, +4j
+
+020
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*pineapple*- 1d, 20p, 2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+ 
+__Changes from Previous Tier__
+all attacks get camo, +2d to camo bloons
+ 
+__Changes from 0-0-0__
+all attacks get camo, +2d to camo bloons
+gets *pineapple* attack
+
+002
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.68s, 8j, sharp
+ 
+__Changes from Previous Tier__
+gets centered path flight path
+ 
+__Changes from 0-0-0__
+*dart* gets +3p
+gets centered path flight path
+
+210
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 12j, sharp
+*pineapple*- 1d, 20p, 1.2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from 0-0-0__
+*dart* gets 75%s, +4j
+gets *pineapple* attack
+
+220
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 12j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*pineapple*- 1d, 20p, 1.2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+ 
+__Changes from 0-0-0__
+all attacks get camo, +2d to camo bloons
+*dart* gets 75%s, +4j
+gets *pineapple* attack
+
+201
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.26s, 12j, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 75%s, +4j, +3p
+
+202
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.26s, 12j, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 75%s, +4j, +3p
+gets centered path flight path
+
+120
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*pineapple*- 1d, 20p, 1.2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+ 
+__Changes from 0-0-0__
+all attacks get camo, +2d to camo bloons
+*dart* gets 75%s
+gets *pineapple* attack
+
+021
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+*pineapple*- 1d, 32p, 2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from 0-0-0__
+all attacks get camo
+*dart* gets +3p
+*pineapple* gets +12p
+
+022
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+*pineapple*- 1d, 32p, 2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from 0-0-0__
+all attacks get camo
+*dart* gets +3p
+*pineapple* gets +12p
+gets centered path flight path
+
+102
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 5p, 1.26s, 8j, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 75%s, +3p
+
+012
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 5p, 1.68s, 8j, sharp
+*pineapple*- 1d, 32p, 2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from 0-0-0__
+*dart* gets +3p
+gets *pineapple* attack
+gets centered path flight path
+
+300
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 12j, sharp
+*missile*- 0d, 18md, 4p, 4.0s, 2j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+gets *missile* attack
+flies faster
+
+310
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 12j, sharp
+*pineapple*- 1d, 20p, 1.2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+*missile*- 0d, 18md, 6p, 4.0s, 2j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+gets *missile* attack
+flies faster
+ 
+__Crosspath Benefits__
+gets *pineapple* attack
+*missile* gets +2p
+
+320
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 12j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*pineapple*- 1d, 20p, 1.2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*missile*- 0d, 18md, 6p, 4.0s, 2j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+gets *missile* attack
+flies faster
+ 
+__Crosspath Benefits__
+all attacks get camo, +2d to camo bloons
+gets *pineapple* attack
+*missile* gets +2p
+
+301
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.26s, 12j, sharp
+*missile*- 0d, 18md, 4p, 4.0s, 2j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+gets *missile* attack
+flies faster
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+
+302
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.26s, 12j, sharp
+*missile*- 0d, 18md, 4p, 4.0s, 2j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+gets *missile* attack
+flies faster
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+gets centered path flight path
+
+030
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 3d, 20p, 1.7s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (5)
+ 
+__Changes from Previous Tier__
+gets *bombing* attack
+
+130
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 3d, 20p, 1.02s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (5)
+ 
+__Changes from Previous Tier__
+gets *bombing* attack
+ 
+__Crosspath Benefits__
+*dart* gets 75%s
+*bombing* gets 60%s
+
+230
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 12j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 3d, 20p, 1.02s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (5)
+ 
+__Changes from Previous Tier__
+gets *bombing* attack
+ 
+__Crosspath Benefits__
+*dart* gets +4j, 75%s
+*bombing* gets 60%s
+
+031
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 3d, 32p, 1.7s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (5)
+ 
+__Changes from Previous Tier__
+gets *bombing* attack
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+*bombing* gets +12p
+
+032
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 3d, 32p, 1.7s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (5)
+ 
+__Changes from Previous Tier__
+gets *bombing* attack
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+*bombing* gets +12p
+gets centered path flight path
+
+003
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.68s, 8j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets homing
+
+103
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.26s, 8j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets homing
+ 
+__Crosspath Benefits__
+*dart* gets 75%s
+
+203
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.26s, 12j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets homing
+ 
+__Crosspath Benefits__
+*dart* gets 75%s, +4j
+
+013
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.68s, 8j, sharp
+*pineapple*- 1d, 32p, 2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from Previous Tier__
+*dart* gets homing
+ 
+__Crosspath Benefits__
+gets *pineapple* attack
+
+023
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*pineapple*- 1d, 32p, 2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+ 
+__Changes from Previous Tier__
+*dart* gets homing
+ 
+__Crosspath Benefits__
+all attacks get camo, +2d to camo bloons
+gets *pineapple* attack
+
+400
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 0.63s, 16j, sharp
+*missile*- 0d, 24md, 4p, 2.0s, 2j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__ 
+*dart* gets 50%s, +4j
+*missile* gets +6md, 50%s
+
+410
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 0.63s, 16j, sharp
+*pineapple*- 1d, 20p, 1.2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+*missile*- 0d, 24md, 6p, 2.0s, 2j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s, +4j
+*missile* gets 50%s
+ 
+__Crosspath Benefits__
+gets *pineapple* attack
+*missile* gets +2p
+
+420
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 0.63s, 16j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*pineapple*- 1d, 20p, 1.2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*missile*- 0d, 24md, 6p, 2.0s, 2j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s, +4j
+*missile* gets +6md, 50%s 
+ 
+__Crosspath Benefits__
+all attacks get camo, +2d to camo bloons
+gets *pineapple* attack
+*missile* gets +2p 
+
+401
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 0.63s, 16j, sharp
+*missile*- 0d, 24md, 4p, 2.0s, 2j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s, +4j
+*missile* gets +6md, 50%s 
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+
+402
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 0.63s, 16j, sharp
+*missile*- 0d, 24md, 4p, 2.0s, 2j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s, +4j
+*missile* gets +6md, 50%s 
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+gets centered path flight path
+
+040
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 40p, 1.7s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 45s cooldown, drops a *bomb* that does 700d, 1000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* gets +7d, +20p
+gets **Ground Zero** ability
+
+140
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 40p, 1.02s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 45s cooldown, drops a *bomb* that does 700d, 1000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* gets +7d, +20p
+gets **Ground Zero** ability
+ 
+__Crosspath Benefits__
+*dart* gets 75%s
+*bombing* gets 60%s
+
+240
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 12j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 40p, 1.02s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 45s cooldown, drops a *bomb* that does 700d, 1000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* gets +7d, +20p
+gets **Ground Zero** ability
+ 
+__Crosspath Benefits__
+*dart* gets +4j, 75%s
+*bombing* gets 60%s
+
+041
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 52p, 1.7s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 45s cooldown, drops a *bomb* that does 700d, 1000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* gets +7d, +20p
+gets **Ground Zero** ability
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+*bombing* gets +12p
+
+042
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 52p, 1.7s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 45s cooldown, drops a *bomb* that does 700d, 1000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* gets +7d, +20p
+gets **Ground Zero** ability
+ 
+__Crosspath Benefits__
+gets centered path flight path
+*dart* gets +3p
+*bombing* gets +12p
+
+004
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.06s, alternates between *dart* and *bomb* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, +2cd (5), 15p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, +4cd (6), 30p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *dart* and *bomb* have weak homing
+‎ ‎ ‎ ‎ ‎ ‎ - (this effectively gives *dart* and *bomb* 0.12s each)
+ 
+__Changes from Previous Tier__
+*dart* replaced with *barrage*
+
+104
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.045s, alternates between *dart* and *bomb* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, +2cd (5), 15p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, +4cd (6), 30p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *dart* and *bomb* have weak homing
+‎ ‎ ‎ ‎ ‎ ‎ - (this effectively gives *dart* and *bomb* 0.09s each)
+ 
+__Changes from Previous Tier__
+*dart* replaced with *barrage*
+ 
+__Crosspath Benefits__
+*barrage* gets 75%s
+
+204
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.045s, alternates between *dart* and *bomb* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, +2cd (5), 18.75p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, +4cd (6), 30p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *dart* and *bomb* have weak homing
+‎ ‎ ‎ ‎ ‎ ‎ - (this effectively gives *dart* and *bomb* 0.09s each)
+ 
+__Changes from Previous Tier__
+*dart* replaced with *barrage*
+ 
+__Crosspath Benefits__
+*barrage* gets 75%s
+*dart* gets +25%p 
+
+014
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.06s, alternates between *dart* and *bomb* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, +2cd (5), 15p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, +4cd (6), 45p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *dart* and *bomb* have weak homing
+‎ ‎ ‎ ‎ ‎ ‎ - (this effectively gives *dart* and *bomb* 0.12s each)
+*pineapple*- 1d, 32p, 2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from Previous Tier__
+*dart* replaced with *barrage*
+ 
+__Crosspath Benefits__
+gets *pineapple* attack
+*bomb* gets +15p
+
+024
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.06s, alternates between *dart* and *bomb* attacks, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 2d, +2cd (4), 15p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 3d, +2cd (5), 45p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *dart* and *bomb* have weak homing
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
+‎ ‎ ‎ ‎ ‎ ‎ - (this effectively gives *dart* and *bomb* 0.12s each)
+*pineapple*- 1d, 32p, 2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from Previous Tier__
+*dart* replaced with *barrage*
+ 
+__Crosspath Benefits__
+all attacks get camo, +2d to camo bloons
+gets *pineapple* attack
+*bomb* gets +15p
+
+500
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 3d, 5cd, 8p, 0.315s, 32j, normal
+*missile*- 0d, 150md, 5p, 2.0s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets +2d, +2cd, +3p, 50%s, +16j, damage type sharp -> normal, increased projectile speed
+*missile* gets +126md, +1p, damage type explosive -> normal
+
+510
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 3d, 5cd, 8p, 0.315s, 32j, normal
+*pineapple*- 1d, 20p, 1.2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+*missile*- 0d, 150md, 7p, 2.0s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets +2d, +2cd, +3p, 50%s, +16j, damage type sharp -> normal, increased projectile speed
+*missile* gets +126md, +1p, damage type explosive -> normal
+ 
+__Crosspath Benefits__
+gets *pineapple* attack
+*missile* gets +2p
+
+520
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 3d, +2cd (5), 8p, 0.315s, 32j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (5)
+*pineapple*- 1d, 20p, 1.2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+*missile*- 0d, 150md, 7p, 2.0s, 2j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets +2d, +2cd, +3p, 50%s, +16j, damage type sharp -> normal, increased projectile speed
+*missile* gets +126md, +1p, damage type explosive -> normal
+ 
+__Crosspath Benefits__
+gets *pineapple* attack
+all attacks get camo, +2d to camo bloons
+*missile* gets +2p
+
+501
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 3d, 5cd, 11p, 0.315s, 32j, normal
+*missile*- 0d, 150md, 5p, 2.0s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets +2d, +2cd, +3p, 50%s, +16j, damage type sharp -> normal, increased projectile speed
+*missile* gets +126md, +1p, damage type explosive -> normal
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+
+502
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 3d, 5cd, 11p, 0.315s, 32j, normal
+*missile*- 0d, 150md, 5p, 2.0s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+ 
+__Changes from Previous Tier__
+*dart* gets +2d, +2cd, +3p, 50%s, +16j, damage type sharp -> normal, increased projectile speed
+*missile* gets +126md, +1p, damage type explosive -> normal
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+gets centered path flight path
+
+050
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 40p, 1.7s, 4j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 35s cooldown, drops a *bomb* that does 3000d, 5000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - if a layer is not popped, it is stunned for 8.2s  
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* damage type explosive -> normal
+**Ground Zero** ability gets +2300d, +4000p, applies stun, cooldown 45s -> 35s
+
+150
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 40p, 1.02s, 4j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 35s cooldown, drops a *bomb* that does 3000d, 5000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - if a layer is not popped, it is stunned for 8.2s  
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* damage type explosive -> normal
+**Ground Zero** ability gets +2300d, +4000p, applies stun, cooldown 45s -> 35s
+ 
+__Crosspath Benefits__
+*dart* gets 75%s
+*bombing* gets 60%s
+
+250
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 5p, 1.26s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 40p, 1.02s, 4j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 35s cooldown, drops a *bomb* that does 3000d, 5000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - if a layer is not popped, it is stunned for 8.2s  
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* damage type explosive -> normal
+**Ground Zero** ability gets +2300d, +4000p, applies stun, cooldown 45s -> 35s
+ 
+__Crosspath Benefits__
+*dart* gets +4j, 75%s
+*bombing* gets 60%s
+
+051
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 52p, 1.7s, 4j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 35s cooldown, drops a *bomb* that does 3000d, 5000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - if a layer is not popped, it is stunned for 8.2s  
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* damage type explosive -> normal
+**Ground Zero** ability gets +2300d, +4000p, applies stun, cooldown 45s -> 35s
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+*bombing* gets +12p
+
+052
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*dart*- 1d, 8p, 1.68s, 8j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (3)
+*bombing*- 10d, 52p, 1.7s, 4j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can only attack over a path
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (12)
+**Ground Zero** ability: 35s cooldown, drops a *bomb* that does 3000d, 5000p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - if a layer is not popped, it is stunned for 8.2s  
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*bombing* damage type explosive -> normal
+**Ground Zero** ability gets +2300d, +4000p, applies stun, cooldown 45s -> 35s
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+*bombing* gets +12p
+gets centered path flight path
+
+005
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.04s, 3j, alternates between *dart* and *bomb* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 4d, +2cd (6), +10md (14), 15p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 5d, 7cd, 30p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - targets first, last, and close
+ 
+__Changes from Previous Tier__
+*barrage* gets +2j, 66.66%s
+*dart* gets +2d, +10md (14), damage type sharp -> normal
+*bomb* gets +2d, damage type explosive -> normal
+
+105
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.03s, 3j, alternates between *dart* and *bomb* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 4d, +2cd (6), +10md (14), 15p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 5d, 7cd, 30p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - targets first, last, and close
+ 
+__Changes from Previous Tier__
+*barrage* gets +2j, 66.66%s
+*dart* gets +2d, +10md (14), damage type sharp -> normal
+*bomb* gets +2d, damage type explosive -> normal
+ 
+__Crosspath Benefits__
+*barrage* gets 75%s
+
+205
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.03s, 3j, alternates between *dart* and *bomb* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 4d, +2cd (6), +10md (14), 18.75, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 5d, 7cd, 30p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - targets first, last, and close
+ 
+__Changes from Previous Tier__
+*barrage* gets +2j, 66.66%s
+*dart* gets +2d, +10md (14), damage type sharp -> normal
+*bomb* gets +2d, damage type explosive -> normal
+ 
+__Crosspath Benefits__
+*barrage* gets 75%s
+*dart* gets +25%p
+
+015
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.04s, 3j, alternates between *dart* and *bomb* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 4d, +2cd (6), +10md (14), 15p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 5d, 7cd, 45p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - targets first, last, and close
+*pineapple*- 1d, 32p, 2s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from Previous Tier__
+*barrage* gets +2j, 66.66%s
+*dart* gets +2d, +10md (14), damage type sharp -> normal
+*bomb* gets +2d, damage type explosive -> normal
+ 
+__Crosspath Benefits__
+gets *pineapple* attack
+*bomb* gets +15p
+
+025
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
+circle has a radius of 80, figure 8 / ∞ have radii of 40, centered path has radius of 90
+‎ ‎ ‎ ‎ ‎ ‎ - centered path center is movable
+*barrage*- 0.04s, 3j, alternates between *dart* and *bomb* attacks, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 4d, +2cd (6), +10md (14), 15p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 5d, 7cd, 45p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
+‎ ‎ ‎ ‎ ‎ ‎ - targets first, last, and close
+‎ ‎ ‎ ‎ ‎ ‎ - (effectively gives *dart* and *bomb* 0.08s each)
+*pineapple*- 1d, 32p, 2s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - takes 3s to explode
+ 
+__Changes from Previous Tier__
+*barrage* gets +2j, 66.66%s
+*dart* gets +2d, +10md (14), damage type sharp -> normal
+*bomb* gets +2d, damage type explosive -> normal
+ 
+__Crosspath Benefits__
+all attacks get camo, +2d to camo bloons
+gets *pineapple* attack
+*bomb* gets +15p
