@@ -71,9 +71,6 @@ __Changes from 0-0-0__
 *bomb*- 1d, 14p. 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 1d, 1p, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from Previous Tier__
 +2r, *bomb* emits *frags*, damage type explosive -> normal
@@ -107,9 +104,6 @@ __Changes from 0-0-0__
 *bomb*- 2d, 30p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 1d, 1p, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from 0-0-0__
 *bomb* gets +16p, +1d, +9r, larger blast radius, emits *frags*, damage type explosive -> normal
@@ -133,9 +127,6 @@ __Changes from 0-0-0__
 *bomb*- 1d, 14p, 0.825s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 1d, 1p, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from 0-0-0__
 *bomb* gets 55%s, +13r, faster projectile speed, emits *frags*, damage type explosive -> normal
@@ -145,9 +136,6 @@ __Changes from 0-0-0__
 *bomb*- 1d, 20p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 1d, 1p, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from 0-0-0__
 *bomb* gets +6p, +9r, larger blast radius, emits *frags*, damage type explosive -> normal
@@ -157,114 +145,107 @@ __Changes from 0-0-0__
 *bomb*- 1d, 14p, 1.125s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 1d, 1p, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from 0-0-0__
 *bomb* gets 75%s, +9r, emits *frags*, damage type explosive -> normal
 
 300
 40r
-*bomb*- 3d, 60p, 1.5s, explosive
+*bomb*- 3d, 50p, 1.5s, explosive
  
 __Changes from Previous Tier__ 
-*bomb* gets +1d, +30p, larger blast radius
+*bomb* gets +1d, +20p, larger blast radius
 
 310
 40r
-*bomb*- 3d, 60p, 1.255s, explosive
+*bomb*- 3d, 50p, 1.255s, explosive
  
 __Changes from Previous Tier__ 
-*bomb* gets +1d, +30p, larger blast radius
+*bomb* gets +1d, +20p, larger blast radius
  
 __Crosspath Benefits__
 75%s
 
 320
 44r
-*bomb*- 3d, 60p, 0.825s, explosive
+*bomb*- 3d, 50p, 0.825s, explosive
  
 __Changes from Previous Tier__ 
-*bomb* gets +1d, +30p, larger blast radius
+*bomb* gets +1d, +20p, larger blast radius
  
 __Crosspath Benefits__
 +4r, 55%s, faster projectile speed
 
 301
 47r
-*bomb*- 3d, 60p, 1.5s, explosive
+*bomb*- 3d, 50p, 1.5s, explosive
  
 __Changes from Previous Tier__ 
-*bomb* gets +1d, +30p, larger blast radius
+*bomb* gets +1d, +20p, larger blast radius
  
 __Crosspath Benefits__
 +7r
 
 302
 49r
-*bomb*- 3d, 60p, 1.5s, normal
+*bomb*- 3d, 50p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 3d, 2p, 12j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from Previous Tier__ 
-*bomb* gets +1d (3), +30p (60), larger blast radius
-*frags* get +2d (3), +1p (2), +4j (12)
+*bomb* gets +1d, +20p, larger blast radius
+*frag* gets +2d, +1p, +4j
  
 __Crosspath Benefits__
-*bomb* gets +9r, emits *frags*, damage type explosive -> normal
+*bomb* gets +9r
+damage type explosive -> normal
+gains *frag*s
 
 030
 49r
-*bomb*- 1d, +15md (16), 14p, 0.825s, explosive
+*bomb*- 1d, 19md, 14p, 0.825s, explosive
  
 __Changes from Previous Tier__
-*bomb* gets +15md, +5r
+*bomb* gets +18md, +5r
 
 130
 49r
-*bomb*- 1d, +15md (16), 20p, 0.825s, explosive
+*bomb*- 1d, 19md, 20p, 0.825s, explosive
  
 __Changes from Previous Tier__
-*bomb* gets +15md, +5r
+*bomb* gets +18md, +5r
  
 __Crosspath Benefits__
 +6p, larger explosion radius
 
 230
 49r
-*bomb*- 2d, +15md (17), 30p, 0.825s, explosive
+*bomb*- 2d, 20md, 30p, 0.825s, explosive
  
 __Changes from Previous Tier__
-*bomb* gets +15md, +5r
+*bomb* gets +18md, +5r
  
 __Crosspath Benefits__
 +16p, +1d, larger explosion radius
 
 031
 56r
-*bomb*- 1d, +15md (16), 14p, 0.825s, explosive
+*bomb*- 1d, 19md, 14p, 0.825s, explosive
  
 __Changes from Previous Tier__
-*bomb* gets +15md, +5r
+*bomb* gets +18md, +5r
  
 __Crosspath Benefits__
 +7r
 
 032
 58r
-*bomb*- 1d, +15md (16), 14p, 0.825s, normal
+*bomb*- 1d, 19md, 14p, 0.825s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 1d, 1p, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from Previous Tier__
-*bomb* gets +15md, +5r
+*bomb* gets +18md, +5r
  
 __Crosspath Benefits__
 +9r, emits *frags*, damage type explosive -> normal
@@ -273,7 +254,7 @@ __Crosspath Benefits__
 49r
 *bomb*- 1d, 14p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 8p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 10p, 8j, normal
  
 __Changes from Previous Tier__
 *bomb* emits *cluster* instead of *frags*
@@ -282,8 +263,8 @@ __Changes from Previous Tier__
 49r
 *bomb*- 1d, 20p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 12p, 8j, normal
- 
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 16p, 8j, normal
+
 __Changes from Previous Tier__
 *bomb* emits *cluster* instead of *frags*
  
@@ -294,8 +275,8 @@ __Crosspath Benefits__
 49r
 *bomb*- 2d, 30p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 2d, 24p, 8j, normal
- 
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 2d, 26p, 8j, normal
+
 __Changes from Previous Tier__
 *bomb* emits *cluster* instead of *frags*
  
@@ -306,29 +287,29 @@ __Crosspath Benefits__
 49r
 *bomb*- 1d, 14p, 1.25s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 8p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 10p, 8j, normal
  
 __Changes from Previous Tier__
 *bomb* emits *cluster* instead of *frags*
  
 __Crosspath Benefits__ 
-*bomb* gets 75%s
+75%s
 
 023
 53r
 *bomb*- 1d, 14p, 0.825s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 8p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 10p, 8j, normal
  
 __Changes from Previous Tier__
 *bomb* emits *cluster* instead of *frags*
  
 __Crosspath Benefits__
-*bomb* gets +4r, 55%s, faster projectile speed
++4r, 55%s, faster projectile speed
 
 400
 43r
-*bomb*- 3d, 60p, 1.5s, explosive
+*bomb*- 3d, 50p, 1.5s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s on normal
  
 __Changes from Previous Tier__
@@ -336,7 +317,7 @@ __Changes from Previous Tier__
 
 410
 43r
-*bomb*- 3d, 60p, 1.125s, explosive
+*bomb*- 3d, 50p, 1.125s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s on explosive
  
 __Changes from Previous Tier__
@@ -347,7 +328,7 @@ __Crosspath Benefits__
 
 420
 47r
-*bomb*- 3d, 60p, 0.825s, explosive
+*bomb*- 3d, 50p, 0.825s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s on explosive
  
 __Changes from Previous Tier__
@@ -358,7 +339,7 @@ __Crosspath Benefits__
 
 401
 50r
-*bomb*- 3d, 60p, 1.5s, explosive
+*bomb*- 3d, 28p, 1.5s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s on explosive
  
 __Changes from Previous Tier__
@@ -369,45 +350,41 @@ __Crosspath Benefits__
 
 402
 52r
-*bomb*- 3d, 60p, 1.5s, normal
+*bomb*- 3d, 50p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s on normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 3d, 3p, 16j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from Previous Tier__
 +3r, *bomb* now stuns bloons for 1s
-*frags* get +1p (3), +4j (16)
+*frag* gets +1p, +4j
  
 __Crosspath Benefits__
-*bomb* gets +9r, emits *frags*, damage type explosive -> normal
+*bomb* gets +9r
+damage type explosive -> normal
+gains *frag*s
 
 040
 54r
-*bomb*- 1d, +4cd (5), +30md (31), 14p, 0.825s, explosive
-**Assassinate** ability: 30s cooldown, 750d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+*bomb*- 1d, +3cd (4), +30md (31), 14p, 0.825s, explosive
+**Assassinate** ability: 30s cooldown (battle ready), 750d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-*bomb* gets +4cd (5), +15md (31), +5r (54)
+*bomb* gets +3cd, +12md, +5r
 gets **Assassinate** ability 
+
 
 140
 54r
-*bomb*- 1d, +4cd (5), +30md (31), 20p, 0.825s, explosive
-**Assassinate** ability: 30s cooldown, 750d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+*bomb*- 1d, 4cd, 31md, 20p, 0.825s, explosive
+**Assassinate** ability: 30s cooldown (battle ready), 750d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-*bomb* gets +4cd (5), +15md (31), +5r (54)
+*bomb* gets +4cd, +12md, +5r
 gets **Assassinate** ability 
  
 __Crosspath Benefits__
@@ -415,15 +392,13 @@ __Crosspath Benefits__
 
 240
 54r
-*bomb*- 2d, +4cd (6), +30md (32), 30p, 0.825s, explosive
-**Assassinate** ability: 30s cooldown, 750d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+*bomb*- 2d, 5cd, 32md, 30p, 0.825s, explosive
+**Assassinate** ability: 30s cooldown (battle ready), 750d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-*bomb* gets +4cd (6), +15md (31), +5r (54)
+*bomb* gets +4cd, +12md, +5r
 gets **Assassinate** ability 
  
 __Crosspath Benefits__
@@ -431,15 +406,13 @@ __Crosspath Benefits__
 
 041
 61r
-*bomb*- 1d, +4cd (5), +30md (31), 14p, 0.825s, explosive
-**Assassinate** ability: 30s cooldown, 750d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+*bomb*- 1d, 4cd, 31md, 14p, 0.825s, explosive
+**Assassinate** ability: 30s cooldown (battle ready), 750d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-*bomb* gets +4cd (5), +15md (31), +5r (54)
+*bomb* gets +4cd, +12md, +5r
 gets **Assassinate** ability 
  
 __Crosspath Benefits__
@@ -447,20 +420,15 @@ __Crosspath Benefits__
 
 042
 63r
-*bomb*- 1d, +4cd (5), +30md (31), 14p, 0.825s, normal
+*bomb*- 1d, 4cd, 31md, 14p, 0.825s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 1d, 1p, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
-**Assassinate** ability: 30s cooldown, 750d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+**Assassinate** ability: 30s cooldown (battle ready), 750d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
  
 __Changes from Previous Tier__
-*bomb* gets +4cd (5), +15md (31), +5r (54)
+*bomb* gets +4cd, +12md, +5r
 gets **Assassinate** ability 
  
 __Crosspath Benefits__
@@ -468,58 +436,56 @@ __Crosspath Benefits__
 
 004
 49r
-*bomb*- 1d, +1fd (2), 14p, 1.5s, normal
+*bomb*- 1d, 14p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, +1fd (2), 8p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 10p, 8j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - every other shot emits *subcluster*
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 1d, +1fd (2), 24p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 1d, 60p, 8j, normal
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +1fd (2)
 also emits *subcluster* every other shot
 
 104
 49r
-*bomb*- 1d, +1fd (2), 20p, 1.5s, normal
+*bomb*- 1d, 20p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, +1fd (2), 14p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 16p, 8j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - every other shot also emits *subcluster*
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 1d, +1fd (2), 42p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 1d, 120p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster* trigger reduces main attack to 14p
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +1fd (2)
 also emits *subcluster* every other shot
-  
+ 
 __Crosspath Benefits__
 *bomb* and *cluster* get +6p, larger explosion radius
-*subcluster* gets +18p, larger explosion radius
+*subcluster* gets +60p, larger explosion radius
 
 204
 49r
-*bomb*- 2d, +1fd (3), 30p, 1.5s, normal
+*bomb*- 2d, 30p, 1.5s, normal
  ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 2d, +1fd (3), 24p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 2d, 26p, 8j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - every other shot also emits *subcluster*
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 2d, +1fd (3), 72p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 2d, 120p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster* trigger reduces main attack to 14p
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +1fd (2)
 also emits *subcluster* every other shot
  
 __Crosspath Benefits__
 *bomb* and *cluster* get +16p, +1d, larger explosion radius
-*subcluster* gets +30p, +1d, larger explosion radius
+*subcluster* gets +60p, +1d, larger explosion radius
 
 014
 49r
-*bomb*- 1d, +1fd (2), 14p, 1.125s, normal
+*bomb*- 1d, 14p, 1.125s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 8p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 10p, 8j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - every other shot emits *subcluster*
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 1d, +1fd (2), 24p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 1d, 60p, 8j, normal
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +1fd (2)
 also emits *subcluster* every other shot
  
 __Crosspath Benefits__
@@ -527,14 +493,13 @@ __Crosspath Benefits__
 
 024
 53r
-*bomb*- 1d, +1fd (2), 14p, 0.825s, normal
+*bomb*- 1d, 14p, 0.825s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, +1fd (2), 8p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 1d, 10p, 8j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - every other shot emits *subcluster*
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 1d, +1fd (2), 24p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 1d, 60p, 8j, normal
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +1fd (2)
 also emits *subcluster* every other shot
  
 __Crosspath Benefits__
@@ -542,86 +507,80 @@ __Crosspath Benefits__
 
 500
 43r
-*bomb*- 12d, 60p, 1.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - stuns for 2s on impact
+*bomb*- 30d, 50p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - stuns for 1.75s on impact
  
 __Changes from Previous Tier__
-*bomb* now also stuns blimps, stun duration +1s, damage type explosive -> normal
+*bomb* now also stuns blimps, stun duration +.75s, +27d
 
 510
 43r
-*bomb*- 12d, 60p, 1.125s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - stuns for 2s on impact
+*bomb*- 30d, 50p, 1.125s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - stuns for 1.75s on impact
  
 __Changes from Previous Tier__
-*bomb* now also stuns blimps, stun duration +1s, damage type explosive -> normal
+*bomb* now also stuns blimps, stun duration +.75s, +27d
  
 __Crosspath Benefits__
 *bomb* gets 75%s
 
 520
 47r
-*bomb*- 12d, 60p, 0.825s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - stuns for 2s on impact
+*bomb*- 30d, 50p, 0.825s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - stuns for 1.75s on impact
  
 __Changes from Previous Tier__
-*bomb* now also stuns blimps, stun duration +1s, damage type explosive -> normal
+*bomb* now also stuns blimps, stun duration +.75s, +27d
  
 __Crosspath Benefits__
 *bomb* gets +4r, 55%s, faster projectile speed
 
 501
 50r
-*bomb*- 12d, 60p, 1.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - stuns for 2s on impact
+*bomb*- 30d, 50p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - stuns for 1.75s on impact
  
 __Changes from Previous Tier__
-*bomb* now also stuns blimps, stun duration +1s, damage type explosive -> normal
+*bomb* now also stuns blimps, stun duration +.75s, +27d
  
 __Crosspath Benefits__ 
 +7r
 
 502
 52r
-*bomb*- 12d, 60p, 1.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - stuns for 2s on impact
+*bomb*- 30d, 50p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - stuns for 1.75s on impact
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 12d, +12cd (24), 20p, 16j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
  
 __Changes from Previous Tier__
-*bomb* now also stuns blimps, stun duration +1s, damage type explosive -> normal
-*frags* get +9d (12), +12cd (24), +17p (20)
+*bomb* now also stuns blimps, stun duration +.75s
+*frags* get +9d, +12cd, +17p
  
 __Crosspath Benefits__
-*bomb* gets +9r, emits *frags*
+*bomb* gets +9r
+gains *frags*
 
 050
 54r
-*bomb*- 1d, +4cd (5), +99md (100), 14p, 0.825s, normal
-**Assassinate** ability: 10s cooldown, 4500d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+*bomb*- 1d, 5cd, 131md, 14p, 0.825s, normal
+**Assassinate** ability: 10s cooldown (battle ready), 4500d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-*bomb* gets +69md, damage type explosive -> normal
+*bomb* gets +100md
 **Assassinate** ability cooldown decreased 30s -> 10s, +3750d
 
 150
 54r
-*bomb*- 1d, +4cd (5), +99md (100), 20p, 0.825s, normal
-**Assassinate** ability: 10s cooldown, 4500d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+*bomb*- 1d, 5cd, 131md, 20p, 0.825s, normal
+**Assassinate** ability: 10s cooldown (battle ready), 4500d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-*bomb* gets +69md, damage type explosive -> normal
+*bomb* gets +100md
 **Assassinate** ability cooldown decreased 30s -> 10s, +3750d
  
 __Crosspath Benefits__
@@ -629,15 +588,13 @@ __Crosspath Benefits__
 
 250
 54r
-*bomb*- 2d, +4cd (6), +99md (101), 30p, 0.825s, normal
-**Assassinate** ability: 10s cooldown, 4500d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+*bomb*- 2d, 6cd, 132md, 30p, 0.825s, normal
+**Assassinate** ability: 10s cooldown (battle ready), 4500d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-*bomb* gets +69md, damage type explosive -> normal
+*bomb* gets +100md
 **Assassinate** ability cooldown decreased 30s -> 10s, +3750d
  
 __Crosspath Benefits__
@@ -645,15 +602,13 @@ __Crosspath Benefits__
 
 051
 61r
-*bomb*- 1d, +4cd (5), +99md (100), 14p, 0.825s, normal
-**Assassinate** ability: 10s cooldown, 4500d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+*bomb*- 1d, 5cd, 131md, 14p, 0.825s, normal
+**Assassinate** ability: 10s cooldown (battle ready), 4500d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-*bomb* gets +69md, damage type explosive -> normal
+*bomb* gets +100md
 **Assassinate** ability cooldown decreased 30s -> 10s, +3750d
  
 __Crosspath Benefits__
@@ -661,20 +616,15 @@ __Crosspath Benefits__
 
 052
 63r
-*bomb*- 1d, +4cd (5), +99md (100), 14p, 0.825s, normal
+*bomb*- 1d, 5cd, 131md, 14p, 0.825s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frag* on impact
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *frag*- 1d, 1p, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- cannot affect main target 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- can't be externally damage or pierce buffed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- except pierce buff from geraldo's sharpening stone
-**Assassinate** ability: 10s cooldown, 4500d to strongest bloon
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+**Assassinate** ability: 10s cooldown (battle ready), 4500d to strongest bloon
 ‎ ‎ ‎ ‎ ‎ ‎ - creates explosion- 3d, 100p
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-       
+ 
 __Changes from Previous Tier__
-*bomb* gets +69md, damage type explosive -> normal
+*bomb* gets +100md
 **Assassinate** ability cooldown decreased 30s -> 10s, +3750d
  
 __Crosspath Benefits__
@@ -682,69 +632,66 @@ __Crosspath Benefits__
 
 005
 49r
-*bomb*- 5d, +5fd (10), 14p, 1.5s, normal
+*bomb*- 5d, 14p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* and *subcluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 5d, +5fd (10), 8p, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 5d, +5fd (10), 24p, 8j, normal
-*Blitz* passive ability: 40s cooldown, when a life is lost, destroys all bloons and M.O.A.B.s and does 2000d to everything else, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 5d, 10p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 5d, 60p, 8j, normal
+*Blitz* passive ability: 40s cooldown (initial: 13.33s), before a life is lost, destroys all bloons and M.O.A.B.s and does 3000d to everything else, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot soak through moabs
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +4d, +4fd 
+*bomb* gets +4d
 gets *Blitz* passive ability
 emits *subcluster* every shot
 
+
 105
 49r
-*bomb*- 5d, +5fd (10), 20p, 1.5s, normal
+*bomb*- 5d, 20p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* and *subcluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 5d, +5fd (10), 14p, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 5d, +5fd (10), 42p, 8j, normal
-*Blitz* passive ability: 40s cooldown, when a life is lost, destroys all bloons and M.O.A.B.s and does 2000d to everything else, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 13.33s
- ‎ ‎ ‎ ‎ ‎ ‎- cannot soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 5d, 16p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 5d, 120p, 8j, normal
+*Blitz* passive ability: 40s cooldown (initial: 13.33s), before a life is lost, destroys all bloons and M.O.A.B.s and does 3000d to everything else, camo
+-cannot soak through moabs
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +4d, +4fd 
+*bomb* gets +4d
 gets *Blitz* passive ability
 emits *subcluster* every shot
  
 __Crosspath Benefits__
 *bomb* and *cluster* get +6p, larger explosion radius
-*subcluster* gets +18p, larger explosion radius
+*subcluster* gets +60p, larger explosion radius
 
 205
 49r
-*bomb*- 6d, +5fd (11), 30p, 1.5s, normal
+*bomb*- 6d, 30p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* and *subcluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 6d, +5fd (11), 24p, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 6d, +5fd (11), 72p, 8j, normal
-*Blitz* passive ability: 40s cooldown, when a life is lost, destroys all bloons and M.O.A.B.s and does 2000d to everything else, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 6d, 26p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 6d, 120p, 8j, normal
+*Blitz* passive ability: 40s cooldown (initial: 13.33s), before a life is lost, destroys all bloons and M.O.A.B.s and does 3000d to everything else, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot soak through moabs
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +4d, +4fd 
+*bomb* gets +4d
 gets *Blitz* passive ability 
 emits *subcluster* every shot
  
 __Crosspath Benefits__
 *bomb* and *cluster* get +16p, +1d, larger explosion radius
-*subcluster* gets +30p, +1d, larger explosion radius
+*subcluster* gets +60p, +1d, larger explosion radius
 
 015
 49r
-*bomb*- 5d, +5fd (10), 14p, 1.125s, normal
+*bomb*- 5d, 14p, 1.125s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* and *subcluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 5d, +5fd (10), 8p, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 5d, +5fd (10), 24p, 8j, normal
-*Blitz* passive ability: 40s cooldown, when a life is lost, destroys all bloons and M.O.A.B.s and does 2000d to everything else, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 5d, 10p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 5d, 60p, 8j, normal
+*Blitz* passive ability: 40s cooldown (initial: 13.33s), before a life is lost, destroys all bloons and M.O.A.B.s and does 3000d to everything else, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot soak through moabs
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +4d, +4fd
+*bomb* gets +4d
 gets *Blitz* passive ability
 emits *subcluster* every shot
  
@@ -753,16 +700,15 @@ __Crosspath Benefits__
 
 025
 53r
-*bomb*- 5d, +5fd (10), 14p, 0.825s, normal
+*bomb*- 5d, 14p, 0.825s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *cluster* and *subcluster* on impact
-‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 5d, +5fd (10), 8p, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 5d, +5fd (10), 24p, 8j, normal
-*Blitz* passive ability: 40s cooldown, when a life is lost, destroys all bloons and M.O.A.B.s and does 2000d to everything else, camo
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *cluster*- 5d, 10p, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *subcluster*- 5d, 60p, 8j, normal
+*Blitz* passive ability: 40s cooldown (initial: 13.33s), before a life is lost, destroys all bloons and M.O.A.B.s and does 3000d to everything else, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot soak through moabs
  
 __Changes from Previous Tier__
-*bomb*, *cluster*, and *subcluster* get +4d, +4fd
+*bomb* gets +4d
 gets *Blitz* passive ability
 emits *subcluster* every shot
  
