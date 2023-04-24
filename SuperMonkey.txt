@@ -1,12 +1,12 @@
 000 
 50r
-*dart*- 1d, 1p, 0.045s, sharp
+*dart*- 1d, 1p, 0.06s, sharp
  
-footprint radius: 11 (XL)
+footprint radius: 8 (L)
 
 100 
 50r
-*laser*- 1d, 2p, 0.045s, energy
+*laser*- 1d, 2p, 0.06s, energy
  
 __Changes from 0-0-0__
 *dart* replaced with *laser*: +1p, damage type sharp -> energy 
@@ -20,7 +20,7 @@ __Changes from 0-0-0__
 
 001 
 50r
-*dart*- 1d, 1p, 0.045s, sharp
+*dart*- 1d, 1p, 0.06s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
@@ -39,7 +39,7 @@ __Changes from 0-0-0__
 
 101 
 50r
-*laser*- 1d, 2p, 0.045s, energy
+*laser*- 1d, 2p, 0.06s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
@@ -62,13 +62,13 @@ __Changes from 0-0-0__
 
 200 
 50r
-*laser*- 1d, 2p, 0.03s, plasma
+*laser*- 1d, 3p, 0.03s, plasma
  
 __Changes from Previous Tier__
-*laser* gets 50%s, damage type energy -> plasma
+*laser* gets 50%s, +1p, damage type energy -> plasma
  
 __Changes from 0-0-0__
-*dart* replaced with *laser*: +1p, 66.67%s, damage type sharp -> plasma 
+*dart* replaced with *laser*: +2p, 50%s, damage type sharp -> plasma 
 
 020 
 72r
@@ -82,59 +82,57 @@ __Changes from 0-0-0__
 
 002 
 53r
-*dart*- 1d, 1p, 0.045s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (2)
+*dart*- 1d, 1p, 0.06s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 __Changes from Previous Tier__
-*dart* gets camo, +1 camo damage, +3r
+*dart* gets camo, +3r
  
 __Changes from 0-0-0__
-*dart* gets camo, +1 camo damage, +3r, applies *knockback*
+*dart* gets camo, +3r, applies *knockback*
 
 210 
 60r
-*laser*- 1d, 3p, 0.03s, plasma
+*laser*- 1d, 4p, 0.03s, plasma
  
 __Changes from 0-0-0__
-*dart* replaced with *laser*: +1p, 66.67%s, damage type sharp -> plasma 
+*dart* replaced with *laser*: +2p, 50%s, damage type sharp -> plasma 
 *laser* gets +1p, +10r
 
 220 
 72r
-*laser*- 1d, 5p, 0.03s, plasma
+*laser*- 1d, 6p, 0.03s, plasma
  
 __Changes from 0-0-0__
-*dart* replaced with *laser*: +1p, 66.67%s, damage type sharp -> plasma 
+*dart* replaced with *laser*: +2p, 50%s, damage type sharp -> plasma 
 *laser* gets +3p, +22r
 
 201 
 50r
-*laser*- 1d, 2p, 0.03s, plasma
+*laser*- 1d, 3p, 0.03s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 __Changes from 0-0-0__
-*dart* replaced with *laser*: +1p, 66.67%s, damage type sharp -> plasma 
+*dart* replaced with *laser*: +2p, 50%s, damage type sharp -> plasma 
 *laser* applies *knockback* 
 
 202 
 53r
-*laser*- 1d, 2p, 0.03s, plasma, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (2)
+*laser*- 1d, 3p, 0.03s, plasma, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 __Changes from 0-0-0__
-*dart* replaced with *laser*: +1p, 66.67%s, damage type sharp -> plasma 
-*laser* gets +3r, camo, +1 camo damage, applies *knockback*
+*dart* replaced with *laser*: +2p, 50%s, damage type sharp -> plasma 
+*laser* gets +3r, camo, applies *knockback*
 
 120 
 72r
@@ -158,19 +156,17 @@ __Changes from 0-0-0__
 022 
 75r
 *dart*- 1d, 4p, 0.06s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (2)
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 __Changes from 0-0-0__
-*dart* gets +3p, +25r, camo, +1 camo damage, applies *knockback*
+*dart* gets +3p, +25r, camo, applies *knockback*
 
 102 
 53r
-*laser*- 1d, 2p, 0.045s, energy, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (2)
+*laser*- 1d, 2p, 0.06s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
@@ -178,80 +174,78 @@ __Changes from 0-0-0__
  
 __Changes from 0-0-0__
 *dart* replaced with *laser*: +1p, damage type sharp -> energy
-*laser* gets +3r, camo, +1 camo damage, applies *knockback* 
+*laser* gets +3r, camo, applies *knockback* 
 
 012 
 63r
 *dart*- 1d, 2p, 0.06s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (2)
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 __Changes from 0-0-0__
-*dart* gets +1p, +13r, camo, +1 camo damage, applies *knockback*
+*dart* gets +1p, +13r, camo, applies *knockback*
 
 300 
 50r
-*sun-blast*- 1d, 6p, 0.03s, 3j, plasma
+*sun-blast*- 1d, 8p, 0.03s, 3j, plasma
  
 __Changes from Previous Tier__
-*laser* replaced with *sun-blast*: +4p, +2j
+*laser* replaced with *sun-blast*: +5p, +2j
 
 310 
 60r
-*sun-blast*- 1d, 7p, 0.03s, 3j, plasma
+*sun-blast*- 1d, 9p, 0.03s, 3j, plasma
  
 __Changes from Previous Tier__
-*laser* replaced with *sun-blast*: +4p, +2j
+*laser* replaced with *sun-blast*: +5p, +2j
  
 __Crosspath Benefits__
 *sun-blast* gets +1p, +10r
 
 320 
 72r
-*sun-blast*- 1d, 9p, 0.03s, 3j, plasma
+*sun-blast*- 1d, 11p, 0.03s, 3j, plasma
  
 __Changes from Previous Tier__
-*laser* replaced with *sun-blast*: +4p, +2j
+*laser* replaced with *sun-blast*: +5p, +2j
  
 __Crosspath Benefits__
 *sun-blast* gets +3p, +22r
 
 301 
 50r
-*sun-blast*- 1d, 6p, 0.03s, 3j, plasma
+*sun-blast*- 1d, 8p, 0.03s, 3j, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 __Changes from Previous Tier__
-*laser* replaced with *sun-blast*: +4p, +2j
+*laser* replaced with *sun-blast*: +5p, +2j
  
 __Crosspath Benefits__
 *sun-blast* applies *knockback*
 
 302 
 53r
-*sun-blast*- 1d, 6p, 0.03s, 3j, plasma, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (2)
+*sun-blast*- 1d, 8p, 0.03s, 3j, plasma, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 __Changes from Previous Tier__
-*laser* replaced with *sun-blast*: +4p, +2j
+*laser* replaced with *sun-blast*: +5p, +2j
  
 __Crosspath Benefits__
-*sun-blast* gets +3r, camo, +1 camo damage, applies *knockback*
+*sun-blast* gets +3r, camo, applies *knockback*
 
 030 
 72r
-*dart1*- 1d, 7p, 0.045s, sharp
-*dart2*- 1d, 7p, 0.045s, sharp
+*dart1*- 1d, 7p, 0.06s, sharp
+*dart2*- 1d, 7p, 0.06s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
  
 __Changes from Previous Tier__
@@ -259,8 +253,8 @@ __Changes from Previous Tier__
 
 130 
 72r
-*laser1*- 1d, 8p, 0.045s, energy
-*laser2*- 1d, 8p, 0.045s, energy
+*laser1*- 1d, 8p, 0.06s, energy
+*laser2*- 1d, 8p, 0.06s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
  
 __Changes from Previous Tier__
@@ -271,20 +265,20 @@ __Crosspath Benefits__
 
 230 
 72r
-*laser1*- 1d, 8p, 0.03s, plasma 
-*laser2*- 1d, 8p, 0.03s, plasma
+*laser1*- 1d, 9p, 0.03s, plasma 
+*laser2*- 1d, 9p, 0.03s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
  
 __Changes from Previous Tier__
 *dart* replaced with *dart1* and *dart2*: +3p, gains crits
  
 __Crosspath Benefits__
-*dart* replaced with *laser*: +1p, 66.67%s, damage type sharp -> plasma
+*dart* replaced with *laser*: +2p, 50%s, damage type sharp -> plasma
 
 031 
 72r
-*dart1*- 1d, 7p, 0.045s, sharp
-*dart2*- 1d, 7p, 0.045s, sharp
+*dart1*- 1d, 7p, 0.06s, sharp
+*dart2*- 1d, 7p, 0.06s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks apply *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
@@ -299,9 +293,8 @@ __Crosspath Benefits__
 
 032 
 75r
-*dart1*- 1d, 7p, 0.045s, sharp, camo
-*dart2*- 1d, 7p, 0.045s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - both attacks have +1d to camo bloons (2)
+*dart1*- 1d, 7p, 0.06s, sharp, camo
+*dart2*- 1d, 7p, 0.06s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks apply *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
@@ -312,38 +305,34 @@ __Changes from Previous Tier__
 *dart* replaced with *dart1* and *dart2*: +3p, gains crits
  
 __Crosspath Benefits__ 
-*dart1* and *dart2* get +3r, camo, +1 camo damage, apply *knockback*
+*dart1* and *dart2* get +3r, camo, apply *knockback*
 
 003 
 53r
-*monkey-rang*- 1d, +2md (3), 4p, 0.045s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons
+*monkey-rang*- 1d, +2md (3), 5p, 0.06s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 10% speed
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 0% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location within the tower’s range
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 6.67s
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location within the tower’s range
  
 __Changes from Previous Tier__
-*dart* replaced with *monkey-rang*: +2md, +3p
-*knockback* status ceramic and lead *knockback* improved 40% speed -> 10% speed
+*dart* replaced with *monkey-rang*: +2md, +4p
+*knockback* status ceramic and lead *knockback* improved 40% speed -> 0% speed
 gets **Darkshift** ability
 
 103 
 53r
-*monkey-rang*- 1d, +2md (3), 5p, 0.045s, energy, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons
+*monkey-rang*- 1d, +2md (3), 6p, 0.06s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 10% speed
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 0% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location within the tower’s range
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 6.67s
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location within the tower’s range
  
 __Changes from Previous Tier__
-*dart* replaced with *monkey-rang*: +2md, +3p
-*knockback* status ceramic and lead *knockback* improved 40% speed -> 10% speed
+*dart* replaced with *monkey-rang*: +2md, +4p
+*knockback* status ceramic and lead *knockback* improved 40% speed -> 0% speed
 gets **Darkshift** ability
  
 __Crosspath Benefits__
@@ -351,37 +340,33 @@ __Crosspath Benefits__
 
 203 
 53r
-*monkey-rang*- 1d, +2md (3), 5p, 0.03s, plasma, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons
+*monkey-rang*- 1d, +2md (3), 7p, 0.03s, plasma, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 10% speed
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 0% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location within the tower’s range
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 6.67s
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location within the tower’s range
  
 __Changes from Previous Tier__
-*dart* replaced with *monkey-rang*: +2md, +3p
-*knockback* status ceramic and lead *knockback* improved 40% speed -> 10% speed
+*dart* replaced with *monkey-rang*: +2md, +4p
+*knockback* status ceramic and lead *knockback* improved 40% speed -> 0% speed
 gets **Darkshift** ability
  
 __Crosspath Benefits__
-*monkey-rang* gets +1p, 66.67%s, damage type sharp -> plasma
+*monkey-rang* gets +2p, 50%s, damage type sharp -> plasma
 
 013 
 63r
-*monkey-rang*- 1d, +2md (3), 5p, 0.045s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons
+*monkey-rang*- 1d, +2md (3), 6p, 0.06s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 10% speed
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 0% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location within the tower’s range
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 6.67s
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location within the tower’s range
  
 __Changes from Previous Tier__
-*dart* replaced with *monkey-rang*: +2md, +3p
-*knockback* status ceramic and lead *knockback* improved 40% speed -> 10% speed
+*dart* replaced with *monkey-rang*: +2md, +4p
+*knockback* status ceramic and lead *knockback* improved 40% speed -> 0% speed
 gets **Darkshift** ability
  
 __Crosspath Benefits__
@@ -389,18 +374,16 @@ __Crosspath Benefits__
 
 023 
 75r
-*monkey-rang*- 1d, +2md (3), 7p, 0.045s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons
+*monkey-rang*- 1d, +2md (3), 8p, 0.06s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 10% speed
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 0% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location within the tower’s range
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 6.67s
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location within the tower’s range
  
 __Changes from Previous Tier__
-*dart* replaced with *monkey-rang*: +2md, +3p
-*knockback* status ceramic and lead *knockback* improved 40% speed -> 10% speed
+*dart* replaced with *monkey-rang*: +2md, +4p
+*knockback* status ceramic and lead *knockback* improved 40% speed -> 0% speed
 gets **Darkshift** ability
  
 __Crosspath Benefits__
@@ -409,29 +392,29 @@ __Crosspath Benefits__
 400 
 65r
 absorbs all towers in the sun avatar’s range when upgraded
-*sun-blast*- 5d, 20p, 0.06s, normal
+*sun-blast*- 6d, 30p, 0.06s, normal
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 new footprint dimensions: 37 [x axis] x 40 [y axis] (XXXL)
  
 __Changes from Previous Tier__ 
-*sun-blast* gets +4d, +14p, +15r, -2j, 200%s, damage type plasma -> normal
-footprint size changed radius 11 -> 37 x 40
+*sun-blast* gets +5d, +22p, +15r, -2j, 200%s, damage type plasma -> normal
+footprint size changed radius 8 -> 37 x 40
 absorbs towers for stronger attacks
 
 410 
 75r
 absorbs all towers in the sun avatar’s range when upgraded
-*sun-blast*- 5d, 21p, 0.06s, normal
+*sun-blast*- 6d, 31p, 0.06s, normal
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
- 
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
+
 __Changes from Previous Tier__ 
-*sun-blast* gets +4d, +14p, +15r, -2j, 200%s, damage type plasma -> normal
-footprint size changed radius 11 -> 37 x 40
+*sun-blast* gets +5d, +22p, +15r, -2j, 200%s, damage type plasma -> normal
+footprint size changed radius 8 -> 37 x 40
 absorbs towers for stronger attacks
  
 __Crosspath Benefits__
@@ -440,14 +423,14 @@ __Crosspath Benefits__
 420 
 87r
 absorbs all towers in the sun avatar’s range when upgraded
-*sun-blast*- 5d, 23p, 0.06s, normal
+*sun-blast*- 6d, 33p, 0.06s, normal
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 __Changes from Previous Tier__ 
-*sun-blast* gets +4d, +14p, +15r, -2j, 200%s, damage type plasma -> normal
-footprint size changed radius 11 -> 37 x 40
+*sun-blast* gets +5d, +22p, +15r, -2j, 200%s, damage type plasma -> normal
+footprint size changed radius 8 -> 37 x 40
 absorbs towers for stronger attacks
  
 __Crosspath Benefits__
@@ -456,18 +439,18 @@ __Crosspath Benefits__
 401 
 65r
 absorbs all towers in the sun avatar’s range when upgraded
-*sun-blast*- 5d, 20p, 0.06s, normal
+*sun-blast*- 6d, 30p, 0.06s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 __Changes from Previous Tier__ 
-*sun-blast* gets +4d, +14p, +15r, -2j, 200%s, damage type plasma -> normal
-footprint size changed radius 11 -> 37 x 40
+*sun-blast* gets +5d, +22p, +15r, -2j, 200%s, damage type plasma -> normal
+footprint size changed radius 8 -> 37 x 40
 absorbs towers for stronger attacks
  
 __Crosspath Benefits__
@@ -476,32 +459,29 @@ __Crosspath Benefits__
 402 
 68r
 absorbs all towers in the sun avatar’s range when upgraded
-*sun-blast*- 5d, 20p, 0.06s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (6)
+*sun-blast*- 6d, 30p, 0.06s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 __Changes from Previous Tier__ 
-*sun-blast* gets +4d, +14p, +15r, -2j, 200%s, damage type plasma -> normal
-footprint size changed radius 11 -> 37 x 40
+*sun-blast* gets +5d, +22p, +15r, -2j, 200%s, damage type plasma -> normal
+footprint size changed radius 8 -> 37 x 40
 absorbs towers for stronger attacks
  
 __Crosspath Benefits__
-*sun-blast* gets +3r, camo, +1 camo damage, applies *knockback* 
+*sun-blast* gets +3r, camo, applies *knockback* 
 
 040 
 72r
-*laser1*- 1d, 9p, 0.036s, plasma
-*laser2*- 1d, 9p, 0.036s, plasma
+*laser1*- 1d, 9p, 0.048s, plasma
+*laser2*- 1d, 9p, 0.048s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
-**Annihilation** ability: 45s cooldown, does 2600d to the nearest 2000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 3900d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 2500d to the nearest 2000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
@@ -511,12 +491,10 @@ gets **Annihilation** ability
 
 140 
 72r
-*laser1*- 1d, 10p, 0.036s, plasma
-*laser2*- 1d, 10p, 0.036s, plasma
+*laser1*- 1d, 10p, 0.048s, plasma
+*laser2*- 1d, 10p, 0.048s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
-**Annihilation** ability: 45s cooldown, does 2600d to the nearest 2000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 3900d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 2500d to the nearest 2000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
@@ -529,12 +507,10 @@ __Crosspath Benefits__
 
 240 
 72r
-*laser1*- 1d, 10p, 0.024s, plasma
-*laser2*- 1d, 10p, 0.024s, plasma
+*laser1*- 1d, 11p, 0.024s, plasma
+*laser2*- 1d, 11p, 0.024s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
-**Annihilation** ability: 45s cooldown, does 2600d to the nearest 2000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 3900d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 2500d to the nearest 2000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
@@ -543,20 +519,18 @@ __Changes from Previous Tier__
 gets **Annihilation** ability 
  
 __Crosspath Benefits__
-*laser* gets +1p, 66.67%s
+*laser* gets +2p, 50%s
 
 041 
 72r
-*laser1*- 1d, 9p, 0.036s, plasma
-*laser2*- 1d, 9p, 0.036s, plasma
+*laser1*- 1d, 9p, 0.048s, plasma
+*laser2*- 1d, 9p, 0.048s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks apply *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Annihilation** ability: 45s cooldown, does 2600d to the nearest 2000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 3900d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 2500d to the nearest 2000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
@@ -569,17 +543,14 @@ __Crosspath Benefits__
 
 042 
 75r
-*laser1*- 1d, 9p, 0.036s, plasma, camo
-*laser2*- 1d, 9p, 0.036s, plasma, camo
-‎ ‎ ‎ ‎ ‎ ‎ - both attacks have +1d to camo bloons (2)
+*laser1*- 1d, 9p, 0.048s, plasma, camo
+*laser2*- 1d, 9p, 0.048s, plasma, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 10d crit every 15-20 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks apply *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Annihilation** ability: 45s cooldown, does 2600d to the nearest 2000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 3900d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 2500d to the nearest 2000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
@@ -588,40 +559,32 @@ __Changes from Previous Tier__
 gets **Annihilation** ability 
  
 __Crosspath Benefits__
-*laser* gets +3r, camo, +1 camo damage, apply *knockback*
+*laser* gets +3r, camo, applies *knockback* 
 
 004 
 53r
-*monkey-rang*- 2d, +2cd (4), +3md (5), 8p, 0.0225s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (4)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 2d, +2cd (4), +3md (5), 7p, 0.03s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 3
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
  
 __Changes from Previous Tier__
-*monkey-rang* gets +1d, +2cd, +1md, +1 camo damage, +4p, 50%s, damage type sharp -> normal, can jump to a nearby target after hitting 
-*knockback* strength to ceramics and leads 10% speed -> 0% speed
+*monkey-rang* gets +1d, +2cd, +1md, +3p, 50%s, damage type sharp -> normal 
 **Darkshift** ability becomes global 
 
 104 
 53r
-*monkey-rang*- 2d, +2cd (4), +3md (5), 9p, 0.0225s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (4)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 2d, +2cd (4), +3md (5), 8p, 0.03s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 3
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
  
 __Changes from Previous Tier__
-*monkey-rang* gets +1d, +2cd, +1md, +1 camo damage, +4p, 50%s, damage type sharp -> normal, can jump to a nearby target after hitting
-*knockback* strength to ceramics and leads 10% speed -> 0% speed
+*monkey-rang* gets +1d, +2cd, +1md, +3p, 50%s, damage type sharp -> normal
 **Darkshift** ability becomes global 
  
 __Crosspath Benefits__
@@ -630,39 +593,30 @@ __Crosspath Benefits__
 204 
 53r
 *monkey-rang*- 2d, +2cd (4), +3md (5), 9p, 0.015s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (4)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 3
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
  
 __Changes from Previous Tier__
-*monkey-rang* gets +1d, +2cd, +1md, +1 camo damage, +4p, 50%s, damage type sharp -> normal, can jump to a nearby target after hitting 
-*knockback* strength to ceramics and leads 10% speed -> 0% speed
+*monkey-rang* gets +1d, +2cd, +1md, +3p, 50%s, damage type sharp -> normal 
 **Darkshift** ability becomes global 
  
 __Crosspath Benefits__
-*monkey-rang* gets +1p, 66.67%s
+*monkey-rang* gets +2p, 50%s
 
 014 
 63r
-*monkey-rang*- 2d, +2cd (4), +3md (5), 9p, 0.0225s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (4)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 2d, +2cd (4), +3md (5), 8p, 0.03s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 3
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
  
 __Changes from Previous Tier__
-*monkey-rang* gets +1d, +2cd, +1md, +1 camo damage, +4p, 50%s, damage type sharp -> normal, can jump to a nearby target after hitting 
-*knockback* strength to ceramics and leads 10% speed -> 0% speed
+*monkey-rang* gets +1d, +2cd, +1md, +3p, 50%s, damage type sharp -> normal 
 **Darkshift** ability becomes global 
  
 __Crosspath Benefits__
@@ -670,19 +624,15 @@ __Crosspath Benefits__
 
 024 
 75r
-*monkey-rang*- 2d, +2cd (4), +3md (5), 11p, 0.0225s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons (4)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 2d, +2cd (4), +3md (5), 10p, 0.03s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 3
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
  
 __Changes from Previous Tier__
-*monkey-rang* gets +1d, +2cd, +1md, +1 camo damage, +4p, 50%s, damage type sharp -> normal, can jump to a nearby target after hitting
-*knockback* strength to ceramics and leads 10% speed -> 0% speed
+*monkey-rang* gets +1d, +2cd, +1md, +3p, 50%s, damage type sharp -> normal
 **Darkshift** ability becomes global 
  
 __Crosspath Benefits__
@@ -694,7 +644,7 @@ absorbs all towers in the tier 4 temple’s range when upgraded
 *sun-blast*- 15d, 20p, 0.06s, normal
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 __Changes from Previous Tier__
 *sun-blast* gets +10d
@@ -705,7 +655,7 @@ absorbs all towers in the tier 4 temple’s range when upgraded
 *sun-blast*- 15d, 21p, 0.06s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ 
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 __Changes from Previous Tier__
 *sun-blast* gets +10d
@@ -719,7 +669,7 @@ absorbs all towers in the tier 4 temple’s range when upgraded
 *sun-blast*- 15d, 23p, 0.06s, normal
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 __Changes from Previous Tier__
 *sun-blast* gets +10d
@@ -737,7 +687,7 @@ absorbs all towers in the tier 4 temple’s range when upgraded
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 __Changes from Previous Tier__
 *sun-blast* gets +10d
@@ -749,158 +699,139 @@ __Crosspath Benefits__
 68r
 absorbs all towers in the tier 4 temple’s range when upgraded
 *sun-blast*- 15d, 20p, 0.06s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (16)
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
  
 == SACRIFICES == 
-becomes stronger based on towers absorbed, use /temple for exact stats
+becomes stronger based on towers absorbed, exact stats unknown ($20,000 max sacrifice)
  
 __Changes from Previous Tier__
 *sun-blast* gets +10d
  
 __Crosspath Benefits__
-*sun-blast* gets +3r, camo, +1 camo damage, applies *knockback* 
+*sun-blast* gets +3r, camo, applies *knockback* 
 
 050 
 82r
-*laser1*- 5d, 13p, 0.036s, normal
-*laser2*- 5d, 13p, 0.036s, normal
+*laser1*- 5d, 13p, 0.048s, normal
+*laser2*- 5d, 13p, 0.048s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 50d crit every 13-17 shots
-**Annihilation** ability: 30s cooldown, does 10,400d to the nearest 2,000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 15,600d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 5000d to the nearest 10,000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 120r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
 __Changes from Previous Tier__
 *laser* gets +4d, +5p, +10r, damage type plasma -> normal 
-*laser* crits happen every 15-20 -> 13-17 shots, gets +40d (50)
-**Annihilation** ability gets +7800d (10,400), cooldown 45s -> 30s
+*laser* crits happen every 15-20 -> 13-17 shots
+**Annihilation** ability gets +2500d, +8000p
 
 150 
 82r
-*laser1*- 5d, 14p, 0.036s, normal
-*laser2*- 5d, 14p, 0.036s, normal
+*laser1*- 5d, 14p, 0.048s, normal
+*laser2*- 5d, 14p, 0.048s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 50d crit every 13-17 shots
-**Annihilation** ability: 30s cooldown, does 10,400d to the nearest 2,000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 15,600d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 5000d to the nearest 10,000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 120r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
 __Changes from Previous Tier__
 *laser* gets +4d, +5p, +10r, damage type plasma -> normal 
-*laser* crits happen every 15-20 -> 13-17 shots, gets +40d (50)
-**Annihilation** ability gets +7800d (10,400), cooldown 45s -> 30s
+*laser* crits happen every 15-20 -> 13-17 shots
+**Annihilation** ability gets +2500d, +8000p
  
 __Crosspath Benefits__
 *laser* gets +1p
 
 250 
 82r
-*laser1*- 5d, 14p, 0.024s, normal
-*laser2*- 5d, 14p, 0.024s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 50d crit every 13-17 shots
-**Annihilation** ability: 30s cooldown, does 10,400d to the nearest 2,000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 15,600d instead
+*laser1*- 5d, 15p, 0.024s, normal
+*laser2*- 5d, 15p, 0.024s, normal
+**Annihilation** ability: 45s cooldown (battle ready), does 5000d to the nearest 10,000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 120r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
 __Changes from Previous Tier__
 *laser* gets +4d, +5p, +10r, damage type plasma -> normal 
-*laser* crits happen every 15-20 -> 13-17 shots, gets +40d (50)
-**Annihilation** ability gets +7800d (10,400), cooldown 45s -> 30s
+*laser* crits happen every 15-20 -> 13-17 shots
+**Annihilation** ability gets +2500d, +8000p
  
 __Crosspath Benefits__
-*laser* gets +1p, 66.67%s
+*laser* gets +2p, 50%s
 
 051 
 82r
-*laser1*- 5d, 13p, 0.036s, normal
-*laser2*- 5d, 13p, 0.036s, normal
+*laser1*- 5d, 13p, 0.048s, normal
+*laser2*- 5d, 13p, 0.048s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 50d crit every 13-17 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks apply *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Annihilation** ability: 30s cooldown, does 10,400d to the nearest 2,000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 15,600d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 5000d to the nearest 10,000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 120r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
 __Changes from Previous Tier__
 *laser* gets +4d, +5p, +10r, damage type plasma -> normal 
-*laser* crits happen every 15-20 -> 13-17 shots, gets +40d (50)
-**Annihilation** ability gets +7800d (10,400), cooldown 45s -> 30s
+*laser* crits happen every 15-20 -> 13-17 shots
+**Annihilation** ability gets +2500d, +8000p
  
 __Crosspath Benefits__
 *laser* applies *knockback*
 
 052 
 85r
-*laser1*- 5d, 13p, 0.036s, normal, camo
-*laser2*- 5d, 13p, 0.036s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - +1d to camo bloons (6)
+*laser1*- 5d, 13p, 0.048s, normal
+*laser2*- 5d, 13p, 0.048s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks have 50d crit every 13-17 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - both attacks apply *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads move at 40% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Annihilation** ability: 30s cooldown, does 10,400d to the nearest 2,000 bloons, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-‎ ‎ ‎ ‎ ‎ ‎ - every 3rd ability crits for 15,600d instead
+**Annihilation** ability: 45s cooldown (battle ready), does 5000d to the nearest 10,000 bloons, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 120r
 ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
  
 __Changes from Previous Tier__
 *laser* gets +4d, +5p, +10r, damage type plasma -> normal 
-*laser* crits happen every 15-20 -> 13-17 shots, gets +40d (50)
-**Annihilation** ability gets +7800d (10,400), cooldown 45s -> 30s
+*laser* crits happen every 15-20 -> 13-17 shots
+**Annihilation** ability gets +2500d, +8000p
  
 __Crosspath Benefits__
 *laser* gets +3r, camo, applies *knockback* 
 
 005 
 57r
-*monkey-rang*- 10d, +4cd (14), +13md (23), 23p, 0.0225s, normal, camo
- ‎ ‎ ‎ ‎ ‎ - +4d to camo bloons (14)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 10d, +6cd (16), +8md (18), 22p, 0.03s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-*Black Hole* passive ability: 180s cooldown, when a bloon leaks no lives can be lost for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - no initial cooldown
-‎ ‎ ‎ ‎ ‎ ‎ - 180s cooldown will *not* be reset if sold
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
+*Black Hole* passive ability: 120s cooldown (initial: 0s), when a bloon leaks no lives can be lost for 8s
+‎ ‎ ‎ ‎ ‎ ‎ - 120s cooldown will *not* be reset if sold
+‎ ‎ ‎ ‎ ‎ ‎ - doesn't work in sudden death
  
 __Changes from Previous Tier__
-*monkey-rang* gets +8d, +2cd (14), +10md (23), +2 camo damage (14), +15p, +4r 
+*monkey-rang* gets +8d, +4cd, +5md, +15p, +4r 
 gets *Black Hole* passive ability 
 
 105 
 57r
-*monkey-rang*- 10d, +4cd (14), +13md (23), 24p, 0.0225s, normal, camo
- ‎ ‎ ‎ ‎ ‎ - +4d to camo bloons (14)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 10d, +6cd (16), +8md (18), 23p, 0.03s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-*Black Hole* passive ability: 180s cooldown, when a bloon leaks no lives can be lost for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - no initial cooldown
-‎ ‎ ‎ ‎ ‎ ‎ - 180s cooldown will *not* be reset if sold
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
+*Black Hole* passive ability: 120s cooldown (initial: 0s), when a bloon leaks no lives can be lost for 8s
+‎ ‎ ‎ ‎ ‎ ‎ - 120s cooldown will *not* be reset if sold
+‎ ‎ ‎ ‎ ‎ ‎ - doesn't work in sudden death
  
 __Changes from Previous Tier__
-*monkey-rang* gets +8d, +2cd (14), +10md (23), +2 camo damage (14), +15p, +4r 
+*monkey-rang* gets +8d, +4cd, +5md, +15p, +4r 
 gets *Black Hole* passive ability 
  
 __Crosspath Benefits__
@@ -908,43 +839,37 @@ __Crosspath Benefits__
 
 205 
 57r
-*monkey-rang*- 10d, +4cd (14), +13md (23), 24p, 0.015s, normal, camo
- ‎ ‎ ‎ ‎ ‎ - +4d to camo bloons (14)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 10d, +6cd (16), +8md (18), 24p, 0.015s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-*Black Hole* passive ability: 180s cooldown, when a bloon leaks no lives can be lost for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - no initial cooldown
-‎ ‎ ‎ ‎ ‎ ‎ - 180s cooldown will *not* be reset if sold
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
+*Black Hole* passive ability: 120s cooldown (initial: 0s), when a bloon leaks no lives can be lost for 8s
+‎ ‎ ‎ ‎ ‎ ‎ - 120s cooldown will *not* be reset if sold
+‎ ‎ ‎ ‎ ‎ ‎ - doesn't work in sudden death
  
 __Changes from Previous Tier__
-*monkey-rang* gets +8d, +2cd (14), +10md (23), +2 camo damage (14), +15p, +4r 
+*monkey-rang* gets +8d, +4cd, +5md, +15p, +4r 
 gets *Black Hole* passive ability 
  
 __Crosspath Benefits__
-*monkey-rang* gets +1p, 66.67%s
+*monkey-rang* gets +2p, 50%s
 
 015 
 67r
-*monkey-rang*- 10d, +4cd (14), +13md (23), 24p, 0.0225s, normal, camo
- ‎ ‎ ‎ ‎ ‎ - +4d to camo bloons (14)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 10d, +6cd (16), +8md (18), 23p, 0.03s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-*Black Hole* passive ability: 180s cooldown, when a bloon leaks no lives can be lost for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - no initial cooldown
-‎ ‎ ‎ ‎ ‎ ‎ - 180s cooldown will *not* be reset if sold
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
+*Black Hole* passive ability: 120s cooldown (initial: 0s), when a bloon leaks no lives can be lost for 8s
+‎ ‎ ‎ ‎ ‎ ‎ - 120s cooldown will *not* be reset if sold
+‎ ‎ ‎ ‎ ‎ ‎ - doesn't work in sudden death
  
 __Changes from Previous Tier__
-*monkey-rang* gets +8d, +2cd (14), +10md (23), +2 camo damage (14), +15p, +4r 
+*monkey-rang* gets +8d, +4cd, +5md, +15p, +4r 
 gets *Black Hole* passive ability 
  
 __Crosspath Benefits__
@@ -952,21 +877,18 @@ __Crosspath Benefits__
 
 025 
 79r
-*monkey-rang*- 10d, +4cd (14), +13md (23), 26p, 0.0225s, normal, camo
- ‎ ‎ ‎ ‎ ‎ - +4d to camo bloons (14)
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
+*monkey-rang*- 10d, +6cd (16), +8md (18), 25p, 0.03s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status- slows bloons for 0.5s 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 70% speed
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ceramics and leads do not move
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all other bloons move at -25% speed
-**Darkshift** ability: 20s cooldown, teleports to a selected location anywhere on the map
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-*Black Hole* passive ability: 180s cooldown, when a bloon leaks no lives can be lost for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - no initial cooldown
-‎ ‎ ‎ ‎ ‎ ‎ - 180s cooldown will *not* be reset if sold
+**Darkshift** ability: 20s cooldown (initial: 6.67s), teleports to a selected location anywhere on the map
+*Black Hole* passive ability: 120s cooldown (initial: 0s), when a bloon leaks no lives can be lost for 8s
+‎ ‎ ‎ ‎ ‎ ‎ - 120s cooldown will *not* be reset if sold
+‎ ‎ ‎ ‎ ‎ ‎ - doesn't work in sudden death
  
 __Changes from Previous Tier__
-*monkey-rang* gets +8d, +2cd (14), +10md (23), +2 camo damage (14), +15p, +4r 
+*monkey-rang* gets +8d, +4cd, +5md, +15p, +4r 
 gets *Black Hole* passive ability 
  
 __Crosspath Benefits__
