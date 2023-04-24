@@ -1,14 +1,14 @@
 000 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp
+*dart*- 1d, 2p, 0.2s, sharp
  
 footprint radius: 7 (medium)
 
 100 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp
+*dart*- 1d, 2p, 0.2s, sharp
  
 __Changes from 0-0-0__
 *dart* gets less random spread
@@ -16,7 +16,7 @@ __Changes from 0-0-0__
 010 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp, camo
+*dart*- 1d, 2p, 0.2s, sharp, camo
  
 __Changes from 0-0-0__
 *dart* gets camo
@@ -24,7 +24,7 @@ __Changes from 0-0-0__
 001 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp
+*dart*- 1d, 2p, 0.2s, sharp
  
 __Changes from 0-0-0__
 faster swivel speed
@@ -32,7 +32,7 @@ faster swivel speed
 110 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp, camo
+*dart*- 1d, 2p, 0.2s, sharp, camo
  
 __Changes from 0-0-0__
 *dart* gets less random spread, camo
@@ -40,7 +40,7 @@ __Changes from 0-0-0__
 101 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp
+*dart*- 1d, 2p, 0.2s, sharp
  
 __Changes from 0-0-0__
 *dart* gets less random spread
@@ -49,7 +49,7 @@ faster swivel speed
 011 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp, camo
+*dart*- 1d, 2p, 0.2s, sharp, camo
  
 __Changes from 0-0-0__
 *dart* gets camo
@@ -58,7 +58,7 @@ faster swivel speed
 200 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp
+*dart*- 1d, 2p, 0.2s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
@@ -72,7 +72,7 @@ __Changes from 0-0-0__
 020 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.1333s, sharp, camo
+*dart*- 1d, 2p, 0.1333s, sharp, camo
  
 __Changes from Previous Tier__
 *dart* gets 66%s
@@ -83,10 +83,10 @@ __Changes from 0-0-0__
 002 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 3p, 0.2s, shatter
+*dart*- 1d, 5p, 0.2s, shatter
  
 __Changes from Previous Tier__
-*dart* gets +2p, damage type sharp -> shatter, increased projectile size
+*dart* gets +3p, damage type sharp -> shatter, increased projectile size
  
 __Changes from 0-0-0__
 *dart* gets +2p, damage type sharp -> shatter 
@@ -96,7 +96,7 @@ increased projectile size
 210 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp, camo
+*dart*- 1d, 2p, 0.2s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
@@ -107,7 +107,7 @@ __Changes from 0-0-0__
 220 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.1333s, sharp, camo
+*dart*- 1d, 2p, 0.1333s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- does 1d after 1 second
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
@@ -118,7 +118,7 @@ __Changes from 0-0-0__
 201 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.2s, sharp
+*dart*- 1d, 2p, 0.2s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
@@ -130,20 +130,20 @@ faster swivel speed
 202 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 3p, 0.2s, shatter
+*dart*- 1d, 5p, 0.2s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
  
 __Changes from 0-0-0__
-*dart* gets +2p, damage type sharp -> shatter, less random spread, applies *shocked* status
+*dart* gets +3p, damage type sharp -> shatter, less random spread, applies *shocked* status
 faster swivel speed
 increased projectile size
 
 120 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.1333s, sharp, camo
+*dart*- 1d, 2p, 0.1333s, sharp, camo
  
 __Changes from 0-0-0__
 *dart* gets 66%s, less random spread, camo
@@ -151,7 +151,7 @@ __Changes from 0-0-0__
 021 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 1p, 0.1333s, sharp, camo
+*dart*- 1d, 2p, 0.1333s, sharp, camo
  
 __Changes from 0-0-0__
 *dart* gets 66%s, camo
@@ -160,17 +160,17 @@ faster swivel speed
 022 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 3p, 0.1333s, shatter, camo
+*dart*- 1d, 5p, 0.1333s, shatter, camo
  
 __Changes from 0-0-0__
-*dart* gets 66%s, +2p, camo, damage type sharp -> shatter
+*dart* gets 66%s, +3p, camo, damage type sharp -> shatter
 faster swivel speed
 increased projectile size
 
 102 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 3p, 0.2s, shatter
+*dart*- 1d, 5p, 0.2s, shatter
  
 __Changes from 0-0-0__
 *dart* gets +3p, less random spread, damage type sharp -> shatter
@@ -180,7 +180,7 @@ increased projectile size
 012 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*dart*- 1d, 3p, 0.2s, shatter, camo
+*dart*- 1d, 5p, 0.2s, shatter, camo
  
 __Changes from 0-0-0__
 *dart* gets +3p, camo, damage type sharp -> shatter
@@ -190,24 +190,24 @@ increased projectile size
 300 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-laser- 2d, 6p, 0.2s, energy
+laser- 2d, 5p, 0.2s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked2* status- 1d/1s, normal, 2s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 3xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 4+xx dartlings
  
 __Changes from Previous Tier__
-*dart* replaced with laser: +1d, +5p, damage type sharp -> energy, applies *shocked2* status instead 
+*dart* replaced with laser: +1d, +3p, damage type sharp -> energy, applies *shocked2* status instead 
 
 310 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-laser- 2d, 6p, 0.2s, energy, camo
+laser- 2d, 5p, 0.2s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked2* status- 1d/1s, normal, 2s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 3xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 4+xx dartlings
  
 __Changes from Previous Tier__
-*dart* replaced with laser: +1d, +5p, damage type sharp -> energy, applies *shocked2* status instead
+*dart* replaced with laser: +1d, +3p, damage type sharp -> energy, applies *shocked2* status instead
  
 __Crosspath Benefits__
 laser gets camo
@@ -215,13 +215,13 @@ laser gets camo
 320 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-laser- 2d, 6p, 0.1333s, energy, camo
+laser- 2d, 5p, 0.1333s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked2* status- 1d/1s, normal, 2s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 3xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 4+xx dartlings
  
 __Changes from Previous Tier__
-*dart* replaced with laser: +1d, +5p, damage type sharp -> energy, applies *shocked2* status instead
+*dart* replaced with laser: +1d, +3p, damage type sharp -> energy, applies *shocked2* status instead
  
 __Crosspath Benefits__
 laser gets 66%s, camo
@@ -229,13 +229,13 @@ laser gets 66%s, camo
 301 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-laser- 2d, 6p, 0.2s, energy
+laser- 2d, 5p, 0.2s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked2* status- 1d/1s, normal, 2s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 3xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 4+xx dartlings
  
 __Changes from Previous Tier__
-*dart* replaced with laser: +1d, +5p, damage type sharp -> energy, applies *shocked2* status instead
+*dart* replaced with laser: +1d, +3p, damage type sharp -> energy, applies *shocked2* status instead
  
 __Crosspath Benefits__
 faster swivel speed
@@ -243,13 +243,13 @@ faster swivel speed
 302 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-laser- 2d, 9p, 0.2s, energy
+laser- 2d, 8p, 0.2s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked2* status- 1d/1s, normal, 2s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 3xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 4+xx dartlings
  
 __Changes from Previous Tier__
-*dart* replaced with laser: +1d, +5p, damage type sharp -> energy, applies *shocked2* status instead
+*dart* replaced with laser: +1d, +6p, damage type sharp -> energy, applies *shocked2* status instead
  
 __Crosspath Benefits__
 laser gets +3p
@@ -259,7 +259,7 @@ increased projectile size
 030 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 6p, 0.1333s, normal, camo
+*missile*- 0d, 7p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
@@ -271,7 +271,7 @@ __Changes from Previous Tier__
 130 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 6p, 0.1333s, normal, camo
+*missile*- 0d, 7p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
@@ -286,7 +286,7 @@ __Crosspath Benefits__
 230 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 6p, 0.1333s, normal, camo
+*missile*- 0d, 7p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
@@ -305,7 +305,7 @@ __Crosspath Benefits__
 031 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 6p, 0.1333s, normal, camo
+*missile*- 0d, 7p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
@@ -320,7 +320,7 @@ faster swivel speed
 032 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 8p, 0.1333s, normal, camo
+*missile*- 0d, 10p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 8p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
@@ -330,7 +330,7 @@ __Changes from Previous Tier__
 *dart* replaced with *missile*: -1d, +5p, damage type sharp -> normal, creates *explosion* on impact
  
 __Crosspath Benefits__
-*missile* gets +2p
+*missile* gets +3p
 *explosion* gets +2p
 faster swivel speed
 increased projectile and *explosion* size
@@ -338,62 +338,62 @@ increased projectile and *explosion* size
 003 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 1.5s, shatter
+*buckshot*- 4d, 7p, 6j, 1.5s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
  
 __Changes from Previous Tier__
-*dart* replaced with *buckshot*: +3d, +1p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
+*dart* replaced with *buckshot*: +3d, +2p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
 
 103 
-182r
+162.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 1.5s, sharp
+*buckshot*- 4d, 7p, 6j, 1.5s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
  
 __Changes from Previous Tier__
-*dart* replaced with *buckshot*: +3d, +1p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
+*dart* replaced with *buckshot*: +3d, +2p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
  
 __Crosspath Benefits__
-+52r
++32.5r
 *buckshot* gets less random spread
 
 203 
-182r
+162.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 1.5s, shatter
+*buckshot*- 4d, 7p, 6j, 1.5s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
  
 __Changes from Previous Tier__
-*dart* replaced with *buckshot*: +3d, +1p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
+*dart* replaced with *buckshot*: +3d, +2p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
  
 __Crosspath Benefits__
-+52r
++32.5r
 *buckshot* has less random spread
 applies *shocked* status
 
 013 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 1.5s, shatter, camo
+*buckshot*- 4d, 7p, 6j, 1.5s, shatter, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
  
 __Changes from Previous Tier__
-*dart* replaced with *buckshot*: +3d, +1p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
+*dart* replaced with *buckshot*: +3d, +2p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
  
 __Crosspath Benefits__
 *buckshot* gets camo
@@ -401,14 +401,14 @@ __Crosspath Benefits__
 023 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 1.0s, shatter, camo
+*buckshot*- 4d, 7p, 6j, 1.0s, shatter, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
  
 __Changes from Previous Tier__
-*dart* replaced with *buckshot*: +3d, +1p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
+*dart* replaced with *buckshot*: +3d, +2p, +5j, 750%s, ∞r -> 130r, applies knockback on damage
  
 __Crosspath Benefits__
 *buckshot* gets 66%s, camo
@@ -420,11 +420,8 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
-*end-point*- 2d, 10md, plasma
+*end-point*- 1d, 11md, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - uses the remaining pierce from *beam*
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
  
 __Changes from Previous Tier__
 laser replaced by *beam*: -1d, +46p, damage type energy -> plasma, applies *shocked3* status instead
@@ -437,11 +434,8 @@ gets *end-point*
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
-*end-point*- 2d, 10md, plasma
+*end-point*- 1d, 11md, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - uses the remaining pierce from *beam*
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
  
 __Changes from Previous Tier__
 laser replaced by *beam*: -1d, +46p, damage type energy -> plasma, applies *shocked3* status instead
@@ -457,11 +451,8 @@ all attacks get camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
-*end-point*- 2d, 10md, plasma
+*end-point*- 1d, 11md, plasma, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - uses the remaining pierce from *beam*
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
  
 __Changes from Previous Tier__
 laser replaced by *beam*: -1d, +46p, damage type energy -> plasma, applies *shocked3* status instead
@@ -478,11 +469,8 @@ all attacks get camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
-*end-point*- 2d, 10md, plasma
+*end-point*- 1d, 11md, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - uses the remaining pierce from *beam*
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
  
 __Changes from Previous Tier__
 laser replaced by *beam*: -1d, +46p, damage type energy -> plasma, applies *shocked3* status instead
@@ -498,11 +486,8 @@ faster swivel speed
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
-*end-point*- 2d, 10md, plasma
+*end-point*- 1d, 11md, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - uses the remaining pierce from *beam*
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked3* status- 1d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 4xx deal +1d to *shocked* bloons
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 5xx dartlings
  
 __Changes from Previous Tier__
 laser replaced by *beam*: -1d, +46p, damage type energy -> plasma, applies *shocked3* status instead
@@ -516,39 +501,33 @@ increased *beam* width *end-point* size
 040 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 8p, 0.1333s, normal, camo
+*missile*- 0d, 7p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 4 *explosions* and pierce buffs are effectively halved)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Rocket Storm** ability: 40s cooldown (initial: 13.33s), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 8p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 130º spread
  
 __Changes from Previous Tier__
-*missile* gets +2p
-*explosion* gets +2p
 gets **Rocket Storm** ability
 
 140 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 8p, 0.1333s, normal, camo
+*missile*- 0d, 7p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 4 *explosions* and pierce buffs are effectively halved)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Rocket Storm** ability: 40s cooldown (initial: 13.33s), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 8p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 52º spread
  
 __Changes from Previous Tier__
-*missile* gets +2p
-*explosion* gets +2p
 gets **Rocket Storm** ability
  
 __Crosspath Benefits__
@@ -558,24 +537,21 @@ __Crosspath Benefits__
 240 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 8p, 0.1333s, normal, camo
+*missile*- 0d, 7p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 4 *explosions* and pierce buffs are effectively halved)
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (*explosions* do not apply *shocked* status)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Rocket Storm** ability: 40s cooldown (initial: 13.33s), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 8p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 52º spread
  
 __Changes from Previous Tier__
-*missile* gets +2p
-*explosion* gets +2p
 gets **Rocket Storm** ability 
  
 __Crosspath Benefits__
@@ -585,20 +561,17 @@ __Crosspath Benefits__
 041 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 8p, 0.1333s, normal, camo
+*missile*- 0d, 7p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 4 *explosions* and pierce buffs are effectively halved)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Rocket Storm** ability: 40s cooldown (initial: 13.33s), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 8p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 130º spread
  
 __Changes from Previous Tier__
-*missile* gets +2p
-*explosion* gets +2p
 gets **Rocket Storm** ability 
  
 __Crosspath Benefits__
@@ -609,22 +582,19 @@ faster swivel speed
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
 *missile*- 0d, 10p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 8p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 5 *explosions* and pierce buffs are effectively halved)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Rocket Storm** ability: 40s cooldown (initial: 13.33s), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 10p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 130º spread
  
 __Changes from Previous Tier__
-*missile* gets +2p
-*explosion* gets +2p
 gets **Rocket Storm** ability 
  
 __Crosspath Benefits__
-*missile* gets +2p
+*missile* gets +3p
 *explosion* gets +2p
 Rocket Storm *explosion* gets +2p
 increased projectile and *explosion* size
@@ -632,9 +602,9 @@ increased projectile and *explosion* size
 004 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 0.375s, shatter
+*buckshot*- 4d, 7p, 6j, 0.375s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
 independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
@@ -644,11 +614,11 @@ __Changes from Previous Tier__
 gains independent targeting
 
 104 
-182r
+162.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 0.375s, shatter
+*buckshot*- 4d, 7p, 6j, 0.375s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
 independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
@@ -658,18 +628,18 @@ __Changes from Previous Tier__
 gains independent targeting
  
 __Crosspath Benefits__
-+52r
++32.5r
 *buckshot* gets less random spread
 
 204 
-182r
+162.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 0.375s, shatter
+*buckshot*- 4d, 7p, 6j, 0.375s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
     -applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
 independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
@@ -679,15 +649,15 @@ __Changes from Previous Tier__
 gains independent targeting
  
 __Crosspath Benefits__
-+52r
++32.5r
 *buckshot* gets less random spread, applies *shocked* status
 
 014 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 0.375s, shatter, camo
+*buckshot*- 4d, 7p, 6j, 0.375s, shatter, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
 independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
@@ -702,9 +672,9 @@ __Crosspath Benefits__
 024 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 4d, 4p, 6j, 0.25s, shatter, camo
+*buckshot*- 4d, 7p, 6j, 0.25s, shatter, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
 independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
@@ -719,72 +689,51 @@ __Crosspath Benefits__
 500 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*beam*- 25d, 999p, 0.2s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
-*first-hit-beam*- 80d, 1p, 0.2s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed for damage or pierce
+*beam*- 25d, 1000p, 0.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
  
 __Changes from Previous Tier__
-*beam* gets +24d, +949p, damage type plasma -> normal, applies *shocked5* status instead
+*beam* gets +24d, +950p, damage type plasma -> normal, applies *shocked*5 status instead
 loses *end-point*
-gets *first-hit-beam*
 
 510 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*beam*- 25d, 999p, 0.2s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
-*first-hit-beam*- 80d, 1p, 0.2s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed for damage or pierce
+*beam*- 25d, 1000p, 0.2s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
  
 __Changes from Previous Tier__
-*beam* gets +24d, +949p, damage type plasma -> normal, applies *shocked5* status instead
+*beam* gets +24d, +950p, damage type plasma -> normal, applies *shocked*5 status instead
 loses *end-point*
-gets *first-hit-beam*
- 
 __Crosspath Benefits__
-*beam*, *first-hit-beam* gets camo
+*beam* gets camo
 
 520 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*beam*- 25d, 999p, 0.1333s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
-*first-hit-beam*- 80d, 1p, 0.1333s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed for damage or pierce
+*beam*- 25d, 1000p, 0.1333s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
  
 __Changes from Previous Tier__
-*beam* gets +24d, +949p, damage type plasma -> normal, applies *shocked5* status instead
+*beam* gets +4d, +20md, +950p, damage type plasma -> normal, applies *shocked*5 status instead
 loses *end-point*
-gets *first-hit-beam*
  
 __Crosspath Benefits__
-*beam*, *first-hit-beam* gets 66%s, camo
+*beam* gets 66%s, camo
 
 501 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*beam*- 25d, 999p, 0.2s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
-*first-hit-beam*- 80d, 1p, 0.2s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed for damage or pierce
+*beam*- 25d, 1000p, 0.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
  
 __Changes from Previous Tier__
-*beam* gets +24d, +949p, damage type plasma -> normal, applies *shocked5* status instead
+*beam* gets +24d, +950p, damage type plasma -> normal, applies *shocked*5 status instead
 loses *end-point*
-gets *first-hit-beam*
  
 __Crosspath Benefits__
 faster swivel speed
@@ -792,61 +741,52 @@ faster swivel speed
 502 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*beam*- 25d, 1024p, 0.2s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
-*first-hit-beam*- 80d, 1p, 0.2s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed for damage or pierce
+*beam*- 25d, 1025p, 0.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked5* status- 20d/1s, normal, 5s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 5xx deal +20d to *shocked* bloons
  
 __Changes from Previous Tier__
-*beam* gets +24d, +949p, damage type plasma -> normal, applies *shocked5* status instead
+*beam* gets +24d, +950p, damage type plasma -> normal, applies *shocked*5 status instead
 loses *end-point*
-gets *first-hit-beam*
  
 __Crosspath Benefits__
 *beam* gets +25p
 faster swivel speed
-increased *beam* and *first-hit-beam* width
+increased *beam* width
 
 050 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 550md, 12p, 0.4s, normal, camo
+*missile*- 3d, 550md, 12p, 0.4s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 6 *explosions* and pierce buffs are effectively halved)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Rocket Storm** ability: 40s cooldown (initial: same as existing cooldown), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, +4cd (9), +22md (27), 18p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 9cd, 17md, 18p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 130º spread
  
 __Changes from Previous Tier__
-*missile* gets +550md, +4p, 300%s
-*explosion* gets +2d
-**Rocket Storm** gets +4cd, +22md, +10p
+*missile* gets +3d, +550md, +6p, 300%s
+Rocket Storm gets +5cd, +13md, +10p
 
 150 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 550md, 12p, 0.4s, normal, camo
+*missile*- 3d, 550md, 12p, 0.4s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 6 *explosions* and pierce buffs are effectively halved)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Rocket Storm** ability: 40s cooldown (initial: same as existing cooldown), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, +4cd (9), +22md (27), 18p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 9cd, 27md, 18p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 52º spread
  
 __Changes from Previous Tier__
-*missile* gets +550md, +4p, 300%s
-*explosion* gets +2d
-**Rocket Storm** gets +4cd, +22md, +10p
+*missile* gets +3d, +550md, +6p, 300%s
+Rocket Storm gets +5cd, +13md, +10p
  
 __Crosspath Benefits__
 *missile* gets less random spread 
@@ -855,49 +795,45 @@ Rocket Storm gets -78º random spread
 250 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 550md, 12p, 0.4s, normal, camo
+*missile*- 3d, 550md, 12p, 0.4s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 6 *explosions* and pierce buffs are effectively halved)
 ‎ ‎ ‎ ‎ ‎ ‎ - applies **shocked** status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (*explosions* do not apply *shocked* status)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Rocket Storm** ability: 40s cooldown (initial: same as existing cooldown), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, +4cd (9), +22md (27), 18p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 9cd, 27md, 18p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 52º spread
  
 __Changes from Previous Tier__
-*missile* gets +550md, +4p, 300%s
-*explosion* gets +2d
-**Rocket** Storm gets +4cd, +22md, +10p
+*missile* gets +3d, +550md, +6p, 300%s
+Rocket Storm gets +5cd, +13md, +10p
  
 __Crosspath Benefits__
 *missile* gets less random spread
 applies *shocked* status 
-**Rocket Storm** gets -78º random spread
+Rocket Storm gets -78º random spread
 
 051 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 550md, 12p, 0.4s, normal, camo
+*missile*- 3d, 550md, 12p, 0.4s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 8p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 6p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 6 *explosions* and pierce buffs are effectively halved)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Rocket Storm** ability: 40s cooldown (initial: same as existing cooldown), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, +4cd (9), +22md (27), 18p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 9cd, 27md, 18p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 130º spread
  
 __Changes from Previous Tier__
-*missile* gets +550md, +4p,  300%s
-*explosion* gets +2d
-**Rocket Storm** gets +4cd, +22md, +10p
+*missile* gets +3d, +550md, +6p,  300%s
+Rocket Storm gets +5cd, +13md, +10p
  
 __Crosspath Benefits__
 faster swivel speed
@@ -905,24 +841,22 @@ faster swivel speed
 052 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*missile*- 0d, 550md, 14p, 0.4s, normal, camo
+*missile*- 3d, 550md, 15p, 0.4s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 8p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - each *explosion* created uses 2 pierce
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this means that the dartling makes 7 *explosions* and pierce buffs are effectively halved)
-**Rocket Storm** ability: 40s cooldown, emits *rockets* for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Rocket Storm** ability: 40s cooldown (initial: same as existing cooldown), emits *rockets* for 8s
 ‎ ‎ ‎ ‎ ‎ ‎ - *rockets*- 0d, 1p, 0.467s, 10j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 5d, +4cd (9), +22md (27), 20p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 4d, 9cd, 27md, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 130º spread
  
 __Changes from Previous Tier__
-*missile* gets +550md, +4p, 300%s
-*explosion* gets +2d
-**Rocket Storm** gets +4cd, +22md, +10p
+*missile* gets +3d, +550md, +6p, 300%s
+Rocket Storm gets +5cd, +13md, +10p
  
 __Crosspath Benefits__
-*missile* gets +2p
+*missile* gets +3p
 *explosion* gets +2p
 Rocket Storm *explosion* gets +2p
 faster swivel speed 
@@ -931,65 +865,66 @@ increased projectile and *explosion* size
 005 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 8d, 6p, 12j, 0.25s, shatter
+*buckshot*- 8d, 9p, 12j, 0.25s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
-independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong, first, strong
+independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
  
 __Changes from Previous Tier__
-*buckshot* gets +4d (8), +2p (6), +6j (12), 66%s
+*buckshot* gets +4d, +2p, +6j, 66%s
 
 105 
-182r
+162.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 8d, 6p, 12j, 0.25s, shatter
+*buckshot*- 8d, 9p, 12j, 0.25s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
-independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong, first, strong
+independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
  
 __Changes from Previous Tier__
-*buckshot* gets +4d (8), +2p (6), +6j (12), 66%s
+*buckshot* gets +4d, +2p, +6j, 66%s
  
 __Crosspath Benefits__
-+52r
++32.5r
 *buckshot* gets less random spread
 
 205 
-182r
+162.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 8d, 6p, 12j, 0.25s, shatter
+*buckshot*- 8d, 9p, 12j, 0.25s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *shocked* status- 1d/1s, normal, 1s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - all dartlings with 2xx deal +1d to *shocked* bloons
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - does not affect 23+x dartlings or 3+xx dartlings
+
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
-independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong, first, strong 
+independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
  
 __Changes from Previous Tier__
-*buckshot* gets +4d (8), +2p (6), +6j (12), 66%s 
+*buckshot* gets +4d, +2p, +6j, 66%s
  
 __Crosspath Benefits__
-+52r
++32.5r
 *buckshot* gets less random spread, applies *shocked* status 
 
 015 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 8d, 6p, 12j, 0.25s, shatter, camo
+*buckshot*- 8d, 9p, 12j, 0.25s, shatter, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
-independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong, first, strong
+independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
  
 __Changes from Previous Tier__
-*buckshot* gets +4d (8), +2p (6), +6j (12), 66%s
+*buckshot* gets +4d, +2p, +6j, 66%s
  
 __Crosspath Benefits__
 *buckshot* gets camo
@@ -997,15 +932,15 @@ __Crosspath Benefits__
 025 
 130r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*buckshot*- 8d, 6p, 12j, 0.167s, shatter, camo
+*buckshot*- 8d, 9p, 12j, 0.167s, shatter, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage- slows bloons for 0.2s
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - blimps unaffected
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs unaffected
         - ceramics and leads move at -50% speed
         - all other bloons move at -200% speed
-independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong, first, strong
+independent targeting- each shot changes target in a cycle, going in this order: first, last, close, strong
  
 __Changes from Previous Tier__
-*buckshot* gets +4d (8), +2p (6), +6j (12), 66%s
+*buckshot* gets +4d, +2p, +6j, 66%s
  
 __Crosspath Benefits__
 *buckshot* gets 66%s, camo
