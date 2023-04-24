@@ -74,7 +74,6 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
@@ -111,7 +110,6 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 2d, 2p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from 0-0-0__
@@ -141,7 +139,6 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from 0-0-0__
@@ -155,7 +152,6 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from 0-0-0__
@@ -168,7 +164,6 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from 0-0-0__
@@ -194,7 +189,7 @@ __Changes from 0-0-0__
 300 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 20d, +15cd (35), 1p, 1.59s, normal
+*bullet*- 20d, 35cd, 1p, 1.59s, normal
  
 __Changes from Previous Tier__
 *bullet* gets +13d, +15cd
@@ -202,7 +197,7 @@ __Changes from Previous Tier__
 310 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 20d, +15cd (35), 1p, 1.59s, normal, camo
+*bullet*- 20d, 35cd, 1p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
@@ -214,25 +209,23 @@ __Crosspath Benefits__
 320 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 20d, +15cd (35), 1p, 1.59s, normal, camo
+*bullet*- 20d, 35cd, 1p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 4d, 2p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
 *bullet* gets +13d, +15cd
-*shrapnel* gets +2d (4), 
  
 __Crosspath Benefits__
 *bullet* gets camo, +2 camo damage
-emits *shrapnel*, damage type sharp -> normal
+*shrapnel* gets +3d, damage type sharp -> normal
 
 301 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 20d, +15cd (35), 1p, 1.13s, normal
+*bullet*- 20d, 35cd, 1p, 1.13s, normal
  
 __Changes from Previous Tier__
 *bullet* gets +13d, +15cd
@@ -243,7 +236,7 @@ __Crosspath Benefits__
 302 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 20d, +15cd (35), 1p, 0.779s, normal
+*bullet*- 20d, 35cd, 1p, 0.779s, normal
  
 __Changes from Previous Tier__
 *bullet* gets +13d, +15cd
@@ -254,30 +247,28 @@ __Crosspath Benefits__
 030 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, 3p, 1.59s, sharp, camo
+*bullet*- 2d, 4p, 1.59s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
-*bullet* gets +2p, bounces to nearby targets
+*bullet* gets +3p, bounces to nearby targets
 
 130 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 4d, 3p, 1.59s, normal, camo
+*bullet*- 4d, 4p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
-*bullet* gets +2p, bounces to nearby targets
+*bullet* gets +3p, bounces to nearby targets
  
 __Crosspath Benefits__
 *bullet* gets +2d, damage type sharp -> normal
@@ -286,34 +277,32 @@ __Crosspath Benefits__
 230 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 7d, 3p, 1.59s, normal, camo
+*bullet*- 7d, 4p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 2d, 2p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
-*bullet* gets +2p, bounces to nearby targets
+*bullet* gets +3p, bounces to nearby targets
   
 __Crosspath Benefits__
-*bullet* gets +5d, damage type sharp -> normal, max bounce distance +10 units
+*bullet* gets +5d, damage type sharp -> normal
 *shrapnel* gets +1d, damage type sharp -> normal
 
 031 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, 3p, 1.113s, sharp, camo
+*bullet*- 2d, 4p, 1.113s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
-*bullet* gets +2p, bounces to nearby targets
+*bullet* gets +3p, bounces to nearby targets
  
 __Crosspath Benefits__
 *bullet* gets 70%s
@@ -321,16 +310,15 @@ __Crosspath Benefits__
 032 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, 3p, 0.779s, sharp, camo
+*bullet*- 2d, 4p, 0.779s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
-*bullet* gets +2p, bounces to nearby targets
+*bullet* gets +3p, bounces to nearby targets
  
 __Crosspath Benefits__
 *bullet* gets 49%s
@@ -382,25 +370,26 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
 *bullet*- 2d, 1p, 0.2597s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 3p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
 *bullet* gets 33.33%s
  
 __Crosspath Benefits__
-*bullet* gets camo, +2 camo damage, emits *shrapnel* on impact
+*bullet* gets camo, +2 camo damage
+*shrapnel* gets +1p
 
 400 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 30d, +15cd (45), 1p, 1.59s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on MOABs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1.5s on BFBs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on DDTs and ZOMGs
+*bullet*- 30d, 45cd, 1p, 1.59s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *stun* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2s on MOABs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1s on BFBs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on DDTs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.3s on ZOMGs
  
 __Changes from Previous Tier__
 *bullet* gets +10d, stuns moabs on impact
@@ -408,11 +397,12 @@ __Changes from Previous Tier__
 410 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 30d, +15cd (45), 1p, 1.59s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on MOABs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1.5s on BFBs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on DDTs and ZOMGs
+*bullet*- 30d, 45cd, 1p, 1.59s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - applies *stun* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2s on MOABs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1s on BFBs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on DDTs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.3s on ZOMGs
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
@@ -424,37 +414,34 @@ __Crosspath Benefits__
 420 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 30d, +15cd (45), 1p, 1.59s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on MOABs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1.5s on BFBs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on DDTs and ZOMGs
+*bullet*- 30d, 45cd, 1p, 1.59s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - applies *stun* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2s on MOABs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1s on BFBs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on DDTs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.3s on ZOMGs
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 6d, 2p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies a weaker stun than the main attack
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2s on MOABs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1s on BFBs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on DDTs and ZOMGs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *stun*
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
 *bullet* gets +10d, stuns moabs on impact
-*shrapnel* gets +2d (6), stuns moabs on impact for roughly 33% less duration than the main bullet
  
 __Crosspath Benefits__
 *bullet* gets camo, +2 camo damage
-emits *shrapnel*, damage type sharp -> normal
+*shrapnel* gets +5d, stuns moabs on impact
 
 401 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 30d, +15cd (45), 1p, 1.13s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on MOABs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1.5s on BFBs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on DDTs and ZOMGs
+*bullet*- 30d, 45cd, 1p, 1.13s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *stun* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2s on MOABs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1s on BFBs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on DDTs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.3s on ZOMGs
  
 __Changes from Previous Tier__
 *bullet* gets +10d, stuns moabs on impact
@@ -465,11 +452,12 @@ __Crosspath Benefits__
 402 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 30d, +15cd (45), 1p, 0.779s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on MOABs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1.5s on BFBs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on DDTs and ZOMGs
+*bullet*- 30d, 45cd, 1p, 0.779s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *stun* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2s on MOABs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 1s on BFBs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on DDTs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.3s on ZOMGs
  
 __Changes from Previous Tier__
 *bullet* gets +10d, stuns moabs on impact
@@ -482,18 +470,15 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
 *bullet*- 2d, 4p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 5p, 5j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 3p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $1200
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $2000
  
 __Changes from Previous Tier__
-*bullet* gets +1p, damage type sharp -> normal
-*shrapnel* gets +3p
+*bullet* damage type sharp -> normal
+*shrapnel* gets +1p
 gets **Supply Drop** ability
 
 140 
@@ -501,22 +486,19 @@ gets **Supply Drop** ability
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
 *bullet*- 4d, 4p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 5p, 5j, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 3p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $1200
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $2000
  
 __Changes from Previous Tier__
-*bullet* gets +1p, damage type sharp -> normal
-*shrapnel* gets +3p
+*bullet* damage type sharp -> normal
+*shrapnel* gets +1p
 gets **Supply Drop** ability
  
 __Crosspath Benefits__
-*bullet* gets +2d
+*bullet* gets +2d, damage type sharp -> normal
 *shrapnel* damage type sharp -> normal
 
 240 
@@ -524,41 +506,35 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
 *bullet*- 7d, 4p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 2d, 5p, 5j, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 2d, 3p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $1200
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $2000
  
 __Changes from Previous Tier__
-*bullet* gets +1p, damage type sharp -> normal
-*shrapnel* gets +3p
+*bullet* damage type sharp -> normal
+*shrapnel* gets +1p
 gets **Supply Drop** ability
  
 __Crosspath Benefits__
-*bullet* gets +5d, max bounce distance +10 units
-*shrapnel* gets +1d, damage type sharp -> normal
+*bullet* gets +5d, damage type sharp -> normal
+*shrapnel* gets +2d, damage type sharp -> normal
 
 041 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
 *bullet*- 2d, 4p, 1.113s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 5p, 5j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 3p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $1200
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $2000
  
 __Changes from Previous Tier__
-*bullet* gets +1p, damage type sharp -> normal
-*shrapnel* gets +3p
+*bullet* damage type sharp -> normal
+*shrapnel* gets +1p
 gets **Supply Drop** ability
  
 __Crosspath Benefits__
@@ -569,18 +545,15 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
 *bullet*- 2d, 4p, 0.779s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 5p, 5j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 3p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $1200
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $2000
  
 __Changes from Previous Tier__
-*bullet* gets +1p, damage type sharp -> normal
-*shrapnel* gets +3p
+*bullet* damage type sharp -> normal
+*shrapnel* gets +1p
 gets **Supply Drop** ability
  
 __Crosspath Benefits__
@@ -589,41 +562,41 @@ __Crosspath Benefits__
 004 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, +2md (4), 1p, 0.1299s, sharp
+*bullet*- 2d, 4md, 1p, 0.1299s, normal
  
 __Changes from Previous Tier__
-*bullet* gets 50%s, +2md
+*bullet* gets 50%s, +2md, normal
 
 104 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 4d, +2md (6), 1p, 0.1299s, normal
+*bullet*- 4d, 7md, 1p, 0.1299s, normal
  
 __Changes from Previous Tier__
 *bullet* gets 50%s, +2md
  
 __Crosspath Benefits__
-*bullet* gets +2d, damage type sharp -> normal
+*bullet* gets +2d, +1md
 
 204 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 7d, +2md (9), 1p, 0.1299s, normal
+*bullet*- 7d, 11md, 1p, 0.1299s, normal
  
 __Changes from Previous Tier__
 *bullet* gets 50%s, +2md
  
 __Crosspath Benefits__
-*bullet* gets +5d, damage type sharp -> normal
+*bullet* gets +5d, +2md (11)
 
 014 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, +2md (4), 1p, 0.1299s, sharp, camo
+*bullet*- 2d, 4md, 1p, 0.1299s, nomral, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
-*bullet* gets 50%s, +2md
+*bullet* gets 50%s, +2md, normal
  
 __Crosspath Benefits__
 *bullet* gets camo, +2 camo damage
@@ -631,53 +604,53 @@ __Crosspath Benefits__
 024 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, +2md (4), 1p, 0.1299s, sharp, camo
+*bullet*- 2d, 4md, 1p, 0.1299s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 3p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
-*bullet* gets 50%s, +2md
+*bullet* gets 50%s, +2md, normal
  
 __Crosspath Benefits__
-*bullet* gets camo, +2 camo damage, emits *shrapnel* on impact
+*bullet* gets camo, +2 camo damage
+*shrapnel* gets +1p
 
 500 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 80d, +15cd (95), +5md (85), 1p, 1.59s, normal
+*bullet*- 80d, 95cd, 85md, 1p, 1.59s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *crippled* status- moabs cannot move and take +5d
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 7s on MOABs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 6s on BFBs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 4s on DDTs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on ZOMGs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on BADs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on BADs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - status is applied before damage is dealt
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 *bullet* gets +50d, applies *crippled* status
-stun duration improved (M.O.A.B. stun 3s -> 7s, B.F.B. stun 1.5s -> 6s, D.D.T. stun 0.75s -> 4s, Z.O.M.G. stun 0.75s -> 3s)
+stun duration improved (M.O.A.B. stun 2s -> 7s, B.F.B. stun 1s -> 6s, D.D.T. stun 0.5s -> 4s, Z.O.M.G. stun 0.3s -> 3s)
 
 510 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 80d, +15cd (95), +5md (85), 1p, 1.59s, normal, camo
+*bullet*- 80d, 95cd, 85md, 1p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *crippled* status- moabs cannot move and take +5d
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 7s on MOABs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 6s on BFBs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 4s on DDTs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on ZOMGs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on BADs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on BADs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - status is applied before damage is dealt
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
  
 __Changes from Previous Tier__
 *bullet* gets +50d, applies *crippled* status
-stun duration improved (M.O.A.B. stun 3s -> 7s, B.F.B. stun 1.5s -> 6s, D.D.T. stun 0.75s -> 4s, Z.O.M.G. stun 0.75s -> 3s)
+stun duration improved (M.O.A.B. stun 2s -> 7s, B.F.B. stun 1s -> 6s, D.D.T. stun 0.5s -> 4s, Z.O.M.G. stun 0.3s -> 3s)
  
 __Crosspath Benefits__
 *bullet* gets camo, +2 camo damage
@@ -685,52 +658,45 @@ __Crosspath Benefits__
 520 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 80d, +15cd (95), +5md (85), 1p, 1.59s, normal, camo
+*bullet*- 80d, 95cd, 85md, 1p, 1.59s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *crippled* status- moabs cannot move and take +5d
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 7s on MOABs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 6s on BFBs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 4s on DDTs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on ZOMGs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on BADs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on BADs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - status is applied before damage is dealt
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 12d, 2p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel* applies a *crippled* status with shorter duration
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 4.5s on MOABs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 4s on BFBs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2.5s on DDTs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2s on ZOMGs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on BADs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel* applies *crippled* status
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
   
 __Changes from Previous Tier__
 *bullet* gets +50d, applies *crippled* status
-stun duration improved (M.O.A.B. stun 3s -> 7s, B.F.B. stun 1.5s -> 6s, D.D.T. stun 0.75s -> 4s, Z.O.M.G. stun 0.75s -> 3s)
-*shrapnel* gets +6d (12), applies *crippled* status with roughly 33% less duration than the main bullet
+stun duration improved (M.O.A.B. stun 2s -> 7s, B.F.B. stun 1s -> 6s, D.D.T. stun 0.5s -> 4s, Z.O.M.G. stun 0.3s -> 3s)
  
 __Crosspath Benefits__
 *bullet* gets camo, +2 camo damage
-emits *shrapnel*, damage type sharp -> normal
+*shrapnel* gets +11d, damage type sharp -> normal, applies a *crippled* status
 
 501 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 80d, +15cd (95), +5md (85), 1p, 1.113s, normal
+*bullet*- 80d, 95cd, 85md, 1p, 1.113s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *crippled* status- moabs cannot move and take +5d
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 7s on MOABs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 6s on BFBs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 4s on DDTs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on ZOMGs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on BADs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on BADs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - status is applied before damage is dealt
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 *bullet* gets +50d, applies *crippled* status
-stun duration improved (M.O.A.B. stun 3s -> 7s, B.F.B. stun 1.5s -> 6s, D.D.T. stun 0.75s -> 4s, Z.O.M.G. stun 0.75s -> 3s)
+stun duration improved (M.O.A.B. stun 2s -> 7s, B.F.B. stun 1s -> 6s, D.D.T. stun 0.5s -> 4s, Z.O.M.G. stun 0.3s -> 3s)
  
 __Crosspath Benefits__
 *bullet* gets 70%s
@@ -738,19 +704,19 @@ __Crosspath Benefits__
 502 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 80d, +15cd (95), +5md (85), 1p, 0.779s, normal
+*bullet*- 80d, 95cd, 85md, 1p, 0.779s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *crippled* status- moabs cannot move and take +5d
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 7s on MOABs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 6s on BFBs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 4s on DDTs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 3s on ZOMGs
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.75s on BADs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 0.5s on BADs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - status is applied before damage is dealt
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 *bullet* gets +50d, applies *crippled* status
-stun duration improved (M.O.A.B. stun 3s -> 7s, B.F.B. stun 1.5s -> 6s, D.D.T. stun 0.75s -> 4s, Z.O.M.G. stun 0.75s -> 3s)
+stun duration improved (M.O.A.B. stun 2s -> 7s, B.F.B. stun 1s -> 6s, D.D.T. stun 0.5s -> 4s, Z.O.M.G. stun 0.3s -> 3s)
  
 __Crosspath Benefits__
 *bullet* gets 49%s
@@ -762,12 +728,9 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 5p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $3000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $5000
 *buff*- grants elite targeting, 75%s to all snipers
 ‎ ‎ ‎ ‎ ‎ ‎ - elite targeting- targeting hierarchy listed below
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - target the first bloon more than 75% through the track
@@ -776,7 +739,7 @@ __Crosspath Benefits__
  
 __Changes from Previous Tier__
 *bullet* gets 40%s
-**Supply Drop** ability income improved $1200 -> $3000
+**Supply Drop** ability income improved $2000 -> $5000
 gets *buff* 
 
 150 
@@ -786,12 +749,9 @@ gets *buff*
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 5p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $3000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $5000
 *buff*- grants elite targeting, 75%s to all snipers
 ‎ ‎ ‎ ‎ ‎ ‎ - elite targeting- targeting hierarchy listed below
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - target the first bloon more than 75% through the track
@@ -800,11 +760,11 @@ gets *buff*
  
 __Changes from Previous Tier__
 *bullet* gets 40%s
-**Supply Drop** ability income improved $1200 -> $3000
+**Supply Drop** ability income improved $2000 -> $5000
 gets *buff* 
  
 __Crosspath Benefits__
-*bullet* gets +2d
+*bullet* gets +2d, damage type sharp -> normal
 *shrapnel* damage type sharp -> normal
 
 250 
@@ -813,13 +773,10 @@ __Crosspath Benefits__
 *bullet*- 7d, 4p, 0.636s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 2d, 5p, 5j, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $3000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $5000
 *buff*- grants elite targeting, 75%s to all snipers
 ‎ ‎ ‎ ‎ ‎ ‎ - elite targeting- targeting hierarchy listed below
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - target the first bloon more than 75% through the track
@@ -828,11 +785,11 @@ __Crosspath Benefits__
  
 __Changes from Previous Tier__
 *bullet* gets 40%s
-**Supply Drop** ability income improved $1200 -> $3000
+**Supply Drop** ability income improved $2000 -> $5000
 gets *buff* 
  
 __Crosspath Benefits__
-*bullet* gets +5d, max bounce distance +10 units
+*bullet* gets +5d, damage type sharp -> normal
 *shrapnel* gets +1d, damage type sharp -> normal
 
 051 
@@ -842,12 +799,9 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 5p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $3000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $5000
 *buff*- grants elite targeting, 75%s to all snipers
 ‎ ‎ ‎ ‎ ‎ ‎ - elite targeting- targeting hierarchy listed below
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - target the first bloon more than 75% through the track
@@ -856,7 +810,7 @@ __Crosspath Benefits__
  
 __Changes from Previous Tier__
 *bullet* gets 40%s
-**Supply Drop** ability income improved $1200 -> $3000
+**Supply Drop** ability income improved $2000 -> $5000
 gets *buff* 
  
 __Crosspath Benefits__
@@ -869,12 +823,9 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 5p, 5j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
-‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 40 units
+‎ ‎ ‎ ‎ ‎ ‎ - can jump to targets within 50 units
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-**Supply Drop** ability: 90s cooldown, drops a crate containing $3000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Drop** ability: 40s cooldown (initial: 20s), drops a crate containing $5000
 *buff*- grants elite targeting, 75%s to all snipers
 ‎ ‎ ‎ ‎ ‎ ‎ - elite targeting- targeting hierarchy listed below
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - target the first bloon more than 75% through the track
@@ -883,7 +834,7 @@ __Crosspath Benefits__
  
 __Changes from Previous Tier__
 *bullet* gets 40%s
-**Supply Drop** ability income improved $1200 -> $3000
+**Supply Drop** ability income improved $2000 -> $5000
 gets *buff* 
  
 __Crosspath Benefits__
@@ -892,10 +843,9 @@ __Crosspath Benefits__
 005 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, +4md (6), 1p, 0.0649s, sharp
+*bullet*- 2d, 4md, 1p, 0.0649s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - if the furthest bloon is x% through the track, elite defender shoots x% faster
-*Defense* passive ability: 10s cooldown, when a bloon leaks, speed increased to 0.0162s for 7s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+*Defense* passive ability: 10s cooldown (initial: 10s), when a bloon leaks, speed increased to 0.0162s for 7s
  
 __Changes from Previous Tier__
 *bullet* gets 50%s, attacks faster based on bloon distance through track
@@ -904,41 +854,38 @@ gets *Defense* passive ability
 105 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 4d, +4md (8), 1p, 0.0649s, normal
+*bullet*- 4d, 7md, 1p, 0.0649s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - if the furthest bloon is x% through the track, elite defender shoots x% faster
-*Defense* passive ability: 10s cooldown, when a bloon leaks, speed increased to 0.0162s for 7s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+*Defense* passive ability: 10s cooldown (initial: 10s), when a bloon leaks, speed increased to 0.0162s for 7s
  
 __Changes from Previous Tier__
 *bullet* gets 50%s, attacks faster based on bloon distance through track
 gets *Defense* passive ability
  
 __Crosspath Benefits__
-*bullet* gets +2d, damage type sharp -> normal
+*bullet* gets +2d, +1md 
 
 205 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 7d, +4md (11), 1p, 0.0649s, normal
+*bullet*- 7d, 11md, 1p, 0.0649s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - if the furthest bloon is x% through the track, elite defender shoots x% faster
-*Defense* passive ability: 10s cooldown, when a bloon leaks, speed increased to 0.0162s for 7s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+*Defense* passive ability: 10s cooldown (initial: 10s), when a bloon leaks, speed increased to 0.0162s for 7s
  
 __Changes from Previous Tier__
 *bullet* gets 50%s, attacks faster based on bloon distance through track
 gets *Defense* passive ability
  
 __Crosspath Benefits__
-*bullet* gets +5d, damage type sharp -> normal
+*bullet* gets +5d, +2md
 
 015 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, +4md (6), 1p, 0.0649s, sharp, camo
+*bullet*- 2d, 4md, 1p, 0.0649s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - if the furthest bloon is x% through the track, elite defender shoots x% faster
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-*Defense* passive ability: 10s cooldown, when a bloon leaks, speed increased to 0.0162s for 7s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+*Defense* passive ability: 10s cooldown (initial: 10s), when a bloon leaks, speed increased to 0.0162s for 7s
  
 __Changes from Previous Tier__
 *bullet* gets 50%s, attacks faster based on bloon distance through track
@@ -950,19 +897,18 @@ __Crosspath Benefits__
 025 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
-*bullet*- 2d, +4md (6), 1p, 0.0649s, sharp, camo
+*bullet*- 2d, 4md, 1p, 0.0649s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - if the furthest bloon is x% through the track, elite defender shoots x% faster
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *shrapnel* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 2p, 5j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shrapnel*- 1d, 3p, 5j, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 45º spread
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can't affect main target
 ‎ ‎ ‎ ‎ ‎ ‎ - +2d to camo bloons
-*Defense* passive ability: 10s cooldown, when a bloon leaks, speed increased to 0.0162s for 7s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 10s
+*Defense* passive ability: 10s cooldown (initial: 10s), when a bloon leaks, speed increased to 0.0162s for 7s
  
 __Changes from Previous Tier__
 *bullet* gets 50%s, attacks faster based on bloon distance through track
 gets *Defense* passive ability
  
 __Crosspath Benefits__
-*bullet* gets camo, +2 camo damage, emits *shrapnel* on impact
+*bullet* gets camo, +2 camo damage
+*shrapnel* gets +1p
