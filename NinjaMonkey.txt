@@ -4,7 +4,7 @@
  
 footprint radius: 6 (small)
 
-100
+100 
 47r
 *shuriken*- 1d, 2p, 0.433s, sharp, camo
  
@@ -70,7 +70,7 @@ __Changes from 0-0-0__
 *shuriken*- 1d, 2p, 0.7s, sharp, camo
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
@@ -104,9 +104,9 @@ __Changes from 0-0-0__
 202 
 47r
 *shuriken*- 1d, 4p, 0.433s, sharp, camo
-*caltrop*- 2.728s, spawns *caltrop*
+*caltrop*- 2.278s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from 0-0-0__
@@ -139,8 +139,8 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-	-15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
  
@@ -152,9 +152,9 @@ gets *caltrop* attack
 102 
 47r
 *shuriken*- 1d, 2p, 0.433s, sharp, camo
-*caltrop*- 2.728s, spawns *caltrop*
+*caltrop*- 2.278s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from 0-0-0__
@@ -168,8 +168,8 @@ gets *caltrop* attack
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-	-15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from 0-0-0__
@@ -220,9 +220,9 @@ __Crosspath Benefits__
 302 
 47r
 *shuriken*- 1d, 4p, 0.433s, 2j, sharp, camo
-*caltrop*- 2.728s, spawns *caltrop*
+*caltrop*- 2.278s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from Previous Tier__
@@ -234,11 +234,11 @@ gets *caltrop* attack
 
 030 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -246,11 +246,11 @@ gets *buff*
 
 130 
 47r
-*shuriken*- 1d, 2.16p, 0.3993s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.3683s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -261,11 +261,11 @@ __Crosspath Benefits__
 
 230 
 47r
-*shuriken*- 1d, 4.32p, 0.3993s, sharp, camo
+*shuriken*- 1d, 4.6p, 0.3683s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -276,11 +276,11 @@ __Crosspath Benefits__
 
 031 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -291,17 +291,17 @@ __Crosspath Benefits__
 
 032 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 *caltrop*- 4.048s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6.48p, sharp
-	-15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -319,7 +319,7 @@ gets *caltrop* attack
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from Previous Tier__
@@ -331,9 +331,9 @@ gets *flash-bomb* attack
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 1d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
-*caltrop*- 2.728s, spawns *caltrop*
+*caltrop*- 2.278s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from Previous Tier__
@@ -349,9 +349,9 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 1d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
-*caltrop*- 2.728s, spawns *caltrop*
+*caltrop*- 2.278s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from Previous Tier__
@@ -367,19 +367,21 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 1d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
-			- 15% chance to send non-moabs back 10-250 units on damage
+            -15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from Previous Tier__
 gets *flash-bomb* attack
  
 __Crosspath Benefits__
-all attacks can distract
+*shuriken* can distract
+*caltrop* can distract
+flash bomb can distract
 
 023 
 40r
@@ -387,14 +389,14 @@ all attacks can distract
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 1d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
-			- 15% chance to send non-moabs back 10-250 units on damage
+            -15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
  
@@ -402,7 +404,9 @@ __Changes from Previous Tier__
 gets *flash-bomb* attack
  
 __Crosspath Benefits__
-all attacks can distract and remove camo
+*shuriken* can distract and remove camo
+*caltrop* can distract and remove camo
+*flash-bomb* can distract remove camo
 
 400 
 47r
@@ -447,9 +451,9 @@ __Crosspath Benefits__
 402 
 47r
 *shuriken*- 1d, 4p, 0.433s, 5j, sharp, camo
-*caltrop*- 2.728s, spawns *caltrop*
+*caltrop*- 2.278s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from Previous Tier__
@@ -461,14 +465,13 @@ gets *caltrop* attack
 
 040 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Sabotage** ability: 60s cooldown (initial: 20s), everything on screen moves at half speed for 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -476,14 +479,13 @@ gets **Sabotage** ability
 
 140 
 47r
-*shuriken*- 1d, 2.16p, 0.3993s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.3683s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Sabotage** ability: 60s cooldown (initial: 20s), everything on screen moves at half speed for 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -497,11 +499,10 @@ __Crosspath Benefits__
 *shuriken*- 1d, 4.32p, 0.3993s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Sabotage** ability: 60s cooldown (initial: 20s), everything on screen moves at half speed for 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -512,14 +513,13 @@ __Crosspath Benefits__
 
 041 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Sabotage** ability: 60s cooldown (initial: 20s), everything on screen moves at half speed for 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -530,20 +530,19 @@ __Crosspath Benefits__
 
 042 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 *caltrop*- 4.048s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6.48p, sharp
-	-15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Sabotage** ability: 60s cooldown (initial: 20s), everything on screen moves at half speed for 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
@@ -561,13 +560,13 @@ gets *caltrop* attack
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 *sticky-bomb*- 5.0s, throws *sticky-bomb* at a bloon in range, follows targeting 
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 500d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 450d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - 60r
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 gets *sticky-bomb* attack
@@ -578,15 +577,15 @@ gets *sticky-bomb* attack
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 1d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
-*caltrop*- 2.728s, spawns *caltrop*
+*caltrop*- 2.278s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 *sticky-bomb*- 3.1s, throws *sticky-bomb* at strongest bloon in range
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 500d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 450d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 gets *sticky-bomb* attack
@@ -602,22 +601,23 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 1d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
-*caltrop*- 2.728s, spawns *caltrop*
+*caltrop*- 2.278s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 *sticky-bomb*- 3.1s, throws *sticky-bomb* at strongest bloon in range
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 500d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 450d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 gets *sticky-bomb* attack
  
 __Crosspath Benefits__
 *shuriken* gets +7r, 62%s, +2p
-*caltrop* and *sticky-bomb* get 62%s
+*caltrop* gets 62%s
+*sticky-bomb* gets 62%s
 
 014 
 40r
@@ -625,24 +625,26 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 1d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
-			-15% chance to send non-moabs back 10-250 units on damage
+            -15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 70s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 *sticky-bomb*- 5.0s, throws *sticky-bomb* at strongest bloon in range
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 500d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 450d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - 60r
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 gets *sticky-bomb* attack
  
 __Crosspath Benefits__
-*shuriken*, *caltrop*, and *flash-bomb* can distract
+*shuriken* can distract
+*caltrop* can distract
+*flash-bomb* can distract
 
 024 
 40r
@@ -650,29 +652,31 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 1d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
-			- 15% chance to send non-moabs back 10-250 units on damage
+            -15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 *caltrop*- 4.4s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 70s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 *sticky-bomb*- 5.0s, throws *sticky-bomb* at strongest bloon in range
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 500d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- does 450d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - 60r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 100d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 gets *sticky-bomb* attack
  
 __Crosspath Benefits__
 all attacks can remove camo
-*shuriken*, *caltrop*, and *flash-bomb* can distract
+*shuriken* can distract
+*caltrop* can distract
+*flash-bomb* can distract
 
 500 
 57r
@@ -717,9 +721,9 @@ __Crosspath Benefits__
 502 
 57r
 *shuriken*- 2d, 4p, 0.217s, 8j, sharp, camo
-*caltrop*- 2.728s, spawns *caltrop*
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+*caltrop*- 2.278s, spawns *caltrop*
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 5p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
  
 __Changes from Previous Tier__
@@ -727,107 +731,97 @@ __Changes from Previous Tier__
  
 __Crosspath Benefits__
 *shuriken* gets seeking
-gets *caltrop* attack
+*caltrops* get -1p 
 
 050 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 30s, moabs spawn with 75% hp, applies *saboteur-buff*
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-	*saboteur-buff*- all x3+x ninjas gain +10r, +2md
+**Sabotage** ability: 60s cooldown (initial: same as existing cooldown), everything on screen moves at half speed for 30s, moabs spawn with 75% hp
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 **Sabotage** ability gets +15s duration
-**Sabotage** ability partially damages incoming blimps, applies *saboteur-buff*
+**Sabotage** ability partially damages incoming blimps
 
 150 
 47r
-*shuriken*- 1d, 2.16p, 0.3993s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.3683s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 30s, moabs spawn with 75% hp, applies *saboteur-buff*
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-	*saboteur-buff*- all x3+x ninjas gain +10r, +2md
+**Sabotage** ability: 60s cooldown (initial: same as existing cooldown), everything on screen moves at half speed for 30s, moabs spawn with 75% hp
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 **Sabotage** ability gets +15s duration
-**Sabotage** ability partially damages incoming blimps, applies *saboteur-buff*
+**Sabotage** ability partially damages incoming blimps
  
 __Crosspath Benefits__
 *shuriken* gets +7r, 62%s
 
 250 
 47r
-*shuriken*- 1d, 4.32p, 0.3993s, sharp, camo
+*shuriken*- 1d, 4.6p, 0.3683s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 30s, moabs spawn with 75% hp, applies *saboteur-buff*
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-	*saboteur-buff*- all x3+x ninjas gain +10r, +2md
+**Sabotage** ability: 60s cooldown (initial: same as existing cooldown), everything on screen moves at half speed for 30s, moabs spawn with 75% hp
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 **Sabotage** ability gets +15s duration
-**Sabotage** ability partially damages incoming blimps, applies *saboteur-buff*
+**Sabotage** ability partially damages incoming blimps
  
 __Crosspath Benefits__
 *shuriken* gets +7r, 62%s, +2p
 
 051 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 30s, moabs spawn with 75% hp, applies *saboteur-buff*
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-	*saboteur-buff*- all x3+x ninjas gain +10r, +2md
+**Sabotage** ability: 60s cooldown (initial: same as existing cooldown), everything on screen moves at half speed for 30s, moabs spawn with 75% hp
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 **Sabotage** ability gets +15s duration
-**Sabotage** ability partially damages incoming blimps, applies *saboteur-buff*
+**Sabotage** ability partially damages incoming blimps
  
 __Crosspath Benefits__
 *shuriken* gets seeking 
 
 052 
 40r
-*shuriken*- 1d, 2.16p, 0.644s, sharp, camo
+*shuriken*- 1d, 2.3p, 0.595s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 *caltrop*- 4.048s, spawns *caltrop*
 ‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6.48p, sharp
-	-15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
-**Sabotage** ability: 60s cooldown, everything on screen moves at half speed for 30s, moabs spawn with 75% hp, applies *saboteur-buff*
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
-	*saboteur-buff*- all x3+x ninjas gain +10r, +2md
+**Sabotage** ability: 60s cooldown (initial: same as existing cooldown), everything on screen moves at half speed for 30s, moabs spawn with 75% hp
 ‎ ‎ ‎ ‎ ‎ ‎ - does not affect children of moabs that were affected by the ability
-*buff*- all ninjas in range get 92%s and +8%p, stacks 20 times
-‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +8%p, 2 shinobi is +16%p, etc.)
+*buff*- all ninjas in range get 85%s and +15%p, stacks 10 times
+‎ ‎ ‎ ‎ ‎ ‎ - (1 shinobi is +15%p, 2 shinobi is +32.25%p, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 **Sabotage** ability gets +15s duration
-**Sabotage** ability partially damages incoming blimps, applies *saboteur-buff*
+**Sabotage** ability partially damages incoming blimps
  
 __Crosspath Benefits__
 *shuriken* can seek
@@ -841,20 +835,19 @@ gets *caltrop* attack
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs for 0.25s
 *caltrop*- 4.4s, spawns *caltrop*
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 5d, 5cd (10), 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
-‎ ‎ ‎ ‎ ‎ ‎ - targets the track
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
+‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 *sticky-bomb*- 2.0s, throws *sticky-bomb* at strongest bloon on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 1000d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 850d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 300d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 200d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 *flash-bomb* gets +9d, can stun blimps
-*sticky-bomb* gets ∞r, 40%s, +500d, can stun blimps
-*sticky-bomb* *explosion* gets +200d
-*caltrop* gets +4d, +5cd (10)
+*sticky-bomb* gets ∞r, 40%s, +400d, can stun blimps
+*sticky-bomb* *explosion* gets +100d
 
 105 
 47r
@@ -863,21 +856,20 @@ __Changes from Previous Tier__
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 10d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs for 0.25s
-*caltrop*- 2.728s, spawns *caltrop*
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 5d, +5cd (10), 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
-‎ ‎ ‎ ‎ ‎ ‎ - targets the track
+*caltrop*- 2.278s, spawns *caltrop*
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
+‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 *sticky-bomb*- 1.24s, throws *sticky-bomb* at strongest bloon on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 1000d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 850d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 300d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 200d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 *flash-bomb* gets +9d, can stun blimps
-*sticky-bomb* gets ∞r, 40%s, +500d, stuns blimps
-*sticky-bomb* *explosion* gets +200d
-*caltrop* gets +4d, +5cd (10)
+*sticky-bomb* gets ∞r, 40%s, +400d, stuns blimps
+*sticky-bomb* *explosion* gets +100d
  
 __Crosspath Benefits__
 *shuriken* gets +7r
@@ -885,25 +877,25 @@ all attacks get 62%s
 
 205 
 47r
-*shuriken*- 1d, 4p, 0.433s, sharp, camo
+*shuriken*- 2d, 4p, 0.433s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - every 4th *shuriken* is replaced with *flash-bomb*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 10d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs for 0.25s
-*caltrop*- 2.728s, spawns *caltrop*
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 5d, +5cd (10), 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
-‎ ‎ ‎ ‎ ‎ ‎ - targets the track
+*caltrop*- 2.278s, spawns *caltrop*
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
+‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 *sticky-bomb*- 1.24s, throws *sticky-bomb* at strongest bloon on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 1000d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 850d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 300d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 200d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 *flash-bomb* gets +9d, can stun blimps
-*sticky-bomb* gets ∞r, 40%s, +500d, stuns blimps
-*sticky-bomb* *explosion* gets +200d
+*sticky-bomb* gets ∞r, 40%s, +400d, stuns blimps
+*sticky-bomb* *explosion* gets +100d
  
 __Crosspath Benefits__
 *shuriken* gets +7r, +2p
@@ -916,27 +908,28 @@ all attacks get 62%s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 10d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs for 0.25s
-			-15% chance to send non-moabs back 10-250 units on damage
+            -15% chance to send non-moabs back 10-250 units on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 *caltrop*- 4.4s, spawns *caltrop*
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 5d, +5cd (10), 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
-‎ ‎ ‎ ‎ ‎ ‎ - targets the track
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
+‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 *sticky-bomb*- 2.0s, throws *sticky-bomb* at strongest bloon on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 1000d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 850d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 300d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 200d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 *flash-bomb* gets +9d, can stun blimps
-*sticky-bomb* gets ∞r, 40%s, +500d, stuns blimps
-*sticky-bomb* *explosion* gets +200d
-*caltrop* gets +4d, +5cd (10)
+*sticky-bomb* gets ∞r, 40%s, +400d, stuns blimps
+*sticky-bomb* *explosion* gets +100d
  
 __Crosspath Benefits__
-*shuriken*, *caltrop*, and *flash-bomb* can distract
+*shuriken* can distract
+*caltrop* can distract
+*flash-bomb* can distract
 
 025 
 40r
@@ -945,29 +938,30 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flash-bomb*- 10d, 60p, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns non-moabs for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - stuns moabs for 0.25s
-			-15% chance to send non-moabs back 10-250 units on damage
-			-removes camo on damage
+            -15% chance to send non-moabs back 10-250 units on damage
+            -removes camo on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
 *caltrop*- 4.4s, spawns *caltrop*
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 5d, +5cd (10), 6p, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - 15% chance to send non-moabs back 10-250 units on damage
-‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 1 round or 35s
-‎ ‎ ‎ ‎ ‎ ‎ - targets the track
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrop*- 1d, 6p, sharp
+    -15% chance to send non-moabs back 10-250 units on damage
+‎ ‎ ‎ ‎ ‎ ‎ - *caltrops* last 25s
+‎ ‎ ‎ ‎ ‎ ‎ - targets the track 
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 *sticky-bomb*- 2.0s, throws *sticky-bomb* at strongest bloon on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 1000d after 3s
+‎ ‎ ‎ ‎ ‎ ‎ - *sticky-bomb*- stuns for 1s, does 850d after 3s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* when expired
-	‎ ‎ ‎ ‎ ‎ ‎ - 300d, 10p, 40 blast radius
+    ‎ ‎ ‎ ‎ ‎ ‎ - 200d, 10p, 40 blast radius
  
 __Changes from Previous Tier__
 *flash-bomb* gets +9d, can stun blimps
-*sticky-bomb* gets ∞r, 40%s, +500d, stuns blimps
-*sticky-bomb* *explosion* gets +200d
-*caltrop* gets +4d, +5cd (10)
+*sticky-bomb* gets ∞r, 40%s, +400d, stuns blimps
+*sticky-bomb* *explosion* gets +100d
  
 __Crosspath Benefits__
+*shuriken* can distract
+*caltrop* can distract
+*flash-bomb* can distract
 all attacks can remove camo
-*shuriken*, *caltrop*, and *flash-bomb* can distract
