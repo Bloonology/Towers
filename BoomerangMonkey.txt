@@ -9,8 +9,8 @@ footprint radius: 7 (medium)
 *boomerang*- 1d, 8p, 1.2s, sharp
  
 __Changes from 0-0-0__
-*boomerang* gets +4p
-
+*boomerang* gets +4p 
+ 
 010
 43r
 *boomerang*- 1d, 4p, 0.9s, sharp
@@ -68,13 +68,13 @@ __Changes from 0-0-0__
 
 002
 49.5r
-*boomerang*- 2d, 4p, 1.2s, normal
+*boomerang*- 2d, +1ld, 4p, 1.2s, normal
  
 __Changes from Previous Tier__
-*boomerang* gets +1d, damage type sharp -> normal
+*boomerang* gets +1d, +1ld, damage type sharp -> normal
  
 __Changes from 0-0-0__
-*boomerang* gets +6.5r, +1d, damage type sharp -> normal
+*boomerang* gets +6.5r, +1d, +1ld, damage type sharp -> normal
 
 210
 43r
@@ -88,7 +88,7 @@ __Changes from 0-0-0__
 *boomerang*- 1d, 13p, 0.675s, sharp
  
 __Changes from 0-0-0__
-*boomerang* gets +9p, 56.25%s, faster projectile speed
+*boomerang* gets +9p, 56.25%s
 
 201
 49.5r
@@ -99,10 +99,10 @@ __Changes from 0-0-0__
 
 202
 49.5r
-*boomerang*- 2d, 13p, 1.2s, normal
+*boomerang*- 2d, +1ld, 13p, 1.2s, normal
  
 __Changes from 0-0-0__
-*boomerang* gets +9p, +1d, damage type sharp -> normal
+*boomerang* gets +9p, +1d, +1ld, damage type sharp -> normal
 
 120
 43r
@@ -116,85 +116,80 @@ __Changes from 0-0-0__
 *boomerang*- 1d, 4p, 0.675s, sharp
  
 __Changes from 0-0-0__
-*boomerang* gets 56.25%s, +6.5r, faster projectile speed
+*boomerang* gets 56.25%s, +6.5r
 
 022
 49.5r
-*boomerang*- 2d, 4p, 0.675s, normal
+*boomerang*- 2d, +1ld, 4p, 0.675s, normal
  
 __Changes from 0-0-0__
-*boomerang* gets 56.25%s, +6.5r, +1d, damage type sharp -> normal, faster projectile speed
+*boomerang* gets 56.25%s, +6.5r, +1d, +1ld, damage type sharp -> normal
 
 102
 49.5r
-*boomerang*- 2d, 8p, 1.2s, normal
+*boomerang*- 2d, +1ld, 8p, 1.2s, normal
  
 __Changes from 0-0-0__
-*boomerang* gets +4p, +6.5r, +1d, damage type sharp -> normal
+*boomerang* gets +4p, +6.5r, +1d, +1ld, damage type sharp -> normal
 
 012
 49.5r
-*boomerang*- 2d, 4p, 0.9s, normal
+*boomerang*- 2d, +1ld, 4p, 0.9s, normal
  
 __Changes from 0-0-0__
-*boomerang* gets 75%s, +6.5r, +1d, damage type sharp -> normal
+*boomerang* gets 75%s, +6.5r, +1d, +1ld, damage type sharp -> normal
 
 300
 43r
-*boomerang*- 1d, 60p, 1.2s, sharp
+*boomerang*- 1d, 40p, 1.2s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 90 jump distance
  
 __Changes from Previous Tier__
-*boomerang* gets +47p, ricochet, can attack through walls
+*boomerang* gets +37p, ricochet 
 
 310
 43r
-*boomerang*- 1d, 60p, 0.9s, sharp
+*boomerang*- 1d, 40p, 0.9s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 90 jump distance
  
 __Changes from Previous Tier__
-*boomerang* gets +47p, ricochet, can attack through walls
+*boomerang* gets +37p, ricochet 
  
 __Crosspath Benefits__
 *boomerang* gets 75%s
 
 320
 43r
-*boomerang*- 1d, 60p, 0.675s, sharp
+*boomerang*- 1d, 40p, 0.675s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 90 jump distance
  
 __Changes from Previous Tier__
-*boomerang* gets +47p, ricochet, can attack through walls
+*boomerang* gets +37p, ricochet 
  
 __Crosspath Benefits__
 *boomerang* gets 56.25%s, faster projectile speed
 
 301
 49.5r
-*boomerang*- 1d, 60p, 1.2s, sharp
+*boomerang*- 1d, 40p, 1.2s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 90 jump distance
  
 __Changes from Previous Tier__
-*boomerang* gets +47p, ricochet, can attack through walls 
+*boomerang* gets +37p, ricochet 
  
 __Crosspath Benefits__
 +6.5r
 
 302
 49.5r
-*boomerang*- 2d, 60p, 1.2s, normal
+*boomerang*- 2d, +1ld, 40p, 1.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 90 jump distance
  
 __Changes from Previous Tier__
-*boomerang* gets +47p, ricochet, can attack through walls 
+*boomerang* gets +37p, ricochet 
  
 __Crosspath Benefits__
-*boomerang* gets +6.5r, +1d, damage type sharp -> normal
+*boomerang* gets +6.5r, +1d, +1ld, damage type sharp -> normal
 
 030
 43r
@@ -241,11 +236,11 @@ __Changes from Previous Tier__
 *boomerang* gets +2md, 35.26%s
  
 __Crosspath Benefits__
-*boomerang* gets +6.5r, +1d, damage type sharp -> normal
+*boomerang* gets +6.5r, +1d, +1ld, damage type sharp -> normal
 
 003
 49.5r
-*kylie*- 2d, 18p, 1.2s, normal
+*kylie*- 2d, +1ld, 18p, 1.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
  
 __Changes from Previous Tier__
@@ -253,115 +248,104 @@ __Changes from Previous Tier__
 
 103
 49.5r
-*kylie*- 2d, 22p, 1.2s, normal
+*kylie*- 2d, +1ld, 22p, 1.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3
  
 __Changes from Previous Tier__
 *boomerang* replaced with *kylie*: +14p, projectile no longer curves, can rehit bloons
  
 __Crosspath Benefits__
-*kylie* gets +4p
+*boomerang* gets +4p
 
 203
 49.5r
-*kylie*- 2d, 27p, 1.2s, normal
+*kylie*- 2d, +1ld, 27p, 1.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
  
 __Changes from Previous Tier__
 *boomerang* replaced with *kylie*: +14p, projectile no longer curves, can rehit bloons
  
 __Crosspath Benefits__
-*kylie* gets +9p
+*boomerang* gets +9p
 
 013
 49.5r
-*kylie*- 2d, 18p, 0.9s, normal
+*kylie*- 2d, +1ld, 18p, 0.9s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
  
 __Changes from Previous Tier__
 *boomerang* replaced with *kylie*: +14p, projectile no longer curves, can rehit bloons
  
 __Crosspath Benefits__
-*kylie* gets 75%s
+*boomerang* gets 75%s
 
 023
 49.5r
-*kylie*- 2d, 18p, 0.675s, normal
+*kylie*- 2d, +1ld, 18p, 0.675s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
  
 __Changes from Previous Tier__
 *boomerang* replaced with *kylie*: +14p, projectile no longer curves, can rehit bloons
  
 __Crosspath Benefits__
-*kylie* gets 56.25%s, faster projectile speed
+*boomerang* gets 56.25%s, faster projectile speed
 
 400
 43r
-*boomerang*- 1d, +1cd(2), 100p, 0.6s, sharp
+*boomerang*- 1d, 80p, 0.6s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*boomerang* gets +1cd, +40p, 50%s, better seeking, jump distance 90 -> 180
+*boomerang* gets +50p, 50%s, better seeking
 
 410
 43r
-*boomerang*- 1d, +1cd(2), 100p, 0.45s, sharp
+*boomerang*- 1d, 80p, 0.45s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*boomerang* gets +1cd, +40p, 50%s, better seeking, jump distance 90 -> 180
+*boomerang* gets +50p, 50%s, better seeking
  
 __Crosspath Benefits__
 *boomerang* gets 75%s
 
 420
 43r
-*boomerang*- 1d, +1cd(2), 100p, 0.3375s, sharp
+*boomerang*- 1d, 80p, 0.3375s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*boomerang* gets +1cd, +40p, 50%s, better seeking, jump distance 90 -> 180
+*boomerang* gets +50p, 50%s, better seeking
  
 __Crosspath Benefits__
-*boomerang* gets 56.25%s, faster projectile speed
+*boomerang* gets 56.25%s
 
 401
 49.5r
-*boomerang*- 1d, +1cd(2), 100p, 0.6s, sharp
+*boomerang*- 1d, 80p, 0.6s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*boomerang* gets +1cd, +40p, 50%s, better seeking, jump distance 90 -> 180
+*boomerang* gets +50p, 50%s, better seeking
  
 __Crosspath Benefits__
 *boomerang* gets +6.5r
 
 402
 49.5r
-*boomerang*- 2d, +1cd (3), 100p, 0.6s, normal
+*boomerang*- 2d, +1ld, 80p, 0.6s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*boomerang* gets +1cd, +40p, 50%s, better seeking, jump distance 90 -> 180
+*boomerang* gets +50p, 50%s, better seeking
  
 __Crosspath Benefits__
-*boomerang* gets +6.5r, +1d, damage type sharp -> normal
+*boomerang* gets +6.5r, +1d, +1ld, damage type sharp -> normal
 
 040
 43r
 *boomerang*- 1d, +2md (3), 4p, 0.238s, sharp
-**Turbo Charge** ability: 45s cooldown, *boomerang* gets +1d (2), 14.29%s (0.034), for 10s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 15s
+**Turbo Charge** ability: 45s cooldown (battle ready), stats become 2d, +2md (4), 4p, 0.034s, sharp for 10s
  
 __Changes from Previous Tier__
 gets **Turbo Charge** ability 
@@ -369,8 +353,7 @@ gets **Turbo Charge** ability
 140
 43r
 *boomerang*- 1d, +2md (3), 8p, 0.238s, sharp
-**Turbo Charge** ability: 45s cooldown, *boomerang* gets +1d (2), 14.29%s (0.034), for 10s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 15s
+**Turbo Charge** ability: 45s cooldown (battle ready), stats become 2d, +2md (4), 8p, 0.034s, sharp for 10s
  
 __Changes from Previous Tier__
 gets **Turbo Charge** ability 
@@ -381,8 +364,7 @@ __Crosspath Benefits__
 240
 43r
 *boomerang*- 1d, +2md (3), 13p, 0.238s, sharp
-**Turbo Charge** ability: 45s cooldown, *boomerang* gets +1d (2), 14.29%s (0.034), for 10s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 15s
+**Turbo Charge** ability: 45s cooldown (battle ready), stats become 2d, +2md (4), 13p, 0.034s, sharp for 10s
  
 __Changes from Previous Tier__
 gets **Turbo Charge** ability 
@@ -393,8 +375,7 @@ __Crosspath Benefits__
 041
 49.5r
 *boomerang*- 1d, +2md (4), 4p, 0.238s, sharp
-**Turbo Charge** ability: 45s cooldown, *boomerang* gets +1d (2), 14.29%s (0.034), for 10s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 15s
+**Turbo Charge** ability: 45s cooldown (battle ready), stats become 2d, +2md (4), 4p, 0.034s, sharp for 10s
  
 __Changes from Previous Tier__
 gets **Turbo Charge** ability 
@@ -404,73 +385,76 @@ __Crosspath Benefits__
 
 042
 49.5r
-*boomerang*- 2d, +2md (4), 4p, 0.238s, normal
-**Turbo Charge** ability: 45s cooldown, *boomerang* gets +1d (3), 14.29%s (0.034), for 10s
- ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 15s
+*boomerang*- 2d, +2md (4), +1ld, 4p, 0.238s, normal
+**Turbo Charge** ability: 45s cooldown (battle ready), stats become 3d, +2md (5), 4p, 0.034s, normal for 10s
  
 __Changes from Previous Tier__
 gets **Turbo Charge** ability 
  
 __Crosspath Benefits__
-*boomerang* gets +6.5r, +1d, damage type sharp -> normal
+*boomerang* gets +6.5r, +1d, +1ld, damage type sharp -> normal
 
 004
 49.5r
-*kylie*- 2d, 18p, 1.2s, normal
+*kylie*- 2d, +1ld, 18p, 1.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
 *heavy-kylie*- 1d, +4md (5), 200p, 10.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets non-bad blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
 gets *heavy-kylie* attack
 
 104
 49.5r
-*kylie*- 2d, 22p, 1.2s, normal
+*kylie*- 2d, +1ld, 22p, 1.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
 *heavy-kylie*- 1d, +4md (5), 300p, 10.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets non-bad blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
 gets *heavy-kylie* attack
  
 __Crosspath Benefits__
-*kylie* gets +4p
+*boomerang* gets +4p
 *heavy-kylie* gets +100p
 
 204
 49.5r
-*kylie*- 2d, 27p, 1.2s, normal
+*kylie*- 2d, +1ld, 27p, 1.2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
 *heavy-kylie*- 1d, +4md (5), 420p, 10.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets non-bad blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
- ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - knocks back 50% further than 004 (no exact numbers)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- knocks back 50% further than 004 (no exact numbers)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
 gets *heavy-kylie* attack
  
 __Crosspath Benefits__
-*kylie* gets +9p
+*boomerang* gets +9p
 *heavy-kylie* gets +220p, 50% stronger knockback
 
 014
 49.5r
-*kylie*- 2d, 18p, 0.9s, normal
+*kylie*- 2d, +1ld, 18p, 0.9s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
 *heavy-kylie*- 1d, +4md (5), 200p, 7.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets non-bad blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
 gets *heavy-kylie* attack
@@ -480,49 +464,45 @@ all attacks get 75%s
 
 024
 49.5r
-*kylie*- 2d, 18p, 0.675s, normal
+*kylie*- 2d, +1d, 18p, 0.675s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
 *heavy-kylie*- 1d, +4md (5), 200p, 5.625s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets non-bad blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
 gets *heavy-kylie* attack
  
 __Crosspath Benefits__ 
 all attacks get 56.25%s
-*kylie* gets faster projectile speed
 
 500
 43r
-*boomerang*- 8d, +8d(16), 100p, 0.6s, sharp
+*boomerang*- 8d, 100p, 0.6s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15.1s duration
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*orbitalglaive*- 2d, +8cd (10), +5md (7), +2fd, 80p, 0.1s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15s duration
+*orbitalglaive*- 2d, +5cd (7), +5md (7), +5fd, 1000p, 0.1s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 30r
  
 __Changes from Previous Tier__
 *boomerang* applies shred
-*boomerang* gets +7d, +7cd (+8)
+*boomerang* gets +7d
 gets *orbitalglaive* 
 
 510
 43r
-*boomerang*- 8d, +8cd(16), 100p, 0.45s, sharp
+*boomerang*- 8d, 100p, 0.45s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15.1s duration
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*orbitalglaive*- 2d, +8cd (10), +5md (7), +2fd, 80p, 0.1s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15s duration
+*orbitalglaive*- 2d, +5cd (7), +5md (7), +5fd, 1000p, 0.1s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 30r
  
 __Changes from Previous Tier__
 *boomerang* applies shred
-*boomerang* gets +7d, +7cd (+8)
+*boomerang* gets +7d
 gets *orbitalglaive* 
  
 __Crosspath Benefits__
@@ -530,35 +510,31 @@ __Crosspath Benefits__
 
 520
 43r
-*boomerang*- 8d, +8cd(16), 100p, 0.3375s, sharp
+*boomerang*- 8d, 100p, 0.3375s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15.1s duration
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*orbitalglaive*- 2d, +8cd (10), +5md (7), +2fd, 80p, 0.1s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15s duration
+*orbitalglaive*- 2d, +5cd (7), +5md (7), +5fd, 1000p, 0.1s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 30r
  
 __Changes from Previous Tier__
 *boomerang* applies shred
-*boomerang* gets +7d, +7cd (+8)
+*boomerang* gets +7d
 gets *orbitalglaive* 
  
 __Crosspath Benefits__
-*boomerang* gets 56.25%s, faster projectile speed
+*boomerang* gets 56.25%s
 
 501
 49.5r
-*boomerang*- 8d, +8cd(16), 100p, 0.6s, sharp
+*boomerang*- 8d, 100p, 0.6s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15.1s duration
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*orbitalglaive*- 2d, +8cd (10), +5md (7), +2fd, 80p, 0.1s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15s duration
+*orbitalglaive*- 2d, +5cd (7), +5cd (7), +5fd, 1000p, 0.1s, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 34.5r
  
 __Changes from Previous Tier__
 *boomerang* applies shred
-*boomerang* gets +7d, +7cd (+8)
+*boomerang* gets +7d
 gets *orbitalglaive* 
  
 __Crosspath Benefits__
@@ -567,42 +543,38 @@ __Crosspath Benefits__
 
 502
 49.5r
-*boomerang*- 9d, +8cd(17), 100p, 0.6s, normal
+*boomerang*- 9d, +1ld, 100p, 0.6s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can jump to a nearby target after hitting
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 180 jump distance
-‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15.1s duration
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*orbitalglaive*- 3d, +8cd (11), +5md (8), +2fd, 80p, 0.1s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - first hit applies shred effect- 100d/1.0s, 15s duration
+*orbitalglaive*- 3d, +5cd (8), +5ld, +5fd, 1000p, 0.1s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 34.5r
  
 __Changes from Previous Tier__
 *boomerang* applies shred
-*boomerang* gets +7d, +7cd (+8)
+*boomerang* gets +7d
 gets *orbitalglaive* 
  
 __Crosspath Benefits__
-*boomerang* gets +6.5r, +1d, damage type sharp -> normal
-*orbitalglaive* gets +4.5r,+1d, damage type sharp -> normal
+*boomerang* gets +6.5r, +1d, +1ld, damage type sharp -> normal
+*orbitalglaive* gets +1d, +1ld, +4.5r, damage type sharp -> normal
 
 050
 43r
 *boomerang*- 4d, +2md (6), 4p, 0.034s, sharp
-**Turbo Charge** ability: 40s cooldown, *boomerang* gets +8d (12), for 15s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 5s
+**Turbo Charge** ability: 40s cooldown (battle reaedy), stats become 12d, +2md (14), 4p, 0.034s, sharp for 15s
  
 __Changes from Previous Tier__
 *boomerang* gets +3d, 14.29%s
-**Turbo Charge** ability gets +7d (+8d), no longer gains attack speed, +5s duration, -5s cooldown
+**Turbo Charge** ability gets +8d, +5s duration, -5s cooldown
 
 150
 43r
 *boomerang*- 4d, +2md (6), 8p, 0.034s, sharp
-**Turbo Charge** ability: 40s cooldown, *boomerang* gets +8d (12), for 15s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 5s
+**Turbo Charge** ability: 40s cooldown (battle ready), stats become 12d, +2md (14), 8p, 0.034s, sharp for 15s
  
 __Changes from Previous Tier__
 *boomerang* gets +3d, 14.29%s
-**Turbo Charge** ability gets +7d (+8d), no longer gains attack speed, +5s duration, -5s cooldown
+**Turbo Charge** ability gets +8d, +5s duration, -5s cooldown
  
 __Crosspath Benefits__
 *boomerang* gets +4p
@@ -610,12 +582,11 @@ __Crosspath Benefits__
 250
 43r
 *boomerang*- 4d, +2md (6), 13p, 0.034s, sharp
-**Turbo Charge** ability: 40s cooldown, *boomerang* gets +8d (12), for 15s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 5s
+**Turbo Charge** ability: 40s cooldown (battle ready), stats become 12d, +2md (14), 13p, 0.034s, sharp for 15s
  
 __Changes from Previous Tier__
 *boomerang* gets +3d, 14.29%s
-**Turbo Charge** ability gets +7d (+8d), no longer gains attack speed, +5s duration, -5s cooldown 
+**Turbo Charge** ability gets +8d, +5s duration, -5s cooldown
  
 __Crosspath Benefits__ 
 *boomerang* gets +9p
@@ -623,137 +594,140 @@ __Crosspath Benefits__
 051
 49.5r
 *boomerang*- 4d, +2md (6), 4p, 0.034s, sharp
-**Turbo Charge** ability: 40s cooldown, *boomerang* gets +8d (12), for 15s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 5s
+**Turbo Charge** ability: 40s cooldown (battle ready), stats become 12d, +2md (14), 4p, 0.034s, sharp for 15s
  
 __Changes from Previous Tier__
 *boomerang* gets +3d, 14.29%s
-**Turbo Charge** ability gets +7d (+8d), no longer gains attack speed, +5s duration, -5s cooldown
+**Turbo Charge** ability gets +8d, +5s duration, -5s cooldown
  
 __Crosspath Benefits__
 +6.5r
 
 052
 49.5r
-*boomerang*- 8d, +2md (10), 4p, 0.034s, normal
-**Turbo Charge** ability: 40s cooldown, *boomerang* gets +10d (18), for 15s
- ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown reduced by 5s
+*boomerang*- 8d, +2md (10), +1ld, 4p, 0.034s, normal
+**Turbo Charge** ability: 40s cooldown (battle ready), stats become 18d, +2md (20), +1ld, 4p, 0.034s, normal for 15s
  
 __Changes from Previous Tier__
 *boomerang* gets +3d, 14.29%s
-**Turbo Charge** ability gets +7d (+8d), no longer gains attack speed, +5s duration, -5s cooldown
+**Turbo Charge** ability gets +8d, +5s duration, -5s cooldown
  
 __Crosspath Benefits__
-*boomerang* gets +6.5r, +4d (12), damage type sharp -> normal
-**Turbo Charge** ability gets +2d (+10d)
+*boomerang* gets +6.5r, +4d, +1ld, damage type sharp -> normal
+**Turbo Charge** ability 16d -> 18d, 17md -> 19md
 
 005
 49.5r
-*kylie*- 12d, 18p, 0.6s, normal
+*kylie*- 12d, +1ld, 18p, 0.6s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
-*heavy-kylie*- 1d, +24md (25), 300p, 5.0s, normal
+*heavy-kylie*- 1d, +39md (40), 300p, 5.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 100r
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* instead of returning
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 40p, 50 blast radius, normal
- ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies *burn* status- 50d/1s, 4s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies burn status- 50d/1s, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - 0.25s stun after each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
-*kylie* gets +10d, 50%s
-*heavy-kylie* gets +100p, +20md, 50%s, +50.5r, 0.25s stun, creates *explosion*
+*boomerang* gets +10d, 50%s
+*heavy-kylie* gets +100p, +35md, 50%s, +50.5r, 0.25s stun, creates *explosion*
 
 105
 49.5r
-*kylie*- 12d, 22p, 0.6s, normal
+*kylie*- 12d, +1ld, 22p, 0.6s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
-*heavy-kylie*- 1d, +24md (25), 400p, 5.0s, normal
+*heavy-kylie*- 1d, +39md (40), 400p, 5.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 100r
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* instead of returning
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 40p, 50 blast radius, normal
- ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies *burn* status- 50d/1s, 4s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies burn status- 50d/1s, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - 0.25s stun after each rehit 
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
-*kylie* gets +10d, 50%s
-*heavy-kylie* gets +100p, +20md, 50%s, +50.5r, 0.25s stun, creates *explosion*
+*boomerang* gets +10d, 50%s
+*heavy-kylie* gets +100p, +35md, 50%s, +50.5r, 0.25s stun, creates *explosion*
  
 __Crosspath Benefits__
-*kylie* gets +4p
+*boomerang* gets +4p
 *heavy-kylie* gets +100p
 
 205
 49.5r
-*kylie*- 12d, 27p, 0.6s, normal
+*kylie*- 12d, +1ld, 27p, 0.6s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
-*heavy-kylie*- 1d, +24md (25), 520p, 5.0s, normal
+*heavy-kylie*- 1d, +39md (40), 520p, 5.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 100r
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* instead of returning
- ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 30p (not a typo), 75 blast radius, normal
- ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies *burn* status- 50d/1s, 4s duration
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 50p, 75 blast radius, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies burn status- 50d/1s, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - 0.25s stun after each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - knocks back 50% further than 005 (no exact numbers)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
-*kylie* gets +10d, 50%s
-*heavy-kylie* gets +100p, +20md, 50%s, +50.5r, 0.25s stun, creates *explosion*
+*boomerang* gets +10d, 50%s
+*heavy-kylie* gets +100p, +35md, 50%s, +50.5r, 0.25s stun, creates *explosion*
  
 __Crosspath Benefits__
-*kylie* gets +9p
+*boomerang* gets +9p
 *heavy-kylie* gets +220p, 50% stronger knockback
-*explosion* gets -10p (not a typo), 50% larger blast radius 
+*explosion* gets +10p, 50% larger blast radius 
 
 015
 49.5r
-*kylie*- 12d, 18p, 0.45s, normal
+*kylie*- 12d, +1ld, 18p, 0.45s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
-*heavy-kylie*- 1d, +24md (25), 300p, 3.75s, normal
+*heavy-kylie*- 1d, +39md (40), 300p, 3.75s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 100r
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* instead of returning
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 40p, 50 blast radius, normal
- ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies *burn* status- 50d/1s, 4s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies burn status- 50d/1s, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - 0.25s stun after each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
-*kylie* gets +10d, 50%s
-*heavy-kylie* gets +100p, +20md, 50%s, +50.5r, 0.25s stun, creates *explosion*
+*boomerang* gets +10d, 50%s
+*heavy-kylie* gets +100p, +35md, 50%s, +50.5r, 0.25s stun, creates *explosion*
  
 __Crosspath Benefits__
 all attacks get 75%s
 
 025
 49.5r
-*kylie*- 12d, 18p, 0.3375s, normal
+*kylie*- 12d, +1ld, 18p, 0.3375s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 0.3s
-*heavy-kylie*- 1d, +24md (25), 300p, 2.8125s, normal
+*heavy-kylie*- 1d, +39md (40), 300p, 2.8125s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 100r
 ‎ ‎ ‎ ‎ ‎ ‎ - only targets blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion* instead of returning
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 40p, 50 blast radius, normal
- ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies *burn* status- 50d/1s, 4s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   -applies burn status- 50d/1s, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - can rehit after 1st frame and every 0.1s after
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - pierce is used on each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - 0.25s stun after each rehit
 ‎ ‎ ‎ ‎ ‎ ‎ - knocks back moabs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ZOMG knockback is weaker
  
 __Changes from Previous Tier__
-*kylie* gets +10d, 50%s, faster projectile speed
-*heavy-kylie* gets +100p, +20md, 50%s, +50.5r, 0.25s stun, creates *explosion*
+*boomerang* gets +10d, 50%s
+*heavy-kylie* gets +100p, +35md, 50%s, +50.5r, 0.25s stun, creates *explosion*
  
 __Crosspath Benefits__
 all attacks get 56.25%s
