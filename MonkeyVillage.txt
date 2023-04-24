@@ -308,36 +308,39 @@ gets *discount*
 
 003 
 40r
-*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*bonus-eco*- non offensive, +10% bloon eco from bloon sends with positive eco, and -10% eco loss from bloon sends with negative eco
  
 __Changes from Previous Tier__
-*buff* improved to grant extra income from bloons 
+gets *bonus-eco*
 
 103 
 48r
-*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*bonus-eco*- non offensive, +10% bloon eco from bloon sends with positive eco, and -10% eco loss from bloon sends with negative eco
  
 __Changes from Previous Tier__
-*buff* improved to grant extra income from bloons 
+gets *bonus-eco*
  
 __Crosspath Benefits__
 +8r
 
 203 
 48r
-*main-buff*- non offensive, all towers in range get +10%r, 85%s, all bloons popped by towers in range give +$50%
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*bonus-eco*- non offensive, +10% bloon eco from bloon sends with positive eco, and -10% eco loss from bloon sends with negative eco
  
 __Changes from Previous Tier__
-*buff* improved to grant extra income from bloons 
+gets *bonus-eco*
  
 __Crosspath Benefits__
 +8r
@@ -346,13 +349,14 @@ __Crosspath Benefits__
 013 
 40r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
-*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*bonus-eco*- non offensive, +10% bloon eco from bloon sends with positive eco, and -10% eco loss from bloon sends with negative eco
  
 __Changes from Previous Tier__
-*buff* improved to grant extra income from bloons 
+gets *bonus-eco*
  
 __Crosspath Benefits__
 gets *growblock*er
@@ -360,13 +364,14 @@ gets *growblock*er
 023 
 40r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
-*main-buff*- non offensive, all towers in range get +10%r, camo, all bloons popped by towers in range give +$50%
+*main-buff*- non offensive, all towers in range get +10%r, camo
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
- 
+*bonus-eco*- non offensive, +10% bloon eco from bloon sends with positive eco, and -10% eco loss from bloon sends with negative eco
+
 __Changes from Previous Tier__
-*buff* improved to grant extra income from bloons 
+gets *bonus-eco*
  
 __Crosspath Benefits__
 *buff* improved to give camo
@@ -435,8 +440,7 @@ gets *discount*
 40r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
 *main-buff*- non offensive, all towers in range get +10%r, camo, normal
-**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Call to Arms** ability: 45s cooldown (initial: 15s), all towers in range get +50%p, 66.67%s for 15s
  
 __Changes from Previous Tier__
 gets **Call to Arms** ability
@@ -445,8 +449,7 @@ gets **Call to Arms** ability
 48r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
 *main-buff*- non offensive, all towers in range get +10%r, camo, normal
-**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Call to Arms** ability: 45s cooldown (initial: 15s), all towers in range get +50%p, 66.67%s for 15s
  
 __Changes from Previous Tier__
 gets **Call to Arms** ability
@@ -458,8 +461,7 @@ __Crosspath Benefits__
 48r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
 *main-buff*- non offensive, all towers in range get +10%r, 85%s, camo, normal
-**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Call to Arms** ability: 45s cooldown (initial: 15s), all towers in range get +50%p, 66.67%s for 15s
  
 __Changes from Previous Tier__
 gets **Call to Arms** ability
@@ -473,8 +475,7 @@ __Crosspath Benefits__
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
 *main-buff*- non offensive, all towers in range get +10%r, camo, normal
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less
-**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Call to Arms** ability: 45s cooldown (initial: 15s), all towers in range get +50%p, 66.67%s for 15s
  
 __Changes from Previous Tier__
 gets **Call to Arms** ability
@@ -489,8 +490,7 @@ gets *discount*
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Call to Arms** ability: 45s cooldown (initial: 15s), all towers in range get +50%p, 66.67%s for 15s
  
 __Changes from Previous Tier__
 gets **Call to Arms** ability
@@ -500,48 +500,48 @@ gets *discount*
 
 004 
 50r
-*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 +10r
-gets *income-buff*
-gets *free-dart*
+*bonus-eco* gets doubled
+gets *auto-collect*
 
 104 
 58r
-*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 +10r
-gets *income-buff*
-gets *free-dart*
+*bonus-eco* gets doubled
+gets *auto-collect*
  
 __Crosspath Benefits__
 +8r
 
 204 
 58r
-*main-buff*- non offensive, all towers in range get +10%r, 85%s, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 +10r
-gets *income-buff*
-gets *free-dart*
+*bonus-eco* gets doubled
+gets *auto-collect*
  
 __Crosspath Benefits__
 +8r
@@ -550,17 +550,17 @@ __Crosspath Benefits__
 014 
 50r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
-*main-buff*- non offensive, all towers in range get +15%r, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
-‎ ‎ ‎ ‎ ‎ ‎ (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 +10r
-gets *income-buff*
-gets *free-dart*
+*bonus-eco* gets doubled
+gets *auto-collect*
  
 __Crosspath Benefits__
 gets *growblock*
@@ -568,17 +568,17 @@ gets *growblock*
 024 
 50r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
-*main-buff*- non offensive, all towers in range get +15%r, camo, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+*main-buff*- non offensive, all towers in range get +10%r, camo
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 +10r
-gets *income-buff*
-gets *free-dart*
+*bonus-eco* gets doubled
+gets *auto-collect*
  
 __Crosspath Benefits__
 *buff* improved to give camo
@@ -672,21 +672,19 @@ gets *discount*
 40r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
 *main-buff*- non offensive, all towers in range get +10%r, camo, normal
-**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Call to Arms** ability: 45s cooldown (initial: same as existing cooldown), all towers get +100%p, 50%s for 20s
  
 __Changes from Previous Tier__
-**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s, ability range becomes infinite 
 
 150 
 48r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
 *main-buff*- non offensive, all towers in range get +10%r, camo, normal
-**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Call to Arms** ability: 45s cooldown (initial: same as existing cooldown), all towers get +100%p, 50%s for 20s
  
 __Changes from Previous Tier__
-**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s, ability range becomes infinite 
  
 __Crosspath Benefits__
 +8r
@@ -695,11 +693,10 @@ __Crosspath Benefits__
 48r
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
 *main-buff*- non offensive, all towers in range get +10%r, 85%s, camo, normal
-**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Call to Arms** ability: 45s cooldown (initial: same as existing cooldown), all towers get +100%p, 50%s for 20s
  
 __Changes from Previous Tier__
-**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s, ability range becomes infinite
  
 __Crosspath Benefits__
 +8r
@@ -710,11 +707,10 @@ __Crosspath Benefits__
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
 *main-buff*- non offensive, all towers in range get +10%r, camo, normal
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less
-**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Call to Arms** ability: 45s cooldown (initial: same as existing cooldown), all towers get +100%p, 50%s for 20s
  
 __Changes from Previous Tier__
-**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s, ability range becomes infinite
  
 __Crosspath Benefits__
 gets *discount*
@@ -726,11 +722,10 @@ gets *discount*
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Call to Arms** ability: 45s cooldown (initial: same as existing cooldown), all towers get +100%p, 50%s for 20s
  
 __Changes from Previous Tier__
-**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s, ability range becomes infinite
  
 __Crosspath Benefits__
 gets *discount*
@@ -738,13 +733,13 @@ gets *discount*
 005 
 50r
 absorbs all farms in the tower’s range when upgraded
-‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
-*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+‎ ‎ ‎ ‎ ‎ ‎ - generates $3200 + $600 for every $2000 absorbed each round
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-frreedart- get 1 free dart monkey per round
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 absorbs farms in range upon purchasing
@@ -752,13 +747,13 @@ absorbs farms in range upon purchasing
 105 
 58r
 absorbs all farms in the tower’s range when upgraded
-‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
-*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+‎ ‎ ‎ ‎ ‎ ‎ - generates $3200 + $600 for every $2000 absorbed each round
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 absorbs farms in range upon purchasing
@@ -769,13 +764,13 @@ __Crosspath Benefits__
 205 
 58r
 absorbs all farms in the tower’s range when upgraded
-‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
-*main-buff*- non offensive, all towers in range get +10%r, 85%s, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+‎ ‎ ‎ ‎ ‎ ‎ - generates $3200 + $600 for every $2000 absorbed each round
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 absorbs farms in range upon purchasing
@@ -787,14 +782,14 @@ __Crosspath Benefits__
 015 
 50r
 absorbs all farms in the tower’s range when upgraded
-‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
+‎ ‎ ‎ ‎ ‎ ‎ - generates $3200 + $600 for every $2000 absorbed each round
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
-*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+*main-buff*- non offensive, all towers in range get +10%r
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
  
 __Changes from Previous Tier__
 absorbs farms in range upon purchasing
@@ -805,15 +800,15 @@ gets *growblock*
 025 
 50r
 absorbs all farms in the tower’s range when upgraded
-‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
+‎ ‎ ‎ ‎ ‎ ‎ - generates $3200 + $600 for every $2000 absorbed each round
 *growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
-*main-buff*- non offensive, all towers in range get +10%r, camo, all bloons popped by towers in range give +$50%
-*income-buff*- all money generating towers give +$20%
+*main-buff*- non offensive, all towers in range get +10%r, camo
 *discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
 ‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
 ‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
-*free-dart*- get 1 free dart monkey per round
- 
+*bonus-eco*- non offensive, +20% bloon eco from bloon sends with positive eco, and -20% eco loss from bloon sends with negative eco
+*auto-collect*- non offensive, automatically collects all collectable items dropped within range
+
 __Changes from Previous Tier__
 absorbs farms in range upon purchasing
  
