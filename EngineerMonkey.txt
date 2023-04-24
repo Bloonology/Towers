@@ -11,7 +11,7 @@ footprint radius: 7 (medium)
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.95s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.98s, sharp
  
 __Changes from 0-0-0__
 gets *sentry* attack
@@ -37,7 +37,7 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.95s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.98s, sharp
  
 __Changes from 0-0-0__
 +20r
@@ -51,7 +51,7 @@ gets *sentry* attack
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
  
 __Changes from 0-0-0__
 *nail* gets +5p, shatter
@@ -72,7 +72,7 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.95s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.98s, sharp
  
 __Changes from Previous Tier__
 *sentry* attack gets 60%s
@@ -83,20 +83,20 @@ gets *sentry* attack
 
 020 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.7s, sharp
  
 __Changes from Previous Tier__
-*nail* gets +1md, +1fd, +2fmd
+*nail* gets +1md, +1fd
  
 __Changes from 0-0-0__
-*nail* gets +20r, +1md, +1fd, +2fmd
+*nail* gets +20r, +1md, +1fd
 
 002 
 40r
 *nail*- 1d, 8p, 0.7s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
  
 __Changes from Previous Tier__
 *nail* applies *pinned* status
@@ -110,7 +110,7 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.95s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.98s, sharp
  
 __Changes from 0-0-0__
 +20r
@@ -120,18 +120,18 @@ gets *sentry* attack
 
 220  
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.7s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 2p, 0.95s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, 2p, 0.98s, sharp
  
 __Changes from 0-0-0__
-*nail* gets +20r, +1md, +1fd, +2fmd
+*nail* gets +20r
 gets *sentry* attack
 *sentry* attack gets 60%s
-*sentry* subtower gets +9r, +1md, +1fd, +2fmd
+*sentry* subtower gets +9r, +1md, +1fd
 
 201 
 40r
@@ -140,7 +140,7 @@ gets *sentry* attack
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
  
 __Changes from 0-0-0__
 *nail* gets +5p, shatter
@@ -153,100 +153,102 @@ gets *sentry* attack
 *nail*- 1d, 8p, 0.7s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *pinned* status
  
 __Changes from 0-0-0__
 *nail* gets +5p, shatter, applies *pinned* status
 gets *sentry* attack
 *sentry* attack gets 60%s
-*sentry* subtower gets +1p, shatter
+*sentry* subtower gets +1p, shatter, applies *pinned* status
 
 120 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.7s, sharp
 *sentry*- 10s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 2p, 0.95s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, 2p, 0.98s, sharp
  
 __Changes from 0-0-0__
-*nail* gets +20r, +1md, +1fd, +2fmd
+*nail* gets +20r, +1md, +1fd
 gets *sentry* attack
 *sentry* subtower gets +1md, +1fd, +9r
 
 021 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 8p, 0.7s, shatter
+*nail*- 1d, 2md, +1fd, 8p, 0.7s, shatter
  
 __Changes from 0-0-0__
-*nail* gets +20r, +1md, +1fd, +2fmd, +5p, shatter
+*nail* gets +20r, +1md, +1fd, +5p, shatter
 
 022
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 8p, 0.7s, shatter
+*nail*- 1d, 2md, +1fd, 8p, 0.7s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
  
 __Changes from 0-0-0__
-*nail* gets +20r, +1md, +1fd, +5p, +2fmd, shatter applies *pinned* status
+*nail* gets +20r, +1md, +1fd, +5p, shatter applies *pinned* status
 
 102 
 40r
 *nail*- 1d, 8p, 0.7s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 10s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *pinned* status
  
 __Changes from 0-0-0__
 *nail* gets +5p, shatter, applies *pinned* status
 gets *sentry* attack
-*sentry* subtower gets +1p, shatter
+*sentry* subtower gets +1p, shatter, applies *pinned* status
 
 012 
 60r
 *nail*- 1d, 8p, 0.7s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
  
 __Changes from 0-0-0__
 *nail* gets +20r, +5p, shatter, applies *pinned* status
 
 300 
 40r
-*nail*- 1d, 3p, 0.35s, sharp
+*nail*- 1d, 3p, 0.42s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.475s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.59s, sharp
  
 __Changes from Previous Tier__
-*nail* and *sentry* subtower get 50%s
+*nail* and *sentry* subtower get 60%s
 
 310 
 60r
-*nail*- 1d, 3p, 0.35s, sharp
+*nail*- 1d, 3p, 0.42s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.475s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.59s, sharp
  
 __Changes from Previous Tier__
-*nail* and *sentry* subtower get 50%s
+*nail* and *sentry* subtower get 60%s
  
 __Crosspath Benefits__
 +20r
@@ -254,32 +256,32 @@ __Crosspath Benefits__
 
 320 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.35s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.42s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 2p, 0.475s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, 2p, 0.59s, sharp
  
 __Changes from Previous Tier__
-*nail* and *sentry* subtower get 50%s
+*nail* and *sentry* subtower get 60%s
  
 __Crosspath Benefits__
 +20r
-*nail* gets +1md, +1fd, +2fmd
-*sentry* subtower gets +9r, +1md, +1fd, +2fmd
+*nail* gets +1md, +1fd
+*sentry* subtower gets +9r, +1md, +1fd
 
 301 
 40r
-*nail*- 1d, 8p, 0.35s, shatter
+*nail*- 1d, 8p, 0.42s, shatter
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.475s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.59s, shatter
  
 __Changes from Previous Tier__
-*nail* and *sentry* subtower get 50%s
+*nail* and *sentry* subtower get 60%s
  
 __Crosspath Benefits__
 *nail* gets +5p, shatter
@@ -287,19 +289,19 @@ __Crosspath Benefits__
 
 302 
 40r
-*nail*- 1d, 8p, 0.35s, shatter
+*nail*- 1d, 8p, 0.42s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.475s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.59s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *pinned* status
  
 __Changes from Previous Tier__
-*nail* and *sentry* subtower get 50%s
+*nail* and *sentry* subtower get 60%s
  
 __Crosspath Benefits__
 *nail* gets +5p, shatter, applies *pinned* status
@@ -307,38 +309,31 @@ __Crosspath Benefits__
 
 030 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.7s, sharp
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
  
 __Changes from Previous Tier__
 gets *foam* attack
 
 130 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.7s, sharp
 *sentry*- 10s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 2p, 0.95s, sharp
-		- removes camo on hit
-		- removes regrow on hit
-		- removes lead on hit
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, 2p, 0.98s, sharp
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
  
 __Changes from Previous Tier__
 gets *foam* attack
@@ -348,23 +343,18 @@ gets *sentry* attack
 
 230 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.7s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 2p, 0.95s, sharp
-		- removes camo on hit
-		- removes regrow on hit
-		- removes lead on hit
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, 2p, 0.98s, sharp
 *foam*- 1.2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.3s for 1s at the start of every round
  
 __Changes from Previous Tier__
 gets *foam* attack
@@ -375,37 +365,33 @@ gets *sentry* attack
 
 031 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 8p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 8p, 0.7s, sharp
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 15p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 30p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
  
 __Changes from Previous Tier__
 gets *foam* attack
  
 __Crosspath Benefits__
-*nail* and *foam* get +5p
+*nail* gets +5p
+*foam* gets +15p
 
 032 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 8p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 8p, 0.7s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 15p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 30p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *slow* status to non-moabs- 50% speed, 2s duration
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
  
 __Changes from Previous Tier__
 gets *foam* attack
@@ -413,14 +399,14 @@ gets *foam* attack
 __Crosspath Benefits__
 *nail* gets +5p
 *nail* applies *pinned* status
-*foam* gets +5p, applies *slow* effect
+*foam* gets +15p
 
 003 
 40r
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
  
 __Changes from Previous Tier__
 *nail* gets 50%s
@@ -430,12 +416,12 @@ __Changes from Previous Tier__
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 10s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
  
 __Changes from Previous Tier__
 *nail* gets 50%s
@@ -448,12 +434,12 @@ gets *sentry* attack
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
  
 __Changes from Previous Tier__
 *nail* gets 50%s
@@ -466,7 +452,7 @@ gets *sentry* attack
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
  
 __Changes from Previous Tier__
 *nail* gets 50%s
@@ -476,42 +462,41 @@ __Crosspath Benefits__
 
 023 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 8p, 0.35s, sharp
+*nail*- 1d, 2md, +1fd, 8p, 0.35s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
  
 __Changes from Previous Tier__
 *nail* gets 50%s
  
 __Crosspath Benefits__
-*nail* gets +20r, +1md, +1fd, 2fmd
+*nail* gets +20r, +1md, +1fd
 
 400 
 40r
-*nail*- 1d, 3p, 0.35s, sharp
+*nail*- 1d, 3p, 0.42s, sharp
 *sentry*- 6s, 25s lifetime, cycles through the following *sentry* subtowers
-	-(displayed *sentry* ai is outdated, please tell Cyber Quincy server if you know the actual ai)
 ‎ ‎ ‎ ‎ ‎ ‎ - *crushing-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +4cd (6), 22p, 1.1s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +1cd (3), 22p, 1.1s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if a ceramic bloon is on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *boom-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 4d, 30p, 50r, 0.9s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, 30p, 50r, 0.9s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a black bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a lead and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *cold-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *ice-ball*- 1d, 25p, 1.5s, cold
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *ice-ball*- 1d, 15p, 1.5s, cold
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies frozen status for 1.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a white bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and lead bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *energy-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, +2md (4), 8p, 0.475s, energy
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, 8p, 0.57s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a purple bloon is on screen
@@ -522,17 +507,17 @@ cycles through *crushing-sentry*, *boom-sentry*, *cold-sentry*, and *energy-sent
 
 410 
 60r
-*nail*- 1d, 3p, 0.35s, sharp
+*nail*- 1d, 3p, 0.42s, sharp
 *sentry*- 6s, 25s lifetime, cycles through the following *sentry* subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *crushing-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 54r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +4cd (6), 22p, 1.1s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +1cd (3), 22p, 1.1s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if a ceramic bloon is on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *boom-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 54r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 3d, 30p, 50r, 0.9s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, 30p, 50r, 0.9s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a black bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a lead and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *cold-sentry*
@@ -543,7 +528,7 @@ cycles through *crushing-sentry*, *boom-sentry*, *cold-sentry*, and *energy-sent
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and lead bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *energy-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 54r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, +2md (4), 8p, 0.475s, energy
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, 8p, 0.57s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a purple bloon is on screen
@@ -558,29 +543,29 @@ all *sentry* subtowers get +4r
 
 420 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.35s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.42s, sharp
 *sentry*- 6s, 25s lifetime, cycles through the following *sentry* subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - *crushing-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 54r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +4cd (6), +1md (3), +1fd, +2fmd (4), 22p, 1.1s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +1cd (3), +1md (3), +1fd, 22p, 1.1s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if a ceramic bloon is on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *boom-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 54r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 4d, +1md (5), +1fd, +2fmd (6), 30p, 50r, 0.9s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, +1md (3), +1fd, 30p, 50r, 0.9s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a black bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a lead and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *cold-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 54r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *ice-ball*- 1d, +1fd, 25p, 1.5s, cold
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *ice-ball*- 1d, +1fd, 15p, 1.5s, cold
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies frozen status for 1.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a white bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and lead bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *energy-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 54r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, +3md (5), +1fd, +2fmd (6), 8p, 0.475s, energy
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, +1md (3), +1fd, 8p, 0.57s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a purple bloon is on screen
@@ -590,33 +575,33 @@ __Changes from Previous Tier__
 cycles through *crushing-sentry*, *boom-sentry*, *cold-sentry*, and *energy-sentry* subtowers
  
 __Crosspath Benefits__
-*nail* gets +20r, +1md, +1fd, +2fmd
-all *sentry* subtowers get +4r, +1md, +1fd, +2fmd
+*nail* gets +20r, +1md, +1fd
+all *sentry* subtowers get +4r, +1md, +1fd
 
 401 
 40r
-*nail*- 1d, 8p, 0.35s, shatter
+*nail*- 1d, 8p, 0.42s, shatter
 *sentry*- 6s, 25s lifetime, cycles through the following *sentry* subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - *crushing-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +4cd (6), 28p, 1.1s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +1cd (3), 28p, 1.1s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if a ceramic bloon is on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *boom-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 4d, 38p, 50r, 0.9s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, 38p, 50r, 0.9s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a black bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a lead and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *cold-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *ice-ball*- 1d, 29p, 1.5s, cold
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *ice-ball*- 1d, 19p, 1.5s, cold
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies frozen status for 1.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a white bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and lead bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *energy-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, +2md (4), 10p, 0.475s, energy
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, 10p, 0.57s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a purple bloon is on screen
@@ -634,33 +619,33 @@ __Crosspath Benefits__
 
 402 
 40r
-*nail*- 1d, 8p, 0.35s, shatter
+*nail*- 1d, 8p, 0.42s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 6s, 25s lifetime, cycles through the following *sentry* subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - *crushing-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +4cd (6), 28p, 1.1s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *spike-ball*- 2d, +1cd (3), 28p, 1.1s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *pinned* status
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if a ceramic bloon is on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *boom-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 4d, 38p, 50r, 0.9s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *bomb*- 2d, 38p, 50r, 0.9s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *pinned* status
 ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a black bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a lead and white bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *cold-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *ice-ball*- 1d, 29p, 1.5s, cold
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *ice-ball*- 1d, 19p, 1.5s, cold
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies frozen status for 1.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a white bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and lead bloon are on screen
 ‎ ‎ ‎ ‎ ‎ ‎ - *energy-sentry*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 50r
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, +2md (4), 10p, 0.475s, energy
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *laser*- 2d, 10p, 0.57s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *pinned* status
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - will not spawn if a lead bloon is on screen 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can be overridden if both a black and white bloon are on screen
@@ -680,20 +665,16 @@ __Crosspath Benefits__
 
 040 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 15p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 15p, 0.7s, sharp
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
-**Overclock** ability: 45s cooldown, gives target tower 60%s for (105 - 15 * (tier))s if it's Tier 3 or higher
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
+**Overclock** ability: 45s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s
 ‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
-‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r 
+‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
 ‎ ‎ ‎ ‎ ‎ ‎ - (tier just means what tier the tower’s highest tier upgrade is)
  
@@ -703,27 +684,20 @@ gets **Overclock** ability
 
 140 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 15p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 15p, 0.7s, sharp
 *sentry*- 10s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 2p, 0.95s, sharp
-		- removes camo on hit
-		- removes regrow on hit
-		- removes lead on hit
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, 2p, 0.98s, sharp
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
-**Overclock** ability: 45s cooldown, gives target tower 60%s for (105 - 15 * (tier))s
-‎‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration 
- ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
+**Overclock** ability: 45s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s
+‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
 ‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
 ‎ ‎ ‎ ‎ ‎ ‎ - (tier just means what tier the tower’s highest tier upgrade is)
@@ -737,26 +711,19 @@ gets *sentry* attack
 
 240 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 15p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 15p, 0.7s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 2p, 0.95s, sharp
-		- removes camo on hit
-		- removes regrow on hit
-		- removes lead on hit
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, 2p, 0.98s, sharp
 *foam*- 1.2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.3s for 1s at the start of every round
-**Overclock** ability: 45s cooldown, gives target tower 60%s for (105 - 15 * (tier))s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
+**Overclock** ability: 45s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s
 ‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
 ‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
@@ -772,18 +739,14 @@ gets *sentry* attack
 
 041 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 20p, 0.7s, shatter
+*nail*- 1d, 2md, +1fd, 20p, 0.7s, shatter
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 15p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 30p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
-**Overclock** ability: 45s cooldown, gives target tower 60%s for (105 - 15 * (tier))s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
+**Overclock** ability: 45s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s
 ‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
 ‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
@@ -794,27 +757,22 @@ __Changes from Previous Tier__
 gets **Overclock** ability
  
 __Crosspath Benefits__
-*nail* and *foam* get +5p
-*nail* gets shatter
+*nail* gets +5p, shatter
+*foam* gets +15p
 
 042 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 20p, 0.7s, shatter
+*nail*- 1d, 2md, +1fd, 20p, 0.7s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 15p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 30p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *slow* status to non-moabs- 50% speed, 2s duration
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
-**Overclock** ability: 45s cooldown, gives target tower 60%s for (105 - 15 * (tier))s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
+**Overclock** ability: 45s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s
 ‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
 ‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
@@ -827,22 +785,21 @@ gets **Overclock** ability
 __Crosspath Benefits__
 *nail* gets +5p
 *nail* gets shatter, applies *pinned* status
-*foam* gets +5p, applies *slow* status
+*foam* gets +15p
 
 004 
 40r
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
-*bloon-trap*- 12s, spawns a *trap* at the closest point to the tower on the track 
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
+*bloon-trap*- 9s, spawns a *trap* at the closest point to the tower on the track 
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives $2.4 for each natural bloon RBE when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 2.1s minimum time between *traps*
  
 __Changes from Previous Tier__
 gets *bloon-trap* attack
@@ -852,20 +809,20 @@ gets *bloon-trap* attack
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 10s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
-*bloon-trap*- 12s, spawns a *trap* at the closest point to the tower on the track 
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
+*bloon-trap*- 9s, spawns a *trap* at the closest point to the tower on the track 
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives $2.4 for each natural bloon RBE when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 2.1s minimum time between *traps*
  
 __Changes from Previous Tier__
 gets *bloon-trap* attack
@@ -878,20 +835,20 @@ gets *sentry* attack
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
-*bloon-trap*- 7.2s, spawns a *trap* at the closest point to the tower on the track 
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
+*bloon-trap*- 5.4s, spawns a *trap* at the closest point to the tower on the track 
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives $2.4 for each natural bloon RBE when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 1.26s minimum time between *traps*
  
 __Changes from Previous Tier__
 gets *bloon-trap* attack
@@ -899,84 +856,83 @@ gets *bloon-trap* attack
 __Crosspath Benefits__
 gets *sentry* attack
 *bloon-trap* gets 60%s
+minimum time between traps gets 60%s
 
 014 
 60r
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
-*bloon-trap*- 12s, spawns a *trap* at the chosen point
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
+*bloon-trap*- 9s, spawns a *trap* at the closest point to the tower on the track or where selected within range
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives $2.4 for each natural bloon RBE when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
 ‎ ‎ ‎ ‎ ‎ ‎  -cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 2.1s minimum time between *traps*
  
 __Changes from Previous Tier__
 gets *bloon-trap* attack
  
 __Crosspath Benefits__
 *nail* gets +20r
-*bloon-trap* gains set targeting
+can place *trap* where selected within range
 
 024 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 8p, 0.35s, sharp
+*nail*- 1d, 2md, +1fd, 8p, 0.35s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
-*bloon-trap*- 12s, spawns a *trap* at the chosen point
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p ignoring fortified, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
+*bloon-trap*- 9s, spawns a *trap* at the closest point to the tower on the track or where selected within range
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 500p, eats all bloons then gives $2.4 for each natural bloon RBE when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 2.1s minimum time between *traps*
  
 __Changes from Previous Tier__
 gets *bloon-trap* attack
  
 __Crosspath Benefits__
-*nail* gets +20r, +1md, +1fd, +2fmd
-*bloon-trap* capacity ignores fortified, gains set targeting
+*nail* gets +20r, +1md, +1fd
+can place *trap* where selected within range
 
 500 
 40r
-*nail*- 1d, 3p, 0.3s, sharp
+*nail*- 1d, 3p, 0.42s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *plasma*- 2d, 5p, 0.06s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ - *self-destruct*- on expiration creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 50p, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - plasma- 2d, 6p, 0.05s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - selfdestruct- on expiration creates explosion
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - explosion- 150d, 100p, plasma
  
 __Changes from Previous Tier__
-*nail* gets 85.71%s
 no longer cycles between *sentry* subtowers
-*sentry* subtower attack changed (from 3xx) from *nail* to *plasma*: +1d, +3p, 10.53%s
-creates *explosion* on expiration
+all *sentry* subtower attacks changed to *plasma*: 2d, 6p, 0.05s, plasma
+creates explosion on expiration
 
 510 
 60r
-*nail*- 1d, 3p, 0.3s, sharp
+*nail*- 1d, 3p, 0.42s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 54r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *plasma*- 2d, 5p, 0.06s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ - *self-destruct*- on expiration creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 50p, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - plasma- 2d, 6p, 0.05s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - selfdestruct- on expiration creates explosion
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - explosion- 150d, 100p, plasma
  
 __Changes from Previous Tier__
-*nail* gets 85.71%s
 no longer cycles between *sentry* subtowers
-*sentry* subtower attack changed (from 3xx) from *nail* to *plasma*: +1d, +3p, 10.53%s
-creates *explosion* on expiration
+all *sentry* subtower attacks changed to *plasma*: 2d, 6p, 0.05s, plasma
+creates explosion on expiration
  
 __Crosspath Benefits__
 *nail* gets +20r
@@ -984,164 +940,145 @@ __Crosspath Benefits__
 
 520 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.3s, sharp
+*nail*- 1d, 2md, +1fd, 3p, 0.42s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 54r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *plasma*- 2d, +1md (3), +1fd, +2fmd (4), 5p, 0.06s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ - *self-destruct*- on expiration creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 50p, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - plasma- 2d, 3md, +1fd, 6p, 0.05s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - selfdestruct- on expiration creates explosion
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - explosion- 150d, 100p, plasma
  
 __Changes from Previous Tier__
-*nail* gets 85.71%s
 no longer cycles between *sentry* subtowers
-*sentry* subtower attack changed (from 3xx) from *nail* to *plasma*: +1d, +3p, 10.53%s
-creates *explosion* on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - plasma- 2d, 3md, +1fd, 6p, 0.05s, plasma
+creates explosion on expiration
  
 __Crosspath Benefits__
-*nail* gets +20r, +1md, +1fd, +2fmd
+*nail* gets +20r, +1md, +1fd
 *sentry* subtower gets +4r, +1md, +1fd
 
 501 
 40r
-*nail*- 1d, 8p, 0.3s, shatter
+*nail*- 1d, 8p, 0.42s, shatter
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *plasma*- 2d, 7p, 0.06s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ - *self-destruct*- on expiration creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 50p, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - plasma- 2d, 7p, 0.05s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - selfdestruct- on expiration creates explosion
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - explosion- 150d, 100p, plasma
  
 __Changes from Previous Tier__
-*nail* gets 85.71%s
 no longer cycles between *sentry* subtowers
-*sentry* subtower attack changed (from 3xx) from *nail* to *plasma*: +1d, +3p, 10.53%s
-creates *explosion* on expiration
+all *sentry* subtower attacks changed to *plasma*: 2d, 7p, 0.05s, plasma
+creates explosion on expiration
  
 __Crosspath Benefits__
 *nail* gets +5p, shatter
-*plasma* gets +2p
+*plasma( gets +1p
 
 502 
 40r
-*nail*- 1d, 8p, 0.3s, shatter
+*nail*- 1d, 8p, 0.42s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *plasma*- 2d, 7p, 0.06s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - plasma- 2d, 7p, 0.05s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *pinned* status
-‎ ‎ ‎ ‎ ‎ ‎ - *self-destruct*- on expiration creates *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 100d, 50p, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - selfdestruct- on expiration creates explosion
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - explosion- 150d, 100p, plasma
  
 __Changes from Previous Tier__
-*nail* gets 85.71%s
 no longer cycles between *sentry* subtowers
-*sentry* subtower attack changed (from 3xx) from *nail* to *plasma*: +1d, +3p, 10.53%s
-creates *explosion* on expiration
+all *sentry* subtower attacks changed to *plasma*: 2d, 7p, 0.05s, plasma
+creates explosion on expiration
  
 __Crosspath Benefits__
 *nail* gets +5p, shatter, applies *pinned* status
-plasma gets +2p, applies *pinned* status 
+plasma gets +1p, applies *pinned* status 
 
 050 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 30p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 30p, 0.7s, sharp
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
-**Overclock** ability: 35s cooldown, ability can only be used 3 times per round, gives target tower 60%s for (105 - 15 * (tier))s, also gives target -4%s which stacks additively 10 times
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
+**Overclock** ability: 20s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s, also gives target -8%s which stacks additively 5 times
 ‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
-‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +2.5%r instead
+‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +5%r instead of 60%s and stackable -8%s
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
 ‎ ‎ ‎ ‎ ‎ ‎ - (tier just means what tier the tower’s highest tier upgrade is)
-‎ ‎ ‎ ‎ ‎ ‎ - (96%s for 1 ability, 92%s for 2, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (92%s for 1 ability, 84%s for 2, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - note: the overclock and ultraboost abilities do NOT stack 
  
 __Changes from Previous Tier__
 *nail* gets +15p
-**Overclock** ability gets -10s cooldown, grants a smaller residual speed bonus that stacks up to 10 times, ability can only be used 3 times per round
+**Overclock** ability gets -25s cooldown, grants a smaller residual speed bonus that stacks up to 5 times
 
 150 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 30p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 30p, 0.7s, sharp
 *sentry*- 10s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.7s, sharp
-		- removes camo on hit
-		- removes regrow on hit
-		- removes lead on hit
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.98s, sharp
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
-**Overclock** ability: 35s cooldown, ability can only be used 3 times per round, gives target tower 60%s for (105 - 15 * (tier))s, also gives target -4%s which stacks additively 10 times
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
+**Overclock** ability: 20s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s, also gives target -8%s which stacks additively 5 times
 ‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
-‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +2.5%r instead
+‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +5%r instead of 60%s and stackable -8%s
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
 ‎ ‎ ‎ ‎ ‎ ‎ - (tier just means what tier the tower’s highest tier upgrade is)
-‎ ‎ ‎ ‎ ‎ ‎ - (96%s for 1 ability, 92%s for 2, etc.) 
+‎ ‎ ‎ ‎ ‎ ‎ - (92%s for 1 ability, 74%s for 2, etc.) 
 ‎ ‎ ‎ ‎ ‎ ‎ - note: the overclock and ultraboost abilities do NOT stack
+
  
 __Changes from Previous Tier__
 *nail* gets +15p
-**Overclock** ability gets -10s cooldown, grants a smaller residual speed bonus that stacks up to 10 times, ability can only be used 3 times per round
+**Overclock** ability gets -25s cooldown, grants a smaller residual speed bonus that stacks up to 5 times
  
 __Crosspath Benefits__
 gets *sentry* attack
 
 250 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 30p, 0.7s, sharp
+*nail*- 1d, 2md, +1fd, 30p, 0.7s, sharp
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 49r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2md, +1fd, +2fmd (3), 3p, 0.7s, sharp
-		- removes camo on hit
-		- removes regrow on hit
-		- removes lead on hit
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 2p, 0.98s, sharp
 *foam*- 1.2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 10p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 20p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.3s for 1s at the start of every round
-**Overclock** ability: 35s cooldown, ability can only be used 3 times per round, gives target tower 60%s for (105 - 15 * (tier))s, also gives target -4%s which stacks additively 10 times
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
+**Overclock** ability: 20s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s, also gives target -8%s which stacks additively 5 times
 ‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
-‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +2.5%r instead
+‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +5%r instead of 60%s and stackable -8%s
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
 ‎ ‎ ‎ ‎ ‎ ‎ - (tier just means what tier the tower’s highest tier upgrade is)
-‎ ‎ ‎ ‎ ‎ ‎ - (96%s for 1 ability, 92%s for 2, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (92%s for 1 ability, 74%s for 2, etc.) 
 ‎ ‎ ‎ ‎ ‎ ‎ - note: the overclock and ultraboost abilities do NOT stack
+
  
 __Changes from Previous Tier__
 *nail* gets +15p
-**Overclock** ability gets -10s cooldown, grants a smaller residual speed bonus that stacks up to 10 times, ability can only be used 3 times per round
+**Overclock** ability gets -25s cooldown, grants a smaller residual speed bonus that stacks up to 5 times
  
 __Crosspath Benefits__
 gets *sentry* attack
@@ -1149,104 +1086,97 @@ gets *sentry* attack
 
 051 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 35p, 0.7s, shatter
+*nail*- 1d, 2md, +1fd, 35p, 0.7s, shatter
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 15p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 30p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
-**Overclock** ability: 35s cooldown, ability can only be used 3 times per round, gives target tower 60%s for (105 - 15 * (tier))s, also gives target -4%s which stacks additively 10 times
-‎‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
- ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
-‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +2.5%r instead
+**Overclock** ability: 20s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s, also gives target -8%s which stacks additively 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
+‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +5%r instead of 60%s and stackable -8%s
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
 ‎ ‎ ‎ ‎ ‎ ‎ - (tier just means what tier the tower’s highest tier upgrade is)
-‎ ‎ ‎ ‎ ‎ ‎ - (96%s for 1 ability, 92%s for 2, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (92%s for 1 ability, 74%s for 2, etc.) 
 ‎ ‎ ‎ ‎ ‎ ‎ - note: the overclock and ultraboost abilities do NOT stack
+
  
 __Changes from Previous Tier__
 *nail* gets +15p
-**Overclock** ability gets -10s cooldown, grants a smaller residual speed bonus that stacks up to 10 times, ability can only be used 3 times per round
+**Overclock** ability gets -25s cooldown, grants a smaller residual speed bonus that stacks up to 5 times
  
 __Crosspath Benefits__
 *nail* gets +5p, shatter
-*foam* gets +5p
+*foam* gets +15p
 
 052 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 35p, 0.7s, shatter
+*nail*- 1d, 2md, +1fd, 35p, 0.7s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *foam*- 2s, spawns *foam*
-‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 15p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *foam* lasts 1 round or 8s
+‎ ‎ ‎ ‎ ‎ ‎ - *foam*- 0d, 30p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if a lead bloon hits the *foam*, the layer is instantly popped
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ddts are immune to this effect
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *slow* status to non-moabs- 50% speed, 2s duration
-‎ ‎ ‎ ‎ ‎ ‎ - 0.5s for 1s at the start of every round
-**Overclock** ability: 35s cooldown, ability can only be used 3 times per round, gives target tower 60%s for (105 - 15 * (tier))s, also gives target -4%s which stacks additively 10 times
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
-‎‎ ‎ ‎ ‎ ‎ ‎ - cannot exceed a 60s duration
+**Overclock** ability: 20s cooldown (battle ready), gives target tower 60%s for (105 - 15 * (tier))s, also gives target -8%s which stacks additively 5 times
 ‎ ‎ ‎ ‎ ‎ ‎ - a hero’s tier is calculated as (level) / 4, rounded down
-‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +2.5%r instead
+‎ ‎ ‎ ‎ ‎ ‎ - villages get +25%r and stackable +5%r instead of 60%s and stackable -8%s
 ‎ ‎ ‎ ‎ ‎ ‎ - can increase banana farm production
 ‎ ‎ ‎ ‎ ‎ ‎ - (tier just means what tier the tower’s highest tier upgrade is)
-‎ ‎ ‎ ‎ ‎ ‎ - (96%s for 1 ability, 92%s for 2, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (92%s for 1 ability, 74%s for 2, etc.) 
 ‎ ‎ ‎ ‎ ‎ ‎ - note: the overclock and ultraboost abilities do NOT stack
+
  
 __Changes from Previous Tier__
 *nail* gets +15p
-**Overclock** ability gets -10s cooldown, grants a smaller residual speed bonus that stacks up to 10 times, ability can only be used 3 times per round
+**Overclock** ability gets -10s cooldown, grants a smaller residual speed bonus that stacks up to 5 times
  
 __Crosspath Benefits__
 *nail* gets +5p, shatter, applies *pinned* status
-*foam* gets +5p, applies *slow* status
+*foam* gets +15p
 
 005 
 40r
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
-*bloon-trap*- 5.8s, spawns a *trap* at the closest point to the tower on the track 
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
+*bloon-trap*- 1.5s, spawns a *trap* at the closest point to the tower on the track 
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives $0.75 for each natural bloon eaten when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 1.5s minimum time between *traps*
  
 __Changes from Previous Tier__
-*bloon-trap* gets 48.33%s, +9500p, can *trap* blimps within the pierce limit
+*bloon-trap* gets 16.67%s, +9500p, can *trap* blimps within the pierce limit, gives -$1.65/natural bloon RBE
+minimum time between traps gets 71.4%s
 
 105 
 40r
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 10s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
-*bloon-trap*- 5.8s, spawns a *trap* at the closest point to the tower on the track 
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
+*bloon-trap*- 1.5s, spawns a *trap* at the closest point to the tower on the track 
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives $5,000 when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 1.5s minimum time between *traps*
  
 __Changes from Previous Tier__
-*bloon-trap* gets 48.33%s, +9500p, can *trap* blimps within the pierce limit
+*bloon-trap* gets 16.67%s, +9500p, can *trap* blimps within the pierce limit, gives -$1.65/natural bloon RBE
+minimum time between traps gets 71.4%s
  
 __Crosspath Benefits__
 gets *sentry* attack
@@ -1256,64 +1186,65 @@ gets *sentry* attack
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
 *sentry*- 6s, spawns *sentry* subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - *sentry* lasts 25s
 ‎ ‎ ‎ ‎ ‎ ‎ - 45r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
-‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.95s, shatter
-*bloon-trap*- 3.48s, spawns a *trap* at the closest point to the tower on the track 
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ - *nail*- 1d, 3p, 0.98s, shatter
+*bloon-trap*- 1.26s, spawns a *trap* at the closest point to the tower on the track 
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives $5,000 when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
  
 __Changes from Previous Tier__
-*bloon-trap* gets 48.33%s, +9500p, can *trap* blimps within the pierce limit
+*bloon-trap* gets 16.67%s, +9500p, can *trap* blimps within the pierce limit, gives -$1.65/natural bloon RBE
+minimum time between traps gets removed
  
 __Crosspath Benefits__
 gets *sentry* attack
-*bloon-trap* gets 60%s
+*bloon-trap* gets 84%s
+minimum time between traps gets removed
 
 015 
 60r
 *nail*- 1d, 8p, 0.35s, shatter
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
-*bloon-trap*- 5.8s, spawns a *trap* at the chosen point 
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
+*bloon-trap*- 1.5s, spawns a *trap* at the closest point to the tower on the track or where selected within range
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives $5,000 when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 1.5s minimum time between *traps*
  
 __Changes from Previous Tier__
-*bloon-trap* gets 48.33%s, +9500p, can *trap* blimps within the pierce limit
+*bloon-trap* gets 16.67%s, +9500p, can *trap* blimps within the pierce limit, gives +$1.65/natural bloon RBE
+minimum time between traps gets 71.4%s
  
 __Crosspath Benefits__
 *nail* gets +20r
-*bloon-trap* gains set targeting
+can place *trap* where selected within range
 
 025 
 60r
-*nail*- 1d, 2md, +1fd, +2fmd (3), 8p, 0.35s, sharp
+*nail*- 1d, 2md, +1fd, 8p, 0.35s, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ - when a non-moab is popped, applies *pin* status to the child
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this effectively makes ceramics and fleads immune)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 0.95s
-*bloon-trap*- 5.8s, spawns a *trap* at the chosen point
-‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p ignoring fortified, eats all bloons then gives double the income put into it when pierce runs out
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *pinned* status- bloons don't move for 1s
+*bloon-trap*- 1.5s, spawns a *trap* at the closest point to the tower on the track or where selected within range
+‎ ‎ ‎ ‎ ‎ ‎ - *trap*- 10,000p, eats all bloons then gives $5,000 when pierce runs out
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - if the *trap* expires it gives half the income as normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (outside of chimps this just means it gives no bonus income)
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot place more than 1 *trap* at a time
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (if another *trap* can be placed but there is already a *trap* out, the engineer waits for the existing *trap* to expire before placing the new one)
-‎ ‎ ‎ ‎ ‎ ‎ - 2.8s minimum time between *traps*
+‎ ‎ ‎ ‎ ‎ ‎ - 1.5s minimum time between *traps*
  
 __Changes from Previous Tier__
-*bloon-trap* gets 48.33%s, +9500p, can *trap* blimps within the pierce limit
+*bloon-trap* gets 16.67%s, +9500p, can *trap* blimps within the pierce limit, gives +$1.65/natural bloon RBE
+minimum time between traps gets 71.4%s
  
 __Crosspath Benefits__
-*nail* gets +20r, +1md, +1fd, +2fmd
-*bloon-trap* capacity ignores fortified, gains set targeting
+*nail* gets +20r, +1md, +1fd
+can place *trap* where selected within range
