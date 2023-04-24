@@ -1,6 +1,6 @@
 000 
 45r
-*potion*- 1d, 15p, 2.0s, normal
+*potion*- 1d, 14p, 1.8s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
@@ -8,94 +8,94 @@ footprint radius: 6 (small)
 
 100 
 45r
-*potion*- 1d, 20p, 2.0s, normal
+*potion*- 1d, 20p, 1.8s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets +5p, larger splash radius 
+*potion* gets +6p, larger splash radius 
 
 010 
 45r
-*potion*- 1d, 15p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 14p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*acid* status tick rate 2.0s -> 1.5s, duration +0.5s
+*acid* status tick rate 50%s, duration -1s
 
 001 
 45r
-*potion*- 1d, 15p, 1.6s, normal
+*potion*- 1d, 14p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets 80%s
+*potion* gets 60%s
 
 110 
 45r
-*potion*- 1d, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets +5p, larger splash radius
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +6p, larger splash radius
+*acid* status tick rate gets 50%s, -1s duration
 
 101 
 45r
-*potion*- 1d, 20p, 1.6s, normal
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets +5p, larger splash radius, 80%s
+*potion* gets +6p, larger splash radius, 60%s
 
 011 
 45r
-*potion*- 1d, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets 80%s
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets 60%s
+*acid* status tick rate gets 50%s, -1s duration
 
 200 
 45r
-*potion*- 1d, 20p, 2.0s, normal
+*potion*- 1d, 20p, 1.8s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
  
 __Changes from Previous Tier__
 Gets *acid-dip* buff
  
 __Changes from 0-0-0__
-*potion* gets +5p, larger splash radius
+*potion* gets +6p, larger splash radius
 gets *acid-dip* buff
 
 020 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
  
 __Changes from Previous Tier__
-*potion* gets +4md, +15fmd, strips fortified
+*potion* gets +1d, +3md, +15fmd, strips fortified
  
 __Changes from 0-0-0__
 *potion* gets +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*acid* status tick rate gets 50%s, -1s duration
 
 002 
 45r
-*potion*- 1d, 15p, 1.6s, normal
+*potion*- 1d, 14p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 5p, normal
@@ -107,131 +107,131 @@ __Changes from Previous Tier__
 gets *puddle* attack
  
 __Changes from 0-0-0__
-*potion* gets 80%s
+*potion* gets 60%s
 gets *puddle* attack
 
 210 
 45r
-*potion*- 1d, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
  
 __Changes from 0-0-0__
-*potion* gets +5p, larger splash radius
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration 
-gets *acid-dip* buff
+*potion* gets +6p, larger splash radius
+*acid* status tick rate gets 50%s, -1s duration 
+gets acidddip buff
 
 220 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 13 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
  
 __Changes from 0-0-0__
-*potion* gets +5p, +4md, +15fmd, larger splash radius, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +6p, +1d, +3md, +15fmd, larger splash radius, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
 *acid-dip* duration 10 shots -> 13 shots
 
 201 
 45r
-*potion*- 1d, 20p, 1.6s, normal
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
  
 __Changes from 0-0-0__
-all attacks get 80%s
-*potion* gets +5p, larger splash radius
+all attacks get 60%s
+*potion* gets +6p, larger splash radius
 gets *acid-dip* buff
 
 202 
 45r
-*potion*- 1d, 20p, 1.6s, normal
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
  
 __Changes from 0-0-0__
-all attacks get 80%s
-*potion* gets +5p, larger splash radius
-*puddle* gets +5p
+all attacks get 60%s
+*potion* gets +6p, larger splash radius
+*puddle* gets +6p
 gets *acid-dip* buff
 
 120 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets +5p, +4md, +15fmd, larger splash radius, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +6p, +1d, +3md, +15fmd, larger splash radius, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
 
 021 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets 80%s, +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets 60%s, +1d, +3md, +15fmd, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
 
 022 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 5md, 20fmd, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 2d, 5md, 20fmd, 10p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets 80%s, +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
-*puddle* gets +4md, +15fmd, strips fortified
+*potion* gets 60%s, +1d, +3md, +15fmd, strips fortified
+*acid* status tick rate gets 50%s, -1.75s duration
+*puddle* gets +1d, +3md, +15fmd, strips fortified
 
 102 
 45r
-*potion*- 1d, 20p, 1.6s, normal
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets +5p, 80%s, larger splash radius
-*puddle* gets +5p
+*potion* gets +6p, 60%s, larger splash radius
+*puddle* gets +6p
 
 012 
 45r
-*potion*- 1d, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 5p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
@@ -239,18 +239,18 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from 0-0-0__
-*potion* gets 80%s
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets 60%s
+*acid* status tick rate gets 50%s, -1s duration
 gets *puddle* attack
 
 300 
 45r
-*potion*- 1d, 20p, 2.0s, normal
+*potion*- 1d, 20p, 1.8s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +2p, 90%s, and +10%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 25 shots or 5s
@@ -261,32 +261,32 @@ gets *brew* buff
 
 310 
 45r
-*potion*- 1d, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots 
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +2p, 90%s, and +10%r
-‎ ‎ ‎ ‎ ‎ ‎ - lasts 25 shots or 5s
+‎ ‎ ‎ ‎ ‎ ‎ - lasts 25 shots or 12s
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot buff the same tower more than once every 5s
  
 __Changes from Previous Tier__
 gets *brew* buff
  
 __Crosspath Benefits__
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*acid* status tick rate gets 50%s, -1s duration
 
 320 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 13 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +2p, 90%s, and +10%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 40 shots or 6s
@@ -296,21 +296,21 @@ __Changes from Previous Tier__
 gets *brew* buff
  
 __Crosspath Benefits__
-*potion* gets +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +1d, +3md, +15fmd, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
 *acid-dip* duration 10 shots -> 13 shots
 *brew* duration +1s, 25 shots -> 40 shots, -1s reapplication cooldown
 
 301 
 45r
-*potion*- 1d, 20p, 1.6s, normal
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots 
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-*brew*- non-offensive, 6.4s, gives the closest non-buffed tower +1d, +2p, 90%s, and +10%r
+*brew*- non-offensive, 4.8s, gives the closest non-buffed tower +1d, +2p, 90%s, and +10%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 25 shots or 5s
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot buff the same tower more than once every 5s
  
@@ -318,49 +318,48 @@ __Changes from Previous Tier__
 gets *brew* buff
  
 __Crosspath Benefits__
-all attacks get 80%s
+all attacks get 60%s
 
 302 
 45r
-*potion*- 1d, 20p, 1.6s, normal
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-*brew*- non-offensive, 6.4s, gives the closest non-buffed tower +1d, +2p, 90%s, and +10%r
+*brew*- non-offensive, 4.8s, gives the closest non-buffed tower +1d, +2p, 90%s, and +10%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 25 shots or 5s
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot buff the same tower more than once every 5s
  
 __Changes from Previous Tier__
-gets *brew* buff 
- 
+gets *brew* buff
+
 __Crosspath Benefits__
-all attacks get 80%s
-*puddle* gets +5p
+all attacks get 60%s
+gets *puddle*
+*puddle* gets +6p
 
 030 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
@@ -368,116 +367,106 @@ gets *concoction* attack
 
 130 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
 gets *concoction* attack
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius 
+*potion* gets +6p, larger splash radius 
 
 230 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 13 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
  
 __Changes from Previous Tier__
 gets *concoction* attack
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
+*potion* gets +6p, larger splash radius
 *acid-dip* duration 10 shots -> 13 shots
 
 031 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
-*concoction*- 0d, 3p, 4.8s
+*concoction*- 0d, 3p, 3.6s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
 gets *concoction* attack
  
 __Crosspath Benefits__
-all attacks get 80%s
+all attacks get 60%s
 
 032 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 5md, 20fmd, 5p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 2d, 5md, 20fmd, 5p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
-*concoction*- 0d, 3p, 4.8s
+*concoction*- 0d, 3p, 3.6s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
-gets *concoction* attack
- 
-__Crosspath Benefits__
-all attacks get 80%s
-*puddle* gets +4md, +15fmd, strips fortified
+all attacks get 60%s
+gets *puddle*
+*puddle* gets +1d, +3md, +15fmd, strips fortified
 
 003 
 45r
-*potion*- 1d, 10ld, 15p, 1.6s, normal
+*potion*- 1d, 19ld, 14p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
@@ -488,55 +477,55 @@ all attacks get 80%s
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from Previous Tier__
-*potion* gets +9ld, applies gold status 
+*potion* gets +18ld, applies gold status 
 
 103 
 45r
-*potion*- 1d, 10ld, 20p, 1.6s, normal
+*potion*- 1d, 19ld, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from Previous Tier__
-*potion* gets +9ld, applies gold status 
+*potion* gets +18ld, applies gold status 
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
-*puddle* gets +5p
+*potion* gets +6p, larger splash radius
+*puddle* gets +6p
 
 203 
 45r
-*potion*- 1d, 10ld, 20p, 1.6s, normal
+*potion*- 1d, 19ld, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
  
 __Changes from Previous Tier__
-*potion* gets +9ld, applies gold status 
+*potion* gets +18ld, applies gold status 
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
-*puddle* gets +5p
+*potion* gets +6p, larger splash radius
+*puddle* gets +6p
 gets *acid-dip* buff
 
 013 
 45r
-*potion*- 1d, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 19ld, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
@@ -546,15 +535,15 @@ gets *acid-dip* buff
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from Previous Tier__
-*potion* gets +9ld, applies gold status
+*potion* gets +18ld, applies gold status
  
 __Crosspath Benefits__
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*acid* status tick rate gets 50%s, -1s duration
 
 023 
 45r
-*potion*- 1d, 5md, 20fmd, +9ld, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20ld, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
@@ -564,21 +553,21 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
  
 __Changes from Previous Tier__
-*potion* gets +9ld, applies gold status 
+*potion* gets +18ld, applies gold status 
  
 __Crosspath Benefits__
-*potion* gets +4md, +15fmd, strips fortified
-*puddle* gets +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +1d, +3md, +15fmd, strips fortified
+*puddle* gets +1d, +3md, +15fmd, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
 
 400 
 45r
-*potion*- 1d, 20p, 2.0s, normal
+*potion*- 1d, 20p, 1.8s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots 
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 40 shots or 12s
@@ -590,12 +579,12 @@ __Changes from Previous Tier__
 
 410 
 45r
-*potion*- 1d, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 40 shots or 12s
@@ -606,17 +595,17 @@ __Changes from Previous Tier__
 *brew* duration 25 shots -> 40 shots, 5s -> 12s
  
 __Crosspath Benefits__
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration 
+*acid* status tick rate gets 50%s, -1s duration
 
 420 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 13 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 55 shots or 13s
@@ -627,21 +616,21 @@ __Changes from Previous Tier__
 *brew* duration 25 shots -> 40 shots, 5s -> 12s
  
 __Crosspath Benefits__
-*potion* gets +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +1d, +3md, +15fmd, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
 *acid-dip* duration 10 shots -> 13 shots
 *brew* duration 40 shots -> 55 shots, 12s -> 13s, -1s reapplication cooldown 
 
 401 
 45r
-*potion*- 1d, 20p, 1.6s, normal
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-*brew*- non-offensive, 6.4s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
+*brew*- non-offensive, 4.8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 40 shots or 12s
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot buff the same tower more than once every 5s
  
@@ -650,22 +639,22 @@ __Changes from Previous Tier__
 *brew* duration 25 shots -> 40 shots, 5s -> 12s
  
 __Crosspath Benefits__
-all attacks get 80%s
+all attacks get 60%s
 
 402 
 45r
-*potion*- 1d, 20p, 1.6s, normal
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots 
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-*brew*- non-offensive, 6.4s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
+*brew*- non-offensive, 4.8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 25 shots or 12s
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot buff the same tower more than once every 5s
  
@@ -674,31 +663,29 @@ __Changes from Previous Tier__
 *brew* duration 25 shots -> 40 shots, 5s -> 12s
  
 __Crosspath Benefits__
-all attacks get 80%s
-*puddle* gets +5p
+all attacks get 60%s
+gets *puddle*
+*puddle* gets 6p
 
 040 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-**Transformation** ability- 60s cooldown, transforms the alchemist into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Transformation** ability- 60s cooldown (battle ready), transforms the alchemist into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 3d, 6p, 0.03s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 6p, 0.03s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
@@ -706,139 +693,127 @@ gets **Transformation** ability
 
 140 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-**Transformation** ability- 60s cooldown, transforms the alchemist into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Transformation** ability- 60s cooldown (battle ready), transforms the alchemist into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 3d, 9p, 0.03s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 9p, 0.03s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 gets **Transformation** ability
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
+*potion* gets +6p, larger splash radius
 *beam* gets +3p
 
 240 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified propertyy
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 13 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots 
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-**Transformation** ability- 60s cooldown, transforms the alchemist into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Transformation** ability- 60s cooldown (battle ready), transforms the alchemist into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 3d, 9p, 0.03s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 9p, 0.03s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 gets **Transformation** ability
+*beam* gets +3p
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
+*potion* gets +6p, larger splash radius
 *acid-dip* duration 10 shots -> 13 shots
-*beam* gets +3p
 
 041 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
-*concoction*- 0d, 3p, 4.8s
+*concoction*- 0d, 3p, 3.6s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-**Transformation** ability- 60s cooldown, transforms the alchemist into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Transformation** ability- 60s cooldown (battle ready), transforms the alchemist into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 3d, 6p, 0.024s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 6p, 0.024s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 gets **Transformation** ability
  
 __Crosspath Benefits__
-all attacks get 80%s
+all attacks get 60%s
 
 042 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 5md, 20fmd, 5p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 2d, 5md, 20fmd, 5p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
-*concoction*- 0d, 3p, 4.8s
+*concoction*- 0d, 3p, 3.6s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-**Transformation** ability- 60s cooldown, transforms the alchemist into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Transformation** ability- 60s cooldown (battle ready), transforms the alchemist into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 3d, 6p, 0.024s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 6p, 0.024s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 gets **Transformation** ability
  
 __Crosspath Benefits__
-all attacks get 80%s
-*puddle* gets +4md, +15fmd, strips fortified
+all attacks get 60%s
+*puddle* gets +1d, +3md, +15fmd, strips fortified
 
 004 
 45r
-*potion*- 1d, 10ld, 15p, 1.6s, normal
+*potion*- 1d, 19ld, 14p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
@@ -847,8 +822,8 @@ all attacks get 80%s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*gold-potion* attack- 0d, 15p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 15p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
  
@@ -857,17 +832,17 @@ gets *gold-potion* attack
 
 104 
 45r
-*potion*- 1d, 10ld, 20p, 1.6s, normal
+*potion*- 1d, 19ld, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*gold-potion* attack- 0d, 20p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 21p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
  
@@ -875,27 +850,27 @@ __Changes from Previous Tier__
 gets *gold-potion* attack
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
-*puddle* gets +5p
-*gold-potion* gets +5p
+*potion* gets +6p, larger splash radius
+*puddle* gets +6p
+*gold-potion* gets +6p
 
 204 
 45r
-*potion*- 1d, 10ld, 20p, 1.6s, normal
+*potion*- 1d, 19ld, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-*gold-potion* attack- 0d, 20p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 21p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
  
@@ -903,15 +878,15 @@ __Changes from Previous Tier__
 gets *gold-potion* attack
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
-*puddle* gets +5p
-*gold-potion* gets +5p
+*potion* gets +6p, larger splash radius
+*puddle* gets +6p
+*gold-potion* gets +6p
 gets *acid-dip* buff
 
 014 
 45r
-*potion*- 1d, 10ld, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 19ld, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
@@ -919,8 +894,8 @@ gets *acid-dip* buff
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*gold-potion* attack- 0d, 15p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 15p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
  
@@ -928,21 +903,21 @@ __Changes from Previous Tier__
 gets *gold-potion* attack
  
 __Crosspath Benefits__
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*acid* status tick rate gets 50%s, -1s duration
 
 024 
 45r
-*potion*- 1d, 5md, 20fmd, +9ld, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20ld, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 5md, 20fmd, 5p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 2d, 5md, 20fmd, 5p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*gold-potion* attack- 0d, 15p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 15p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
  
@@ -950,256 +925,237 @@ __Changes from Previous Tier__
 gets **Transformation** ability
  
 __Crosspath Benefits__
-*potion* gets +4md, +15fmd, strips fortified
-*puddle* gets +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +1d, +3md, +15fmd, strips fortified
+*puddle* gets +1d, +3md, +15fmd, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
 
 500 
-65r
-*potion*- 1d, 20p, 2.0s, normal
+45r
+*potion*- 1d, 20p, 1.8s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
  
 __Changes from Previous Tier__
-+20r
 *acid-dip* and *brew* effects become permanent 
 
 510 
-65r
-*potion*- 1d, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+45r
+*potion*- 1d, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
  
 __Changes from Previous Tier__
-+20r
 *acid-dip* and *brew* effects become permanent
  
 __Crosspath Benefits__
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration 
+*acid* status tick rate gets 50%s, -1s duration
 
 520 
-65r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+45r
+*potion*- 2d, 5md, 20fmd, 23p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
 *brew*- non-offensive, 8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
  
 __Changes from Previous Tier__
-+20r
 *acid-dip* and *brew* effects become permanent
  
 __Crosspath Benefits__
-*potion* gets +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +1d, +3md, +15fmd, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
 
 501 
-65r
-*potion*- 1d, 20p, 1.6s, normal
+45r
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-*brew*- non-offensive, 6.4s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
+*brew*- non-offensive, 4.8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
  
 __Changes from Previous Tier__
-+20r
 *acid-dip* and *brew* effects become permanent
  
 __Crosspath Benefits__
-all attacks get 80%s
+all attacks get 60%s
 
 502 
-65r
-*potion*- 1d, 20p, 1.6s, normal
+45r
+*potion*- 1d, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 8s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-*brew*- non-offensive, 6.4s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
+*brew*- non-offensive, 4.8s, gives the closest non-buffed tower +1d, +3p, 85%s, and +15%r
  
 __Changes from Previous Tier__
-+20r
 *acid-dip* and *brew* effects become permanent
  
 __Crosspath Benefits__
-all attacks get 80%s
-*puddle* gets +5p
+all attacks get 60%s
+gets *puddle*
+*puddle* gets +6p
 
 050 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-**Transformation** ability- 40s cooldown, transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+**Transformation** ability- 40s cooldown (battle ready), transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
 ‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 10p, 0.03s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 3d, 6p, and can target through walls but not hit anything behind one
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 6p and can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 **Transformation** ability cooldown 60s -> 40s, now additionally affects 5 closest towers 
 
 150 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-**Transformation** ability- 40s cooldown, transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+**Transformation** ability- 40s cooldown (battle ready), transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 10p, 0.03s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 3d, 9p, and can target through walls but not hit anything behind one
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 13p, 0.03s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 6p and can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 **Transformation** ability cooldown 60s -> 40s, now additionally affects 5 closest towers
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
-*beam* from the alchemist gets +3p
+*potion* gets +6p, larger splash radius
+*beam* gets +3p
 
 250 
 45r
-*potion*- 1d, 5md, 20fmd, 20p, 2.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20p, 1.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
 *concoction*- 0d, 3p, 6.0s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 13 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-**Transformation** ability- 40s cooldown, transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+**Transformation** ability- 40s cooldown (battle ready), transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 10p, 0.03s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 3d, 9p, and can target through walls but not hit anything behind one
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 13p, 0.03s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 6p and can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 **Transformation** ability cooldown 60s -> 40s, now additionally affects 5 closest towers
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
+*potion* gets +6p, larger splash radius
+*beam* gets +3p
 *acid-dip* duration 10 shots -> 13 shots
-*beam* from the alchemist gets +3p
 
 051 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
-*concoction*- 0d, 3p, 4.8s
+*concoction*- 0d, 3p, 3.6s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-**Transformation** ability- 40s cooldown, transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+**Transformation** ability- 40s cooldown (battle ready), transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 10p, 0.03s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 3d, 6p, 0.024s, and can target through walls but not hit anything behind one
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 10p, 0.024s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 6p and can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 **Transformation** ability cooldown 60s -> 40s, now additionally affects 5 closest towers
  
 __Crosspath Benefits__
-all attacks get 80%s
+all attacks get 60%s
 
 052 
 45r
-*potion*- 1d, 5md, 20fmd, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 5md, 20fmd, 5p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 2d, 5md, 20fmd, 5p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
 ‎ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
-*concoction*- 0d, 3p, 4.8s
+*concoction*- 0d, 3p, 3.6s
 ‎ ‎ ‎ ‎ ‎ ‎ - 67.5r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies unstable status- creates *explosion* when popped
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1%d, 10%md, 50p, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - damage does not scale with health modifiers
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - affected by the fortified property
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D. *explosions* do 400d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Boss Bloon *explosions* do 1000d instead
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and B.F.B.s use 2p 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s use 4p
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 10p
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 50p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 1p, deals 2d to bloons, 20d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s use 1p, deals 3d to bloons, 70d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s use 3p, deals 4d to bloons, 40d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - D.D.T.s use 3p, deals 4d to bloons, 400d to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.A.D.s use 9p, deals 4d to bloons, 400d to blimps
 ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
-**Transformation** ability- 40s cooldown, transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+**Transformation** ability- 40s cooldown (battle ready), transforms the alchemist and the 5 closest t3 or below towers into a monster for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - 72r
-‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 10p, 0.03s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 3d, 6p, 0.024s, and can target through walls but not hit anything behind one
+‎ ‎ ‎ ‎ ‎ ‎ - *beam*- 2d, 10p, 0.024s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the alchemist itself has 6p and can target through walls but not hit anything behind one
  
 __Changes from Previous Tier__
 **Transformation** ability cooldown 60s -> 40s, now additionally affects 5 closest towers
  
 __Crosspath Benefits__
-all attacks get 80%s
-*puddle* gets +4md, +15fmd, strips fortified
+all attacks get 60%s
+*puddle* gets +1d, +3md, +15fmd, strips fortified
 
 005 
 45r
-*potion*- 1d, 10ld, 15p, 1.6s, normal
+*potion*- 1d, 19ld, 14p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
@@ -1208,92 +1164,89 @@ all attacks get 80%s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*gold-potion* attack- 0d, 15p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 15p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
-*red-potion*- 0d, 200p, 10.0s, normal
+*red-potion*- 0d, 200p, 8.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - turns all affected bloons into a red
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, the red bloon created gives 0$)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, so an zomg will give $1 total with this)
 ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 20p, B.F.B.s and D.D.T.s use 50p, Z.O.M.G.s use 100p
-‎ ‎ ‎ ‎ ‎ ‎ - cannot target or affect bads
-‎ ‎ ‎ ‎ ‎ ‎ - locked on strong targeting
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
  
 __Changes from Previous Tier__
 gets *red-potion* attack
 
 105 
 45r
-*potion*- 1d, 10ld, 20p, 1.6s, normal
+*potion*- 1d, 19ld, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*gold-potion* attack- 0d, 20p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 21p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
-*red-potion*- 0d, 200p, 10.0s, normal
+*red-potion*- 0d, 200p, 8.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - turns all affected bloons into a red
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, the red bloon created gives 0$)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, so an zomg will give $1 total with this)
 ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 20p, B.F.B.s and D.D.T.s use 50p, Z.O.M.G.s use 100p
-‎ ‎ ‎ ‎ ‎ ‎ - cannot target or affect bads
-‎ ‎ ‎ ‎ ‎ ‎ - locked on strong targeting
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
  
 __Changes from Previous Tier__
 gets *red-potion* attack
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius 
-*puddle* gets +5p
-*gold-potion* gets +5p
+*potion* gets +6p, larger splash radius 
+*puddle* gets +6p
+*gold-potion* gets +6p
 
 205 
 45r
-*potion*- 1d, 10ld, 20p, 1.6s, normal
+*potion*- 1d, 19ld, 20p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/2.0s, normal, 4s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 11p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*acid-dip*- non-offensive, 10s, gives a random attacking tower in range +1cd, +1md, +1fld, and lead popping
+*acid-dip*- non-offensive, 6s, gives a random attacking tower in range +1cd, +1md, and lead popping
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 10 shots
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 40 shots 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - duration stacks up to 200 shots 
 ‎ ‎ ‎ ‎ ‎ ‎ - prioritizes unbuffed towers
-*gold-potion* attack- 0d, 20p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 21p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
-*red-potion*- 0d, 200p, 10.0s, normal
+*red-potion*- 0d, 200p, 8.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - turns all affected bloons into a red
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, the red bloon created gives 0$)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, so an zomg will give $1 total with this)
 ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 20p, B.F.B.s and D.D.T.s use 50p, Z.O.M.G.s use 100p
-‎ ‎ ‎ ‎ ‎ ‎ - cannot target or affect bads
-‎ ‎ ‎ ‎ ‎ ‎ - locked on strong targeting
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
  
 __Changes from Previous Tier__
 gets *red-potion* attack
  
 __Crosspath Benefits__
-*potion* gets +5p, larger splash radius
-*puddle* gets +5p
-*gold-potion* gets +5p
+*potion* gets +6p, larger splash radius
+*puddle* gets +6p
+*gold-potion* gets +6p
 gets *acid-dip* buff
 
 015 
 45r
-*potion*- 1d, 10ld, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 1d, 19ld, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
@@ -1301,51 +1254,49 @@ gets *acid-dip* buff
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*gold-potion* attack- 0d, 15p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 15p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
-*red-potion*- 0d, 200p, 10.0s, normal
+*red-potion*- 0d, 200p, 8.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - turns all affected bloons into a red
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, the red bloon created gives 0$)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, so an zomg will give $1 total with this)
 ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 20p, B.F.B.s and D.D.T.s use 50p, Z.O.M.G.s use 100p
-‎ ‎ ‎ ‎ ‎ ‎ - cannot target or affect bads
-‎ ‎ ‎ ‎ ‎ ‎ - locked on strong targeting
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
  
 __Changes from Previous Tier__
 gets *red-potion* attack
  
 __Crosspath Benefits__
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration 
+*acid* status tick rate gets 50%s, -1s duration
 
 025 
 45r
-*potion*- 1d, 5md, 20fmd, +9ld, 15p, 1.6s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.5s, normal, 4.5s duration
+*potion*- 2d, 5md, 20fmd, 20ld, 14p, 1.08s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *acid* status- 1d/1.0s, normal, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - applies gold status- lead bloons give +$50 when popped, no other bloons are affected
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - income is not affected by income cuts or boosters
 ‎ ‎ ‎ ‎ ‎ ‎ - if there are no bloons in range it targets a random spot on the track in the alchemist’s range and leaves *puddle*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 1d, 5md, 20fmd, 5p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *puddle*- 2d, 5md, 20fmd, 5p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies the same effects as the main attack
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot be buffed externally
-*gold-potion* attack- 0d, 15p, 5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$2 on pop
+*gold-potion* attack- 0d, 15p, 3.8s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies golden status- affected bloon gives +$1 on pop
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only soaks through moabs when they are instakilled
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
-*red-potion*- 0d, 200p, 10.0s, normal
+*red-potion*- 0d, 200p, 8.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - turns all affected bloons into a red
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, the red bloon created gives 0$)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (no cash is gained when this happens, so an zomg will give $1 total with this)
 ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 20p, B.F.B.s and D.D.T.s use 50p, Z.O.M.G.s use 100p
-‎ ‎ ‎ ‎ ‎ ‎ - cannot target or affect bads
-‎ ‎ ‎ ‎ ‎ ‎ - locked on strong targeting
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
  
 __Changes from Previous Tier__
 gets *red-potion* attack
  
 __Crosspath Benefits__
-*potion* gets +4md, +15fmd, strips fortified
-*puddle* gets +4md, +15fmd, strips fortified
-*acid* status tick rate 2.0s -> 1.5s, +0.5s duration
+*potion* gets +1d, +3md, +15fmd, strips fortified
+*puddle* gets +1d, +3md, +15fmd, strips fortified
+*acid* status tick rate gets 50%s, -1s duration
