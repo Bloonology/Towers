@@ -1,0 +1,822 @@
+000 
+40r
+*main-buff*- non offensive, all towers in range get +10%r
+ 
+footprint radius: 11 (XL)
+
+100 
+48r
+*main-buff*- non offensive, all towers in range get +10%r
+ 
+__Changes from 0-0-0__
++8r
+
+010 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r
+ 
+__Changes from 0-0-0__
+gets *growblock*
+
+001 
+40r
+*main-buff*- non offensive, all towers in range get +10%r
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from 0-0-0__
+gets *discount*
+
+110 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r
+ 
+__Changes from 0-0-0__
++8r
+gets *growblock*
+
+101 
+48r
+*main-buff*- non offensive, all towers in range get +10%r
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from 0-0-0__
++8r
+gets *discount*
+
+011 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from 0-0-0__
+gets *growblock*, discount
+
+200 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+ 
+__Changes from Previous Tier__
+*buff improved to give 85%s
+ 
+__Changes from 0-0-0__
++8r
+*buff* improved to give 85%s
+
+020 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo
+ 
+__Changes from Previous Tier__
+*buff* improved to give camo
+ 
+__Changes from 0-0-0__
+*buff* improved to give camo
+gets *growblock*
+
+002 
+40r
+*main-buff*- non offensive, all towers in range get +10%r
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
+*discount* is 5% more effective, 5% discount stacks up to 3 times
+ 
+__Changes from 0-0-0__
+gets *discount*
+*discount* is 5% more effective, can stack 3 times
+
+210 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+ 
+__Changes from 0-0-0__
++8r
+*buff* improved to give 85%s
+gets *growblock*
+
+220 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, camo
+ 
+__Changes from 0-0-0__
++8r
+*buff* improved to give 85%s, camo
+gets *growblock*
+
+201 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from 0-0-0__
++8r
+*buff* improved to give 85%s
+gets *discount*
+
+202 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from 0-0-0__
++8r
+*buff* improved to give 85%s
+discount is 5% more effective, can stack 3 times 
+
+120 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo
+ 
+__Changes from 0-0-0__
++8r
+*buff* improved to give camo
+gets *growblock*
+
+021 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from 0-0-0__
+*buff* improved to give camo
+gets *growblock*
+gets *discount*
+
+022 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from 0-0-0__
+*buff* improved to give camo
+gets *growblock*
+discount is 5% more effective, can stack 3 times
+
+102 
+48r
+*main-buff*- non offensive, all towers in range get +10%r
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from 0-0-0__
++8r
+discount is 5% more effective, can stack 3 times
+
+012 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from 0-0-0__
+gets *growblock*
+discount is 5% more effective, can stack 3 times
+
+300 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +1p, +25% projectile speed
+ 
+__Changes from Previous Tier__
+gets *primary-buff*
+
+310 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +1p, +25% projectile speed
+ 
+__Changes from Previous Tier__
+gets *primary-buff*
+ 
+__Crosspath Benefits__
+gets *growblock*
+
+320 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, camo
+*primary-buff*- non offensive, primary towers in range get +10%r, +1p, +25% projectile speed
+ 
+__Changes from Previous Tier__
+gets *primary-buff*
+ 
+__Crosspath Benefits__
+*buff* improved to give camo
+gets *growblock*
+
+301 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +1p, +25% projectile speed
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from Previous Tier__
+gets *primary-buff*
+ 
+__Crosspath Benefits__
+gets *discount*
+
+302 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +1p, +25% projectile speed
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
+gets *primary-buff*
+ 
+__Crosspath Benefits__
+gets *discount*
+
+030 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+ 
+__Changes from Previous Tier__
+*buff* improved to give normal type
+
+130 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+ 
+__Changes from Previous Tier__
+*buff* improved to give normal type
+ 
+__Crosspath Benefits__
++8r
+
+230 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, camo, normal
+ 
+__Changes from Previous Tier__
+*buff* improved to give normal type
+ 
+__Crosspath Benefits__
++8r
+*buff* improved to give 85%s
+
+031 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from Previous Tier__
+*buff* improved to give normal type
+ 
+__Crosspath Benefits__
+gets *discount*
+
+032 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
+*buff* improved to give normal type
+ 
+__Crosspath Benefits__
+gets *discount*
+
+003 
+40r
+*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
+*buff* improved to grant extra income from bloons 
+
+103 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
+*buff* improved to grant extra income from bloons 
+ 
+__Crosspath Benefits__
++8r
+
+203 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, all bloons popped by towers in range give +$50%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
+*buff* improved to grant extra income from bloons 
+ 
+__Crosspath Benefits__
++8r
+*buff* improved to give 85%s
+
+013 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
+*buff* improved to grant extra income from bloons 
+ 
+__Crosspath Benefits__
+gets *growblock*er
+
+023 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, all bloons popped by towers in range give +$50%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
+*buff* improved to grant extra income from bloons 
+ 
+__Crosspath Benefits__
+*buff* improved to give camo
+gets *growblock*
+
+400 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +1p, +25% projectile speed, free tier 1 upgrades, 90% ability cooldown
+ 
+__Changes from Previous Tier__
+*primary-buff* improved to give +5r, free tier 1 upgrades, 90% ability cooldowns
+
+410 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +1p, +25% projectile speed, free tier 1 upgrades, 90% ability cooldown
+ 
+__Changes from Previous Tier__
+*primary-buff* improved to give +5r, free tier 1 upgrades, 90% ability cooldowns
+ 
+__Crosspath Benefits__
+gets *growblock*
+
+420 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, camo
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +1p, +25% projectile speed, free tier 1 upgrades, 90% ability cooldown
+ 
+__Changes from Previous Tier__
+*primary-buff* improved to give +5r, free tier 1 upgrades, 90% ability cooldowns
+ 
+__Crosspath Benefits__
+*buff* improved to give camo
+gets *growblock*
+
+401 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +1p, +25% projectile speed, free tier 1 upgrades, 90% ability cooldown
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from Previous Tier__
+*primary-buff* improved to give +5r, free tier 1 upgrades, 90% ability cooldowns
+ 
+__Crosspath Benefits__
+gets *discount*
+
+402 
+48r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +1p, +25% projectile speed, free tier 1 upgrades, 90% ability cooldown
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake) 
+ 
+__Changes from Previous Tier__
+*primary-buff* improved to give +5r, free tier 1 upgrades, 90% ability cooldowns
+ 
+__Crosspath Benefits__
+gets *discount*
+
+040 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ 
+__Changes from Previous Tier__
+gets **Call to Arms** ability
+
+140 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ 
+__Changes from Previous Tier__
+gets **Call to Arms** ability
+ 
+__Crosspath Benefits__
++8r
+
+240 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, camo, normal
+**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ 
+__Changes from Previous Tier__
+gets **Call to Arms** ability
+ 
+__Crosspath Benefits__
++8r
+*buff* improved to give 85%s
+
+041 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ 
+__Changes from Previous Tier__
+gets **Call to Arms** ability
+ 
+__Crosspath Benefits__
+gets *discount*
+
+042 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+**Call to Arms** ability: 45s cooldown, all towers get +50%p, 66.67%s for 15s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ 
+__Changes from Previous Tier__
+gets **Call to Arms** ability
+ 
+__Crosspath Benefits__
+gets *discount*
+
+004 
+50r
+*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
++10r
+gets *income-buff*
+gets *free-dart*
+
+104 
+58r
+*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
++10r
+gets *income-buff*
+gets *free-dart*
+ 
+__Crosspath Benefits__
++8r
+
+204 
+58r
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
++10r
+gets *income-buff*
+gets *free-dart*
+ 
+__Crosspath Benefits__
++8r
+*buff* improved to give 85%s
+
+014 
+50r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +15%r, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
++10r
+gets *income-buff*
+gets *free-dart*
+ 
+__Crosspath Benefits__
+gets *growblock*
+
+024 
+50r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +15%r, camo, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
++10r
+gets *income-buff*
+gets *free-dart*
+ 
+__Crosspath Benefits__
+*buff* improved to give camo
+gets *growblock*
+
+500 
+55r
+*catapult*- 10d, 200cd, 200md, 100p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs use 10 pierce
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +3p, +25% projectile speed, free tier 1 and 2 upgrades, 80% ability cooldown
+ 
+__Changes from Previous Tier__
++7r
+*primary-buff* improved - bonus pierce +1p -> +3p, free tier 1 and 2 upgrades, cooldown reduction 90% -> 80%
+gets *catapult* attack
+
+510 
+55r
+*catapult*- 10d, 200cd, 200md, 100p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs use 10 pierce
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +3p, +25% projectile speed, free tier 1 and 2 upgrades, 80% ability cooldown
+ 
+__Changes from Previous Tier__
++7r
+*primary-buff* improved - bonus pierce +1p -> +3p, free tier 1 and 2 upgrades, cooldown reduction 90% -> 80%
+gets *catapult* attack
+ 
+__Crosspath Benefits__
+gets *growblock*
+
+520 
+55r
+*catapult*- 10d, 200cd, 200md, 100p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs use 10 pierce
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, camo
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +3p, +25% projectile speed, free tier 1 and 2 upgrades, 80% ability cooldown
+ 
+__Changes from Previous Tier__
++7r
+*primary-buff* improved - bonus pierce +1p -> +3p, free tier 1 and 2 upgrades, ability cooldown reduction 90% -> 80%
+gets *catapult* attack
+ 
+__Crosspath Benefits__
+*buff* improved to give camo
+gets *growblock*
+
+501 
+55r
+*catapult*- 10d, 200cd, 200md, 100p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs use 10 pierce
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +3p, +25% projectile speed, free tier 1 and 2 upgrades, 80% ability cooldown
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+ 
+__Changes from Previous Tier__
++7r
+*primary-buff* improved - bonus pierce +1p -> +3p, free tier 1 and 2 upgrades, cooldown reduction 90% -> 80%
+gets *catapult* attack
+ 
+__Crosspath Benefits__
+gets *discount*
+
+502 
+55r
+*catapult*- 10d, 200cd, 200md, 100p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs use 10 pierce
+*main-buff*- non offensive, all towers in range get +10%r, 85%s
+*primary-buff*- non offensive, primary towers in range get +10%r, +5r, +3p, +25% projectile speed, free tier 1 and 2 upgrades, 80% ability cooldown
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+ 
+__Changes from Previous Tier__
++7r
+*primary-buff* improved - bonus pierce +1p -> +3p, free tier 1 and 2 upgrades, cooldown reduction 90% -> 80%
+gets *catapult* attack
+ 
+__Crosspath Benefits__
+gets *discount*
+
+050 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+ 
+__Changes from Previous Tier__
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+
+150 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+ 
+__Changes from Previous Tier__
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+ 
+__Crosspath Benefits__
++8r
+
+250 
+48r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, camo, normal
+**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+ 
+__Changes from Previous Tier__
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+ 
+__Crosspath Benefits__
++8r
+*buff* improved to give 85%s
+
+051 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less
+**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+ 
+__Changes from Previous Tier__
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+ 
+__Crosspath Benefits__
+gets *discount*
+
+052 
+40r
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, normal
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+**Call to Arms** ability: 45s cooldown, all towers get +100%p, 50%s for 20s
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+ 
+__Changes from Previous Tier__
+**Call to Arms** ability improved - duration 15s -> 20s, pierce bonus +50%p -> +100%p, attack speed bonus 66.67%s -> 50%s
+ 
+__Crosspath Benefits__
+gets *discount*
+
+005 
+50r
+absorbs all farms in the tower’s range when upgraded
+‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
+*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+frreedart- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
+absorbs farms in range upon purchasing
+
+105 
+58r
+absorbs all farms in the tower’s range when upgraded
+‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
+*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
+absorbs farms in range upon purchasing
+ 
+__Crosspath Benefits__
++8r
+
+205 
+58r
+absorbs all farms in the tower’s range when upgraded
+‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
+*main-buff*- non offensive, all towers in range get +10%r, 85%s, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
+absorbs farms in range upon purchasing
+ 
+__Crosspath Benefits__
++8r
+*buff* improved to give 85%s
+
+015 
+50r
+absorbs all farms in the tower’s range when upgraded
+‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
+absorbs farms in range upon purchasing
+ 
+__Crosspath Benefits__
+gets *growblock*
+
+025 
+50r
+absorbs all farms in the tower’s range when upgraded
+‎ ‎ ‎ ‎ ‎ ‎ - generates $200 for every $2000 absorbed each round
+*growblock*- when a regrow bloon is in the range of the village, the regrow timer is paused
+*main-buff*- non offensive, all towers in range get +10%r, camo, all bloons popped by towers in range give +$50%
+*income-buff*- all money generating towers give +$20%
+*discount*- non offensive, all tier 0-3 upgrades cost 10% less with an additional 5% discount
+‎ ‎ ‎ ‎ ‎ ‎ - 5% discount can stack 3 times
+‎ ‎ ‎ ‎ ‎ ‎ - (the 5% discount is written separately for simplicity sake)
+*free-dart*- get 1 free dart monkey per round
+ 
+__Changes from Previous Tier__
+absorbs farms in range upon purchasing
+ 
+__Crosspath Benefits__
+*buff* improved to give camo
+gets *growblock*
