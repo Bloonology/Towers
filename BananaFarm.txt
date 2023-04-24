@@ -1,91 +1,89 @@
 000 
 40r
-*banana*- non-offensive, spawns 4 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($80 gained per round)
+*banana*- non-offensive, spawns 3 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
  
-footprint dimensions: 30 [x axis] x 30 [y axis] (XXL)
+footprint dimensions: 27 [x axis] x 27 [y axis] (XXL)
 
 100 
 40r
-*banana*- non-offensive, spawns 6 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
+*banana*- non-offensive, spawns 5 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($200 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +2 bunches
+*banana* gets +2 bunches (+$80)
 
 010 
 40r
-*banana*- non-offensive, spawns 4 $20 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($80 gained per round)
+*banana*- non-offensive, spawns 3 $40 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
  
 __Changes from 0-0-0__
 *banana* gets +15s lifetime
 
 001 
 40r
-*banana*- non-offensive, spawns 4 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($80 gained per round)
- ‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $10 on expiration
+*banana*- non-offensive, spawns 3 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎‎  ‎ - ($120 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets larger collection hitbox, $10 on expiration
+*banana* gets larger collection hitbox
 
 110 
 40r
-*banana*- non-offensive, spawns 6 $20 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
+*banana*- non-offensive, spawns 5 $40 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($200 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +2 bunches, +15s lifetime
+*banana* gets +2 bunches (+80$), +15s lifetime
 
 101 
 40r
-*banana*- non-offensive, spawns 6 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $10 on expiration
+*banana*- non-offensive, spawns 5 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($200 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +2 bunches, larger collection hitbox, $10 on expiration
+*banana* gets +2 bunches (+80$), larger collection hitbox
 
 011 
 40r
-*banana*- non-offensive, spawns 4 $20 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($80 gained per round)
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $10 on expiration
+*banana*- non-offensive, spawns 3 $40 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +15s lifetime, larger collection hitbox, $10 on expiration
+*banana* gets +15s lifetime, larger collection hitbox
 
 200 
 40r
-*banana*- non-offensive, spawns 8 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($160 gained per round)
+*banana*- non-offensive, spawns 7 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($280 gained per round)
  
 __Changes from Previous Tier__
-*banana* gets +2 bunches
+*banana* gets +2 bunches (+$80)
  
 __Changes from 0-0-0__
-*banana* gets +4 bunches
+*banana* gets +4 bunches (+$160)
 
 020 
 40r
-*banana*- non-offensive, spawns 4 $25 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($100 gained per round)
+*banana*- non-offensive, spawns 3 $50 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($150 gained per round)
  
 __Changes from Previous Tier__
-*banana* gets +25% income
+*banana* gets +25% income (+$30)
  
 __Changes from 0-0-0__
-*banana* gets +15s lifetime, +25% income per *banana*
+*banana* gets +15s lifetime, +25% income per *banana* (+$30)
 
 002 
 40r
-*banana*- non-offensive, spawns 4 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $17 on expiration
-‎ ‎ ‎ ‎ ‎ ‎ - ($80 gained per round)
+*banana*- non-offensive, spawns 3 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $20 on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
  
 __Changes from Previous Tier__
-*banana* $10 -> $17 on expiration
+*banana* gives $20 on expiration
 sellback price 70% -> 80%
  
 __Changes from 0-0-0__
@@ -94,99 +92,101 @@ sellback price 70% -> 80%
 
 210 
 40r
-*banana*- non-offensive, spawns 8 $20 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($160 gained per round)
+*banana*- non-offensive, spawns 7 $40 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($280 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +4 bunches, +15s lifetime
+*banana* gets +4 bunches (+$160), +15s lifetime
 
 220 
 40r
-*banana*- non-offensive, spawns 8 $25 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($200 gained per round)
+*banana*- non-offensive, spawns 7 $50 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($350 gained per round)
  
 __Changes from 0-0-0__
 *banana* gets +4 bunches, +15s lifetime, +25% income per *banana*
 
 201 
 40r
-*banana*- non-offensive, spawns 8 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($160 gained per round)
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $10 on expiration
+*banana*- non-offensive, spawns 7 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($280 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +4 bunches, larger collection hitbox, $10 on expiration
+*banana* gets +4 bunches, larger collection hitbox
 
 202 
 40r
-*banana*- non-offensive, spawns 8 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $17 on expiration
-‎ ‎ ‎ ‎ ‎ ‎ - ($160 gained per round)
+*banana*- non-offensive, spawns 7 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $20 on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($280 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +4 bunches, larger collection hitbox, $10 -> $17 on expiration
+*banana* gets +4 bunches, larger collection hitbox *banana* gives $20 on expiration
 sellback price 70% -> 80%
 
 120 
 40r
-*banana*- non-offensive, spawns 6 $25 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($150 gained per round)
+*banana*- non-offensive, spawns 5 $50 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($250 gained per round)
  
 __Changes from 0-0-0__
 *banana* gets +2 bunches, +15s lifetime, +25% income per *banana*
 
 021 
 40r
-*banana*- non-offensive, spawns 4 $25 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($100 gained per round)
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $12.5 on expiration
+*banana*- non-offensive, spawns 3 $50 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($150 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +15s lifetime, +25% income per *banana*, larger collection hitbox, $12.5 on expiration
+*banana* gets +15s lifetime, +25% income per *banana*, larger collection hitbox
 
 022 
 40r
-*banana*- non-offensive, spawns 4 $25 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $21.25 on expiration
-‎ ‎ ‎ ‎ ‎ ‎ - ($100 gained per round)
+*banana*- non-offensive, spawns 3 $50 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $25 on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($150 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +15s lifetime, +25% income, larger collection hitbox, $12.5 -> $21.25 on expiration
+*banana* gets +15s lifetime, +25% income, larger collection hitbox, *banana* gives $25 on expiration
 sellback price 70% -> 80%
 
 102 
 40r
-*banana*- non-offensive, spawns 6 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $17 on expiration
-‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
+*banana*- non-offensive, spawns 5 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $20 on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - ($200 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +2 bunches, larger collection hitbox, $10 -> $17 on expiration
+*banana* gets +2 bunches, larger collection hitbox, *banana* gives $20 on expiration
 sellback price 70% -> 80%
 
 012 
 40r
-*banana*- non-offensive, spawns 4 $20 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $17 on expiration
-‎ ‎ ‎ ‎ ‎ ‎ - ($80 gained per round)
+*banana*- non-offensive, spawns 3 $40 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $20 on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - ($120 gained per round)
  
 __Changes from 0-0-0__
-*banana* gets +15s lifetime, larger collection hitbox, $10 -> $17 on expiration
+*banana* gets +15s lifetime, larger collection hitbox, *banana* gives $20 on expiration
 becomes the best farm
 sellback price 70% -> 80%
 
 300 
 40r
-*banana*- non-offensive, spawns 16 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($320 gained per round)
+*banana*- non-offensive, spawns 16 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($640 gained per round)
  
 __Changes from Previous Tier__
 *banana* gets +8 bunches
 
 310 
 40r
-*banana*- non-offensive, spawns 16 $20 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($320 gained per round)
+*banana*- non-offensive, spawns 16 $40 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($640 gained per round)
  
 __Changes from Previous Tier__
 *banana* gets +8 bunches
@@ -196,8 +196,8 @@ __Crosspath Benefits__
 
 320 
 40r
-*banana*- non-offensive, spawns 16 $25 bunches of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*banana*- non-offensive, spawns 16 $50 bunches of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($800 gained per round)
  
 __Changes from Previous Tier__
 *banana* gets +8 bunches
@@ -207,77 +207,77 @@ __Crosspath Benefits__
 
 301 
 40r
-*banana*- non-offensive, spawns 16 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($320 gained per round)
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $10 on expiration
+*banana*- non-offensive, spawns 16 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($640 gained per round)
  
 __Changes from Previous Tier__
 *banana* gets +8 bunches
  
 __Crosspath Benefits__
-*banana* gets larger collection hitbox, $10 on expiration 
+*banana* gets larger collection hitbox
 
 302 
 40r
-*banana*- non-offensive, spawns 16 $20 bunches of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $17 on expiration
-‎ ‎ ‎ ‎ ‎ ‎ - ($320 gained per round)
+*banana*- non-offensive, spawns 16 $40 bunches of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - *bananas* give $20 on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - ($640 gained per round)
  
 __Changes from Previous Tier__
 *banana* gets +8 bunches
  
 __Crosspath Benefits__
-*banana* gets larger collection hitbox, $17 on expiration
+*banana* gets larger collection hitbox, *banana* gives $20 on expiration
 sellback price 70% -> 80%
 
 030 
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $7000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $14000
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
  
 __Changes from Previous Tier__
-*banana* replaced with *bank*: 2.3x income
+*banana* replaced with *bank*: +$250 income
 gets *interest* 
 
 130 
 40r
-*bank*- non-offensive, adds $45 to the *bank* 6 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $7000
-‎ ‎ ‎ ‎ ‎ ‎ - ($270 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
+*bank*- non-offensive, adds $50 to the *bank* 10 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $14000
+‎ ‎ ‎ ‎ ‎ ‎ - ($500 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
  
 __Changes from Previous Tier__
-*banana* replaced with *bank*: 2.3x income
+*banana* replaced with *bank*: +$250 income
 gets *interest* 
  
 __Crosspath Benefits__
-net gain of +$40 added to the *bank* per round
+net gain of +$100 added to the *bank* per round
 
 230 
 40r
-*bank*- non-offensive, adds $38.75 to the *bank* 8 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $7000
-‎ ‎ ‎ ‎ ‎ ‎ - ($310 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
+*bank*- non-offensive, adds $50 to the *bank* 12 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $14000
+‎ ‎ ‎ ‎ ‎ ‎ - ($600 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
  
 __Changes from Previous Tier__
-*banana* replaced with *bank*: 2.3x income
+*banana* replaced with *bank*: +$250 income
 gets *interest* 
  
 __Crosspath Benefits__
-net gain of +$80 added to the *bank* per round
+net gain of +$200 added to the *bank* per round
 
 031 
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $7000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $14000
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
  
 __Changes from Previous Tier__
-*banana* replaced with *bank*: 2.3x income
+*banana* replaced with *bank*: +$250 income
 gets *interest* 
  
 __Crosspath Benefits__
@@ -285,13 +285,14 @@ visual - *bank* lights up when at max capacity
 
 032 
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $7000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $14000
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
  
 __Changes from Previous Tier__
-*banana* replaced with *bank*: 2.3x income
+*banana* replaced with *bank*: +$250 income
 gets *interest* 
  
 __Crosspath Benefits__
@@ -301,141 +302,142 @@ sellback price 70% -> 80%
 
 003 
 40r
-*market*- non-offensive, generates $20 16 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($320 gained per round)
+*market*- non-offensive, generates $40 14 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($560 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *market*: +$240 generated per round, automatically collects for full value
+*banana* replaced with *market*: +$440 generated per round, automatically collects for full value, sell value increased by 10%
 
 103 
 40r
-*market*- non-offensive, generates $20 18 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($360 gained per round)
+*market*- non-offensive, generates $40 16 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($640 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *market*: +$240 generated per round, automatically collects for full value
+*banana* replaced with *market*: +$440 generated per round, automatically collects for full value, sell value increased by 10%
  
 __Crosspath Benefits__
 generates money +2 times
 
 203 
 40r
-*market*- non-offensive, generates $20 20 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*market*- non-offensive, generates $40 18 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($720 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *market*: +$240 generated per round, automatically collects for full value
+*banana* replaced with *market*: +$440 generated per round, automatically collects for full value, sell value increased by 10%
  
 __Crosspath Benefits__
 generates money +4 times
 
 013 
 40r
-*market*- non-offensive, generates $20 16 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($320 gained per round)
+*market*- non-offensive, generates $40 14 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($560 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *market*: +$240 generated per round, automatically collects for full value
+*banana* replaced with *market*: +$440 generated per round, automatically collects for full value, sell value increased by 10%
  
 __Crosspath Benefits__
 uhh I guess the bananas in the market become green but like isn't that a downgrade
 
 023 
 40r
-*market*- non-offensive, generates $25 16 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*market*- non-offensive, generates $50 14 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($700 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *market*: +$240 generated per round, automatically collects for full value
+*banana* replaced with *market*: +$440 generated per round, automatically collects for full value, sell value increased by 10%
  
 __Crosspath Benefits__
 +25% income
 
 400 
 40r
-*crate*- non-offensive, spawns 5 $300 *crates* of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($1500 gained per round)
+*crate*- non-offensive, spawns 5 $600 *crates* of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($3000 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *crate*: -11 bunches produced, +$280 per bunch (net gain: +$1100 gained per round)
+*banana* replaced with *crate*: -11 bunches produced, +$560 per bunch (net gain: +$2360 gained per round)
 
 410 
 40r
-*crate*- non-offensive, spawns 5 $300 *crates* of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($1500 gained per round)
+*crate*- non-offensive, spawns 5 $600 *crates* of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($3000 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *crate*: -11 bunches produced, +$280 per bunch (net gain: +$1100 gained per round)
+*banana* replaced with *crate*: -11 bunches produced, +$560 per bunch (net gain: +$2360 gained per round)
  
 __Crosspath Benefits__
 *crates* get +15s lifetime
 
 420 
 40r
-*crate*- non-offensive, spawns 5 $375 *crates* of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($1875 gained per round)
+*crate*- non-offensive, spawns 5 $750 *crates* of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($3375 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *crate*: -11 bunches produced, +$280 per bunch (net gain: +$1100 gained per round)
+*banana* replaced with *crate*: -11 bunches produced, +$560 per bunch (net gain: +$2360 gained per round)
  
 __Crosspath Benefits__
 *crates* get +25% income, +15s lifetime
 
 401 
 40r
-*crate*- non-offensive, spawns 5 $300 *crates* of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($1500 gained per round)
-‎ ‎ ‎ ‎ ‎ ‎ - *crates* give $150 on expiration
+*crate*- non-offensive, spawns 5 $600 *crates* of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($3000 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *crate*: -11 bunches produced, +$280 per bunch (net gain: +$1100 gained per round)
+*banana* replaced with *crate*: -11 bunches produced, +$560 per bunch (net gain: +$2360 gained per round)
  
 __Crosspath Benefits__
-*crate* gets larger collection hitbox, $150 on expiration
+*crate* gets larger collection hitbox
 
 402 
 40r
-*crate*- non-offensive, spawns 5 $300 *crates* of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - *crates* give $255 on expiration
-‎ ‎ ‎ ‎ ‎ ‎ - ($1500 gained per round)
+*crate*- non-offensive, spawns 5 $600 *crates* of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - *crates* give $300 on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - ($3000 gained per round)
  
 __Changes from Previous Tier__
-*banana* replaced with *crate*: -11 bunches produced, +$280 per bunch (net gain: +$1100 gained per round)
+*banana* replaced with *crate*: -11 bunches produced, +$560 per bunch (net gain: +$2360 gained per round)
  
 __Crosspath Benefits__
-*crate* gets larger collection hitbox, $255 on expiration
+*crate* gets larger collection hitbox, $300 on expiration
 sellback price 70% -> 80%
 
 040 
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $10,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 90s cooldown, gives $9,000 which is repaid by halving income until the loan is “repaid”
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $20000
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 90s cooldown (initial: 20s), gives $20,000 which is repaid by halving income until the loan is "repaid"
 ‎ ‎ ‎ ‎ ‎ ‎ - 2 repayments can never be active at once, meaning cash will not go below ½ but only one loan can be repaid at once
-‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid off
+‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid of
  
 __Changes from Previous Tier__
-+$3,000 capacity
++$6,000 capacity
 gets **IMF Loan** ability
 
 140 
 40r
-*bank*- non-offensive, adds $45 to the *bank* 6 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $10,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($270 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 90s cooldown, gives $9,000 which is repaid by halving income until the loan is “repaid”
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 10 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $20000
+‎ ‎ ‎ ‎ ‎ ‎ - ($500 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 90s cooldown (initial: 20s), gives $20,000 which is repaid by halving income until the loan is "repaid"
 ‎ ‎ ‎ ‎ ‎ ‎ - 2 repayments can never be active at once, meaning cash will not go below ½ but only one loan can be repaid at once
-‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid off
+‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid of
  
 __Changes from Previous Tier__
-+$3,000 capacity
++$6,000 capacity
 gets **IMF Loan** ability
  
 __Crosspath Benefits__
@@ -443,18 +445,16 @@ net gain of +$40 added to the *bank* per round
 
 240 
 40r
-*bank*- non-offensive, adds $38.75 to the *bank* 8 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $9,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($310 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 90s cooldown, gives $10,000 which is repaid by halving income until the loan is “repaid”
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 12 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $20000
+‎ ‎ ‎ ‎ ‎ ‎ - ($600 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 90s cooldown (initial: 20s), gives $20,000 which is repaid by halving income until the loan is "repaid"
 ‎ ‎ ‎ ‎ ‎ ‎ - 2 repayments can never be active at once, meaning cash will not go below ½ but only one loan can be repaid at once
-‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid off
+‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid of
  
 __Changes from Previous Tier__
-+$3,000 capacity
++$6,000 capacity
 gets **IMF Loan** ability
  
 __Crosspath Benefits__
@@ -462,18 +462,16 @@ net gain of +$80 added to the *bank* per round
 
 041 
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $9,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 90s cooldown, gives $10,000 which is repaid by halving income until the loan is “repaid”
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $20000
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 90s cooldown (initial: 20s), gives $20,000 which is repaid by halving income until the loan is "repaid"
 ‎ ‎ ‎ ‎ ‎ ‎ - 2 repayments can never be active at once, meaning cash will not go below ½ but only one loan can be repaid at once
-‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid off
+‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid of
  
 __Changes from Previous Tier__
-+$3,000 capacity
++$6,000 capacity
 gets **IMF Loan** ability
  
 __Crosspath Benefits__
@@ -481,47 +479,47 @@ visual - *bank* lights up when at max capacity
 
 042 
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $9,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 90s cooldown, gives $10,000 which is repaid by halving income until the loan is “repaid”
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $20000
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 90s cooldown (initial: 20s), gives $20,000 which is repaid by halving income until the loan is "repaid"
 ‎ ‎ ‎ ‎ ‎ ‎ - 2 repayments can never be active at once, meaning cash will not go below ½ but only one loan can be repaid at once
-‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid off
+‎ ‎ ‎ ‎ ‎ ‎ - ability cannot be reused until the loan is paid of
  
 __Changes from Previous Tier__
-+$3,000 capacity
++$6,000 capacity
 gets **IMF Loan** ability
  
 __Crosspath Benefits__
 visual - *bank* lights up when at max capacity
 automatically collects from the *bank* at the end of the round if at max capacity
-sellback price 70% -> 80%
 
 004 
 40r
-*market*- non-offensive, generates $70 16 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($1120 gained per round)
+*market*- non-offensive, generates $160 14 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($2240 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
  
 __Changes from Previous Tier__
-*market* gets +$50 each time for a net gain of +$800 per round
+*market* gets +$120 each time for a net gain of +$1680 per round
 gets *buff*
 
 104 
 40r
-*market*- non-offensive, generates $70 18 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($1260 gained per round)
+*market*- non-offensive, generates $160 16 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($2560 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
  
 __Changes from Previous Tier__
-*market* gets +$50 each time for a net gain of +$900 per round
+*market* gets +$120 each time for a net gain of +$1680 per round
 gets *buff*
  
 __Crosspath Benefits__
@@ -529,14 +527,15 @@ generates money +2 times
 
 204 
 40r
-*market*- non-offensive, generates $70 20 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($1400 gained per round)
+*market*- non-offensive, generates $160 18 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($2880 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
  
 __Changes from Previous Tier__
-*market* gets +$50 each time for a net gain of +$1000 per round
+*market* gets +$120 each time for a net gain of +$1680 per round
 gets *buff*
  
 __Crosspath Benefits__
@@ -544,14 +543,15 @@ generates money +4 times
 
 014 
 40r
-*market*- non-offensive, generates $70 16 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($1120 gained per round)
+*market*- non-offensive, generates $160 14 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($2240 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
  
 __Changes from Previous Tier__
-*market* gets +$50 each time for a net gain of +$800 per round
+*market* gets +$120 each time for a net gain of +$1680 per round
 gets *buff*
  
 __Crosspath Benefits__
@@ -559,14 +559,15 @@ I'm just having a hard time believing that bananas going from yellow to green is
 
 024 
 40r
-*market*- non-offensive, generates $87 16 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($1392 gained per round)
+*market*- non-offensive, generates $200 14 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($2800 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
  
 __Changes from Previous Tier__
-*market* gets +$62 each time for a net gain of +$992 per round
+*market* gets +$150 each time for a net gain of +$2100 per round
 gets *buff*
  
 __Crosspath Benefits__
@@ -574,22 +575,22 @@ __Crosspath Benefits__
 
 500 
 40r
-*crate*- non-offensive, spawns 5 $1200 *crates* of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($6000 gained per round)
-*buff*- all 4xx farms get +25% income
+*crate*- non-offensive, spawns 5 $3000 *crates* of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($15000 gained per round)
+*buff*- all 4xx farms get +20% income
  
 __Changes from Previous Tier__
-*crate* gets +$900 per *crate* (net gain: +$4500 per round)
+*crate* gets +$2400 per *crate* (net gain: +$12000 per round)
 gets *buff*
 
 510 
 40r
-*crate*- non-offensive, spawns 5 $1200 *crates* of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($6000 gained per round)
-*buff*- all 4xx farms get +25% income
+*crate*- non-offensive, spawns 5 $3000 *crates* of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($15000 gained per round)
+*buff*- all 4xx farms get +20% income
  
 __Changes from Previous Tier__
-*crate* gets +$900 per *crate* (net gain: +$4500 per round)
+*crate* gets +$2400 per *crate* (net gain: +$12000 per round)
 gets *buff*
  
 __Crosspath Benefits__
@@ -597,12 +598,12 @@ __Crosspath Benefits__
 
 520 
 40r
-*banana*- non-offensive, spawns 5 $1500 *crates* of *bananas* during the round, 30s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($7500 gained per round)
-*buff*- all 4xx farms get +25% income
+*banana*- non-offensive, spawns 5 $3750 *crates* of *bananas* during the round, 30s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($18750 gained per round)
+*buff*- all 4xx farms get +20% income
  
 __Changes from Previous Tier__
-*crate* gets +$900 per *crate* (net gain: +$4500 per round)
+*crate* gets +$3000 per *crate* (net gain: +$15000 per round)
 gets *buff*
  
 __Crosspath Benefits__
@@ -610,190 +611,176 @@ __Crosspath Benefits__
 
 501 
 40r
-*banana*- non-offensive, spawns 5 $1200 *crates* of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - ($6000 gained per round)
-‎ ‎ ‎ ‎ ‎ ‎ - *crates* give $600 on expiration
-*buff*- all 4xx farms get +25% income
+*banana*- non-offensive, spawns 5 $3000 *crates* of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - ($15000 gained per round)
+*buff*- all 4xx farms get +20% income
  
 __Changes from Previous Tier__
-*crate* gets +$900 per *crate* (net gain: +$4500 per round)
+*crate* gets +$2400 per *crate* (net gain: +$12000 per round)
 gets *buff*
  
 __Crosspath Benefits__
-*crate* gets larger collection hitbox, $600 on expiration 
+*crate* gets larger collection hitbox
 
 502 
 40r
-*banana*- non-offensive, spawns 5 $1200 *crates* of *bananas* during the round, 15s lifetime
-‎ ‎ ‎ ‎ ‎ ‎ - *crates* give $1020 on expiration
-‎ ‎ ‎ ‎ ‎ ‎ - ($6000 gained per round)
-*buff*- all 4xx farms get +25% income
+*banana*- non-offensive, spawns 5 $3000 *crates* of *bananas* during the round, 15s lifetime
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - *crates* give $1500 on expiration
+‎ ‎ ‎ ‎ ‎ ‎ - ($15000 gained per round)
+*buff*- all 4xx farms get +20% income
  
 __Changes from Previous Tier__
-*crate* gets +$900 per *crate* (net gain: +$4500 per round)
+*crate* gets +$2400 per *crate* (net gain: +$12000 per round)
 gets *buff*
  
 __Crosspath Benefits__
-*crate* gets larger collection hitbox, $1020 on expiration
+*crate* gets larger collection hitbox, $1500 on expiration
 sellback price 70% -> 80%
 
 050 
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $10,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 60s cooldown, gives $9,000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $30000
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 60s cooldown (initial: 20s), gives $20,000
  
 __Changes from Previous Tier__
-**IMF Loan** ability no longer gives debt
++$15,000 capacity
+**IMF Loan** ability cooldown 90s -> 60s, no longer gives debt
 
 150 
 40r
-*bank*- non-offensive, adds $45 to the *bank* 6 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $9,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($270 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 60s cooldown, gives $10,000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 10 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $30000
+‎ ‎ ‎ ‎ ‎ ‎ - ($500 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 60s cooldown (initial: 20s), gives $20,000
  
 __Changes from Previous Tier__
-**IMF Loan** ability no longer gives debt
++$15,000 capacity
+**IMF Loan** ability cooldown 90s -> 60s, no longer gives debt
  
 __Crosspath Benefits__
 net gain of +$40 added to the *bank* per round
 
 250 
 40r
-*bank*- non-offensive, adds $38.75 to the *bank* 8 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $9,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($310 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 60s cooldown, gives $10,000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 12 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $30000
+‎ ‎ ‎ ‎ ‎ ‎ - ($600 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 60s cooldown (initial: 20s), gives $20,000
  
 __Changes from Previous Tier__
-**IMF Loan** ability no longer gives debt
++$15,000 capacity
+**IMF Loan** ability cooldown 90s -> 60s, no longer gives debt
  
 __Crosspath Benefits__
 net gain of +$80 added to the *bank* per round
 
 051 
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $9,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 60s cooldown, gives $10,000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $30000
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 60s cooldown (initial: 20s), gives $20,000
  
 __Changes from Previous Tier__
-**IMF Loan** ability no longer gives debt
++$15,000 capacity
+**IMF Loan** ability cooldown 90s -> 60s, no longer gives debt
  
 __Crosspath Benefits__
 visual - *bank* lights up when at max capacity
 
 052
 40r
-*bank*- non-offensive, adds $57.5 to the *bank* 4 times during the round
-‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $9,000
-‎ ‎ ‎ ‎ ‎ ‎ - ($230 gained per round)
-*interest*- non-offensive, increases money in *bank* by 15% every round
-**IMF Loan** ability: 60s cooldown, gives $10,000
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
-‎ ‎ ‎ ‎ ‎ ‎ - can only be used 2 times every round
+*bank*- non-offensive, adds $50 to the *bank* 8 times during the round
+‎ ‎ ‎ ‎ ‎ ‎ - *bank* can not hold more than $30000
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($400 gained per round)
+*interest*- non-offensive, increases money in *bank* by 20% every round
+**IMF Loan** ability: 60s cooldown (initial: 20s), gives $20,000 
  
 __Changes from Previous Tier__
-**IMF Loan** ability no longer gives debt
++$15,000 capacity
+**IMF Loan** ability cooldown 90s -> 60s, no longer gives debt
  
 __Crosspath Benefits__
 visual - *bank* lights up when at max capacity
 automatically collects from the *bank* at the end of the round if at max capacity 
-sellback price 70% -> 80%
 
 005 
-60r
-*market*- non-offensive, generates $70 16 times during the round, generates $4000 and 10 lives at the end of the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($5120 gained per round)
+40r
+*market*- non-offensive, generates $160 14 times during the round, generates $20,000 at the end of round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($22240 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
-- collects *bananas* from farms in range
  
 __Changes from Previous Tier__
-+$4000 end of round cash and +10 end of round lives
-collects *bananas* from farms in range
-+20r
++$20000 end of round cash
 
 105 
-60r
-*market*- non-offensive, generates $70 18 times during the round, generates $4000 and 10 lives at the end of the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($5260 gained per round)
+40r
+*market*- non-offensive, generates $160 16 times during the round, generates $20,000 at the end of round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($22560 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
-- collects *bananas* from farms in range
  
 __Changes from Previous Tier__
-+$4000 end of round cash and +10 end of round lives
-collects *bananas* from farms in range
-+20r
++$20000 end of round cash
  
 __Crosspath Benefits__
 generates money +2 times
 
 205 
-60r
-*market*- non-offensive, generates $70 20 times during the round, generates $4000 and 10 lives at the end of the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($5400 gained per round)
+40r
+*market*- non-offensive, generates $160 18 times during the round, generates $20,000 at the end of round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($22880 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
-- collects *bananas* from farms in range
- 
+
 __Changes from Previous Tier__
-+$4000 end of round cash and +10 end of round lives
-collects *bananas* from farms in range 
-+20r
- 
++$20000 end of round cash
+
 __Crosspath Benefits__
 generates money +4 times
 
 015 
-60r
-*market*- non-offensive, generates $70 16 times during the round, generates $4000 and 10 lives at the end of the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($5120 gained per round)
+40r
+*market*- non-offensive, generates $160 14 times during the round, generates $20,000 at the end of round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($22240 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
-- collects *bananas* from farms in range
  
 __Changes from Previous Tier__
 +$4000 end of round cash and +10 end of round lives
 collects *bananas* from farms in range
-+20r
  
 __Crosspath Benefits__
-literally absolutely nothing changes 
+yellow or green? https://strawpoll.com/polls/GeZANqvORyV
 
 025 
-60r
-*market*- non-offensive, generates $87 16 times during the round, generates $4000 and 10 lives at the end of the round
-‎ ‎ ‎ ‎ ‎ ‎ - ($5392 gained per round)
+40r
+*market*- non-offensive, generates $200 14 times during the round, generates $20,000 at the end of round
+‎ ‎ ‎ ‎ ‎ ‎ - +10% sellback price
+‎ ‎ ‎ ‎ ‎ ‎ - ($22800 gained per round)
 *buff*- all xx3 buccaneers get +10% income, stacks 10 times
 ‎ ‎ ‎ ‎ ‎ ‎ - applies separately from trade empire
 ‎ ‎ ‎ ‎ ‎ ‎ - (1 farm is +10%, 2 is +20%, etc)
-- collects *bananas* from farms in range
  
 __Changes from Previous Tier__
-+$4000 end of round cash and +10 end of round lives
-collects *bananas* from farms in range
-+20r
++$20000 end of round cash
  
 __Crosspath Benefits__
 +25% income during the round (note: does not affect end of round cash)
