@@ -1,0 +1,772 @@
+000
+32r
+*dart*- 1d, 2p, 0.95s, sharp
+ 
+footprint radius: 6 (small)
+
+100
+32r
+*dart*- 1d, 3p, 0.95s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +1p
+
+010
+32r
+*dart*- 1d, 2p, 0.8075s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 85%s
+
+001
+40r
+*dart*- 1d, 2p, 0.95s, sharp
+ 
+__Changes from 0-0-0__
++8r
+*dart* gets +15% projectile lifespan
+
+110
+32r
+*dart*- 1d, 3p, 0.8075s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +1p, 85%s
+
+101
+40r
+*dart*- 1d, 3p, 0.95s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +1p, +15% projectile lifespan 
++8r
+
+011
+40r
+*dart*- 1d, 2p, 0.8075s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 85%s, +15% projectile lifespan
++8r
+
+200 
+32r
+*dart*- 1d, 5p, 0.95s, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets +2p
+ 
+__Changes from 0-0-0__
+*dart* gets +3p
+
+020
+32r
+*dart*- 1d, 2p, 0.6365s, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets 78.8%s
+ 
+__Changes from 0-0-0__
+*dart* gets 67%s
+
+002
+48r
+*dart*- 1d, 2p, 0.95s, sharp, camo
+ 
+__Changes from Previous Tier__
+*dart* gets +8r, +20% projectile lifespan, increased projectile speed, camo
+ 
+__Changes from 0-0-0__
+*dart* gets +16r, +35% projectile lifespan, increased projectile speed, camo
+
+210
+32r
+*dart*- 1d, 5p, 0.8075s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +3p, 85%s
+
+220
+32r
+*dart*- 1d, 5p, 0.6365s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +3p, 67%s
+
+201
+40r
+*dart*- 1d, 5p, 0.95s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +3p, +15% projectile lifespan 
++8r
+
+202
+48r
+*dart*- 1d, 5p, 0.95s, sharp, camo
+ 
+__Changes from 0-0-0__
+*dart* gets +3p, +35% projectile lifespan, increased projectile speed, camo
++16r
+
+120
+32r
+*dart*- 1d, 3p, 0.6365s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +1p, 67%s
+
+021
+40r
+*dart*- 1d, 2p, 0.6365s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 67%s, +15% projectile lifespan
++8r
+
+022
+48r
+*dart*- 1d, 2p, 0.6365s, sharp, camo
+ 
+__Changes from 0-0-0__
+*dart* gets 67%s, +35% projectile lifespan, increased projectile speed, camo
++16r
+
+102
+48r
+*dart*- 1d, 3p, 0.95s, sharp, camo
+ 
+__Changes from 0-0-0__
+*dart* gets +1p, +35% projectile lifespan, increased projectile speed, camo
++16r
+
+012
+48r
+*dart*- 1d, 2p, 0.8075s, sharp, camo
+ 
+__Changes from 0-0-0__
+*dart* gets 85%s, +35% projectile lifespan, increased projectile speed, camo
++16r
+
+300
+32r
+*spikeball*- 1d, +1cd (2), 22p, 1.15s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+ 
+__Changes from Previous Tier__
+*dart* attack replaced with *spikeball* attack
+*spikeball* gets +1cd, +17p, 121.05%s, shatter, half projectile speed
+*spikeball* can rebound off walls
+
+310
+32r
+*spikeball*- 1d, +1cd (2), 22p, 0.9775s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+ 
+__Changes from Previous Tier__
+*dart* attack replaced with *spikeball* attack
+*spikeball* gets +1cd, +17p, 121.05%s, shatter, half projectile speed
+*spikeball* can rebound off walls
+ 
+__Crosspath Benefits__
+*spikeball* gets 85%s
+
+320
+32r
+*spikeball*- 1d, +1cd (2), 22p, 0.7705s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+ 
+__Changes from Previous Tier__
+*dart* attack replaced with *spikeball* attack
+*spikeball* gets +1cd, +17p, 121.05%s, shatter, half projectile speed
+*spikeball* can rebound off walls
+ 
+__Crosspath Benefits__
+*spikeball* gets 67%s
+
+301
+40r
+*spikeball*- 1d, +1cd (2), 22p, 1.15s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+ 
+__Changes from Previous Tier__
+*dart* attack replaced with *spikeball* attack
+*spikeball* gets +1cd, +17p, 121.05%s, shatter, half projectile speed
+*spikeball* can rebound off walls
+ 
+__Crosspath Benefits__
++8r, +15% projectile lifespan 
+
+302
+48r
+*spikeball*- 1d, +1cd (2), 22p, 1.15s, shatter, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+ 
+__Changes from Previous Tier__
+*dart* attack replaced with *spikeball* attack
+*spikeball* gets +1cd, +17p, 121.05%s, shatter, half projectile speed
+*spikeball* can rebound off walls
+ 
+__Crosspath Benefits__
++16r, +35% projectile lifespan, +20% projectile speed, camo
+
+030
+32r
+*dart*- 1d, 2p, 0.6365s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+ 
+__Changes from Previous Tier__
++2j
+
+130
+32r
+*dart*- 1d, 3p, 0.6365s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+ 
+__Changes from Previous Tier__
+*dart* gets +2j
+ 
+__Crosspath Benefits__
+*dart* gets +1p
+
+230
+32r
+*dart*- 1d, 5p, 0.6365s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+ 
+__Changes from Previous Tier__
+*dart* gets +2j
+ 
+__Crosspath Benefits__
++3p
+
+031
+40r
+*dart*- 1d, 2p, 0.6365s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+ 
+__Changes from Previous Tier__
+*dart* gets +2j
+ 
+__Crosspath Benefits__
++8r, +15% projectile lifespan  
+
+032
+48r
+*dart*- 1d, 2p, 0.6365s, 3j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+ 
+__Changes from Previous Tier__
+*dart* gets +2j
+ 
+__Crosspath Benefits__
++16r, +35% projectile lifespan, increased projectile speed, camo
+
+003
+56r
+*bolt*- 3d, 3p, 0.95s, sharp, camo
+ 
+__Changes from Previous Tier__
++8r
+*dart* attack gets replaced with *bolt* attack: +2d, +1p, increased projectile speed
+
+103
+56r
+*bolt*- 3d, 4p, 0.95s, sharp, camo
+ 
+__Changes from Previous Tier__
++8r
+*dart* attack gets replaced with *bolt* attack: +2d, +1p, increased projectile speed
+ 
+__Crosspath Benefits__
+*bolt* gets +1p
+
+203
+56r
+*bolt*- 3d, 6p, 0.95s, sharp, camo
+ 
+__Changes from Previous Tier__
++8r
+*dart* attack gets replaced with *bolt* attack: +2d, +1p, increased projectile speed
+ 
+__Crosspath Benefits__
+*bolt* gets +3p
+
+013
+56r
+*bolt*- 3d, 3p, 0.8075s, sharp, camo
+ 
+__Changes from Previous Tier__
++8r
+*dart* attack gets replaced with *bolt* attack: +2d, +1p, increased projectile speed
+ 
+__Crosspath Benefits__
+*bolt* gets 85%s
+
+023
+56r
+*bolt*- 3d, 3p, 0.6365s, sharp, camo
+ 
+__Changes from Previous Tier__
++8r
+*dart* attack gets replaced with *bolt* attack: +2d, +1p, increased projectile speed
+ 
+__Crosspath Benefits__
+*bolt* gets 67%s
+
+400
+36.5r
+*juggernaut*- 2d, +2fd, +3cd (5), 50p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+ 
+__Changes from Previous Tier__
+*spikeball* attack replaced with *juggernaut* attack: +1d, +2fd, +3cd, +28p, 86.96%s, normal, increased projectile speed, applies knockback on damage
++4.5r
+
+410
+36.5r
+*juggernaut*- 2d, +2fd, +3cd (5), 50p, 0.85s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+ 
+__Changes from Previous Tier__
+*spikeball* attack replaced with *juggernaut* attack: +1d, +2fd, +3cd, +28p, 86.96%s, normal
++4.5r, increased projectile speed, applies knockback on damage
+ 
+__Crosspath Benefits__
+*juggernaut* gets 85%s
+
+420
+36.5r
+*juggernaut*- 2d, +2fd, +3cd (5), 50p, 0.67s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+ 
+__Changes from Previous Tier__
+*spikeball* attack replaced with *juggernaut* attack: +1d, +2fd, +3cd, +28p, 86.96%s, normal
++4.5r, increased projectile speed, applies knockback on damage
+ 
+__Crosspath Benefits__
+*juggernaut* gets 67%s
+
+401
+44.5r
+*juggernaut*- 2d, +2fd, +3cd (5), 50p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+ 
+__Changes from Previous Tier__
+*spikeball* attack replaced with *juggernaut* attack: +1d, +2fd, +3cd, +28p, 86.96%s, normal
++4.5r, increased projectile speed, applies knockback on damage
+ 
+__Crosspath Benefits__
++8r, +15% projectile lifespan 
+
+402
+52.5r
+*juggernaut*- 2d, +2fd, +3cd (5), 50p, 1.0s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls
+ ‎ ‎ ‎ ‎ ‎ -applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+ 
+__Changes from Previous Tier__
+*spikeball* attack replaced with *juggernaut* attack: +1d, +2fd, +3cd, +28p, 86.96%s, normal
++4.5r, increased projectile speed, applies knockback on damage 
+ 
+__Crosspath Benefits__
++16r, +35% projectile lifespan, increased projectile speed, camo
+
+040
+32r
+*dart*- 1d, 2p, 0.4774s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 10 nearest darts (242 max upgrades) 6.32%s, minimum range becomes 40 for 15s
+ ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - (stats are 1d, 2p, 0.06s, 40r for 000)
+‎ ‎ ‎ ‎ ‎ ‎ - stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*dart* gets 75%s
+*fanclub* ability added
+
+140
+32r
+*dart*- 1d, 3p, 0.4774s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 10 nearest darts (242 max upgrades) 6.32%s, minimum range becomes 40 for 15s 
+ ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - (stats are 1d, 2p, 0.06s, 40r for 000)
+‎ ‎ ‎ ‎ ‎ ‎ - stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*dart* gets 75%s
+*fanclub* ability added
+ 
+__Crosspath Benefits__
+*dart* gets +1p
+
+240
+32r
+*dart*- 1d, 5p, 0.4774s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 10 nearest darts (242 max upgrades) 6.32%s, minimum range becomes 40 for 15s 
+ ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - (stats are 1d, 2p, 0.06s, 40r for 000)
+‎ ‎ ‎ ‎ ‎ ‎ - 15s which stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*dart* gets 75%s
+*fanclub* ability added
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+
+041
+40r
+*dart*- 1d, 2p, 0.4774s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 10 nearest darts (242 max upgrades) 6.32%s, minimum range becomes 40 for 15s
+ ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - (stats are 1d, 2p, 0.06s, 40r for 000)
+‎ ‎ ‎ ‎ ‎ ‎ - 15s which stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*dart* gets 75%s
+*fanclub* ability added
+ 
+__Crosspath Benefits__
++8r, +15% projectile lifespan 
+
+042
+48r
+*dart*- 1d, 2p, 0.4774s, 3j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 10 nearest darts (242 max upgrades) 6.32%s, minimum range becomes 40 for 15s
+ ‎ ‎ ‎ ‎ ‎ ‎- initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - (stats are 1d, 2p, 0.06s, 40r for 000)
+‎ ‎ ‎ ‎ ‎ ‎ - 15s which stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*dart* gets 75%s
+*fanclub* ability added
+ 
+__Crosspath Benefits__
++16r, +35% projectile lifespan, increased projectile speed, camo
+
+004
+60r
+*bolt*- 6d, 3p, 0.6s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 10 shots
+ 
+__Changes from Previous Tier__
++4r
+*bolt* gets +3d, 63.16%s
+crit feature added to *bolt*
+
+104
+60r
+*bolt*- 6d, 4p, 0.6s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 10 shots
+ 
+__Changes from Previous Tier__
++4r
+*bolt* gets +3d, 63.16%s, increased projectile speed
+crit feature added to *bolt* 
+ 
+__Crosspath Benefits__
+*bolt* gets +1p
+
+204
+60r
+*bolt*- 6d, 6p, 0.6s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 10 shots
+ 
+__Changes from Previous Tier__
++4r
+*bolt* gets +3d, 63.16%s, increased projectile speed
+crit feature added to *bolt* 
+ 
+__Crosspath Benefits__
+*bolt* gets +3p
+
+014
+60r
+*bolt*- 6d, 3p, 0.51s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 10 shots
+ 
+__Changes from Previous Tier__
++4r
+*bolt* gets +3d, 63.16%s, increased projectile speed
+crit feature added to *bolt* 
+ 
+__Crosspath Benefits__
+*bolt* gets 85%s
+
+024
+60r
+*bolt*- 6d, 3p, 0.402s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 10 shots
+ 
+__Changes from Previous Tier__
++4r
+*bolt* gets +3d, 63.16%s, increased projectile speed
+crit feature added to *bolt* 
+ 
+__Crosspath Benefits__
+*bolt* gets 67%s
+
+500
+36.5r
+*juggernaut*- 5d, +5fd (10), +8cd (13), +20ld (25), 200p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls and rehit bloons after rebound
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+‎ ‎ ‎ ‎ ‎ ‎ - emits 6 *mini-juggernaut*s when 100 or 0 pierce is left
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - emits all remaining sets on expiration
+*mini-juggernaut*- 2d, 2fd, +3cd (5), 50p
+ 
+__Changes from Previous Tier__
+*juggernaut* gets +3d, +3fd, +9cd, +20ld, +150p
+*juggernaut* can rehit bloons after rebounding off walls
+*juggernaut* can emit other *juggernaut*s when pierce is used
+
+510
+36.5r
+*juggernaut*- 5d, +5fd (10), +8cd (13), +20ld (25), 200p, 0.85s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls and rehit bloons after rebound
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+‎ ‎ ‎ ‎ ‎ ‎ - emits 6 *mini-juggernaut*s when 100 or 0 pierce is left
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - emits all remaining sets on expiration
+*mini-juggernaut*- 2d, +2fd, +3cd (5), 50p
+ 
+__Changes from Previous Tier__
+*juggernaut* gets +3d, +3fd, +9cd, +20ld, +150p
+*juggernaut* can rehit bloons after rebounding off walls
+*juggernaut* can emit other *juggernaut*s when pierce is used
+ 
+__Crosspath Benefits__
+*juggernaut* gets 85%s
+
+520
+36.5r
+*juggernaut*- 5d, +5fd, +8cd(13), 200p, 0.67s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls and rehit bloons after rebound
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+‎ ‎ ‎ ‎ ‎ ‎ - emits 6 *mini-juggernaut*s when 100 or 0 pierce is left
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - emits all remaining sets on expiration
+*mini-juggernaut*- 2d, +2fd, +3cd (5), 50p
+ 
+__Changes from Previous Tier__
+*juggernaut* gets +3d, +3fd, +9cd, +20ld, +150p
+*juggernaut* can rehit bloons after rebounding off walls
+*juggernaut* can emit other *juggernaut*s when pierce is used
+ 
+__Crosspath Benefits__
+*juggernaut* gets 67%s
+
+501
+44.5r
+*juggernaut*- 5d, +5fd (10), +8cd (13), +20ld (25), 200p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls and rehit bloons after rebound
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+‎ ‎ ‎ ‎ ‎ ‎ - emits 6 *mini-juggernaut*s when 100 or 0 pierce is left
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - emits all remaining sets on expiration
+*mini-juggernaut*- 2d, +2fd, +3cd (5), 50p
+ 
+__Changes from Previous Tier__
+*juggernaut* gets +3d, +3fd, +9cd, +20ld, +150p
+*juggernaut* can rehit bloons after rebounding off walls
+*juggernaut* can emit other *juggernaut*s when pierce is used
+ 
+__Crosspath Benefits__
++8r, +15% projectile lifespan 
+
+502
+52.5r
+*juggernaut*- 5d, +5fd (10), +8cd (13), +20ld (25), 200p, 1.0s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - can rebound off walls and rehit bloons after rebound
+‎ ‎ ‎ ‎ ‎ ‎ - applies *knockback* status on damage
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  slows bloons for 0.1s
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  M.O.A.B.s unaffected
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  ceramics and leads move at -50% speed
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ -  all other bloons move at -200% speed
+‎ ‎ ‎ ‎ ‎ ‎ - emits 6 *mini-juggernaut*s when 100 or 0 pierce is left
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - emits all remaining sets on expiration
+*mini-juggernaut*- 2d, +2fd, +3cd (5), 50p
+ 
+__Changes from Previous Tier__
+*juggernaut* gets +3d, +3fd, +9cd, +20ld, +150p
+*juggernaut* can rehit bloons after rebounding off walls
+*juggernaut* can emit other *juggernaut*s when pierce is used
+ 
+__Crosspath Benefits__
++16r, +35% projectile lifespan, increased projectile speed, camo
+
+050
+32r
+*dart*- 1d, 2p, 0.4774s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 20 nearest darts (252 max upgrades) +1d, +3p, 3.16%s, minimum range becomes 40, plasma (2d, 5p, 0.03s, 40r, plasma for 000) for 15s
+ ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*fanclub* ability additionally gives darts +1d, +3p, 50%s, plasma
+*fanclub* ability transforms 10 additional darts
+
+150
+32r
+*dart*- 1d, 3p, 0.4774s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 20 nearest darts (252 max upgrades) +1d, +3p, 3.16%s, minimum range becomes 40, plasma (2d, 5p, 0.03s, 40r, plasma for 000) for 15s
+ ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*fanclub* ability additionally gives darts +1d, +3p, 50%s, plasma
+*fanclub* ability transforms 10 additional darts
+ 
+__Crosspath Benefits__
+*dart* gets +1p
+
+250
+32r
+*dart*- 1d, 5p, 0.4774s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 20 nearest darts (252 max upgrades) +1d, +3p, 3.16%s, minimum range becomes 40, plasma (2d, 5p, 0.03s, 40r, plasma for 000) for 15s
+ ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*fanclub* ability additionally gives darts +1d, +3p, 50%s, plasma
+*fanclub* ability transforms 10 additional darts
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+
+051
+40r
+*dart*- 1d, 2p, 0.4774s, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 20 nearest darts (252 max upgrades) +1d, +3p, 3.16%s, minimum range becomes 40, plasma (2d, 5p, 0.03s, 40r, plasma for 000) for 15s
+ ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*fanclub* ability additionally gives darts +1d, +3p, 50%s, plasma
+*fanclub* ability transforms 10 additional darts
+ 
+__Crosspath Benefits__
++8r, +15% projectile lifespan 
+
+052
+48r
+*dart*- 1d, 2p, 0.4774s, 3j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 30º spread
+**Super Monkey Fan Club** ability: 50s cooldown, gives 20 nearest darts (252 max upgrades) +1d, +3p, 3.16%s, minimum range becomes 40, plasma (2d, 5p, 0.03s, 40r, plasma for 000) for 15s
+ ‎ ‎ ‎ ‎ ‎ ‎- existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - stacks with d, p, and s upgrades
+ 
+__Changes from Previous Tier__
+*fanclub* ability additionally gives darts +1d, +3p, 50%s, plasma
+*fanclub* ability transforms 10 additional darts
+ 
+__Crosspath Benefits__
++16r, +35% projectile lifespan, increased projectile speed, camo
+
+005
+80r
+*bolt*- 6d, 8p, 0.16s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 5 shots
+ 
+__Changes from Previous Tier__
++20r
+*bolt* gets +5p, 26.6667%s, increased projectile speed, normal
+*bolt* crits happen every 10 -> 5 shots
+
+105
+80r
+*bolt*- 6d, 14p, 0.16s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 5 shots
+ 
+__Changes from Previous Tier__
++20r
+*bolt* gets +5p, 26.6667%s, increased projectile speed, normal
+*bolt* crits happen every 10 -> 5 shots
+ 
+__Crosspath Benefits__
+*bolt* gets +6p
+
+205
+80r
+*bolt*- 6d, 21p, 0.16s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 5 shots
+ 
+__Changes from Previous Tier__
++20r
+*bolt* gets +5p, 26.667%s, increased projectile speed, normal
+*bolt* crits happen every 10 -> 5 shots
+ 
+__Crosspath Benefits__
+*bolt* gets +13p
+
+015
+80r
+*bolt*- 6d, 8p, 0.136s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 5 shots
+ 
+__Changes from Previous Tier__
++20r
+*bolt* gets +5p, 26.6667%s, increased projectile speed, normal
+*bolt* crits happen every 10 -> 5 shots
+ 
+__Crosspath Benefits__
+*bolt* gets 85%s
+
+025
+80r
+*bolt*- 6d, 8p, 0.1072s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50d crit every 5 shots
+ 
+__Changes from Previous Tier__
++20r
+*bolt* gets +5p, 26.6667%s, increased projectile speed, normal
+*bolt* crits happen every 10 -> 5 shots
+ 
+__Crosspath Benefits__
+*bolt* gets 67%s
