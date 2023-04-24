@@ -1,0 +1,957 @@
+000 
+42r
+*dart*- 1d, 2p, 0.75s, sharp
+ 
+footprint radius: 6 (small)
+
+100 
+52r
+*dart*- 1d, 2p, 0.75s, sharp
+ 
+__Changes from 0-0-0__
++10r
+
+010 
+42r
+*dart*- 1d, 5p, 0.75s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +3p
+
+001 
+42r
+*dart*- 1d, 2p, 0.375s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 50%s
+
+110 
+52r
+*dart*- 1d, 5p, 0.75s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, +3p
+
+101 
+52r
+*dart*- 1d, 2p, 0.375s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, 50%s
+
+011 
+42r
+*dart*- 1d, 5p, 0.375s, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +3p, 50%s
+
+200 
+52r
+*dart*- 1d, 2p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+ 
+__Changes from Previous Tier__
+*dart* can attack bloons in range of other towers as well
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, can attack bloons in range of other towers as well
+
+020 
+42r
+*dart*- 1d, 5p, 0.75s, normal
+ 
+__Changes from Previous Tier__
+*dart* damage type sharp -> normal
+ 
+__Changes from 0-0-0__
+*dart* gets +3p, damage type sharp -> normal
+
+002 
+42r
+*dart*- 1d, 1p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+ 
+__Changes from Previous Tier__
+*dart* -1p, emits *airburst* on impact
+ 
+__Changes from 0-0-0__
+*dart* gets 50%s, -1p, emits *airburst* on impact
+
+210 
+52r
+*dart*- 1d, 5p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, +3p, can attack bloons in range of other towers as well
+
+220 
+52r
+*dart*- 1d, 5p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, +3p, damage type sharp -> normal, can attack bloons in range of other towers as well
+
+201 
+52r
+*dart*- 1d, 2p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, 50%s, can attack bloons in range of other towers as well
+
+202 
+52r
+*dart*- 1d, 1p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, -1p, 50%s, can attack bloons in range of other towers as well, emits *airburst* on impact
+
+120 
+52r
+*dart*- 1d, 5p, 0.75s, normal
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, +3p, damage type sharp -> normal
+
+021 
+42r
+*dart*- 1d, 5p, 0.375s, normal
+ 
+__Changes from 0-0-0__
+*dart* gets +3p, 50%s, damage type sharp -> normal
+
+022 
+42r
+*dart*- 1d, 1p, 0.375s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 5p, 3j, normal
+ 
+__Changes from 0-0-0__
+all attacks damage type sharp -> normal
+*dart* gets 50%s, -1p
+*airburst* gets +3p
+
+102 
+52r
+*dart*- 1d, 1p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets +10r, 50%s, -1p, emits *airburst* on impact
+
+012 
+42r
+*dart*- 1d, 1p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 5p, 3j, sharp
+ 
+__Changes from 0-0-0__
+*dart* gets 50%s, -1p
+*airburst* gets +3p
+
+300 
+52r
+*dart*- 1d, 2p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* attack
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 100p, 1.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+ 
+__Changes from Previous Tier__
+gets submerge targeting 
+
+310 
+52r
+*dart*- 1d, 5p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* attack
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 150p, 1.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+ 
+__Changes from Previous Tier__
+gets submerge targeting
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+*sonar* gets +50p
+
+320 
+52r
+*dart*- 1d, 5p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* attack
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 150p, 1.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+ 
+__Changes from Previous Tier__
+gets submerge targeting
+ 
+__Crosspath Benefits__
+*dart* gets +3p, damage type sharp -> normal
+*sonar* gets +50p
+
+301 
+52r
+*dart*- 1d, 2p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* attack
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 100p, 1.275s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+ 
+__Changes from Previous Tier__
+gets submerge targeting
+ 
+__Crosspath Benefits__
+*dart* gets 50%s
+*sonar* gets 85%s
+
+302 
+52r
+*dart*- 1d, 1p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎  -can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* attack
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 100p, 0.9563s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+ 
+__Changes from Previous Tier__
+gets submerge targeting
+ 
+__Crosspath Benefits__
+*dart* gets -1p, emits *airburst*
+*sonar* gets 63.75%s
+
+030 
+50r
+*dart*- 1d, 5p, 0.75s, normal
+*ballistic*- 1d, 6cd, 6md, 100p, 0.9945s, explosive
+ 
+__Changes from Previous Tier__
++8r
+gets *ballistic* attack
+
+130 
+60r
+*dart*- 1d, 5p, 0.75s, normal
+*ballistic*- 1d, 6cd, 6md, 100p, 0.9945s, explosive
+ 
+__Changes from Previous Tier__
++8r
+gets *ballistic* attack
+ 
+__Crosspath Benefits__
++10r
+
+230 
+60r
+*dart*- 1d, 5p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+*ballistic*- 1d, 6cd, 6md, 100p, 0.9945s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+ 
+__Changes from Previous Tier__
++8r
+gets *ballistic* attack
+ 
+__Crosspath Benefits__
++10r
+*dart* and *ballistic* can attack bloons in range of other towers as well
+
+031 
+50r
+*dart*- 1d, 5p, 0.375s, normal
+*ballistic*- 1d, 6cd, 6md, 100p, 0.8702s, explosive
+ 
+__Changes from Previous Tier__
++8r
+gets *ballistic* attack
+ 
+__Crosspath Benefits__
+*dart* gets 50%s
+*ballistic* gets 87.5%s
+
+032 
+50r
+*dart*- 1d, 1p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 5p, 3j, normal
+*ballistic*- 1d, 6cd, 6md, 100p, 0.8702s, explosive
+ 
+__Changes from Previous Tier__
++8r
+gets *ballistic* attack
+ 
+__Crosspath Benefits__
+*dart* gets 50%s, -4p, emits *airburst* on impact
+*ballistic* gets 87.5%s
+
+003 
+42r
+*dart*- 1d, 1p, 0.25s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets 67%s
+
+103 
+52r
+*dart*- 1d, 1p, 0.25s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets 67%s
+ 
+__Crosspath Benefits__
++10r
+
+203 
+52r
+*dart*- 1d, 1p, 0.25s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+ 
+__Changes from Previous Tier__
+*dart* gets 67%s
+ 
+__Crosspath Benefits__
++10r, can attack bloons in range of other towers as well
+
+013 
+42r
+*dart*- 1d, 1p, 0.25s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 5p, 3j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets 67%s
+ 
+__Crosspath Benefits__
+*airburst* gets +3p
+
+023 
+42r
+*dart*- 1d, 1p, 0.25s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 5p, 3j, normal
+ 
+__Changes from Previous Tier__
+*dart* gets 67%s
+ 
+__Crosspath Benefits__
+all attacks damage type sharp -> normal
+*airburst* gets +3p
+
+400 
+52r
+*dart*- 1d, 2p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 100p, 0.3s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 1d, 50p, 0.3s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 85% ability cooldown
+ 
+__Changes from Previous Tier__
+*sonar* gets 17.14%s
+gets *radioactive*
+
+410 
+52r
+*dart*- 1d, 5p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 120p, 0.3s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 1d, 70p, 0.3s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 85% ability cooldown
+ 
+__Changes from Previous Tier__
+*sonar* gets 17.14%s 
+gets *radioactive*
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+*radioactive* gets +20p
+*sonar* gets +20p
+
+420 
+52r
+*dart*- 1d, 5p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 150p, 0.3s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 1d, 2ld, 100p, 0.3s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 85% ability cooldown
+ 
+__Changes from Previous Tier__
+*sonar* gets 17.14%s
+gets *radioactive*
+ 
+__Crosspath Benefits__
+*dart* gets +3p, damage type sharp -> normal
+*radioactive* gets +50p, damage type shatter -> normal
+*sonar* gets +50p
+
+401 
+52r
+*dart*- 1d, 2p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 100p, 0.255s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 1d, 50p, 0.255s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 85% ability cooldown
+ 
+__Changes from Previous Tier__
+*sonar* gets 17.14%s
+gets *radioactive*
+ 
+__Crosspath Benefits__
+*dart* gets 50%s
+*sonar* and *radioactive* get 85%s
+
+402 
+52r
+*dart*- 1d, 1p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 100p, 0.1913s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 1d, 50p, 0.1913s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 85% ability cooldown
+ 
+__Changes from Previous Tier__
+*sonar* gets 17.14%s
+gets *radioactive*
+ 
+__Crosspath Benefits__
+*dart* gets 50%s, -1p, emits *airburst* on impact
+*sonar* and *radioactive* get 63.75%s
+
+040 
+50r
+*dart*- 1d, 5p, 0.75s, normal
+*ballistic*- 1d, 6cd, 6md, 100p, 0.9945s, explosive
+**First Strike** ability- 60s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+gets **First Strike** ability
+
+140 
+60r
+*dart*- 1d, 5p, 0.75s, normal
+*ballistic*- 1d, 6cd, 6md, 100p, 0.9945s, explosive
+**First Strike** ability- 60s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+gets **First Strike** ability
+ 
+__Crosspath Benefits__
++10r
+
+240 
+50r
+*dart*- 1d, 5p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+*ballistic*- 1d, 6cd, 6md, 100p, 0.9945s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+**First Strike** ability- 60s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+gets **First Strike** ability
+ 
+__Crosspath Benefits__
++10r
+*dart* and *ballistic* can attack bloons in range of other towers as well
+
+041 
+50r
+*dart*- 1d, 5p, 0375s, normal
+*ballistic*- 1d, 6cd, 6md, 100p, 0.8702, explosive
+**First Strike** ability- 60s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+gets **First Strike** ability
+ 
+__Crosspath Benefits__
+*dart* gets 50%s
+*ballistic* gets 87.5%s
+
+042 
+50r
+*dart*- 1d, 1p, 0.375s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 5p, 3j, normal
+*ballistic*- 1d, 6cd, 6md, 100p, 0.8702s, explosive
+**First Strike** ability- 60s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+gets **First Strike** ability
+ 
+__Crosspath Benefits__
+*dart* gets 50%s, -4p, emits *airburst* on impact
+*ballistic* gets 87.5%s
+
+004 
+42r
+*dart*- 2d, +2md (4), 1p, 0.25s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, +1md (2), 5p, 3j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets +1d, +2md
+*airburst* gets +1md, +3p
+
+104 
+52r
+*dart*- 2d, +2md (4), 1p, 0.25s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, +1md (2), 5p, 3j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets +1d, +2md
+*airburst* gets +1md, +3p
+ 
+__Crosspath Benefits__
++10r
+
+204 
+52r
+*dart*- 2d, +2md (4), 1p, 0.25s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, +1md (2), 5p, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+ 
+__Changes from Previous Tier__
+*dart* gets +1d, +2md
+*airburst* gets +1md, +3p
+ 
+__Crosspath Benefits__
+*dart* gets +10r, can attack bloons in range of other towers as well
+
+014 
+42r
+*dart*- 2d, +2md (4), 1p, 0.25s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, +1md (2), 8p, 3j, sharp
+ 
+__Changes from Previous Tier__
+*dart* gets +1d, +2md
+*airburst* gets +1md, +3p
+ 
+__Crosspath Benefits__
+*airburst* gets +3p
+
+024 
+42r
+*dart*- 2d, +2md (4), 1p, 0.25s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, +1md (2), 8p, 3j, normal
+ 
+__Changes from Previous Tier__
+*dart* gets +1d, +2md
+*airburst* gets +1md, +3p
+ 
+__Crosspath Benefits__
+all attacks damage type sharp -> normal
+*airburst* gets +3p
+
+500 
+52r
+*dart*- 1d, 2p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 1000p, 0.3s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 5d, +5cd (10), 1000p, 0.3s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 50% ability cooldown, heroes in range level 50% faster
+*buff*- only when submerged, all abilities have 80% cooldown
+ 
+__Changes from Previous Tier__
+*radioactive* gets +4d, +5cd (10), +950p (1000)
+*sonar* gets +900p (1000)
+gets *buff*
+
+510 
+52r
+*dart*- 1d, 5p, 0.75s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 1000p, 0.3s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 5d, +5cd (10), 1000p, 0.3s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 50% ability cooldown, heroes in range level 50% faster
+*buff*- only when submerged, all abilities have 80% cooldown
+ 
+__Changes from Previous Tier__
+*radioactive* gets +4d, +5cd (10), +950p (1000)
+*sonar* gets +900p (1000)
+gets *buff*
+ 
+__Crosspath Benefits__
+*dart* gets +3p
+
+520 
+52r
+*dart*- 1d, 5p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 1000p, 0.3s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 5d, +5cd (10), 1000p, 0.3s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+-*buff*- only when submerged, water towers in range have 50% ability cooldown, heroes in range level 50% faster
+*buff*- only when submerged, all abilities have 80% cooldown
+ 
+__Changes from Previous Tier__
+*radioactive* gets +4d, +5cd (10), +950p (1000)
+*sonar* gets +900p (1000)
+gets *buff*
+ 
+__Crosspath Benefits__
+*dart* gets +3p, damage type sharp -> normal
+*radioactive* damage type shatter -> normal 
+
+501 
+52r
+*dart*- 1d, 2p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 1000p, 0.225s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  -removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 5d, +5cd (10), 1000p, 0.225s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 50% ability cooldown, heroes in range level 50% faster
+*buff*- only when submerged, all abilities have 80% cooldown
+ 
+__Changes from Previous Tier__
+*radioactive* gets +4d, +5cd (10), +950p (1000)
+*sonar* gets +900p (1000)
+gets *buff*
+ 
+__Crosspath Benefits__
+*dart* gets 50%s
+*sonar* and *radioactive* get 85%s
+
+502 
+52r
+*dart*- 1d, 1p, 0.375s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 2p, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+submerge targeting- *dart* attack is disabled, activates *sonar* and *radioactive* attacks
+‎ ‎ ‎ ‎ ‎ ‎ - *sonar*- 0d, 1000p, 0.1913s, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+‎ ‎ ‎ ‎ ‎ ‎ - *radioactive*- 5d, +5cd (10), 1000p, 0.1913s, shatter
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - zone
+‎ ‎ ‎ ‎ ‎ ‎ - *buff*- only when submerged, water towers in range have 50% ability cooldown, heroes in range level 50% faster
+*buff*- only when submerged, all abilities have 80% cooldown
+ 
+__Changes from Previous Tier__
+*radioactive* gets +4d, +5cd (10), +950p (1000)
+*sonar* gets +900p (1000)
+gets *buff*
+ 
+__Crosspath Benefits__
+*dart* gets 50%s, -1p, emits *airburst* on impact
+*sonar* and *radioactive* get 63.75%s
+
+050 
+50r
+*dart*- 1d, 5p, 0.75s, normal
+*ballistic*- 10d, +15cd (25), +15md (25), 100p, 0.45s, explosive
+*pre-emptive-missile*- 750d to all moabs after spawn
+‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 3d, 100p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
+**First Strike** ability- 45s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 15s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*ballistic* gets +9d, +19cd, +19md, 45.25%s
+**First Strike** ability cooldown 60s -> 45s
+gets preemptive passive ability
+
+150 
+60r
+*dart*- 1d, 5p, 0.75s, normal
+*ballistic*- 10d, +15cd (25), +15md (25), 100p, 0.45s, explosive
+*pre-emptive-missile*- 750d to all moabs after spawn
+‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 3d, 100p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
+**First Strike** ability- 45s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 15s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*ballistic* gets +9d, +19cd, +19md, 45.25%s
+**First Strike** ability cooldown 60s -> 45s
+gets preemptive passive ability
+ 
+__Crosspath Benefits__
++10r
+
+250 
+60r
+*dart*- 1d, 5p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+*ballistic*- 10d, +15cd (25), +15md (25), 100p, 0.45s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+*pre-emptive-missile*- 750d to all moabs after spawn
+‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 3d, 100p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
+**First Strike** ability- 45s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 15s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*ballistic* gets +9d, +19cd, +19md, 45.25%s
+**First Strike** ability cooldown 60s -> 45s
+gets preemptive passive ability
+ 
+__Crosspath Benefits__
++10r
+*dart* and *ballistic* can attack bloons in range of other towers as well
+
+051 
+50r
+*dart*- 1d, 5p, 0.375s, normal
+*ballistic*- 10d, +15cd (25), +15md (25), 100p, 0.39375s, explosive
+*pre-emptive-missile*- 750d to all moabs after spawn
+‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 3d, 100p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
+**First Strike** ability- 45s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 15s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*ballistic* gets +9d, +10cd, +10md, 45.25%s
+**First Strike** ability cooldown 60s -> 45s
+gets preemptive passive ability
+ 
+__Crosspath Benefits__
+*dart* gets 50%s
+*ballistic* gets 87.5%s
+
+052 
+50r
+*dart*- 1d, 1p, 0.375s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 1d, 5p, 3j, normal
+*ballistic*- 10d, +15cd (25), +15md (25), 100p, 0.39375s, explosive
+*pre-emptive-missile*- 750d to all moabs after spawn
+‎ ‎ ‎ ‎ ‎ ‎ - creates *explosion*- 3d, 100p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect main target
+**First Strike** ability- 45s cooldown, launches a missile at the strongest bloon, first dealing 10,000d, then creating *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 15s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 350d, 80p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+‎ ‎ ‎ ‎ ‎ ‎ - can soak through moabs
+ 
+__Changes from Previous Tier__
+*ballistic* gets +9d, +10cd, +10md, 45.25%s
+**First Strike** ability cooldown 60s -> 45s
+gets preemptive passive ability
+ 
+__Crosspath Benefits__
+*dart* gets 50%s, -4p, emits *airburst* on impact
+*ballistic* gets 87.5%s
+
+005 
+42r
+*dart*- 4d, +4md (8), 1p, 0.125s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 2d, +2md (4), 9p, 3j, sharp
+*buff*- all subs in radius get 2Xd, +4p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect abilities 
+‎ ‎ ‎ ‎ ‎ ‎ - (this buff is already factored into the stats)
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s
+gets *buff*
+
+105 
+52r
+*dart*- 4d, +4md (8), 1p, 0.125s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 2d, +2md (4), 9p, 3j, sharp
+*buff*- all subs in radius get 2Xd, +4p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect abilities 
+‎ ‎ ‎ ‎ ‎ ‎ - (this buff is already factored into the stats)
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s
+gets *buff*
+ 
+__Crosspath Benefits__
++10r
+
+205 
+52r
+*dart*- 4d, +4md (8), 1p, 0.125s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 2d, +2md (4), 9p, 3j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - can attack bloons in the radius of other towers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can see camo in the radius of towers where all attacks can hit camo
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spike factory does not grant camo detection
+*buff*- all subs in radius get 2Xd, +4p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect abilities 
+‎ ‎ ‎ ‎ ‎ ‎ - (this buff is already factored into the stats)
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s
+gets *buff*
+ 
+__Crosspath Benefits__
+*dart* gets +10r, can attack bloons in range of other towers as well
+
+015 
+42r
+*dart*- 4d, +4md (8), 1p, 0.125s, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 2d, +2md (4), 12p, 3j, sharp
+*buff*- all subs in radius get 2Xd, +4p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect abilities 
+‎ ‎ ‎ ‎ ‎ ‎ - (this buff is already factored into the stats)
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s
+gets *buff*
+ 
+__Crosspath Benefits__
+*airburst* gets +3p
+
+025 
+42r
+*dart*- 4d, +4md (8), 1p, 0.125s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - splits into *airbursts* on impact
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *airburst*- 2d, +2md (4), 12p, 3j, normal
+*buff*- all subs in radius get 2Xd, +4p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect abilities 
+‎ ‎ ‎ ‎ ‎ ‎ - (this buff is already factored into the stats)
+ 
+__Changes from Previous Tier__
+*dart* gets 50%s
+gets *buff*
+ 
+__Crosspath Benefits__
+all attacks damage type sharp -> normal
+*airburst* gets +3p
