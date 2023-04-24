@@ -2,16 +2,16 @@
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp
+*dart*- 1d, 3p, 0.53s, 2j, sharp
  
-footprint dimensions: 27 [x axis] x 27 [y axis] (XXL)
+footprint dimensions: 23 [x axis] x 23 [y axis] (XL)
 
 100 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from 0-0-0__
 gets *dart2* attack 
@@ -20,7 +20,7 @@ gets *dart2* attack
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp
+*dart*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from 0-0-0__
 movement rate 40 units/s -> 70 units/s 
@@ -29,17 +29,17 @@ movement rate 40 units/s -> 70 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp
+*dart*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from 0-0-0__
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 110 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from 0-0-0__
 gets *dart2* attack
@@ -49,29 +49,29 @@ movement rate 40 units/s -> 70 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from 0-0-0__
 gets *dart2* attack
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 011 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp
+*dart*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from 0-0-0__
 movement rate 40 units/s -> 70 units/s 
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 200 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from Previous Tier__
 gets pursuit
@@ -84,7 +84,7 @@ gets pursuit
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.53s, 2j, sharp, camo
  
 __Changes from Previous Tier__
 gets camo
@@ -96,20 +96,21 @@ movement rate 40 units/s -> 70 units/s, camo
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp
+*dart*- 1d, 3p, 0.424s, 2j, sharp
  
 __Changes from Previous Tier__
 *dart* gets 80%s
  
 __Changes from 0-0-0__
-*dart* gets 80%s, faster projectile speed, +30% projectile lifespan
+*dart* gets 80%s, faster projectile speed, higher projectile lifespan
+
 
 210 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from 0-0-0__
 movement rate 40 units/s -> 70 units/s 
@@ -120,8 +121,8 @@ gets pursuit
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
  
 __Changes from 0-0-0__
 all attacks get camo
@@ -133,32 +134,32 @@ gets pursuit
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
  
 __Changes from 0-0-0__
 gets *dart2* attack
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 gets pursuit
 
 202 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.448s, 2j, sharp
-*dart2*- 1d, 3p, 0.448s, 2j, sharp
+*dart1*- 1d, 3p, 0.424s, 2j, sharp
+*dart2*- 1d, 3p, 0.424s, 2j, sharp
  
 __Changes from 0-0-0__
 gets *dart2* attack
-*dart* gets 80%s, faster projectile speed, +30% projectile lifespan
+*dart* gets 80%s, faster projectile speed, higher projectile lifespan
 gets pursuit 
 
 120 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
  
 __Changes from 0-0-0__
 all attacks get camo
@@ -169,52 +170,52 @@ gets *dart2* attack
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.53s, 2j, sharp, camo
  
 __Changes from 0-0-0__
 all attacks get camo
 movement rate 40 units/s -> 70 units/s 
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 022 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.424s, 2j, sharp, camo
  
 __Changes from 0-0-0__
 all attacks get camo
 movement rate 40 units/s -> 70 units/s 
-*dart* gets 80%s, faster projectile speed, +30% projectile lifespan
+*dart* gets 80%s, faster projectile speed, higher projectile lifespan
 
 102 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.448s, 2j, sharp
-*dart2*- 1d, 3p, 0.448s, 2j, sharp
+*dart1*- 1d, 3p, 0.424s, 2j, sharp
+*dart2*- 1d, 3p, 0.424s, 2j, sharp
  
 __Changes from 0-0-0__
 gets *dart2* attack
-*dart* gets 80%s, faster projectile speed, +30% projectile lifespan
+*dart* gets 80%s, faster projectile speed, higher projectile lifespan
 
 012 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp
+*dart*- 1d, 3p, 0.424s, 2j, sharp
  
 __Changes from 0-0-0__
 movement rate 40 units/s -> 70 units/s 
-*dart* gets 80%s, faster projectile speed, +30% projectile lifespan
+*dart* gets 80%s, faster projectile speed, higher projectile lifespan
 
 300 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
-*rotor*- 2d, 10p, 0.75s, normal
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
+*rotor*- 2d, 13p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
  
 __Changes from Previous Tier__
@@ -224,9 +225,9 @@ gets *rotor* attack
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
-*rotor*- 2d, 10p, 0.75s, normal
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
+*rotor*- 2d, 13p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
  
 
@@ -240,9 +241,9 @@ movement rate 40 units/s -> 70 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
-*rotor*- 2d, 10p, 0.75s, normal, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
+*rotor*- 2d, 13p, 0.55s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
  
 __Changes from Previous Tier__
@@ -256,24 +257,24 @@ movement rate 40 units/s -> 70 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
-*rotor*- 2d, 10p, 0.75s, normal
+*dart1*- 1d, 3p, 0.53s, 2j, sharp
+*dart2*- 1d, 3p, 0.53s, 2j, sharp
+*rotor*- 2d, 13p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
  
 __Changes from Previous Tier__
 gets *rotor* attack
  
 __Crosspath Benefits__
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets 80%s, faster projectile speed, higher projectile lifespan
 
 302 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.448s, 2j, sharp
-*dart2*- 1d, 3p, 0.448s, 2j, sharp
-*rotor*- 2d, 10p, 0.6s, normal
+*dart1*- 1d, 3p, 0.424s, 2j, sharp
+*dart2*- 1d, 3p, 0.424s, 2j, sharp
+*rotor*- 2d, 13p, 0.44s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
  
 __Changes from Previous Tier__
@@ -281,13 +282,13 @@ gets *rotor* attack
  
 __Crosspath Benefits__
 all attacks get 80%s
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 030 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-150 units
  
@@ -298,8 +299,8 @@ gets *downdraft* attack
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-150 units
  
@@ -313,8 +314,8 @@ gets *dart2* attack
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-150 units
  
@@ -329,7 +330,7 @@ gets pursuit
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-150 units
  
@@ -337,13 +338,13 @@ __Changes from Previous Tier__
 gets *downdraft* attack
  
 __Crosspath Benefits__
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets 80%s, faster projectile speed, higher projectile lifespan
 
 032 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.424s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.12s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-150 units
  
@@ -352,38 +353,33 @@ gets *downdraft* attack
  
 __Crosspath Benefits__
 all attacks get 80%s
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 003 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp
+*dart*- 1d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 1d, +2cd (3), +2md (3), 10p, 3.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -33% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 0% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 33% speed
  
 __Changes from Previous Tier__
 gets *shove* attack
-gets *mini-missile* attack 
 
 103 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.448s, 2j, sharp
-*dart2*- 1d, 3p, 0.448s, 2j, sharp
+*dart*- 1d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 1d, +2cd (3), +2md (3), 10p, 3.0s, ∞r, explosive
- 
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -33% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 0% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 33% speed
+
 __Changes from Previous Tier__
 gets *shove* attack
-gets *mini-missile* attack 
  
 __Crosspath Benefits__
 gets *dart2* attack
@@ -392,17 +388,14 @@ gets *dart2* attack
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.448s, 2j, sharp
-*dart1*- 1d, 3p, 0.448s, 2j, sharp
+*dart*- 1d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 1d, +2cd (3), +2md (3), 10p, 3.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -33% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 0% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 33% speed
  
 __Changes from Previous Tier__
 gets *shove* attack
-gets *mini-missile* attack 
  
 __Crosspath Benefits__
 gets *dart2* attack
@@ -412,16 +405,14 @@ gets pursuit
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp
+*dart*- 1d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -44% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at -11% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 22% speed
-*mini-missile*- 1d, +2cd (3), +2md (3), 10p, 3.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -44% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at -11% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 22% speed
  
 __Changes from Previous Tier__
 gets *shove* attack
-gets *mini-missile* attack 
  
 __Crosspath Benefits__
 movement rate 40 units/s -> 70 units/s
@@ -431,16 +422,14 @@ movement rate 40 units/s -> 70 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.424s, 2j, sharp, camo
 *shove*- 0d, 1p, 1.0s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -44% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at -11% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 22% speed
-*mini-missile*- 1d, +2cd (3), +2md (3), 10p, 3.0s, ∞r, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -44% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at -11% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 22% speed
  
 __Changes from Previous Tier__
 gets *shove* attack
-gets *mini-missile* attack 
  
 __Crosspath Benefits__
 all attacks get camo
@@ -451,35 +440,37 @@ movement rate 40 units/s -> 70 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
-*rotor*- 4d, 20p, 0.75s, normal
+*dart1*- 1d, 3p, 0.3975s, 2j, sharp
+*dart2*- 1d, 3p, 0.3975s, 2j, sharp
+*rotor*- 4d, 20p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 1d, 7p, 0.05s, sharp
-*rocket*- 2d, 40p, 1.0s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 5cd, 5md, 40p, 1.0s, 4j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
+*dart*s get 75%s
+*rotor* gets +2d, +7p
 gets *machine-gun* attack
 gets *rocket* attack 
-*rotor* gets +2d (4), +10p (20)
 
 410 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
-*rotor*- 4d, 20p, 0.75s, normal
+*dart1*- 1d, 3p, 0.3975s, 2j, sharp
+*dart2*- 1d, 3p, 0.3975s, 2j, sharp
+*rotor*- 4d, 20p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 1d, 7p, 0.05s, sharp
-*rocket*- 2d, 40p, 1.0s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 5cd, 5md, 40p, 1.0s, 4j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
+*dart*s get 75%s
+*rotor* gets +2d, +7p
 gets *machine-gun* attack
 gets *rocket* attack 
-*rotor* gets +2d (4), +10p (20)
  
 __Crosspath Benefits__
 movement rate 40 units/s -> 70 units/s
@@ -488,18 +479,19 @@ movement rate 40 units/s -> 70 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
-*rotor*- 4d, 20p, 0.75s, normal, camo
+*dart1*- 1d, 3p, 0.3975s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.3975s, 2j, sharp, camo
+*rotor*- 4d, 20p, 0.55s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 1d, 7p, 0.05s, sharp, camo
-*rocket*- 2d, 40p, 1.0s, 4j, explosive, camo
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 5cd, 5md, 40p, 1.0s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
+*dart*s get 75%s
+*rotor* gets +2d, +7p
 gets *machine-gun* attack
 gets *rocket* attack 
-*rotor* gets +2d (4), +10p (20)
  
 __Crosspath Benefits__
 all attacks get camo
@@ -509,56 +501,55 @@ movement rate 40 units/s -> 70 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp
-*dart2*- 1d, 3p, 0.56s, 2j, sharp
-*rotor*- 4d, 20p, 0.75s, normal
+*dart1*- 1d, 3p, 0.3975s, 2j, sharp
+*dart2*- 1d, 3p, 0.3975s, 2j, sharp
+*rotor*- 4d, 20p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 1d, 7p, 0.05s, sharp
-*rocket*- 2d, 40p, 1.0s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 5cd, 5md, 40p, 1.0s, 4j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
+*dart*s get 75%s
+*rotor* gets +2d, +7p
 gets *machine-gun* attack
 gets *rocket* attack 
-*rotor* gets +2d (4), +10p (20)
  
 __Crosspath Benefits__
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 402 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 1d, 3p, 0.448s, 2j, sharp
-*dart2*- 1d, 3p, 0.448s, 2j, sharp
-*rotor*- 4d, 20p, 0.6s, normal
+*dart1*- 1d, 3p, 0.318s, 2j, sharp
+*dart2*- 1d, 3p, 0.318s, 2j, sharp
+*rotor*- 4d, 20p, 0.44s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 1d, 7p, 0.04s, sharp
-*rocket*- 2d, 40p, 0.8s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 5cd, 5md, 40p, 0.8s, 4j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
+*dart*s get 75%s
+*rotor* gets +2d, +7p
 gets *machine-gun* attack
 gets *rocket* attack 
-*rotor* gets +2d (4), +10p (20)
  
 __Crosspath Benefits__
 all attacks get 80%s
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 040 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $1650 and 10 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $3000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
  
 __Changes from Previous Tier__
@@ -570,16 +561,13 @@ gets **Supply Crate** ability
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $1650 and 10 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $3000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
  
 __Changes from Previous Tier__
@@ -594,16 +582,13 @@ gets *dart2* attack
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $1650 and 10 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $3000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
  
 __Changes from Previous Tier__
@@ -619,15 +604,12 @@ gets pursuit
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $1650 and 10 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $3000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
  
 __Changes from Previous Tier__
@@ -636,21 +618,18 @@ gets **Supply Crate** ability
 *downdraft* max blowback distance increased from 150 -> 300 units
  
 __Crosspath Benefits__
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed
 
 042 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.424s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.12s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $1650 and 10 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $3000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
  
 __Changes from Previous Tier__
@@ -660,25 +639,24 @@ gets **Supply Crate** ability
  
 __Crosspath Benefits__
 all attacks get 80%s
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 004 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart*- 2d, 3p, 0.448s, 2j, sharp
+*dart*- 2d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 3d, +2cd (5), +2md (5), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -33% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 0% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 33% speed
 defense ability- passive, summons 1 comanche subtower when bloons are 25% through the track, 2 when bloons are at 50%, 3 when bloons are at 75%
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches last 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 70 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 2d, 4p, 0.3s, 40r, 4j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 2cd (3), +2md (3), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 3cd, 3md, 100p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
@@ -690,26 +668,25 @@ gets defense passive ability
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 2d, 3p, 0.448s, 2j, sharp
-*dart2*- 2d, 3p, 0.448s, 2j, sharp
+*dart1*- 2d, 3p, 0.424s, 2j, sharp
+*dart2*- 2d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 3d, +2cd (5), +2md (5), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -33% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 0% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 33% speed
+*mini-missile*- 3d, 5cd, 5md, 30p, 1.0s, ∞r, explosive
 defense ability- passive, summons 1 comanche subtower when bloons are 25% through the track, 2 when bloons are at 50%, 3 when bloons are at 75%
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches last 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 70 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 2d, 4p, 0.3s, 40r, 5j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 2cd (3), +2md (3), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 3cd, 3md, 100p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 gets defense passive ability 
 *dart* gets +1d
-*mini-missile* gets +2d, +20p, 33.33%s
  
 __Crosspath Benefits__
 gets *dart2* attack
@@ -719,20 +696,19 @@ comanche *dart* gets +2j
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 40 units / second
-*dart1*- 2d, 3p, 0.448s, 2j, sharp
-*dart2*- 2d, 3p, 0.448s, 2j, sharp
+*dart1*- 2d, 3p, 0.424s, 2j, sharp
+*dart2*- 2d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 3d, +2cd (5), +2md (5), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -33% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 0% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 33% speed
 defense ability- passive, summons 1 comanche subtower when bloons are 25% through the track, 2 when bloons are at 50%, 3 when bloons are at 75%
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches last 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 70 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 2d, 4p, 0.3s, 40r, 5j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 2cd (3), +2md (3), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 3cd, 3md, 100p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
@@ -749,19 +725,18 @@ gets pursuit
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 2d, 3p, 0.448s, 2j, sharp
+*dart*- 2d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -44% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at -11% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 22% speed
-*mini-missile*- 3d, +2cd (5), +2md (5), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -44% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at -11% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 22% speed
 defense ability- passive, summons 1 comanche subtower when bloons are 25% through the track, 2 when bloons are at 50%, 3 when bloons are at 75%
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches last 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 100 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 2d, 4p, 0.3s, 40r, 3j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 2cd (3), +2md (3), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 3cd, 3md, 100p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
@@ -778,19 +753,18 @@ comanche movement rate 70 units/s -> 100 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 70 units / second
-*dart*- 2d, 3p, 0.448s, 2j, sharp, camo
+*dart*- 2d, 3p, 0.424s, 2j, sharp, camo
 *shove*- 0d, 1p, 1.0s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -44% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at -11% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 22% speed
-*mini-missile*- 3d, +2cd (5), +2md (5), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s move at -44% speed
+‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at -11% speed
+‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s and D.D.T.s move at 22% speed
 defense ability- passive, summons 1 comanche subtower when bloons are 25% through the track, 2 when bloons are at 50%, 3 when bloons are at 75%
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches last 15s
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 100 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 2d, 4p, 0.3s, 40r, 3j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 2cd (3), +2md (3), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 1d, 3cd, 3md, 100p, 3.0s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
@@ -808,37 +782,37 @@ comanche movement rate 70 units/s -> 100 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 50 units / second
-*dart1*- 6d, 23p, 0.56s, 2j, energy
-*dart2*- 6d, 23p, 0.56s, 2j, energy
-*rotor*- 8d, 40p, 0.75s, normal
+*dart1*- 6d, 23p, 0.53s, 2j, energy
+*dart2*- 6d, 23p, 0.53s, 2j, energy
+*rotor*- 8d, 40p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 5d, 11p, 0.05s, plasma
-*rocket*- 2d, +15md (17), 40p, 1.0s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 17cd, 17md, 40p, 1.0s, 4j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 *dart* gets +5d, +20p, damage type sharp -> energy
-*rotor* gets +4d (8), +20p (40)
+*rotor* gets +4d, +20p
 *machine-gun* gets +4d, +4p, damage type sharp -> plasma
-*rocket* gets +15md
+*rocket* gets +12cd, +12md
 
 510 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart1*- 6d, 23p, 0.56s, 2j, energy
-*dart2*- 6d, 23p, 0.56s, 2j, energy
-*rotor*- 8d, 40p, 0.75s, normal
+*dart1*- 6d, 23p, 0.53s, 2j, energy
+*dart2*- 6d, 23p, 0.53s, 2j, energy
+*rotor*- 8d, 40p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 5d, 11p, 0.05s, plasma
-*rocket*- 2d, +15md (17), 40p, 1.0s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 17cd, 17md, 40p, 1.0s, 4j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 *dart* gets +5d, +20p, damage type sharp -> energy
-*rotor* gets +4d (8), +20p (40)
+*rotor* gets +4d, +20p
 *machine-gun* gets +4d, +4p, damage type sharp -> plasma
-*rocket* gets +15md
+*rocket* gets +12cd, +12md
  
 __Crosspath Benefits__
 movement rate 50 units/s -> 80 units/s
@@ -847,19 +821,19 @@ movement rate 50 units/s -> 80 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart1*- 6d, 23p, 0.56s, 2j, energy, camo
-*dart2*- 6d, 23p, 0.56s, 2j, energy, camo
-*rotor*- 8d, 40p, 0.75s, normal, camo
+*dart1*- 6d, 23p, 0.53s, 2j, energy, camo
+*dart2*- 6d, 23p, 0.53s, 2j, energy, camo
+*rotor*- 8d, 40p, 0.55s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 5d, 11p, 0.05s, plasma, camo
-*rocket*- 2d, +15md (17), 40p, 1.0s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 17cd, 17md, 40p, 1.0s, 4j, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 *dart* gets +5d, +20p, damage type sharp -> energy
-*rotor* gets +4d (8), +20p (40)
+*rotor* gets +4d, +20p
 *machine-gun* gets +4d, +4p, damage type sharp -> plasma
-*rocket* gets +15md
+*rocket* gets +12cd, +12md
  
 __Crosspath Benefits__
 all attacks get camo
@@ -869,61 +843,57 @@ movement rate 50 units/s -> 80 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 50 units / second
-*dart1*- 6d, 23p, 0.56s, 2j, energy
-*dart2*- 6d, 23p, 0.56s, 2j, energy
-*rotor*- 8d, 40p, 0.75s, normal
+*dart1*- 6d, 23p, 0.53s, 2j, energy
+*dart2*- 6d, 23p, 0.53s, 2j, energy
+*rotor*- 8d, 40p, 0.55s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 5d, 11p, 0.05s, plasma
-*rocket*- 2d, +15md (17), 40p, 1.0s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 17cd, 17md, 40p, 1.0s, 4j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 *dart* gets +5d, +20p, damage type sharp -> energy
-*rotor* gets +4d (8), +20p (40)
+*rotor* gets +4d, +20p
 *machine-gun* gets +4d, +4p, damage type sharp -> plasma
-*rocket* gets +15md
+*rocket* gets +12cd, +12md
  
 __Crosspath Benefits__
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 502 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 50 units / second
-*dart1*- 6d, 23p, 0.448s, 2j, energy
-*dart2*- 6d, 23p, 0.448s, 2j, energy
-*rotor*- 8d, 40p, 0.6s, normal
+*dart1*- 6d, 23p, 0.424s, 2j, energy
+*dart2*- 6d, 23p, 0.424s, 2j, energy
+*rotor*- 8d, 40p, 0.44s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - zone, 35r
 *machine-gun*- 5d, 11p, 0.04s, plasma
-*rocket*- 2d, +15md (17), 40p, 0.8s, 4j, explosive
-‎ ‎ ‎ ‎ ‎ ‎ - 173r
+*rocket*- 2d, 17cd, 17md, 40p, 0.8s, 4j, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 *dart* gets +5d, +20p, damage type sharp -> energy
-*rotor* gets +4d (8), +20p (40)
+*rotor* gets +4d, +20p
 *machine-gun* gets +4d, +4p, damage type sharp -> plasma
-*rocket* gets +15md
+*rocket* gets +12cd, +12md
  
 __Crosspath Benefits__
 all attacks get 80%s
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 050 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $4500 and 25 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $8000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
-**Monkey Marine** ability: 25s cooldown, spawns marine subtower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 8.33s
+**Monkey Marine** ability: 25s cooldown (battle ready), spawns marine subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - marine lasts 30s
 ‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
@@ -932,25 +902,21 @@ moves 80 units / second
 __Changes from Previous Tier__
 gets **Monkey Marine** ability 
 movement rate 40 units/s -> 80 units/s
-**Supply Crate** ability cash crate value $1650 -> $4500, life crate value 10 lives -> 25 lives
+**Supply Crate** ability cash crate value $1800 -> $4500, life crate value 10 lives -> 25 lives
 
 150 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $4500 and 25 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $8000 and 15 lives 
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
-**Monkey Marine** ability: 25s cooldown, spawns marine subtower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 8.33s
+**Monkey Marine** ability: 25s cooldown (battle ready), spawns marine subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - marine lasts 30s
 ‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
@@ -959,7 +925,7 @@ moves 80 units / second
 __Changes from Previous Tier__
 gets **Monkey Marine** ability
 movement rate 40 units/s -> 80 units/s
-**Supply Crate** ability cash crate value $1650 -> $4500, life crate value 10 lives -> 25 lives
+**Supply Crate** ability cash crate value $1800 -> $4500, life crate value 10 lives -> 25 lives
  
 __Crosspath Benefits__
 gets *dart2* attack
@@ -968,19 +934,15 @@ gets *dart2* attack
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart1*- 1d, 3p, 0.56s, 2j, sharp, camo
-*dart2*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart1*- 1d, 3p, 0.53s, 2j, sharp, camo
+*dart2*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $4500 and 25 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $8000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
-**Monkey Marine** ability: 25s cooldown, spawns marine subtower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 8.33s
+**Monkey Marine** ability: 25s cooldown (battle ready), spawns marine subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - marine lasts 30s
 ‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
@@ -989,7 +951,7 @@ moves 80 units / second
 __Changes from Previous Tier__
 gets **Monkey Marine** ability
 movement rate 40 units/s -> 80 units/s
-**Supply Crate** ability cash crate value $1650 -> $4500, life crate value 10 lives -> 25 lives
+**Supply Crate** ability cash crate value $1800 -> $4500, life crate value 10 lives -> 25 lives
 gets **Monkey Marine** ability 
  
 __Crosspath Benefits__
@@ -1000,18 +962,14 @@ gets pursuit
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart*- 1d, 3p, 0.56s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.53s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.15s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $4500 and 25 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $8000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
-**Monkey Marine** ability: 25s cooldown, spawns marine subtower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 8.33s
+**Monkey Marine** ability: 25s cooldown (battle ready), spawns marine subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - marine lasts 30s
 ‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
@@ -1020,27 +978,23 @@ moves 80 units / second
 __Changes from Previous Tier__
 gets **Monkey Marine** ability
 movement rate 40 units/s -> 80 units/s
-**Supply Crate** ability cash crate value $1650 -> $4500, life crate value 10 lives -> 25 lives
+**Supply Crate** ability cash crate value $1800 -> $4500, life crate value 10 lives -> 25 lives
  
 __Crosspath Benefits__
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 052 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart*- 1d, 3p, 0.448s, 2j, sharp, camo
+*dart*- 1d, 3p, 0.424s, 2j, sharp, camo
 *downdraft*- 0d, 1p, 0.12s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - sends bloons back 32-300 units
-**Relocation** ability: 45s cooldown, relocate any tower
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Relocation** ability: 60s cooldown (battle ready), relocate any tower
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect ace, heli, farm, village, 4xx / 5xx buccaneer, and 4xx / 5xx super
-**Supply Crate** ability: 90s cooldown, drops $4500 and 25 lives
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 90s
-‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+**Supply Crate** ability: 60s cooldown (initial: 20s), drops $8000 and 15 lives
 ‎ ‎ ‎ ‎ ‎ ‎ - in deflation the crate will exclusively drop lives
-**Monkey Marine** ability: 25s cooldown, spawns marine subtower
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 8.33s
+**Monkey Marine** ability: 25s cooldown (battle ready), spawns marine subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - marine lasts 30s
 ‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - can be affected by overclock
@@ -1049,64 +1003,58 @@ moves 80 units / second
 __Changes from Previous Tier__
 gets **Monkey Marine** ability
 movement rate 40 units/s -> 80 units/s
-**Supply Crate** ability cash crate value $1650 -> $4500, life crate value 10 lives -> 25 lives
+**Supply Crate** ability cash crate value $1800 -> $4500, life crate value 10 lives -> 25 lives
  
 __Crosspath Benefits__
 all attacks get 80%s
-*dart* gets faster projectile speed, +30% projectile lifespan
+*dart* gets faster projectile speed, higher projectile lifespan
 
 005 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 50 units / second
-*dart*- 4d, 3p, 0.448s, 2j, sharp
+*dart*- 3d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 7d, +2cd (5), +5md (12), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - pushes M.O.A.B.s backward
+‎ ‎ ‎ ‎ ‎ ‎ - keeps B.F.B.s in place
+‎ ‎ ‎ ‎ ‎ ‎ - slows Z.O.M.G.s and D.D.T.s
+*mini-missile*- 3d, 5cd, 5md, 30p, 1.0s, ∞r, explosive
 spawns 3 comanche subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 70 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, 4p, 0.3s, 40r, 3j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 5d, +2cd (7), +5md (10), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 2d, 4cd, 4md, 100p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 movement rate 40 units/s -> 50 units/s
+*dart* and comanche subtowers get +1d 
 comanche subtowers are permanent
-*dart* gets +2d (4)
-*mini-missile* gets +5d (7), +3md (+5)
-comanche *dart* gets +1d (3)
-comanche *rocket* gets +3d (5), +3md (+5)
 
 105 
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 50 units / second
-*dart1*- 4d, 3p, 0.448s, 2j, sharp
-*dart2*- 4d, 3p, 0.448s, 2j, sharp
+*dart1*- 3d, 3p, 0.424s, 2j, sharp
+*dart2*- 3d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 7d, +2cd (5), +5md (12), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - pushes M.O.A.B.s backward
+‎ ‎ ‎ ‎ ‎ ‎ - keeps B.F.B.s in place
+‎ ‎ ‎ ‎ ‎ ‎ - slows Z.O.M.G.s and D.D.T.s
+*mini-missile*- 3d, 5cd, 5md, 30p, 1.0s, ∞r, explosive 
 spawns 3 comanche subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 70 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, 4p, 0.3s, 40r, 5j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 5d, +2cd (7), +5md (10), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 2d, 4cd, 4md, 100p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 movement rate 40 units/s -> 50 units/s
+*dart* and comanche subtowers get +1d 
 comanche subtowers are permanent
-*dart* gets +2d (4)
-*mini-missile* gets +5d (7), +3md (+5)
-comanche *dart* gets +1d (3)
-comanche *rocket* gets +3d (5), +3md (+5)
  
 __Crosspath Benefits__
 gets *dart2* attack
@@ -1116,28 +1064,25 @@ comanche *dart* gets +2j
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 50 units / second
-*dart1*- 4d, 3p, 0.448s, 2j, sharp
-*dart2*- 4d, 3p, 0.448s, 2j, sharp
+*dart1*- 3d, 3p, 0.424s, 2j, sharp
+*dart2*- 3d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -33% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at 0% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 33% speed
-*mini-missile*- 7d, +2cd (9), +5md (12), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - pushes M.O.A.B.s backward
+‎ ‎ ‎ ‎ ‎ ‎ - keeps B.F.B.s in place
+‎ ‎ ‎ ‎ ‎ ‎ - slows Z.O.M.G.s and D.D.T.s
+*mini-missile*- 3d, 5cd, 5md, 30p, 1.0s, ∞r, explosive 
 spawns 3 comanche subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 70 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, 4p, 0.3s, 40r, 5j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 5d, +2cd (7), +5md (10), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 2d, 4cd, 4md, 100p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 movement rate 40 units/s -> 50 units/s
+*dart* and comanche subtowers get +1d 
 comanche subtowers are permanent
-*dart* gets +2d (4)
-*mini-missile* gets +5d (7), +3md (+5)
-comanche *dart* gets +1d (3)
-comanche *rocket* gets +3d (5), +3md (+5)
  
 __Crosspath Benefits__
 gets *dart2* attack 
@@ -1147,27 +1092,24 @@ comanche *dart* gets +2j
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart*- 3d, 3p, 0.448s, 2j, sharp
+*dart*- 3d, 3p, 0.424s, 2j, sharp
 *shove*- 0d, 1p, 1.0s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -344% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at -11% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 22% speed
-*mini-missile*- 7d, +2cd (9), +5md (12), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - pushes M.O.A.B.s backward
+‎ ‎ ‎ ‎ ‎ ‎ - keeps B.F.B.s in place
+‎ ‎ ‎ ‎ ‎ ‎ - slows Z.O.M.G.s and D.D.T.s
+*mini-missile*- 3d, 5cd, 5md, 30p, 1.0s, ∞r, explosive 
 spawns 3 comanche subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 100 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, 4p, 0.3s, 40r, 3j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 5d, +2cd (7), +5md (10), 80p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 2d, 4cd, 4md, 100p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 movement rate 40 units/s -> 50 units/s
+*dart* and comanche subtowers get +1d 
 comanche subtowers are permanent
-*dart* gets +2d (4)
-*mini-missile* gets +5d (7), +3md (+5)
-comanche *dart* gets +1d (3)
-comanche *rocket* gets +3d (5), +3md (+5)
  
 __Crosspath Benefits__
 movement rate 50 units/s -> 80 units/s
@@ -1177,29 +1119,26 @@ movement rate 50 units/s -> 80 units/s
 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 22r
 moves 80 units / second
-*dart*- 4d, 3p, 0.448s, 2j, sharp, camo
+*dart*- 3d, 3p, 0.424s, 2j, sharp, camo
 *shove*- 0d, 1p, 1.0s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - MOABs move at -344% speed
-‎ ‎ ‎ ‎ ‎ ‎ - BFBs move at -11% speed
-‎ ‎ ‎ ‎ ‎ ‎ - ZOMGs and DDTs move at 22% speed 
-*mini-missile*- 7d, +2cd (9), +5md (12), 30p, 1.0s, ∞r, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - pushes M.O.A.B.s backward
+‎ ‎ ‎ ‎ ‎ ‎ - keeps B.F.B.s in place
+‎ ‎ ‎ ‎ ‎ ‎ - slows Z.O.M.G.s and D.D.T.s
+*mini-missile*- 3d, 5cd, 5md, 30p, 1.0s, ∞r, explosive, camo, only targets moabs 
 spawns 3 comanche subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - 40r
 ‎ ‎ ‎ ‎ ‎ ‎ - moves at 100 units / second
 ‎ ‎ ‎ ‎ ‎ ‎ - comanches are always on pursuit
 ‎ ‎ ‎ ‎ ‎ ‎ - *dart*- 3d, 4p, 0.3s, 40r, 3j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 5d, +2cd (7), +5md (10), 80p, 3.0s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *rocket*- 2d, 4cd, 4md, 100p, 3.0s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
  
 __Changes from Previous Tier__
 movement rate 40 units/s -> 50 units/s
+*dart* and comanche subtowers get +1d 
 comanche subtowers are permanent
-*dart* gets +2d (4)
-*mini-missile* gets +5d (7), +3md (+5)
-comanche *dart* gets +1d (3)
-comanche *rocket* gets +3d (5), +3md (+5)
  
 __Crosspath Benefits__
 all attacks get camo
 movement rate 50 units/s -> 80 units/s
-*shove* is 11% more effective
+*shove* is 11% more effective 
