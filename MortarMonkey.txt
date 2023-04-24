@@ -98,7 +98,7 @@ __Changes from 0-0-0__
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
 *shell*- 1d, 40p, 2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
  
 __Changes from Previous Tier__
@@ -143,7 +143,7 @@ __Changes from 0-0-0__
 *shell*- 2d, 45p, 2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
  
 __Changes from 0-0-0__
 *shell* gets +5p, +1d, +10 blast radius, -10 random spread, applies *burn* status
@@ -174,7 +174,7 @@ __Changes from 0-0-0__
 *shell*- 1d, 40p, 1.08s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
  
 __Changes from 0-0-0__
 *shell* gets 54%s, -10 random spread, applies *burn* status
@@ -185,7 +185,7 @@ __Changes from 0-0-0__
 *shell*- 1d, 45p, 2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
  
 __Changes from 0-0-0__
 *shell* gets +5p, +10 blast radius, -10 random spread, applies *burn* status
@@ -196,7 +196,7 @@ __Changes from 0-0-0__
 *shell*- 1d, 40p, 1.5s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
  
 __Changes from 0-0-0__
 *shell* gets 75%s, -10 random spread, applies *burn* status
@@ -276,20 +276,19 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 45p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 60 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - in a 20r radius *shockwave* does 0 dmg but stuns bloons for 0.5s
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 2d/0.625s, fire, 1.975s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 2d/0.625s, fire, 1.875s duration
  
 __Changes from Previous Tier__
 *shell* gets +10 blast radius, triggers *shockwave* effect
-*burn* status gets +1d (2)
  
 __Crosspath Benefits__
-*shell* gets -10 random spread, applies *burn* status
-*burn* status gets double tick rate, roughly half duration
+*shell* gets -10 random spread
+*burn* status gets +1d, double tick rate, half duration
 
 030 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +3cd (4), +1md (2), +1ld (2), +1fd, 40p, 1.08s, normal
+*shell*- 1d, 4cd, 2md, 2ld, +1fd, 40p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
@@ -300,7 +299,7 @@ __Changes from Previous Tier__
 130 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +3cd (4), +1md (2), +1ld (2), +1fd, 45p, 1.08s, normal
+*shell*- 1d, 4cd, 2md, 2ld, +1fd, 45p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
@@ -314,7 +313,7 @@ __Crosspath Benefits__
 230 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 2d, +3cd (5), +1md (3), +1ld (3), +1fd, 45p, 1.08s, normal
+*shell*- 2d, 5cd, 3md, 3ld, +1fd, 45p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
@@ -328,7 +327,7 @@ __Crosspath Benefits__
 031 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +3cd (4), +1md (2), +1ld (2), +1fd, 40p, 1.08s, normal
+*shell*- 1d, 4cd, 2md, 2ld, +1fd, 40p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
@@ -342,11 +341,11 @@ __Crosspath Benefits__
 032 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +3cd (4), +1md (2), +1ld (2), +1fd, 40p, 1.08s, normal
+*shell*- 1d, 4cd, 2md, 2ld, +1fd, 40p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
  
 __Changes from Previous Tier__
 *shell* gets +3cd, +1md, +1fd, +1ld, +2 stunned damage, damage type explosive -> normal
@@ -360,7 +359,7 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
@@ -374,7 +373,7 @@ __Changes from Previous Tier__
 *shell*- 1d, 45p, 2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
@@ -391,7 +390,7 @@ __Crosspath Benefits__
 *shell*- 2d, 45p, 2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
@@ -408,7 +407,7 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 1.5s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
@@ -425,7 +424,7 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 1.08s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
@@ -443,13 +442,13 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 60 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +1cd (2), 85p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 45p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 90 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 30r *shockwave* does 0d but stuns bloons for 0.5s
  
 __Changes from Previous Tier__
 *shell* gets +5d, +40p, +20 blast radius, damage type explosive -> normal
-*shockwave* gets +1cd (2), +40p, +50% blast radius
+*shockwave* gets +50% blast radius
 
 410 
 ∞r
@@ -458,13 +457,13 @@ __Changes from Previous Tier__
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 60 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +1cd (2), 85p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 45p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 90 blast radius 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 30r *shockwave* does 0d but stuns bloons for 0.5s
  
 __Changes from Previous Tier__
 *shell* gets +5d, +40p, +20 blast radius, damage type explosive -> normal
-*shockwave* gets +1cd (2), +40p, +50% blast radius
+*shockwave* gets +50% blast radius
  
 __Crosspath Benefits__
 *shell* gets 75%s
@@ -476,12 +475,12 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 60 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +1cd (2), 85p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 45p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - in a 30r radius *shockwave* does 0d but stuns bloons for 0.5s
  
 __Changes from Previous Tier__
 *shell* gets +5d, +40p, +20 blast radius, damage type explosive -> normal
-*shockwave* gets +1cd (2), +40p, +50% blast radius
+*shockwave* gets +50% blast radius
  
 __Crosspath Benefits__
 *shell* gets 54%s
@@ -493,12 +492,12 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 60 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +1cd (2), 85p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 45p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - in a smaller radius *shockwave* does 0d but stuns bloons for 0.5s
  
 __Changes from Previous Tier__
 *shell* gets +5d, +40p, +20 blast radius, damage type explosive -> normal
-*shockwave* gets +1cd (2), +40p, +50% blast radius
+*shockwave* gets +50% blast radius
  
 __Crosspath Benefits__
 *shell* gets -10 random spread
@@ -510,45 +509,44 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 60 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +1cd (2), 85p, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 45p, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - in a 30r radius *shockwave* does 0d but stuns bloons for 0.5s
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/0.625s, fire, 1.975s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/0.625s, fire, 1.875s duration
  
 __Changes from Previous Tier__
 *shell* gets +5d, +40p, +20 blast radius, damage type explosive -> normal
-*shockwave* gets +1cd (2), +40p, +50% blast radius
-*burn* status gets +3d (5)
+*shockwave* gets +50% blast radius
  
 __Crosspath Benefits__
-*shell* gets -10 random spread, applies *burn* status
-*burn* status gets double tick rate, roughly half duration
+*shell* gets -10 random spread
+*burn* status gets +3d, double tick rate, half duration
 
 040 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +3cd (4), +1md (2), +1ld (2), +1fd, +4 BAD/Boss damage (6), 40p, 0.2695s, normal
+*shell*- 1d, 4cd, 2md, 2ld, +1fd, 40p, 0.2695s, normal
  ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
-**Bombardment** ability: 60s cooldown, gets 25%s, +15% blast radius for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +4d to B.A.D. bloons
+**Bombardment** ability: 60s cooldown (battle ready), gets 25%s, +15% blast radius for 8s
  
 __Changes from Previous Tier__
-*shell* gets 25%s, +4 BAD/Boss damage (6)
+*shell* gets 25%s, +4 B.A.D. damage
 gets **Bombardment** ability
 
 140 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +3cd (4), +1md (2), +1ld (2), +1fd, +4 BAD/Boss damage (6), 45p, 0.2695s, normal
+*shell*- 1d, 4cd, 2md, 2ld, +1fd, 45p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
-**Bombardment** ability: 60s cooldown, gets 25%s, +15% blast radius for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +4d to B.A.D. bloons
+**Bombardment** ability: 60s cooldown (battle ready), gets 25%s, +15% blast radius for 8s
  
 __Changes from Previous Tier__
-*shell* gets 25%s, +4 BAD/Boss damage (6)
+*shell* gets 25%s, +4 B.A.D. damage
 gets **Bombardment** ability
  
 __Crosspath Benefits__
@@ -557,15 +555,15 @@ __Crosspath Benefits__
 240 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 2d, +3cd (5), +1md (3), +1ld (3), +1fd, +4 BAD/Boss damage (6), 45p, 0.2695s, normal
+*shell*- 2d, 5cd, 3md, 3ld, +1fd, 45p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
-**Bombardment** ability: 60s cooldown, gets 25%s, +15% blast radius for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +4d to B.A.D. bloons
+**Bombardment** ability: 60s cooldown (battle ready), gets 25%s, +15% blast radius for 8s
  
 __Changes from Previous Tier__
-*shell* gets 25%s, +4 BAD/Boss damage (6)
+*shell* gets 25%s, +4 B.A.D. damage
 gets **Bombardment** ability
  
 __Crosspath Benefits__
@@ -574,15 +572,15 @@ __Crosspath Benefits__
 041 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +3cd (4), +1md (2), +1ld (2), +1fd, +4 BAD/Boss damage (6), 40p, 0.2695s, normal
+*shell*- 1d, 4cd, 2md, 2ld, +1fd, 40p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
-**Bombardment** ability: 60s cooldown, gets 25%s, +15% blast radius for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +4d to B.A.D. bloons
+**Bombardment** ability: 60s cooldown (battle ready), gets 25%s, +15% blast radius for 8s
  
 __Changes from Previous Tier__
-*shell* gets 25%s, +4 BAD/Boss damage (6)
+*shell* gets 25%s, +4 B.A.D. damage
 gets **Bombardment** ability
  
 __Crosspath Benefits__
@@ -591,16 +589,16 @@ __Crosspath Benefits__
 042 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +3cd (4), +1md (2), +1ld (2), +1fd, +4 BAD/Boss damage (6), 40p, 0.2695s, normal
+*shell*- 1d, 4cd, 2md, 2ld, +1fd, 40p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +2d to stunned bloons
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
-**Bombardment** ability: 60s cooldown, gets 25%s, +15% blast radius for 8s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +4d to B.A.D. bloons
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
+**Bombardment** ability: 60s cooldown (battle ready), gets 25%s, +15% blast radius for 8s
  
 __Changes from Previous Tier__
-*shell* gets 25%s, +4 BAD/Boss damage (6)
+*shell* gets 25%s, +4 B.A.D. damage
 gets **Bombardment** ability
  
 __Crosspath Benefits__
@@ -612,17 +610,17 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, lead, and fortified on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s, D.D.T.s, and B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-removes regrow and fortified properties on hit 
-*burn* status gets +4d (5)
+*burn* gets +4d
+removes regrow, lead, and fortified properties on hit 
 
 104 
 ∞r
@@ -630,18 +628,18 @@ removes regrow and fortified properties on hit
 *shell*- 1d, 45p, 2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes camo on hit
-‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, lead, and fortified on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s, D.D.T.s, and B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-removes regrow and fortified properties on hit 
-*burn* status gets +4d (5)
+*burn* gets +4d
+removes regrow, lead, and fortified properties on hit 
  
 __Crosspath Benefits__
 *shell* gets +5p, +10 blast radius
@@ -652,21 +650,20 @@ __Crosspath Benefits__
 *shell*- 2d, 45p, 2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, lead, and fortified on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s, D.D.T.s, and B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-removes regrow and fortified properties on hit 
-*burn* status gets +4d (5)
+*burn* gets +7d
+removes regrow, lead, and fortified properties on hit 
  
 __Crosspath Benefits__
 *shell* gets +5p, +1d, +10 blast radius
-*burn* status gets +3d (8)
 
 014 
 ∞r
@@ -674,17 +671,17 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 1.5s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, lead, and fortified on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s, D.D.T.s, and B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-removes regrow and fortified properties on hit 
-*burn* status gets +4d (5)
+*burn* gets +7d
+removes regrow, lead, and fortified properties on hit 
  
 __Crosspath Benefits__
 *shell* gets 75%s
@@ -695,17 +692,17 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 1.08s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/1.25s, fire, 3.85s duration
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/1.25s, fire, 3.75s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, lead, and fortified on hit
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s, D.D.T.s, and B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-removes regrow and fortified properties on hit 
-*burn* status gets +4d (5)
+*burn* gets +7d
+removes regrow, lead, and fortified properties on hit  
  
 __Crosspath Benefits__
 *shell* gets 54%s
@@ -713,32 +710,32 @@ __Crosspath Benefits__
 500 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 20d, +25cd (45), +25md (45), 200p, 2s, normal
+*shell*- 25d, 50cd, 60md, 200p, 2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 75 blast radius 
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +20cd (21), 200p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 21cd, 45p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 112.5 blast radius 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns: Bloons for 0.5s, MOABs 0.3s, BFBs/DDTs 0.2s, ZOMGs 0.1s
-  
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns bloons for 0.5s and blimps for 0.35s
+ 
 __Changes from Previous Tier__
-*shell* gets +115p (200), +13d (20), +25cd (45), +25md (45), +15 blast radius (75)
-*shockwave* gets +19cd (+20), +115p, +25% blast radius, can stun blimps
+*shell* gets +115p, +18d, +25cd, +35md, +15 blast radius
+*shockwave* gets +20cd, +25% blast radius, 0.35s blimp stun
 
 510 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 20d, +25cd (45), +25md (45), 200p, 1.5s, normal
+*shell*- 25d, 50cd, 60md, 200p, 1.5s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 75 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +20cd (21), 200p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 21cd, 45p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 112.5 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns: Bloons for 0.5s, MOABs 0.3s, BFBs/DDTs 0.2s, ZOMGs 0.1s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns bloons for 0.5s and blimps for 0.35s
  
 __Changes from Previous Tier__
-*shell* gets +115p (200), +13d (20), +25cd (45), +25md (45), +15 blast radius (75)
-*shockwave* gets +19cd (+20), +115p, +25% blast radius, can stun blimps
+*shell* gets +115p, +18d, +25cd, +35md, +15 blast radius
+*shockwave* gets +20cd, +25% blast radius, 0.35s blimp stun
  
 __Crosspath Benefits__
 *shell* gets 75%s
@@ -746,17 +743,17 @@ __Crosspath Benefits__
 520 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 20d, +25cd (45), +25md (45), 200p, 1.08s, normal
+*shell*- 25d, 50cd, 60md, 200p, 1.08s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 75 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +20cd (21), 200p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 21cd, 45p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 112.5 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns: Bloons for 0.5s, MOABs 0.3s, BFBs/DDTs 0.2s, ZOMGs 0.1s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns bloons for 0.5s and blimps for 0.35s
  
 __Changes from Previous Tier__
-*shell* gets +115p (200), +13d (20), +25cd (45), +25md (45), +15 blast radius (75)
-*shockwave* gets +19cd (+20), +115p, +25% blast radius, can stun blimps
+*shell* gets +115p, +18d, +25cd, +35md, +15 blast radius
+*shockwave* gets +20cd, +25% blast radius, 0.35s blimp stun
  
 __Crosspath Benefits__
 *shell* gets 54%s
@@ -764,72 +761,72 @@ __Crosspath Benefits__
 501 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 20d, +25cd (45), +25md (45), 200p, 2s, normal
+*shell*- 25d, 50cd, 60md, 200p, 2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 75 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +20cd (21), 200p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 21cd, 45p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 112.5 blast radius 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns: Bloons for 0.5s, MOABs 0.3s, BFBs/DDTs 0.2s, ZOMGs 0.1s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns bloons for 0.5s and blimps for 0.35s
  
 __Changes from Previous Tier__
-*shell* gets +115p (200), +13d (20), +25cd (45), +25md (45), +15 blast radius (75)
-*shockwave* gets +19cd (+20), +115p, +25% blast radius, can stun blimps
-   
+*shell* gets +115p, +18d, +25cd, +35md, +15 blast radius
+*shockwave* gets +20cd, +25% blast radius, 0.35s blimp stun
+ 
 __Crosspath Benefits__
 *shell* gets -10 random spread
 
 502 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 20d, +25cd (45), +25md (45), 200p, 2s, normal
+*shell*- 25d, 50cd, 60md, 200p, 2s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 75 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - triggers *shockwave* effect on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, +20cd (21), 200p, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *shockwave*- 1d, 21cd, 45p, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 112.5 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns: Bloons for 0.5s, MOABs 0.3s, BFBs/DDTs 0.2s, ZOMGs 0.1s
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 45d/0.625s, normal, 1.975s duration
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - within 37.5r *shockwave* does 0 dmg but stuns bloons for 0.5s and blimps for 0.35s
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 45d/0.625s, normal, 1.875s duration
  
 __Changes from Previous Tier__
-*shell* gets +115p (200), +13d (20), +25cd (45), +25md (45), +15 blast radius (75)
-*shockwave* gets +19cd (+20), +115p, +25% blast radius, can stun blimps
-*burn* status gets +40d (45), damage type fire -> normal
+*shell* gets +115p, +18d, +25cd, +35md, +15 blast radius
+*shockwave* gets +20cd, +25% blast radius, 0.35s blimp stun
+*burn* status gains normal
  
 __Crosspath Benefits__
-*shell* gets -10 random spread, applies *burn* status
-*burn* status gets double tick rate, roughly half duration
+*shell* gets -10 random spread
+*burn* status gets +44d, double tick rate, half duration
 
 050 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +12cd (13), +4md (5), +4ld (5), +4fd, +10 BAD/Boss damage (15), 40p, 0.2695s, normal
+*shell*- 1d, 13cd, 7md, 5ld, 9lmd, +4fd, 40p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to stunned bloons
-*buff*- non-offensive, all x4x Mortars get +6 BAD/Boss damage
-**Pop and Awe** ability: 60s cooldown, every 1s for the next 8s everything on screen gets 20d and stunned for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to B.A.D. bloons
+*artillery buff*- passive- all x4x mortars get +6 B.A.D. damage
+**Pop and Awe** ability: 60s cooldown (initial: 20s), every 1s for the next 8s everything on screen gets 20d and stunned for 1s
  
 __Changes from Previous Tier__
-*shell* gets +9cd, +3md, +3fd, +3ld, +8 stunned damage, +6 BAD/Boss damage
-gets *buff*
+*shell* gets +9cd, +5md, +3fd, +3ld, +8 stunned damage, +6 B.A.D. damage
+gains *artillery buff*
 replaces Bombardment ability with **Pop and Awe** ability
 
 150 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +12cd (13), +4md (5), +4ld (5), +4fd, +10 BAD/Boss damage (15), 45p, 0.2695s, normal
+*shell*- 1d, 13cd, 7md, 5ld, 9lmd, +4fd, 45p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to stunned bloons
-*buff*- non-offensive, all x4x Mortars get +6 BAD/Boss damage
-**Pop and Awe** ability: 60s cooldown, every 1s for the next 8s everything on screen gets 20d and stunned for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to B.A.D. bloons
+*artillery buff*- passive- all x4x mortars get +6 B.A.D. damage
+**Pop and Awe** ability: 60s cooldown (initial: 20s), every 1s for the next 8s everything on screen gets 20d and stunned for 1s
  
 __Changes from Previous Tier__
-*shell* gets +9cd, +3md, +3fd, +3ld, +8 stunned damage, +6 BAD/Boss damage
-gets *buff*
+*shell* gets +9cd, +5md, +3fd, +3ld, +8 stunned damage, +6 B.A.D. damage
+gains *artillery buff*
 replaces Bombardment ability with **Pop and Awe** ability
  
 __Crosspath Benefits__
@@ -838,17 +835,17 @@ __Crosspath Benefits__
 250 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 2d, +12cd (14), +4md (6), +4ld (6), +4fd, +10 BAD/Boss damage (16), 45p, 0.2695s, normal
+*shell*- 2d, 14cd, 8md, 6ld, 10lmd, +4fd, 45p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 18 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to stunned bloons
-*buff*- non-offensive, all x4x Mortars get +6 BAD/Boss damage
-**Pop and Awe** ability: 60s cooldown, every 1s for the next 8s everything on screen gets 20d and stunned for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to B.A.D. bloons
+*artillery buff*- passive- all x4x mortars get +6 B.A.D. damage
+**Pop and Awe** ability: 60s cooldown (initial: 20s), every 1s for the next 8s everything on screen gets 20d and stunned for 1s
  
 __Changes from Previous Tier__
-*shell* gets +9cd, +3md, +3fd, +3ld, +8 stunned damage, +6 BAD/Boss damage
-gets *buff*
+*shell* gets +9cd, +5md, +3fd, +3ld, +8 stunned damage, +6 B.A.D. damage
+gains *artillery buff*
 replaces Bombardment ability with **Pop and Awe** ability
  
 __Crosspath Benefits__
@@ -857,17 +854,17 @@ __Crosspath Benefits__
 051 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +12cd (13), +4md (5), +4ld (5), +4fd, +10 BAD/Boss damage (15), 40p, 0.2695s, normal
+*shell*- 1d, 13cd, 7md, 5ld, 9lmd, +4fd, 40p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to stunned bloons
-*buff*- non-offensive, all x4x Mortars get +6 BAD/Boss damage
-**Pop and Awe** ability: 60s cooldown, every 1s for the next 8s everything on screen gets 20d and stunned for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to B.A.D. bloons
+*artillery buff*- passive- all x4x mortars get +6 B.A.D. damage
+**Pop and Awe** ability: 60s cooldown (initial: 20s), every 1s for the next 8s everything on screen gets 20d and stunned for 1s
  
 __Changes from Previous Tier__
-*shell* gets +9cd, +3md, +3fd, +3ld, +8 stunned damage, +6 BAD/Boss damage
-gets *buff*
+*shell* gets +9cd, +5md, +3fd, +3ld, +8 stunned damage, +6 B.A.D. damage
+gains *artillery buff*
 replaces Bombardment ability with **Pop and Awe** ability
  
 __Crosspath Benefits__
@@ -876,18 +873,18 @@ __Crosspath Benefits__
 052 
 ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - dummy 30r
-*shell*- 1d, +12cd (13), +4md (5), +4ld (5), +4fd, +10 BAD/Boss damage (15), 40p, 0.2695s, normal
+*shell*- 1d, 13cd, 7md, 5ld, 9lmd, +4fd, 40p, 0.2695s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to stunned bloons
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.85s duration
-*buff*- non-offensive, all x4x Mortars get +6 BAD/Boss damage
-**Pop and Awe** ability: 60s cooldown, every 1s for the next 8s everything on screen gets 20d and stunned for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - deals +10d to B.A.D. bloons
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.25s, fire, 3.75s duration
+*artillery buff*- passive- all x4x mortars get +6 B.A.D. damage
+**Pop and Awe** ability: 60s cooldown (initial: 20s), every 1s for the next 8s everything on screen gets 20d and stunned for 1s
  
 __Changes from Previous Tier__
-*shell* gets +9cd, +3md, +3fd, +3ld, +8 stunned damage, +6 BAD/Boss damage
-gets *buff*
+*shell* gets +9cd, +5md, +3fd, +3ld, +8 stunned damage, +6 B.A.D. damage
+gains *artillery buff*
 replaces Bombardment ability with **Pop and Awe** ability
  
 __Crosspath Benefits__
@@ -899,18 +896,17 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 2s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/0.75s, 100md/0.75s, fire, 3.85s duration
-‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 1d, 20p, 0.1s, fire, camo
-            - lasts 4.5s
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/0.625s, 150md/0.625s, fire, 3.75s duration
+‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 4d, 40p, 0.1s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s and B.A.D.s
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, lead, and fortified on hit
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s
-*burn* status gets +95md (100), tick rate 1.25s -> 0.75s
+*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s and Z.O.M.Gs
+*burn* status gets +145md, 50% tick rate
 
 105 
 ∞r
@@ -918,18 +914,17 @@ __Changes from Previous Tier__
 *shell*- 1d, 45p, 2s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/0.75s, 100md/0.75s, fire, 3.85s duration
-‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 1d, 25p, 0.1s, fire, camo
-            - lasts 4.5s
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/0.625s, 150md/0.625s, fire, 3.75s duration
+‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 4d, 45p, 0.1s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s and B.A.D.s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from and B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s
-*burn* status gets +95md (100), tick rate 1.25s -> 0.75s
+*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s and Z.O.M.G.s
+*burn* status gets +145md, 50% tick rate
  
 __Crosspath Benefits__
 *shell* gets +5p, +10 blast radius
@@ -941,23 +936,21 @@ __Crosspath Benefits__
 *shell*- 2d, 45p, 2s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 30 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/0.75s, 150md/0.75s, fire, 3.85s duration
-‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 2d, 25p, 0.1s, fire, camo
-            - lasts 4.5s
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/0.625s, 150md/0.625s, fire, 3.75s duration
+‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 5d, 45p, 0.1s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s and B.A.D.s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s
-*burn* status gets +95md (100), tick rate 1.25s -> 0.75s
+*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s and Z.O.M.G.s
+*burn* status gets +145md, 50% tick rate
  
 __Crosspath Benefits__
 *shell* gets +5p, +1d, +10 blast radius
 *fire-wall* gets +5p, +1d
-*burn* status gets +3d (8), +47md (150)
 
 015 
 ∞r
@@ -965,18 +958,17 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 1.5s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/0.75s, 100md/0.75s, fire, 3.85s duration
-‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 1d, 20p, 0.1s, fire, camo
-            - lasts 4.5s
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/0.625s, 150md/0.625s, fire, 3.75s duration
+‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 4d, 40p, 0.1s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s and B.A.D.s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s
-*burn* status gets +95md (100), tick rate 1.25s -> 0.75s
+*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s and Z.O,M.G.s
+*burn* status gets +145md, 50% tick rate
  
 __Crosspath Benefits__
 *shell* gets 75%s
@@ -987,18 +979,17 @@ __Crosspath Benefits__
 *shell*- 1d, 40p, 1.08s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 8 random spread area size
 ‎ ‎ ‎ ‎ ‎ ‎ - 20 blast radius
-‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5d/0.75s, 100md/0.75s, fire, 3.85s duration
-‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 1d, 20p, 0.1s, fire, camo
-            - lasts 4.5s
+‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 8d/0.625s, 150md/0.625s, fire, 3.75s duration
+‎ ‎ ‎ ‎ ‎ ‎ - emits *fire-wall* on impact- 4d, 40p, 0.1s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *flare* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *flare*- reveals the nearest 80 camos within 50 blast radius
 ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow, and fortified on hit
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from Z.O.M.G.s and B.A.D.s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - cannot remove fortified from B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (when removing fortified, it cuts remaining hp in half, rounded down, or cuts it to a quarter for lead bloons, removes fortified property, then applies damage)
  
 __Changes from Previous Tier__
-*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s
-*burn* status gets +95md (100), tick rate 1.25s -> 0.75s
+*shell* damage type explosive -> normal, emits *fire-wall*, can remove fortified from D.D.T.s and Z.O.M.G.s
+*burn* status gets +145md, 50% tick rate
  
 __Crosspath Benefits__
 *shell* gets 54%s
