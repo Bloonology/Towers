@@ -1,0 +1,910 @@
+000 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+footprint radius: 6 (small)
+
+100 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glued* status soaks through all layers 
+
+010 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glue* gets +1p
+
+001 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 24s or lasts 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glued* status gets +13s duration
+
+110 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glue* gets +1p
+*glued* status soaks through all layers
+
+101 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+
+*glued* status soaks through all layers, +13s duration
+
+011 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 24s or lasts 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glue* gets +1p
+*glued* status gets +13s duration
+
+200 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+ 
+__Changes from Previous Tier__
+*glue* gets damage over time, can target blimps
+ 
+__Changes from 0-0-0__
+*glue* gets damage over time, can target blimps
+*glued* status soaks through all layers
+
+020 
+46r
+*glue*- 0d, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* gets +4p, on hit: splatter
+ 
+__Changes from 0-0-0__
+*glue* gets +5p, on hit: splatter
+
+002 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glued* status slow strength 0.5x -> 0.25x
+ 
+__Changes from 0-0-0__
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+
+210 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+ 
+__Changes from 0-0-0__
+*glue* targets blimps, +1p
+*glued* status soaks through all layers, gets damage over time
+
+220 
+46r
+*glue*- 0d, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+ 
+__Changes from 0-0-0__
+*glued* status soaks through all layers, gets damage over time
+*glue* targets blimps, +5p, on hit: splatter
+
+201 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 50% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 12s
+ ‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+ 
+__Changes from 0-0-0__
+*glue* soaks through all layers, targets blimps, +13s duration
+*glued* status gets damage over time
+
+202 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+ 
+__Changes from 0-0-0__
+*glue* soaks through all layers, gets damage over time, targets blimps
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+
+120 
+46r
+*glue*- 0d, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glue* soaks through all layers, +5p, on hit: splatter
+
+021 
+46r
+*glue*- 0d, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glue* gets +5p, on hit: splatter
+*glued* status gets +13s duration
+
+022
+46r
+*glue*- 0d, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glue* gets +5p, on hit: splatter
+*glued* status slow strength 0.5x -> 0.25x, +13s duration
+
+102 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glued* status soaks through all layers, +13s duration, slow strength 0.5x -> 0.25x
+
+012 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from 0-0-0__
+*glue* gets +1p
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+
+300 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.575s, 2cd/0.575s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 4xx, or 5xx *glue*
+ 
+__Changes from Previous Tier__ 
+*glued* status corrosive tick rate 2s -> 0.575s, +1cd (2), +1p (2)
+
+310 
+46r
+*glue*- 0d, 3p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.575s, 2cd/0.575s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 4xx, or 5xx *glue*
+ 
+__Changes from Previous Tier__ 
+*glued* status corrosive tick rate 2s -> 0.575s, +1cd (2), +1p (2)
+ 
+__Crosspath Benefits__
+*glue* gets +1p (3)
+
+320
+46r
+*glue*- 0d, 7p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.575s, 2cd/0.575s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 4xx, or 5xx *glue*
+ 
+__Changes from Previous Tier__ 
+*glued* status corrosive tick rate 2.3s -> 0.575s, +1cd (2), +1p (2)
+ 
+__Crosspath Benefits__
+*glue* gets +5p (7), on hit: splatter
+
+301 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.575s, 2cd/0.575s, normal, bloons move at 50% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 4xx, or 5xx *glue*
+ 
+__Changes from Previous Tier__ 
+*glued* status corrosive tick rate 2s -> 0.575s, +1cd (2), +1p (2)
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration
+
+302 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.575s, 2cd/0.575s, normal, bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 4xx, or 5xx *glue*
+ 
+__Changes from Previous Tier__ 
+*glued* status corrosive tick rate 2s -> 0.575s, +1cd (2), +1p (2)
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+
+030 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* gets 33.33%s
+
+130 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* gets 33.33%s
+ 
+__Crosspath Benefits__
+*glued* status soaks through all layers
+
+230 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+ 
+__Changes from Previous Tier__
+*glue* gets 33.33%s 
+ 
+__Crosspath Benefits__
+*glued* status soaks through all layers, gets damage over time
+
+031 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* gets 33.33%s
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration
+
+032 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* gets 33.33%s
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+
+003 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* targets blimps for half strength and duration
+
+103 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* targets blimps for half strength and duration
+ 
+__Crosspath Benefits__
+*glued* status soaks through all layers 
+
+203 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+ 
+__Changes from Previous Tier__
+*glue* targets blimps for half strength and duration
+ 
+__Crosspath Benefits__
+*glued* status soaks through all layers, gets damage over time
+
+013 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* targets blimps for half strength and duration
+ 
+__Crosspath Benefits__ 
+*glue* gets +1p
+
+023
+46r
+*glue*- 0d, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glue* targets blimps for half strength and duration
+ 
+__Crosspath Benefits__
+*glue* gets +5p, on hit: splatter
+
+400 
+46r
+*glue*- 0d, 2p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 3cd/0.1s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 5xx *glue*
+ 
+__Changes from Previous Tier__
+*glue* gets 75%s
+*glued* status corrosive +1cd (3), tick rate 0.575s -> 0.1s
+
+410 
+46r
+*glue*- 0d, 3p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 3cd/0.1s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 5xx *glue*
+ 
+__Changes from Previous Tier__
+*glue* gets 75%s
+*glued* status corrosive +1cd (3), tick rate 0.575s -> 0.1s
+ 
+__Crosspath Benefits__
+*glue* gets +1p
+
+420 
+46r
+*glue*- 0d, 7p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 3cd/0.1s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 5xx *glue*
+ 
+__Changes from Previous Tier__
+*glue* gets 75%s
+*glued* status corrosive +1cd (3), tick rate 0.575s -> 0.1s
+ 
+__Crosspath Benefits__
+*glue* gets +5p, on hit: splatter
+
+401 
+46r
+*glue*- 0d, 2p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 3cd/0.1s, normal, bloons move at 50% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 5xx *glue*
+ 
+__Changes from Previous Tier__
+*glue* gets 75%s
+*glued* status corrosive +1cd (3), tick rate 0.575s -> 0.1s
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration
+
+402 
+46r
+*glue*- 0d, 2p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 3cd/0.1s, normal, bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 12s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 5xx *glue*
+ 
+__Changes from Previous Tier__
+*glue* gets 75%s
+*glued* status corrosive +1cd (3), tick rate 0.575s -> 0.1s
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+
+040 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+**Glue Strike** ability: 30s cooldown, applies *glued* status to all bloons on screen, camo
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+‎ ‎ ‎ ‎ ‎ ‎ - **Glue Strike** ability *glued* status lasts for 6 layers
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d 
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Tier__
+gets **Glue Strike** ability
+
+140 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+**Glue Strike** ability: 30s cooldown, applies *glued* status to all bloons on screen, camo
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Tier__
+gets **Glue Strike** ability
+ 
+__Crosspath Benefits__
+*glued* status soaks through all layers
+
+240 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+**Glue Strike** ability: 30s cooldown, applies *glued* status to all bloons on screen, camo, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+ 
+__Changes from Previous Tier__
+gets **Glue Strike** ability
+ 
+__Crosspath Benefits__
+*glue* targets blimps
+*glued* status soaks through all layers, gets damage over time
+
+041 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+**Glue Strike** ability: 30s cooldown, applies *glued* status to all bloons on screen, camo
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - **Glue Strike** ability *glued* status lasts for 6 layers
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Tier__
+gets **Glue Strike** ability
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration
+
+042 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+**Glue Strike** ability: 30s cooldown, applies *glued* status to all bloons on screen, camo
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+‎ ‎ ‎ ‎ ‎ ‎ - **Glue Strike** ability *glued* status lasts for 6 layers
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Tier__
+gets **Glue Strike** ability
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+
+004 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 6p, 12r, 1.0s stun (does not affect blimps)
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glued* bloons create a *splat* when popped
+
+104 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 6p, 12r, 1.0s stun (does not affect blimps)
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glued* bloons create a *splat* when popped
+ 
+__Crosspath Benefits__ 
+*glued* status soaks through all layers
+
+204 
+46r
+*glue*- 0d, 1p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 6p, 12r, 1.0s stun (does not affect blimps)
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glued* bloons create a *splat* when popped
+ 
+__Crosspath Benefits__
+*glued* status soaks through all layers, gets damage over time
+
+014 
+46r
+*glue*- 0d, 2p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 7p, 12r, 1.0s stun (does not affect blimps)
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glued* bloons create a *splat* when popped
+ 
+__Crosspath Benefits__
+*glue* and *splat* get +1p
+
+024 
+46r
+*glue*- 0d, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 9p, 12r, 1.0s stun (does not affect blimps)
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+ 
+__Changes from Previous Tier__
+*glued* bloons create a *splat* when popped
+ 
+__Crosspath Benefits__
+*glue* gets +5p, on hit: splatter
+*splat* gets +3p
+
+500 
+46r
+*glue*- 0d, 6p, 0.25s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 9cd/0.1s, 6md/0.1s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - *glued* bloons drop an *acid-puddle* when popped
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *acid-puddle*- 20d, 3p, 7.7s duration
+ 
+__Changes from Previous Tier__
+*glue* gets +4p, +1j, 33.33%s, on hit: splatter
+*glued* status corrosive gets +6cd (9), +5md (6)
+drops *acid-puddle* when a bloon is popped
+
+510 
+46r
+*glue*- 0d, 7p, 0.25s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 9cd/0.1s, 6md/0.1s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - *glued* bloons drop an *acid-puddle* when popped
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *acid-puddle*- 20d, 4p, 7.7s duration
+ 
+__Changes from Previous Tier__
+*glue* gets +4p, +1j, 33.33%s, on hit: splatter
+*glued* status corrosive gets +6cd (9), +5md (6)
+drops *acid-puddle* when a bloon is popped
+ 
+__Crosspath Benefits__
+*glue* and *acid-puddle* get +1p
+
+520 
+46r
+*glue*- 0d, 11p, 0.25s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 9cd/0.1s, 6md/0.1s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - *glued* bloons drop an *acid-puddle* when popped
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *acid-puddle*- 20d, 4p, 7.7s duration
+ 
+__Changes from Previous Tier__
+*glue* gets +4p, +1j, 33.33%s, on hit: splatter
+*glued* status corrosive gets +6cd (9), +5md (6)
+drops *acid-puddle* when a bloon is popped
+ 
+__Crosspath Benefits__ 
+*glue* gets +5p
+*acid-puddle* gets +1p
+
+501 
+46r
+*glue*- 0d, 6p, 0.25s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 9cd/0.1s, 6md/0.1s, normal, bloons move at 50% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 12s
+‎ ‎ ‎ ‎ ‎ ‎ - *glued* bloons drop an *acid-puddle* when popped
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *acid-puddle*- 20d, 3p, 7.7s duration
+ 
+__Changes from Previous Tier__
+*glue* gets +4p, +1j, 33.33%s, on hit: splatter
+*glued* status corrosive gets +6cd (9), +5md (6)
+drops *acid-puddle* when a bloon is popped
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration
+
+502 
+46r
+*glue*- 0d, 6p, 0.25s, 2j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/0.1s, 9cd/0.1s, 6md/0.1s, normal, bloons move at 25% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 12s
+‎ ‎ ‎ ‎ ‎ ‎ - *glued* bloons drop an *acid-puddle* when popped
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *acid-puddle*- 20d, 3p, 16.8s duration
+ 
+__Changes from Previous Tier__
+*glue* gets +4p, +1j, 33.33%s, on hit: splatter
+*glued* status corrosive gets +6cd (9), +5md (6)
+drops *acid-puddle* when a bloon is popped
+ 
+__Crosspath Benefits__ 
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+*acid-puddle* gets +9.1s duration
+
+050 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+**Glue Strike** ability: 30s cooldown, applies *super-glued* status to all bloons on screen every 2s, 20s duration, camo
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - *super-glued* status- bloons move at 25% speed, lasts 22s or 9 layers
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - speed buffs allow the *glue* to be applied faster
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Tier__
+**Glue Strike** ability applies *super-glued* status instead, reapplies *super-glued* status every 2s for 20s
+
+150 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+**Glue Strike** ability: 30s cooldown, applies *super-glued* status to all bloons on screen every 2s, 20s duration, camo
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - *super-glued* status- bloons move at 25% speed, lasts 22s
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - speed buffs allow the *glue* to be applied faster
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Tier__
+**Glue Strike** ability applies *super-glued* status instead, reapplies *super-glued* status every 2s for 20s
+ 
+__Crosspath Benefits__
+*glued* and *super-glued* status soak through all layers
+
+250 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 50% speed, lasts 11s
+‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 5.5s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with 3xx, 4xx, 5xx, or xx5 *glue*
+**Glue Strike** ability: 30s cooldown, applies *super-glued* status to all bloons on screen every 2s, 20s duration, camo
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - *super-glued* status- 1d/2s, normal, bloons move at 25% speed, lasts 22s
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - speed buffs allow the *glue* to be applied faster
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+ ‎ ‎ ‎ ‎ ‎ ‎ - moabs cannot be slowed and *glue* only lasts 11s
+ 
+__Changes from Previous Tier__
+**Glue Strike** ability applies *super-glued* status instead, reapplies *super-glued* status every 2s for 20s
+ 
+__Crosspath Benefits__
+*glued* and *super-glued* status soak through all layers, get damage over time, target blimps
+
+051 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 50% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+**Glue Strike** ability: 30s cooldown, applies *super-glued* status to all bloons on screen every 2s, 20s duration, camo
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - *super-glued* status- bloons move at 25% speed, lasts 48s or 9 layers
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - speed buffs allow the *glue* to be applied faster
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Tier__
+**Glue Strike** ability applies *super-glued* status instead, reapplies *super-glued* status every 2s for 20s
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration
+*super-glued* status gets +26s duration
+
+052 
+46r
+*glue*- 0d, 6p, 0.3333s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- bloons move at 25% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target bloons with *glued* status
+**Glue Strike** ability: 30s cooldown, applies *super-glued* status to all bloons on screen every 2s, 20s duration, camo
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - *super-glued* status- bloons move at 12.5% speed, lasts 48s or 9 layers
+‎ ‎ ‎ ‎ ‎ ‎ - all affected bloons take +2d
+‎ ‎ ‎ ‎ ‎ ‎ - all affected leads lose their properties for the duration
+‎ ‎ ‎ ‎ ‎ ‎ - speed buffs allow the *glue* to be applied faster
+‎ ‎ ‎ ‎ ‎ ‎ - if a bloon has *glued* status it resets the slow duration of pre-applied *glue* but not damage duration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Tier__
+**Glue Strike** ability applies *super-glued* status instead, reapplies *super-glued* status every 2s for 20s
+ 
+__Crosspath Benefits__
+*glued* status gets +13s duration, slow strength 0.5x -> 0.25x
+*super-glued* status gets +26s duration, slow strength 0.25x -> 0.125x
+
+005 
+46r
+*glue*- 0d, 50md, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2.3s, normal, bloons move at 0% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and D.D.T.s move at 0% speed for the first 5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 5% speed for the first 2.5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s move at 10% speed for the first 0.75s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 3p, 12r, 0.5s stun (can affect blimps)
+ 
+__Changes from Previous Tier__
+*glue* gets +50md, +5p
+*glued* status gets damage over time, additional stronger slow for a shorter period of time
+slow strength on bloons 0.25x -> 0x
+*splat* can stun blimps
+
+105 
+46r
+*glue*- 0d, 50md, 6p, 1.0s, normal
+ ‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2.3s, normal, bloons move at 0% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and D.D.T.s move at 0% speed for the first 5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 5% speed for the first 2.5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s move at 10% speed for the first 0.75s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 3p, 12r, 0.5s stun (can affect blimps)
+ 
+__Changes from Previous Tier__
+*glue* gets +50md, +5p
+*glued* status gets damage over time, additional stronger slow for a shorter period of time
+slow strength on bloons 0.25x -> 0x
+*splat* can stun blimps
+ 
+__Crosspath Benefits__
+*glued* status soaks through all layers
+
+205 
+46r
+*glue*- 0d, 50md, 6p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2s, normal, bloons move at 0% speed, lasts 24s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and D.D.T.s move at 0% speed for the first 5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 5% speed for the first 2.5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s move at 10% speed for the first 0.75s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 3p, 12r, 0.5s stun (can affect blimps)
+ 
+__Changes from Previous Tier__
+*glue* gets +50md, +5p
+*glued* status gets damage over time, additional stronger slow for a shorter period of time
+slow strength on bloons 0.25x -> 0x
+*splat* can stun blimps
+ 
+__Crosspath Benefits__
+*glued* status soaks through all layers, corrosive tick rate 2.3s -> 2.0s
+
+015 
+46r
+*glue*- 0d, 50md, 7p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2.3s, normal, bloons move at 0% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and D.D.T.s move at 0% speed for the first 5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 5% speed for the first 2.5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s move at 10% speed for the first 0.75s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 3p, 12r, 0.5s stun (can affect blimps)
+ 
+__Changes from Previous Tier__
+*glue* gets +50md, +5p
+*glued* status gets damage over time, additional stronger slow for a shorter period of time
+slow strength on bloons 0.25x -> 0x
+*splat* can stun blimps
+ 
+__Crosspath Benefits__
+*glue* gets +1p
+
+025 
+46r
+*glue*- 0d, 50md, 11p, 1.0s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - applies *glued* status- 1d/2.3s, normal, bloons move at 0% speed, lasts 24s or 3 layers
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - moabs move at 62.5% speed for 12s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s and D.D.T.s move at 0% speed for the first 5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - B.F.B.s move at 5% speed for the first 2.5s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s move at 10% speed for the first 0.75s
+‎ ‎ ‎ ‎ ‎ ‎ - when a *glued* bloon is popped: creates a *splat*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *splat*- 0d, 3p, 12r, 0.5s stun (can affect blimps)
+ 
+__Changes from Previous Tier__
+*glue* gets +50md, +5p
+*glued* status gets damage over time, additional stronger slow for a shorter period of time
+slow strength on bloons 0.25x -> 0x
+*splat* can stun blimps
+ 
+__Crosspath Benefits__
+*glue* gets +5p, on hit: splatter
