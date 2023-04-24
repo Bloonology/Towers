@@ -1,7 +1,7 @@
 000
 34r
 *spikes*- 1d, 5p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 footprint radius: 8 (large)
@@ -9,7 +9,7 @@ footprint radius: 8 (large)
 100 
 34r
 *spikes*- 1d, 10p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
@@ -18,7 +18,7 @@ __Changes from 0-0-0__
 010 
 34r
 *spikes*- 1d, 5p, 1.4s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
@@ -27,16 +27,16 @@ __Changes from 0-0-0__
 001 
 42r
 *spikes*- 1d, 5p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
-+8r,  +50s lifespan
++8r, +60s lifespan
 
 110 
 34r
 *spikes*- 1d, 10p, 1.4s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
@@ -45,25 +45,25 @@ __Changes from 0-0-0__
 101 
 42r
 *spikes*- 1d, 10p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
-*spikes* get +5p, +8r, +50s lifespan
+*spikes* get +5p, +8r, +60s lifespan
 
 011 
 42r
 *spikes*- 1d, 5p, 1.4s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
-*spikes* get 75%s, +8r, +50s lifespan
+*spikes* get 75%s, +8r, +60s lifespan
 
 200 
 34r
 *spikes*- 1d, 10p, 1.75s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
@@ -75,7 +75,7 @@ __Changes from 0-0-0__
 020 
 34r
 *spikes*- 1d, 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
@@ -87,22 +87,22 @@ __Changes from 0-0-0__
 002 
 42r
 *spikes*- 1d, 5p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
 *spikes* get start of round attack speed bonus
 gets targeting options
  
 __Changes from 0-0-0__
-*spikes* get +8r, +50s lifespan, start of round attack speed bonus
+*spikes* get +8r, +60s lifespan, start of round attack speed bonus
 gets targeting options
 
 210 
 34r
 *spikes*- 1d, 10p, 1.4s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
@@ -111,7 +111,7 @@ __Changes from 0-0-0__
 220 
 34r
 *spikes*- 1d, 10p, 0.98s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
@@ -120,27 +120,27 @@ __Changes from 0-0-0__
 201 
 42r
 *spikes*- 1d, 10p, 1.75s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
-*spikes* get +5p, +8r, damage type sharp -> normal
+*spikes* get +5p, +8r, +60s lifespan, damage type sharp -> normal
 
 202 
 42r
 *spikes*- 1d, 10p, 1.75s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from 0-0-0__
-*spikes* get +5p, +8r, damage type sharp -> normal, start of round attack speed bonus
+*spikes* get +5p, +8r, +60s lifepsan, damage type sharp -> normal, start of round attack speed bonus
 gets targeting options
 
 120 
 34r
 *spikes*- 1d, 10p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
@@ -149,108 +149,108 @@ __Changes from 0-0-0__
 021 
 42r
 *spikes*- 1d, 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from 0-0-0__
-*spikes* get 56%s, +8r
+*spikes* get 56%s, +8r, +60s lifepsan,
 
 022 
 42r
 *spikes*- 1d, 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.245s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.245s) for 2.5s at the start of every round
  
 __Changes from 0-0-0__
-*spikes* get 56%s, +8r, start of round attack speed bonus
+*spikes* get 56%s, +8r, +60s lifepsan, start of round attack speed bonus
 gets targeting options
 
 102 
 42r
 *spikes*- 1d, 10p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from 0-0-0__
-*spikes* get +5p, +8r, start of round attack speed bonus
+*spikes* get +5p, +8r, +60s lifepsan, start of round attack speed bonus
 gets targeting options
 
 012 
 42r
 *spikes*- 1d, 5p, 1.4s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.35s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.35s) for 2.5s at the start of every round
  
 __Changes from 0-0-0__
-*spikes* get 80%s, +8r, start of round attack speed bonus
+*spikes* get 80%s, +8r, +60s lifepsan, start of round attack speed bonus
 gets targeting options
 
 300 
 34r
-*spikes*- 2d, +3cd (5), +1fd, 12p, 1.75s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 2d, 8cd, +1fd, 14p, 1.75s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +1d, +3cd, +1fd, +2p
+*spikes* get +1d, +6cd, +1fd, +4p
 
 310 
 34r
-*spikes*- 2d, +3cd (5), +1fd, 12p, 1.4s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 2d, 8cd, +1fd, 14p, 1.4s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +1d, +3cd, +1fd, +2p
+*spikes* get +1d, +6cd, +1fd, +4p
  
 __Crosspath Benefits__
 *spikes* get 80%s
 
 320 
 34r
-*spikes*- 2d, +3cd (5), +1fd, 12p, 0.98s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 2d, 8cd, +1fd, 14p, 0.98s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +1d, +3cd, +1fd, +2p
- 
+*spikes* get +1d, +6cd, +1fd, +4p
+
 __Crosspath Benefits__
 *spikes* get 56%s
 
 301 
 42r
-*spikes*- 2d, +3cd (5), +1fd, 12p, 1.75s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+*spikes*- 2d, 8cd, +1fd, 14p, 1.75s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +1d, +3cd, +1fd, +2p
+*spikes* get +1d, +6cd, +1fd, +4p
  
 __Crosspath Benefits__
-*spikes* get +8r
+*spikes* get +8r, +60s lifepsan
 
 302 
 42r
-*spikes*- 2d, +3cd (5), +1fd, 12p, 1.75s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+*spikes*- 2d, 8cd, +1fd, 14p, 1.75s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1d, +3cd, +1fd, +2p
+*spikes* get +1d, +6cd, +1fd, +4p
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan, start of round attack speed bonus
+*spikes* get +8r, +60s lifespan, start of round attack speed bonus
 gets targeting options
 
 030 
 34r
-*spikes*- 1d, +4md (5), 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 1d, 5md, 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
@@ -258,8 +258,8 @@ __Changes from Previous Tier__
 
 130 
 34r
-*spikes*- 1d, +4md (5), 10p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 1d, 5md, 10p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
@@ -270,8 +270,8 @@ __Crosspath Benefits__
 
 230 
 34r
-*spikes*- 1d, +4md (5), 10p, 0.98s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 1d, 5md, 10p, 0.98s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
@@ -282,49 +282,49 @@ __Crosspath Benefits__
 
 031 
 42r
-*spikes*- 1d, +4md (5), 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+*spikes*- 1d, 5md, 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
 *spikes* get +4md
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan
+*spikes* get +8r, +60s lifespan
 
 032 
 42r
-*spikes*- 1d, +4md (5), 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+*spikes*- 1d, 5md, 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.245s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.245s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
 *spikes* get +4md
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan, start of round attack speed bonus
+*spikes* get +8r, +60s lifespan, start of round attack speed bonus
 gets targeting options
 
 003 
 42r
 *spikes*- 1d, 5p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 2 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 170s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1 round, +40s lifespan
+*spikes* +70s lifespan
 
 103 
 42r
 *spikes*- 1d, 10p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 2 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 170s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1 round, +40s lifespan
+*spikes* get +70s lifespan
  
 __Crosspath Benefits__
 *spikes* get +5p
@@ -332,12 +332,12 @@ __Crosspath Benefits__
 203 
 42r
 *spikes*- 1d, 10p, 1.75s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 2 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 170s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1 round, +40s lifespan
+*spikes* get +70s lifespan
  
 __Crosspath Benefits__
 *spikes* get +5p, damage type sharp -> normal
@@ -345,12 +345,12 @@ __Crosspath Benefits__
 013 
 42r
 *spikes*- 1d, 5p, 1.4s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 2 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 170s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.35s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.35s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1 round, +40s lifespan
+*spikes* get +70s lifespan
  
 __Crosspath Benefits__
 *spikes* get 80%s
@@ -358,119 +358,117 @@ __Crosspath Benefits__
 023 
 42r
 *spikes*- 1d, 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 2 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 170s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.245s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.245s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1 round, +40s lifespan
+*spikes* get +70s lifespan
  
 __Crosspath Benefits__
 *spikes* get 56%s
 
 400 
 34r
-*spikes*- 2d, +6cd (8), +3fd, 12p, 1.75s, normal, camo
+*spikes*- 2d, 8cd, +1fd, 14p, 1.75s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +3fd, 40p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +1fd, 40p, 19 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +3cd (+6), +2fd (+3), creates *explosion* when out of pierce or when expired
+*spikes* create *explosion* when out of pierce or when expired
 
 410 
 34r
-*spikes*- 2d, +6cd (8), +3fd, 12p, 1.4s, normal, camo
+*spikes*- 2d, 8cd, +1fd, 14p, 1.4s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +3fd, 40p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +1fd, 40p, 19 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +3cd (+6), +2fd (+3), creates *explosion* when out of pierce or when expired
+*spikes* create *explosion* when out of pierce or when expired
  
 __Crosspath Benefits__
 *spikes* get 80%s
 
 420 
 34r
-*spikes*- 2d, +6cd (8), +3fd, 12p, 0.98s, normal, camo
+*spikes*- 2d, 8cd, +1fd, 14p, 0.98s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +3fd, 40p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +1fd, 40p, 19 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +3cd (+6), +2fd (+3), creates *explosion* when out of pierce or when expired
+*spikes* create *explosion* when out of pierce or when expired
  
 __Crosspath Benefits__
 *spikes* get 56%s
 
 401 
 42r
-*spikes*- 2d, +6cd (8), +3fd, 12p, 1.75s, normal, camo
+*spikes*- 2d, 8cd, +1fd, 14p, 1.75s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +3fd, 40p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +1fd, 40p, 19 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +3cd (+6), +2fd (+3), creates *explosion* when out of pierce or when expired
+*spikes* create *explosion* when out of pierce or when expired
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan
+*spikes* get +8r, +60s lifespan
 
 402 
 42r
-*spikes*- 2d, +6cd (8), +3fd, 12p, 1.75s, normal, camo
+*spikes*- 2d, 8cd, +1fd, 14p, 1.75s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +3fd, 40p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 12cd, +1fd, 40p, 19 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +3cd (+6), +2fd (+3), creates *explosion* when out of pierce or when expired
+*spikes* create *explosion* when out of pierce or when expired
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan, start of round attack speed bonus
+*spikes* get +8r, +60s lifespan, start of round attack speed bonus
 gets targeting options
 
 040 
 34r
-*spikes*- 1d, +4md (5), 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 1d, 5md, 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Spike Storm** ability: 40s cooldown (battle ready), launches *spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 10s lifespan and can last through the end of a round
-‎ ‎ ‎ ‎ ‎ ‎ - unaffected by speed buffs
+    -*spikes* launched by ability have 10-13s lifespan
+‎ ‎ ‎ ‎ ‎ ‎ - unaffected by pierce buffs
  
 __Changes from Previous Tier__
 gets **Spike Storm** ability
 
 140 
 34r
-*spikes*- 1d, +4md (5), 10p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 1d, 5md, 10p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Spike Storm** ability: 40s cooldown (battle ready), launches *spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 15s lifespan and can last through the end of a round
-‎ ‎ ‎ ‎ ‎ ‎ - unaffected by speed buffs
+    -*spikes* launched by ability have 10-13s lifespan
+‎ ‎ ‎ ‎ ‎ ‎ - unaffected by pierce buffs
  
 __Changes from Previous Tier__
 gets **Spike Storm** ability
@@ -480,14 +478,13 @@ __Crosspath Benefits__
 
 240 
 34r
-*spikes*- 1d, +4md (5), 10p, 0.98s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+*spikes*- 1d, 5md, 10p, 0.98s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Spike Storm** ability: 40s cooldown (battle ready), launches *spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 10s lifespan and can last through the end of a round
-‎ ‎ ‎ ‎ ‎ ‎ - unaffected by speed buffs
+    -*spikes* launched by ability have 10-13s lifespan
+‎ ‎ ‎ ‎ ‎ ‎ - unaffected by pierce buffs
  
 __Changes from Previous Tier__
 gets **Spike Storm** ability
@@ -497,62 +494,60 @@ __Crosspath Benefits__
 
 041 
 42r
-*spikes*- 1d, +4md (5), 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+*spikes*- 1d, 5md, 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+**Spike Storm** ability: 40s cooldown (battle ready), launches *spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 15s lifespan and can last through the end of a round
-‎ ‎ ‎ ‎ ‎ ‎ - unaffected by speed buffs
+    -*spikes* launched by ability have 15-18s lifespan
+‎ ‎ ‎ ‎ ‎ ‎ - unaffected by pierce buffs
  
 __Changes from Previous Tier__
 gets **Spike Storm** ability
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan
+*spikes* get +8r, +60s lifespan
 **Spike Storm** *spikes* get +5s lifespan instead
 
 042 
 42r
-*spikes*- 1d, +4md (5), 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+*spikes*- 1d, 5md, 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.245s for 2.5s at the start of every round 
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.245s) for 2.5s at the start of every round 
+**Spike Storm** ability: 40s cooldown (battle ready), launches *spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 20s lifespan and can last through the end of a round 
-‎ ‎ ‎ ‎ ‎ ‎ - unaffected by speed buffs
-‎ ‎ ‎ ‎ ‎ ‎ - only launches on active lanes
+    -*spikes* launched by ability have 15-18s lifespan
+‎ ‎ ‎ ‎ ‎ ‎ - unaffected by pierce buffs
+‎ ‎ ‎ ‎ ‎ ‎ - note: gets 25%s (0.00125s) if used at the start of a round
  
 __Changes from Previous Tier__
 gets **Spike Storm** ability
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan, gets start of round attack speed bonus
-gets targetting options
-**Spike Storm** *spikes* get +5s lifespan instead 
+*spikes* get +8r, +60s lifespan, gets start of round attack speed bonus
+**Spike Storm** *spikes* get +5s lifespan instead
+gets targeting options
 
 004 
 42r
 *spikes*- 2d, 5p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 3 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 240s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1d, +1 round of lifespan
+*spikes* get +1d, +70s lifespan
 
 104 
 42r
 *spikes*- 2d, 10p, 1.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 3 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 240s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1d, +1 round of lifespan
+*spikes* get +1d, +70s lifespan
  
 __Crosspath Benefits__
 *spikes* get +5p
@@ -560,9 +555,9 @@ __Crosspath Benefits__
 204 
 42r
 *spikes*- 2d, 10p, 1.75s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 3 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 240s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.4375s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.4375s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
 *spikes* get +1d, +1 round of lifespan
@@ -573,12 +568,12 @@ __Crosspath Benefits__
 014 
 42r
 *spikes*- 2d, 5p, 1.4s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 3 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 240s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.35s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.35s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1d, +1 round of lifespan
+*spikes* get +1d, +70s lifespan
  
 __Crosspath Benefits__
 *spikes* get 80%s
@@ -586,275 +581,265 @@ __Crosspath Benefits__
 024 
 42r
 *spikes*- 2d, 5p, 0.98s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 3 rounds or 140s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 240s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.245s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.245s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +1d, +1 round of lifespan
+*spikes* get +1d, +70s lifespan
  
 __Crosspath Benefits__
 *spikes* get 56%s
 
 500 
 34r
-*spikes*- 50d, +30cd (80), +15fd, 12p, 3.5s, normal, camo
+*spikes*- 50d, 70cd, +15fd, 14p, 3.5s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - after using pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 30d, +15cd (45), +5fd, 30p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 20d, 30cd, +5fd, 30p, 20 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +500cd (1500), +250fd, 60p, 100 blast radius, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1000d/2s, 6s duration
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +250fd, 60p, 100 blast radius, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +48d, +24cd (+30), +12fd (+15), 200%s, creates smaller *explosion* after each pierce used 
-*explosion* gets +990d, +500cd (+500), +247fd (+250), +20p, +81 blast radius, damage type explosive -> normal
-*burn* status gets +999d
+*spikes* get +48d, +16cd, 200%s, creates smaller *explosion* after each pierce used 
+*explosion* gets +990d, +249fd, +20p, +81 blast radius, damage type explosive -> normal
 
 510 
 34r
-*spikes*- 50d, +30cd (80), +15fd, 12p, 2.8s, normal, camo
+*spikes*- 50d, 70cd, +15fd, 14p, 2.8s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - after using pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 30d, +15cd (45), +5fd, 30p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 20d, 30cd, +5fd, 30p, 20 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +500cd (1500), +250fd, 60p, 100 blast radius, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1000d/2s, 6s duration
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +250fd, 60p, 100 blast radius, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +48d, +24cd (+30), +12fd (+15), 200%s, creates smaller *explosion* after each pierce used 
-*explosion* gets +990d, +500cd (+500), +247fd (+250), +20p, +81 blast radius, damage type explosive -> normal
-*burn* status gets +999d
+*spikes* get +48d, +16cd, 200%s, creates smaller *explosion* after each pierce used 
+*explosion* gets +990d, +249fd, +20p, +81 blast radius, damage type explosive -> normal
  
 __Crosspath Benefits__
 *spikes* get 80%s
 
 520 
 34r
-*spikes*- 50d, +30cd (80), +15fd, 12p, 1.96s, normal, camo
+*spikes*- 50d, 70cd, +15fd, 14p, 1.96s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - after using pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 30d, +15cd (45), +5fd, 30p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 20d, 30cd, +5fd, 30p, 20 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +500cd (1500), +250fd, 60p, 100 blast radius, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1000d/2s, 6s duration
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +250fd, 60p, 100 blast radius, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +48d, +24cd (+30), +12fd (+15), 200%s, creates smaller *explosion* after each pierce used 
-*explosion* gets +990d, +500cd (+500), +247fd (+250), +20p, +81 blast radius, damage type explosive -> normal
-*burn* status gets +999d
+*spikes* get +48d, +16cd, 200%s, creates smaller *explosion* after each pierce used 
+*explosion* gets +990d, +249fd, +20p, +81 blast radius, damage type explosive -> normal
  
 __Crosspath Benefits__
 *spikes* get 56%s
 
 501 
 42r
-*spikes*- 50d, +30cd (80), +15fd, 12p, 3.5s, normal, camo
+*spikes*- 50d, 70cd, +15fd, 14p, 3.5s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - after using pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 30d, +15cd (45), +5fd, 30p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 20d, 30cd, +5fd, 30p, 20 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +500cd (1500), +250fd, 60p, 100 blast radius, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1000d/2s, 6s duration
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +250fd, 60p, 100 blast radius, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
  
 __Changes from Previous Tier__
-*spikes* get +48d, +24cd (+30), +12fd (+15), 200%s, creates smaller *explosion* after each pierce used 
-*explosion* gets +990d, +500cd (+500), +247fd (+250), +20p, +81 blast radius, damage type explosive -> normal
-*burn* status gets +999d
+*spikes* get +48d, +16cd, 200%s, creates smaller *explosion* after each pierce used 
+*explosion* gets +990d, +249fd, +20p, +81 blast radius, damage type explosive -> normal
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan
+*spikes* get +8r, +60s lifepsan
 
 502 
 42r
-*spikes*- 50d, +30cd (80), +15fd, 12p, 3.5s, normal, camo
+*spikes*- 50d, 70cd, +15fd, 14p, 3.5s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - after using pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 30d, +15cd (45), +5fd, 30p, 30 blast radius, explosive
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 20d, 30cd, +5fd, 30p, 20 blast radius, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - when *spikes* run out of pierce, create *explosion*
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +500cd (1500), +250fd, 60p, 100 blast radius, normal
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1000d/2s, 6s duration
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1000d, +250fd, 60p, 100 blast radius, normal
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/2s, 6s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion* damage is doubled if the spike pile times out instead of using up its pierce
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.875s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.875s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +48d, +24cd (+30), +12fd (+15), 200%s, creates smaller *explosion* after each pierce used 
-*explosion* gets +990d, +500cd (+500), +247fd (+250), +20p, +81 blast radius, damage type explosive -> normal
-*burn* status gets +999d
+*spikes* get +48d, +16cd, 200%s, creates smaller *explosion* after each pierce used 
+*explosion* gets +990d, +249fd, +20p, +81 blast radius, damage type explosive -> normal
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan, start of round attack speed bonus
+*spikes* get +8r, +60s lifepsan, start of round attack speed bonus
 gets targeting options
 
 050 
-50r
-*spikes*- 4d, +5md (9), 5p, 0.33s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+34r
+*spikes*- 3d, +4md (7), 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Spike Storm** ability: 40s cooldown (battle ready), launches *super-spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 3d, +5md (8), 10s lifespan and can last through the end of a round
+    -*super-spikes*- 6d, +8md (14), 5p, sharp, camo, 10-13s lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - ability is passively triggered every 15s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (does not affect the manual ability cooldown)
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be affected by speed buffs
  
 __Changes from Previous Tier__
-*spikes* get +3d, +1md (+5), +16r, 33%s
+*spikes* get +2d
+*super-spikes* added- can be affected by pierce buffs
 ability is passively triggered as well
 
 150 
-50r
-*spikes*- 4d, +5md (9), 10p, 0.33s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+34r
+*spikes*- 3d, +4md (7), 10p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Spike Storm** ability: 40s cooldown (battle ready), launches *super-spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 3d, +5md (8), 10s lifespan and can last through the end of a round
+    -*super-spikes*- 6d, +8md (14), 10p, sharp, camo, 10-13s lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - ability is passively triggered every 15s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (does not affect the manual ability cooldown)
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be affected by speed buffs
  
 __Changes from Previous Tier__
-*spikes* get +3d, +1md (+5), +16r, 33%s
+*spikes* get +2d
+*super-spikes* added- can be affected by pierce buffs
 ability is passively triggered as well
  
 __Crosspath Benefits__
-*spikes* get +5p
+*spikes* and *super-spikes* get +5p
 
 250 
-50r
-*spikes*- 4d, +5md (9), 10p, 0.33s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 50s
+34r
+*spikes*- 3d, +4md (7), 10p, 0.98s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 40s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Spike Storm** ability: 40s cooldown (battle ready), launches *super-spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 3d, +5md (8), 10s lifespan and can last through the end of a round
+    -*super-spikes*- 6d, +8md (14), 10p, normal, camo, 10-13s lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - ability is passively triggered every 15s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (does not affect the manual ability cooldown)
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be affected by speed buffs
  
 __Changes from Previous Tier__
-*spikes* get +3d, +1md (+5), +16r, 33%s
+*spikes* get +2d
+*super-spikes* added- can be affected by pierce buffs
 ability is passively triggered as well
  
 __Crosspath Benefits__
-*spikes* get +5p, damage type sharp -> normal
+*spikes* and *super-spikes* get +5p, damage type sharp -> normal
 
 051 
-58r
-*spikes*- 4d, +5md (9), 5p, 0.33s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+42r
+*spikes*- 3d, +4md (7), 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+**Spike Storm** ability: 40s cooldown (battle ready), launches *super-spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 3d, +5md (8), 15s lifespan and can last through the end of a round
+    -*super-spikes*- 6d, +8md (14), 5p, sharp, camo, 15-18s lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - ability is passively triggered every 15s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (does not affect the manual ability cooldown)
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be affected by speed buffs
  
 __Changes from Previous Tier__
-*spikes* get +3d, +1md (+5), +16r, 33%s
+*spikes* get +2d
+*super-spikes* added- can be affected by pierce buffs
 ability is passively triggered as well
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan
-**Spike Storm** *spikes* get +5s lifespan instead 
+*spikes* get +8r, +60s lifespan
+*super-spikes* get +5s lifespan
 
 052 
-58r
-*spikes*- 4d, +5md (9), 5p, 0.33s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 1 round or 100s
+42r
+*spikes*- 3d, +4md (7), 5p, 0.98s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 100s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.081s for 2.5s at the start of every round 
-**Spike Storm** ability: 40s cooldown, launches *spikes* at 0.005s for 1s
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown carries over from tier 4
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.245s) for 2.5s at the start of every round 
+**Spike Storm** ability: 40s cooldown (battle ready), launches *super-spikes* at 0.005s for 1s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-	- *spikes* launched by ability have 3d, +5md (8), 20s lifespan and can last through the end of a round
+    -*super-spikes*- 6d, +8md (14), 5p, sharp, camo, 15-18s lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - ability is passively triggered every 15s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (does not affect the manual ability cooldown)
-‎ ‎ ‎ ‎ ‎ ‎ - cannot be affected by speed buffs
-‎ ‎ ‎ ‎ ‎ ‎ - only launches on active lanes
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.00125s) if used at the start of a round
  
 __Changes from Previous Tier__
-*spikes* get +3d, +1md (+5), +16r, 33%s
+*spikes* get +2d
+*super-spikes* added- can be affected by pierce buffs
 ability is passively triggered as well
  
 __Crosspath Benefits__
-*spikes* get +8r, +50s lifespan, start of round attack speed bonus
+*spikes* get +8r, +60s lifespan, start of round attack speed bonus
 gets targeting options
-**Spike Storm** *spikes* get +10s lifespan instead
+*super-spikes* get +5s lifespan
 
 005 
 42r
-*spikes*- 15d, 25p, 4.85s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 4 rounds or 300s
+*spikes*- 15d, 50p, 4.5s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 300s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 1.2125s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (1.2125s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +13d, +20p, 277.14%s, +160s or +1 round of lifespan
+*spikes* get +13d, +45p, 257.14%s, +60s lifespan
 
 105 
 42r
-*spikes*- 15d, 45p, 4.85s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 4 rounds or 300s
+*spikes*- 15d, 90p, 4.5s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 300s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 1.2125s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (1.2125s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +13d, +20p, 277.14%s, +160s or +1 round of lifespan
+*spikes* get +13d, +45p, 257.14%s, +60s lifespan
  
 __Crosspath Benefits__
-*spikes* get +20p
+*spikes* get +40p
 
 205 
 42r
-*spikes*- 15d, 45p, 4.85s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 4 rounds or 300s
+*spikes*- 15d, 90p, 4.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 300s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 1.2125s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (1.2125s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +13d, +20p, 277.14%s, +160s or +1 round of lifespan
+*spikes* get +13d, +45p, 257.14%s, +60s lifespan
  
 __Crosspath Benefits__
-*spikes* get +20p, damage type sharp -> normal
+*spikes* get +40p, damage type sharp -> normal
 
 015 
 42r
-*spikes*- 15d, 25p, 3.88s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 4 rounds or 300s
+*spikes*- 15d, 50p, 3.6s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 300s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.97s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.97s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +13d, +20p, 277.14%s, +160s or +1 round of lifespan
+*spikes* get +13d, +45p, 257.14%s, +60s lifespan
  
 __Crosspath Benefits__
 *spikes* get 80%s
 
 025 
 42r
-*spikes*- 15d, 25p, 2.716s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 4 rounds or 300s
+*spikes*- 15d, 50p, 2.52s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *spikes* last 300s
 ‎ ‎ ‎ ‎ ‎ ‎ - targets the track
-‎ ‎ ‎ ‎ ‎ ‎ - 0.679s for 2.5s at the start of every round
+‎ ‎ ‎ ‎ ‎ ‎ - 25%s (0.679s) for 2.5s at the start of every round
  
 __Changes from Previous Tier__
-*spikes* get +13d, +20p, 277.14%s, +160s or +1 round of lifespan
+*spikes* get +13d, +45p, 257.14%s, +60s lifespan
  
 __Crosspath Benefits__
 *spikes* get 56%s
