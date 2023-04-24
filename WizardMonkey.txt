@@ -15,7 +15,7 @@ __Changes from 0-0-0__
 010 
 40r
 *bolt*- 1d, 3p, 1.1s, energy
-*fireball*- 1d, 15p, 2.2s, explosive
+*fireball*- 3d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
  
 __Changes from 0-0-0__
@@ -32,13 +32,12 @@ __Changes from 0-0-0__
 40r
 *bolt*- 1d, 3p, 1.1s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*fireball*- 1d, 15p, 2.2s, explosive
+*fireball*- 3d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from 0-0-0__
 *bolt* can attack through walls, gets seeking
-gets an improved *fireball* attack: can attack through walls
+gets *fireball* attack
 
 101 
 40r
@@ -51,7 +50,7 @@ __Changes from 0-0-0__
 011 
 40r
 *bolt*- 1d, 8p, 1.1s, energy
-*fireball*- 1d, 15p, 2.2s, explosive
+*fireball*- 3d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
  
 __Changes from 0-0-0__
@@ -72,61 +71,57 @@ __Changes from 0-0-0__
 020 
 40r
 *bolt*- 1d, 3p, 1.1s, energy
-*fireball*- 1d, 15p, 2.2, explosive
+*fireball*- 3d, 15p, 2.2, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 10p, 20r, 0.15s, fire
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
  
 __Changes from Previous Tier__
-gets *deploy-wall* attack
+gets *fire-wall* attack
  
 __Changes from 0-0-0__
 gets *fireball* attack
-gets *deploy-wall* attack
+gets *fire-wall* attack
 
 002 
-50r
+40r
 *bolt*- 1d, 8p, 1.1s, energy, camo
  
 __Changes from Previous Tier__
-+10r
 *bolt* gets camo
  
 __Changes from 0-0-0__
-+10r
 *bolt* gets +5p, camo, faster projectile speed
 
 210 
 40r
 *bolt*- 2d, 3p, 1.1s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*fireball*- 1d, 15p, 2.2s, explosive
+*fireball*- 3d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from 0-0-0__
 *bolt* can attack through walls, gets seeking, +1d
-gets an improved *fireball* attack: can attack through walls
+gets *fireball* attack
 
 220 
 40r
 *bolt*- 2d, 3p, 1.1s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*fireball*- 1d, 15p, 2.2s, explosive
+*fireball*- 3d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 10p, 20r, 0.15s, fire
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
  
 __Changes from 0-0-0__
 *bolt* can attack through walls, gets seeking, +1d
-gets an improved *fireball* attack: can attack through walls
-gets *deploy-wall* attack
-*fire-wall* lasts for +1s, follows targeting, can attack through walls
+gets *fireball* attack
+gets *fire-wall* attack
+*fire-wall* follows targeting, can attack through walls
 
 201 
 40r
@@ -137,86 +132,81 @@ __Changes from 0-0-0__
 *bolt* can attack through walls, gets seeking, +1d, +5p, faster projectile speed
 
 202 
-50r
+40r
 *bolt*- 2d, 8p, 1.1s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from 0-0-0__
-+10r
 *bolt* can attack through walls, gets seeking, +1d, +5p, camo, faster projectile speed
 
 120 
 40r
 *bolt*- 1d, 3p, 1.1s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*fireball*- 1d, 15p, 2.2s, explosive
+*fireball*- 3d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 10p, 20r, 0.15s, fire
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from 0-0-0__
 *bolt* can attack through walls, gets seeking
-gets an improved *fireball* attack: can attack through walls
-gets *deploy-wall* attack
-*fire-wall* lasts for +1s, follows targeting, can attack through walls
+gets *fireball* attack
+gets *fire-wall* attack
+*fire-wall* follows targeting, can attack through walls
 
 021 
 40r
 *bolt*- 1d, 8p, 1.1s, energy
-*fireball*- 1d, 20p, 2.2s, explosive
+*fireball*- 3d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.15s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
  
 __Changes from 0-0-0__
 *bolt* gets +5p, faster projectile speed
 gets *fireball* attack
-gets *deploy-wall* attack
+gets *fire-wall* attack
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 
 022 
-50r
+40r
 *bolt*- 1d, 8p, 1.1s, energy, camo
-*fireball*- 1d, 20p, 2.2s, explosive, camo
+*fireball*- 3d, 20p, 2.2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*fire-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire, camo
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.15s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
  
 __Changes from 0-0-0__
-+10r
 all attacks get camo
 *bolt* gets +5p, faster projectile speed
 gets *fireball* attack
-gets *deploy-wall* attack
+gets *fire-wall* attack
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 
 102 
-50r
+40r
 *bolt*- 1d, 8p, 1.1s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from 0-0-0__
-+10r
 *bolt* can attack through walls, gets seeking, +5p, camo, faster projectile speed
 
 012 
-50r
+40r
 *bolt*- 1d, 8p, 1.1s, energy, camo
-*fireball*- 1d, 20p, 2.2s, explosive, camo
+*fireball*- 3d, 20p, 2.2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
  
 __Changes from 0-0-0__
-+10r
 all attacks get camo
 *bolt* gets +5p, faster projectile speed
 gets *fireball* attack
@@ -224,73 +214,64 @@ gets *fireball* attack
 
 300 
 60r
-*bolt*- 3d, 7p, 0.55s, energy
+*bolt*- 3d, 7p, 0.55s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-+20r
 *bolt* gets +1d, +4p, 50%s
 
 310 
 60r
-*bolt*- 3d, 7p, 0.55s, energy
+*bolt*- 3d, 7p, 0.55s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 1d, 15p, 2.2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-+20r
 *bolt* gets +1d, +4p, 50%s
  
 __Crosspath Benefits__
-gets an improved *fireball* attack: can attack through walls
+gets *fireball* attack
 
 320 
 60r
-*bolt*- 3d, 7p, 0.55s, energy
+*bolt*- 3d, 7p, 0.55s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 1d, 15p, 2.2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 10p, 20r, 0.15s, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-+20r
 *bolt* gets +1d, +4p, 50%s
  
 __Crosspath Benefits__
-gets an improved *fireball* attack: can attack through walls
-gets *deploy-wall* attack
-*fire-wall* lasts for +1s
+gets *fireball* attack
+gets *fire-wall* attack
 
 301 
 60r
-*bolt*- 3d, 12p, 0.55s, energy
+*bolt*- 3d, 12p, 0.55s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-+20r
 *bolt* gets +1d, +4p, 50%s
  
 __Crosspath Benefits__
 *bolt* gets +5p, faster projectile speed
 
 302 
-70r
-*bolt*- 3d, 12p, 0.55s, energy, camo
+60r
+*bolt*- 3d, 12p, 0.55s, plasma, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-+20r
 *bolt* gets +1d, +4p, 50%s
  
 __Crosspath Benefits__
-+10r
 *bolt* gets +5p, camo, faster projectile speed
 
 030 
@@ -298,19 +279,20 @@ __Crosspath Benefits__
 *bolt*- 1d, 3p, 1.1s, energy
 *fireball*- 9d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 20p, 20r, 0.1s, fire
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 2d, 4p, 0.125s, fire
+*flame*- 1d, 2cd, 4p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
  
 __Changes from Previous Tier__
 gets *flame* attack
-*deploy-wall* gets 69.23%s
-*fire-wall* gets 66.67%s, +10p
-*fireball* explosion gets +8d
+*fire-wall* deploy rate gets 81.82%s
+*fire-wall* tic rate gets 66.67%s
+*fireball* explosion gets +6d
 
 130 
 40r
@@ -318,28 +300,27 @@ gets *flame* attack
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 9d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 20p, 20r, 0.1s, fire
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 2d, 4p, 0.125s, fire
+*flame*- 1d, 2cd, 4p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
 gets *flame* attack
-*deploy-wall* gets 69.23%s 
-*fire-wall* gets 66.67%s, +10p
-*fireball* explosion gets +8d
+*fire-wall* deploy rate gets 81.82%s 
+*fire-wall* tic rate gets 66.67%s
+*fireball* explosion gets +6d
  
 __Crosspath Benefits__
-all attacks can attack through walls
-*bolt* gets seeking
-*fire-wall* lasts for +1s, follows targeting
-*flame* gets double lifespan
+*bolt* can attack through walls, gets seeking
+*fire-wall* follows targeting, can attack through walls
+*flame* gets double lifespan, can attack through walls
 
 230 
 40r
@@ -347,102 +328,102 @@ all attacks can attack through walls
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 9d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 20p, 20r, 0.1s, fire
-‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 2d, 4p, 0.125s, fire
+*flame*- 1d, 2cd, 4p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
 gets *flame* attack
-*deploy-wall* gets 69.23%s 
-*fire-wall* gets 66.67%s, +10p
-*fireball* explosion gets +8d
+*fire-wall* deploy rate gets 81.82%s 
+*fire-wall* tic rate gets 66.67%s
+*fireball* explosion gets +6d
  
 __Crosspath Benefits__
-all attacks can attack through walls
-*bolt* gets seeking, +1d
-*fire-wall* lasts for +1s, follows targeting
-*flame* gets double lifespan
+*bolt* can attack through walls, gets seeking
+*fire-wall* follows targeting, can attack through walls
+*flame* gets double lifespan, can attack through walls
 
 031 
 40r
 *bolt*- 1d, 8p, 1.1s, energy
 *fireball*- 9d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 25p, 20r, 0.1s, fire
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 2d, 6p, 0.125s, fire
+*flame*- 1d, 2cd, 6p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
  
 __Changes from Previous Tier__
 gets *flame* attack
-*deploy-wall* gets 69.23%s 
-*fire-wall* gets 66.67%s, +10p
-*fireball* explosion gets +8d
+*fire-wall* deploy rate gets 81.82%s 
+*fire-wall* tic rate gets 66.67%s
+*fireball* explosion gets +6d
  
 __Crosspath Benefits__
 *bolt* gets +5p, faster projectile speed
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 *flame* gets +2p
 
 032 
-50r
+40r
 *bolt*- 1d, 8p, 1.1s, energy, camo
 *fireball*- 9d, 20p, 2.2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 25p, 20r, 0.1s, fire, camo
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.1s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 2d, 6p, 0.125s, fire, camo
+*flame*- 1d, 2cd, 6p, 0.1s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
  
 __Changes from Previous Tier__
 gets *flame* attack
-*deploy-wall* gets 69.23%s
-*fire-wall* gets 66.67%s, +10p
-*fireball* explosion gets +8d
+*fire-wall* deploy rate gets 81.82%s
+*fire-wall* tic rate gets 66.67%s 
+*fireball* explosion gets +6d
  
 __Crosspath Benefits__
-+10r
 all attacks get camo
 *bolt* gets +5p, faster projectile speed
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 *flame* gets +2p
 
 003 
 60r
 *bolt*- 1d, 8p, 1.1s, energy, camo
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-+10r
++20r
 gets *shimmer* attack
 
 103 
 60r
 *bolt*- 1d, 8p, 1.1s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-+10r
++20r
 gets *shimmer* attack
  
 __Crosspath Benefits__
@@ -452,12 +433,12 @@ __Crosspath Benefits__
 60r
 *bolt*- 2d, 8p, 1.1s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-+10r
++20r
 gets *shimmer* attack
  
 __Crosspath Benefits__
@@ -468,12 +449,12 @@ __Crosspath Benefits__
 *bolt*- 1d, 8p, 1.1s, energy, camo
 *fireball*- 1d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-+10r
++20r
 gets *shimmer* attack
  
 __Crosspath Benefits__
@@ -485,88 +466,84 @@ gets *fireball* attack
 *bolt*- 1d, 8p, 1.1s, energy, camo
 *fireball*- 1d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*fire-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.15s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-+10r
++20r
 gets *shimmer* attack
  
 __Crosspath Benefits__
 gets *fireball* attack
 *fireball* gets +5p
-gets *deploy-wall* attack
-*fire-wall* gets +5p
+gets *fire-wall* attack
+*fire-wall* gets +4p
 
 400 
 60r
-*bolt*- 6d, +10md (16), 7p, 0.275s, plasma
+*bolt*- 8d, 18md, +4ld, 7p, 0.275s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*bolt* gets +3d, +10md (16), 50%s, damage type energy -> plasma
+*bolt* gets +5d, +10md, +4ld, 50%s, damage type energy -> plasma
 
 410 
 60r
-*bolt*- 6d, +10md (16), 7p, 0.275s, plasma
+*bolt*- 8d, 18md, +4ld, 7p, 0.275s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 1d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*bolt* gets +3d, +10md (16), 50%s, damage type energy -> plasma
+*bolt* gets +5d, +10md, +4ld, 50%s, damage type energy -> plasma
  
 __Crosspath Benefits__
-gets an improved *fireball* attack: can attack through walls
+gets *fireball* attack
 
 420 
 60r
-*bolt*- 6d, +10md (16), 6p, 0.275s, plasma
+*bolt*- 8d, 18md, +4ld, 6p, 0.275s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 1d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*fire-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 10p, 20r, 0.15s, fire
-‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*bolt* gets +3d, +10md (16), 50%s, damage type energy -> plasma
+*bolt* gets +5d, +10md, +4ld, 50%s, damage type energy -> plasma
  
 __Crosspath Benefits__
-gets an improved *fireball* attack: can attack through walls
-gets *deploy-wall* attack
-*fire-wall* lasts for +1s
+gets *fireball* attack
+gets *fire-wall* attack
 
 401 
 60r
-*bolt*- 6d, +10md (16), 12p, 0.275s, plasma
+*bolt*- 8d, 18md, +4ld, 12p, 0.275s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*bolt* gets +3d, +10md (16), 50%s, damage type energy -> plasma
+*bolt* gets +5d, +10md, +4ld, 50%s, damage type energy -> plasma
  
 __Crosspath Benefits__
 *bolt* gets +5p, faster projectile speed
 
 402 
-70r
-*bolt*- 6d, +10md (16), 12p, 0.275s, plasma, camo
+60r
+*bolt*- 8d, 18md, +4ld, 12p, 0.275s, plasma, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
-*bolt* gets +3d, +10md (16), 50%s, damage type energy -> plasma
+*bolt* gets +5d, +10md, +4ld, 50%s, damage type energy -> plasma
  
 __Crosspath Benefits__
-+10r
 *bolt* gets +5p, camo, faster projectile speed
 
 040 
@@ -574,18 +551,18 @@ __Crosspath Benefits__
 *bolt*- 1d, 3p, 1.1s, energy
 *fireball*- 9d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 20p, 20r, 0.1s, fire
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 2d, 4p, 0.125s, fire
+*flame*- 1d, 2cd, 4p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
-**Summon Phoenix** ability: 45s cooldown, spawns phoenix subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Summon Phoenix** ability: 45s cooldown (battle ready), spawns phoenix subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - follows tower targeting
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
  
 __Changes from Previous Tier__
 gets **Summon Phoenix** ability
@@ -596,30 +573,28 @@ gets **Summon Phoenix** ability
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 9d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 20p, 20r, 0.1s, fire
-‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 2d, 4p, 0.125s, fire
+*flame*- 1d, 2cd, 4p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-**Summon Phoenix** ability: 45s cooldown, spawns phoenix subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Summon Phoenix** ability: 45s cooldown (battle ready), spawns phoenix subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - follows tower targeting
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
  
 __Changes from Previous Tier__
 gets **Summon Phoenix** ability
  
 __Crosspath Benefits__
-*bolt*, *fireball*, *fire-wall*, and *flame* can attack through walls
-*bolt* =gets seeking
-*fire-wall* lasts for +1s, follows targeting
-*flame* gets double lifespan
+*bolt* can attack through walls, gets seeking
+*fire-wall* follows targeting, can attack through walls
+*flame* gets double lifespan, can attack through walls
 
 240 
 40r
@@ -627,48 +602,46 @@ __Crosspath Benefits__
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 9d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 20p, 20r, 0.1s, fire
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 2d, 4p, 0.125s, fire
+*flame*- 1d, 2cd, 4p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-**Summon Phoenix** ability: 45s cooldown, spawns phoenix subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Summon Phoenix** ability: 45s cooldown (battle ready), spawns phoenix subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - follows tower targeting
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
  
 __Changes from Previous Tier__
 gets **Summon Phoenix** ability
  
 __Crosspath Benefits__
-*bolt*, *fireball*, *fire-wall*, and *flame* can attack through walls
-*bolt* gets seeking, +1d
-*fire-wall* lasts for +1s, follows targeting
-*flame* gets double lifespan
+*bolt* can attack through walls, gets seeking, +1d
+*fire-wall* follows targeting, can attack through walls
+*flame* gets double lifespan, can attack through walls
 
 041 
 40r
 *bolt*- 1d, 8p, 1.1s, energy
 *fireball*- 9d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 25p, 20r, 0.1s, fire
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 2d, 6p, 0.125s, fire
+*flame*- 1d, 2cd, 6p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
-**Summon Phoenix** ability: 45s cooldown, spawns phoenix subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Summon Phoenix** ability: 45s cooldown (battle ready), spawns phoenix subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - follows tower targeting 
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
  
 __Changes from Previous Tier__
 gets **Summon Phoenix** ability
@@ -676,7 +649,7 @@ gets **Summon Phoenix** ability
 __Crosspath Benefits__
 *bolt* gets +5p, faster projectile speed
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 *flame* gets +2p
 
 042 
@@ -684,45 +657,46 @@ __Crosspath Benefits__
 *bolt*- 1d, 8p, 1.1s, energy, camo
 *fireball*- 9d, 20p, 2.2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 25p, 20r, 0.1s, fire, camo
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.1s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 2d, 6p, 0.125s, fire, camo
+*flame*- 1d, 2cd, 6p, 0.1s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
-**Summon Phoenix** ability: 45s cooldown, spawns phoenix subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+**Summon Phoenix** ability: 45s cooldown (battle ready), spawns phoenix subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - follows tower targeting
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
  
 __Changes from Previous Tier__
 gets **Summon Phoenix** ability
  
 __Crosspath Benefits__
-+10r
 all attacks get camo
 *bolt* gets +5p, faster projectile speed
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 *flame* gets +2p
 
 004 
 60r
 *bolt*- 1d, 8p, 1.1s, energy, camo
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
-*graveyard*- stores pops within 70 units for 2 rounds, with a max of 500 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+*graveyard*- stores pops within 70 units for 2 rounds, with a max of 450 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
 ‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 200 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)
 *reanimate*- 1.5s, spawns 1-4 *zombloons* using 1-10 pops from *graveyard*
-‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 2d, 2-11p, normal, lasts 7s
+‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 2d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
@@ -733,18 +707,20 @@ gets *reanimate* attack
 60r
 *bolt*- 1d, 8p, 1.1s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
-*graveyard*- stores pops within 70 units for 2 rounds, with a max of 500 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+*graveyard*- stores pops within 70 units for 2 rounds, with a max of 450 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
 ‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 200 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)
 *reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
 ‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 2d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
@@ -753,24 +729,25 @@ gets *reanimate* attack
  
 __Crosspath Benefits__
 *bolt* can attack through walls, gets seeking
-zombloon gets +3s duration
 
 204 
 60r
 *bolt*- 2d, 8p, 1.1s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
-*graveyard*- stores pops within 70 units for 2 rounds, with a max of 500 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+*graveyard*- stores pops within 70 units for 2 rounds, with a max of 450 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
 ‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 200 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)
 *reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
 ‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 2d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
@@ -779,25 +756,26 @@ gets *reanimate* attack
  
 __Crosspath Benefits__
 *bolt* can attack through walls, gets seeking, +1d
-zombloon gets +3s duration
 
 014 
 60r
 *bolt*- 1d, 8p, 1.1s, energy, camo
-*fireball*- 1d, 20p, 2,2s, explosive
+*fireball*- 1d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
-*graveyard*- stores pops within 70 units for 2 rounds, with a max of 500 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+*graveyard*- stores pops within 70 units for 2 rounds, with a max of 450 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
 ‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 200 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)
 *reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
-‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 2d, 2-11p, normal, lasts 7s
+‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 2d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
@@ -813,22 +791,24 @@ gets *fireball* attack
 *bolt*- 1d, 8p, 1.1s, energy, camo
 *fireball*- 1d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*fire-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.15s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*shimmer*- 0d, 200p, 2.5s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
-*graveyard*- stores pops within 70 units for 2 rounds, with a max of 500 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+*graveyard*- stores pops within 70 units for 2 rounds, with a max of 450 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
 ‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 200 pops stored
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)
 *reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
-‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 2d, 2-11p, normal, lasts 7s
+‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 2d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
  
 __Changes from Previous Tier__
@@ -837,85 +817,82 @@ gets *reanimate* attack
  
 __Crosspath Benefits__
 gets *fireball* attack
-gets *deploy-wall* attack
+gets *fire-wall* attack
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 
 500 
 60r
-*bolt*- 8d, +19md (27), 11p, 0.1375s, plasma
+*bolt*- 10d, +25md (35), +8ld, 11p, 0.1375s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 2d, +1cd (3), +2md (4), 4p, 0.05s, fire
+*flame*- 1d, 2cd, 4p, 0.05s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 *shimmer*- 0d, 200p, 1.25s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 90r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-*bolt* gets +2d, +9md (27), +4p, 50%s
+*bolt* gets +2d, +15md, +4ld, +4p, 50%s
 gets *flame* attack 
 gets *shimmer* attack
 
 510 
 60r
-*bolt*- 8d, +19md (27), 11p, 0.1375s, plasma
+*bolt*- 10d, +25md (35), +8ld, 11p, 0.1375s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 9d, +9md (18), 15p, 1.1s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 2d, +1cd (3), +2md (4), 4p, 0.05s, fire
+*flame*- 1d, 2cd, 4p, 0.05s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 *shimmer*- 0d, 200p, 1.25s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 90r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-*bolt* gets +2d, +9md (27), +4p, 50%s
+*bolt* gets +2d, +15md, +4ld, +4p, 50%s
 gets *flame* attack 
 gets *shimmer* attack
  
 __Crosspath Benefits__
-gets an improved *fireball* attack: +8d (9), +9md (18), 50%s (1.1), can attack through walls
+gets *fireball* attack
 
 520 
 60r
-*bolt*- 8d, +19md (27), 11p, 0.1375s, plasma
+*bolt*- 10d, +25md (35), +8ld, 11p, 0.1375s, plasma
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 *fireball*- 9d, +9md (18), 15p, 1.1s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*fire-wall*- 3.25s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1md (2), 10p, 20r, 0.15s, fire
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
-*flame*- 2d, +1cd (3), 4p, 0.1s, fire
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
-*shimmer*- 0d, 200p, 2.5s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - 90r
-‎ ‎ ‎ ‎ ‎ ‎ - removes camo
- 
-__Changes from Previous Tier__
-*bolt* gets +2d, +9md (27), +4p, 50%s
-gets *flame* attack 
-gets *shimmer* attack
- 
-__Crosspath Benefits__
-gets an improved *fireball* attack: +8d (9), +9md (18), 50%s (1.1), can attack through walls
-gets an improved *deploy-wall* attack: 50%s (3.25s), +1md (2), can attack through walls
-*fire-wall* lasts for +1s
-
-501 
-60r
-*bolt*- 8d, +19md (27), 16p, 0.1375s, plasma
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 2d, +1cd (3), 4p, 0.05s, fire
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1md (2), 15p, 20r, 0.075s, fire
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
+*flame*- 1d, 2cd, 4p, 0.05s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 *shimmer*- 0d, 200p, 1.25s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 90r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-*bolt* gets +2d, +9md (27), +4p, 50%s
+*bolt* gets +2d, +15md, +4ld, +4p, 50%s
+gets *flame* attack 
+gets *shimmer* attack
+ 
+__Crosspath Benefits__
+gets *fireball* attack
+gets *fire-wall* attack
+
+501 
+60r
+*bolt*- 10d, +25md (35), +8ld, 16p, 0.1375s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
+*flame*- 1d, 2cd, 4p, 0.05s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
+*shimmer*- 0d, 200p, 1.25s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 90r
+‎ ‎ ‎ ‎ ‎ ‎ - removes camo
+ 
+__Changes from Previous Tier__
+*bolt* gets +2d, +15md, +4ld, +4p, 50%s
 gets *flame* attack 
 gets *shimmer* attack
  
@@ -923,50 +900,50 @@ __Crosspath Benefits__
 *bolt* gets +5p, faster projectile speed
 
 502 
-70r
-*bolt*- 8d, +19md (27), 16p, 0.1375s, plasma, camo
+60r
+*bolt*- 10d, +25md (35), +8ld 16p, 0.1375s, plasma, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 2d, +1cd (3), 4p, 0.05s, fire, camo
+*flame*- 1d, 2cd, 4p, 0.05s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 *shimmer*- 0d, 200p, 1.25s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - 90r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
  
 __Changes from Previous Tier__
-*bolt* gets +2d, +9md (27), +4p, 50%s
+*bolt* gets +2d, +8md, +4p, 50%s
 gets *flame* attack 
 gets *shimmer* attack
  
 __Crosspath Benefits__
-+10r
 all attacks get camo
 *bolt* gets +5p, faster projectile speed
 
 050 
 40r
 *bolt*- 1d, 3p, 1.1s, energy
-*fireball*- 27d, 15p, 2.2s, explosive
+*fireball*- 33d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 20p, 20r, 0.1s, fire
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 15p, 20r, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 6d, 50p, 0.125s, fire
+*flame*- 6d, 7cd, 50p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 spawns phoenix subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
-**Summon Phoenix** ability: 45s cooldown, transforms the wizard into *phoenix-lord* subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
+**Summon Phoenix** ability: 45s cooldown (battle ready), transforms the wizard into *phoenix-lord* subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 20d, 50p, 0.1s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 500p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 30d, 50p, 0.1s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 255p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - applies *mystery-buff* to other *phoenix* subtowers- stats unknown
  
 __Changes from Previous Tier__
-*fireball* gets +18d
+*fireball* gets +24d
 *fire-wall* gets +2d
-*flame* gets +4d, +46p
+*flame* gets +5d, +46p
 gets phoenix subtower
 **Summon Phoenix** ability - transforms into *phoenix-lord* subtower instead
 
@@ -974,181 +951,182 @@ gets phoenix subtower
 40r
 *bolt*- 1d, 3p, 1.1s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*fireball*- 27d, 15p, 2.2s, explosive
+*fireball*- 33d, 15p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 15p, 20r, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 20p, 20r, 0.1s, fire
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 6d, 50p, 0.125s, fire
+*flame*- 6d, 7cd, 50p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 spawns phoenix subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
-**Summon Phoenix** ability: 45s cooldown, transforms the wizard into *phoenix-lord* subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
+**Summon Phoenix** ability: 45s cooldown (battle ready), transforms the wizard into *phoenix-lord* subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 20d, 50p, 0.1s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 500p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 30d, 50p, 0.1s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 255p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - applies *mystery-buff* to other *phoenix* subtowers- stats unknown
  
 __Changes from Previous Tier__
-*fireball* gets +18d
+*fireball* gets +24d
 *fire-wall* gets +2d
-*flame* gets +4d, +46p
+*flame* gets +5d, +46p
 gets phoenix subtower
 **Summon Phoenix** ability - transforms into *phoenix-lord* subtower instead
  
 __Crosspath Benefits__
-*bolt*, *fireball*, *fire-wall*, and *flame* can attack through walls
-*bolt* gets seeking
-*fire-wall* lasts for +1s, follows targeting
-*flame* gets double lifespan
+*bolt* can attack through walls, gets seeking
+*fire-wall* follows targeting, can attack through walls
+*flame* gets double lifespan, can attack through walls
 
 250 
 40r
 *bolt*- 2d, 3p, 1.1s, energy
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*fireball*- 27d, 15p, 2.2s, explosive
+*fireball*- 33d, 15p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 15p, 20r, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 20p, 20r, 0.1s, fire
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 5.5s
-‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*flame*- 6d, 50p, 0.125s, fire
+*flame*- 6d, 7cd, 50p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
 spawns phoenix subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
-**Summon Phoenix** ability: 45s cooldown, transforms the wizard into *phoenix-lord* subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
+**Summon Phoenix** ability: 45s cooldown (battle ready), transforms the wizard into *phoenix-lord* subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 20d, 50p, 0.1s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 500p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 30d, 50p, 0.1s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 255p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - applies *mystery-buff* to other *phoenix* subtowers- stats unknown
  
 __Changes from Previous Tier__
-*fireball* gets +18d
+*fireball* gets +24d
 *fire-wall* gets +2d
-*flame* gets +4d, +46p
+*flame* gets +5d, +46p
 gets phoenix subtower
 **Summon Phoenix** ability - transforms into *phoenix-lord* subtower instead
  
 __Crosspath Benefits__
-*bolt*, *fireball*, *fire-wall*, and *flame* can attack through walls
-*bolt* gets seeking, +1d
-*fire-wall* lasts for +1s, follows targeting
-*flame* gets double lifespan
+*bolt* can attack through walls, gets seeking, +1d
+*fire-wall* follows targeting, can attack through walls
+*flame* gets double lifespan, can attack through walls
 
 051 
 40r
 *bolt*- 1d, 8p, 1.1s, energy
-*fireball*- 27d, 20p, 2.2s, explosive
+*fireball*- 33d, 20p, 3.0s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 25p, 20r, 0.1s, fire
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 19p, 20r, 0.1s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 6d, 52p, 0.125s, fire
+*flame*- 6d, 7cd, 52p, 0.1s, fire
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 spawns phoenix subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
-**Summon Phoenix** ability: 45s cooldown, transforms the wizard into *phoenix-lord* subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
+**Summon Phoenix** ability: 45s cooldown (battle ready), transforms the wizard into *phoenix-lord* subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 20d, 50p, 0.1s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 500p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 30d, 50p, 0.1s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 255p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - applies *mystery-buff* to other *phoenix* subtowers- stats unknown
  
 __Changes from Previous Tier__
-*fireball* gets +18d
+*fireball* gets +24d
 *fire-wall* gets +2d
-*flame* gets +4d, +46p
+*flame* gets +5d, +46p
 gets *phoenix* subtower
-***Summon Phoenix** ability* - transforms into *phoenix-lord* subtower instead
+***Summon Phoenix** ability* - transforms into **phoenix-lord** subtower instead
  
 __Crosspath Benefits__
 *bolt* gets +5p, faster projectile speed
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 *flame* gets +2p
 
 052 
-50r
+40r
 *bolt*- 1d, 8p, 1.1s, energy, camo
-*fireball*- 27d, 20p, 2.2s, explosive, camo
+*fireball*- 33d, 20p, 3.0s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*deploy-wall*- 4.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 25p, 20r, 0.1s, fire, camo
+*fire-wall*- 4.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 3d, 19p, 20r, 0.1s, fire, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*flame*- 6d, 52p, 0.125s, fire, camo
+*flame*- 6d, 7cd, 52p, 0.1s, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - 50r
 ‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - only applies on damage
 spawns phoenix subtower
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 5d, 8p, 0.1s, fire, camo
-**Summon Phoenix** ability: 45s cooldown, transforms the wizard into *phoenix-lord* subtower for 20s
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+‎ ‎ ‎ ‎ ‎ ‎ - *flame*- 6d, 8p, 0.1s, fire, camo
+**Summon Phoenix** ability: 45s cooldown (battle ready), transforms the wizard into *phoenix-lord* subtower for 20s
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
-‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 20d, 50p, 0.1s, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 500p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *phoenix-flame*- 30d, 50p, 0.1s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *meteor*- 50d, 255p, 1.0s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - applies *mystery-buff* to other *phoenix* subtowers- stats unknown
  
 __Changes from Previous Tier__
-*fireball* gets +18d
+*fireball* gets +24d
 *fire-wall* gets +2d
-*flame* gets +4d, +46p
+*flame* gets +5d, +46p
 gets phoenix subtower
 **Summon Phoenix** ability - transforms into *phoenix-lord* subtower instead
  
 __Crosspath Benefits__
-+10r
 all attacks get camo
 *bolt* gets +5p, faster projectile speed
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
 *flame* gets +2p
 
 005 
 60r
 *bolt*- 1d, 8p, 0.275s, energy, camo
-*shimmer*- 0d, 200p, 1.25s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
 __Click Below for Graveyard Details__
 ||*graveyard*- stores pops within 70 units for 3 rounds, with a max of 3000 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
-‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage||
+‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)||
 __Click Below for Zombloon Details__
 ||*reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
 ‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 3d, 2-11p, normal, lasts 7s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls||
 __Click Below for Zombie Blimp Details__
 ||*reanimate-blimp*- 3s, spawns a zmoab if *graveyard* has ≤2000 bloons, spawns a zbfb if *graveyard* has >2000 bloons
 ‎ ‎ ‎ ‎ ‎ ‎ - *zmoab*- 41d, 20p, normal, lasts 22.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 20 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at M.O.A.B. speed
-‎ ‎ ‎ ‎ ‎ ‎ - *zbfb*- 101d, 50p, normal, lasts 9.975s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at M.O.A.B. speed
+‎ ‎ ‎ ‎ ‎ ‎ - *zbfb*- 101d, 50p, normal, lasts 12.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 50 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at B.F.B. speed||
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at B.F.B. speed||
 *buff*- all zombie spawns get +1d and +50% lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 *bolt* gets 25%s
 *shimmer* gets 50%s
-*graveyard* gets +2500 capacity
+*graveyard* gets +2550 capacity
 gets *reanimate-blimp* attack
 gets *buff*
 
@@ -1156,36 +1134,38 @@ gets *buff*
 60r
 *bolt*- 1d, 8p, 0.275s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*shimmer*- 0d, 200p, 1.25s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
 __Click Below for Graveyard Details__
 ||*graveyard*- stores pops within 70 units for 3 rounds, with a max of 3000 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
-‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage||
+‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)||
  __Click Below for Zombloon Details__
 ||*reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
 ‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 3d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls||
  __Click Below for Zombie Blimp Details__
 ||*reanimate-blimp*- 3s, spawns a zmoab if *graveyard* has ≤2000 bloons, spawns a zbfb if *graveyard* has >2000 bloons
 ‎ ‎ ‎ ‎ ‎ ‎ - *zmoab*- 41d, 20p, normal, lasts 30s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 20 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at M.O.A.B. speed
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at M.O.A.B. speed
 ‎ ‎ ‎ ‎ ‎ ‎ - *zbfb*- 101d, 50p, normal, lasts 14.96s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 50 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at B.F.B. speed||
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at B.F.B. speed||
 *buff*- all zombie spawns get +1d and +50% lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 *bolt* gets 25%s
 *shimmer* gets 50%s
-*graveyard* gets +2500 capacity
+*graveyard* gets +2550 capacity
 gets *reanimate-blimp* attack
 gets *buff*
  
@@ -1199,36 +1179,38 @@ zbfb gets +4.985s duration
 60r
 *bolt*- 2d, 8p, 0.275s, energy, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls
-*shimmer*- 0d, 200p, 1.25s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
 __Click Below for Graveyard Details__
 ||*graveyard*- stores pops within 70 units for 3 rounds, with a max of 3000 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
-‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage||
+‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)
 __Click Below for Zombloon Details__
 ||*reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
 ‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 3d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls||
 __Click Below for Zombie Blimp Details__
 ||*reanimate-blimp*- 3s, spawns a zmoab if *graveyard* has ≤2000 bloons, spawns a zbfb if *graveyard* has >2000 bloons
 ‎ ‎ ‎ ‎ ‎ ‎ - *zmoab*- 41d, 20p, normal, lasts 30s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 20 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at M.O.A.B. speed
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at M.O.A.B. speed
 ‎ ‎ ‎ ‎ ‎ ‎ - *zbfb*- 101d, 50p, normal, lasts 14.96s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 50 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at B.F.B. speed||
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at B.F.B. speed||
 *buff*- all zombie spawns get +1d and +50% lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 *bolt* gets 25%s
 *shimmer* gets 50%s
-*graveyard* gets +2500 capacity
+*graveyard* gets +2550 capacity
 gets *reanimate-blimp* attack
 gets *buff*
  
@@ -1243,36 +1225,38 @@ zbfb gets +4.985s duration
 *bolt*- 1d, 8p, 0.275s, energy, camo
 *fireball*- 1d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*shimmer*- 0d, 200p, 1.25s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
 __Click Below for Graveyard Details__
 ||*graveyard*- stores pops within 70 units for 3 rounds, with a max of 3000 pops stored
-‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is a 10x multiplier to pops
+‎ ‎ ‎ ‎ ‎ ‎ - after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
-‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage||
+‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)||
 __Click Below for Zombloon Details__
 ||*reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
 ‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 3d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls||
 __Click Below for Zombie Blimp Details__
 ||*reanimate-blimp*- 3s, spawns a zmoab if *graveyard* has ≤2000 bloons, spawns a zbfb if *graveyard* has >2000 bloons
 ‎ ‎ ‎ ‎ ‎ ‎ - *zmoab*- 41d, 20p, normal, lasts 22.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 20 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at M.O.A.B. speed
-‎ ‎ ‎ ‎ ‎ ‎ - *zbfb*- 101d, 50p, normal, lasts 9.975s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at M.O.A.B. speed
+‎ ‎ ‎ ‎ ‎ ‎ - *zbfb*- 101d, 50p, normal, lasts 12.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 50 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at B.F.B. speed||
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at B.F.B. speed||
 *buff*- all zombie spawns get +1d and +50% lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 *bolt* gets 25%s
 *shimmer* gets 50%s
-*graveyard* gets +2500 capacity
+*graveyard* gets +2550 capacity
 gets *reanimate-blimp* attack
 gets *buff*
  
@@ -1285,45 +1269,47 @@ gets *fireball* attack
 *bolt*- 1d, 8p, 0.275s, energy, camo
 *fireball*- 1d, 20p, 2.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - main attack does 1d, fire before explosion
-*fire-wall*- 6.5s, spawns *fire-wall*
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 1s
-‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 15p, 20r, 0.15s, fire
+*fire-wall*- 5.5s, spawns *fire-wall*
+‎ ‎ ‎ ‎ ‎ ‎ - 1s initial cooldown
+‎ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 19p, 20r, 0.15s, fire
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - lasts 4.5s
-*shimmer*- 0d, 200p, 1.25s, normal
-‎ ‎ ‎ ‎ ‎ ‎ - zone, 80r
+*shimmer*- 0d, 200p, 0.75s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - zone, 70r
 ‎ ‎ ‎ ‎ ‎ ‎ - removes camo
 __Click Below for Graveyard Details__
 ||*graveyard*- stores pops within 70 units for 3 rounds, with a max of 3000 pops stored
-    -after r80, there is a 10x multiplier to pops
+    -after r80, there is an approximately 10x multiplier to pops
 ‎ ‎ ‎ ‎ ‎ ‎ - each pop can only be stored by 1 wizard
-‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage||
+‎ ‎ ‎ ‎ ‎ ‎ - increases damage of all attacks by 1 for every 300 pops stored, up to +10 damage
+‎ ‎ ‎ ‎ ‎ ‎ - (not an attack but important to be listed separately)||
 __Click Below for Zombloon Details__
 ||*reanimate*- 1.5s, spawns 1-4 zombloons using 1-10 pops from *graveyard*
 ‎ ‎ ‎ ‎ ‎ ‎ - *zombloon*- 3d, 2-11p, normal, lasts 10s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - pierce is randomly selected, uses 1 *graveyard* pop for every pierce above 1
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at red bloon speed
-‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% (additively) for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at red bloon speed
+‎ ‎ ‎ ‎ ‎ ‎ - speed increases by 10% for every 100 bloons in the *graveyard*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (100 bloons give it 90%s, 200 bloons give it 80%s, etc.)
 ‎ ‎ ‎ ‎ ‎ ‎ - can attack through walls||
 __Click Below for Zombie Blimp Details__
 ||*reanimate-blimp*- 3s, spawns a zmoab if *graveyard* has ≤2000 bloons, spawns a zbfb if *graveyard* has >2000 bloons
 ‎ ‎ ‎ ‎ ‎ ‎ - *zmoab*- 41d, 20p, normal, lasts 22.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 20 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at M.O.A.B. speed
-‎ ‎ ‎ ‎ ‎ ‎ - *zbfb*- 101d, 50p, normal, lasts 9.975s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at M.O.A.B. speed
+‎ ‎ ‎ ‎ ‎ ‎ - *zbfb*- 101d, 50p, normal, lasts 12.5s
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - uses 50 *graveyard* pops
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns on the targeted spot then moves towards the entrance at B.F.B. speed||
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - spawns near the spot closest to the exit in the wizard’s range then moves towards the entrance at B.F.B. speed||
 *buff*- all zombie spawns get +1d and +50% lifespan
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
  
 __Changes from Previous Tier__
 *bolt* gets 25%s
 *shimmer* gets 50%s
-*graveyard* gets +2500 capacity
+*graveyard* gets +2550 capacity
 gets *reanimate-blimp* attack
 gets *buff*
  
 __Crosspath Benefits__
 gets *fireball* attack
-gets *deploy-wall* attack
+gets *fire-wall* attack
 *fireball* gets +5p
-*fire-wall* gets +5p
+*fire-wall* gets +4p
