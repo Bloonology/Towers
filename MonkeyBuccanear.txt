@@ -1,14 +1,14 @@
 000 
 60r
 *dart*- 1d, 4p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 footprint radius: 8 (large)
 
 100 
 60r
 *dart*- 1d, 4p, 0.75s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from 0-0-0__
 *dart* gets 75%s
@@ -16,9 +16,9 @@ __Changes from 0-0-0__
 010 
 60r
 *dart*- 1d, 4p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 1.3s, 5j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -27,7 +27,7 @@ gets *grape* attack
 001 
 71r
 *dart*- 1d, 5p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from 0-0-0__
 +11r, +1p, faster projectile speed
@@ -35,9 +35,9 @@ __Changes from 0-0-0__
 110 
 60r
 *dart*- 1d, 4p, 0.75s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.975s, 5j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -47,7 +47,7 @@ gets *grape* attack
 101 
 71r
 *dart*- 1d, 4p, 0.75s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from 0-0-0__
 *dart* gets 75%s, +11r, faster projectile speed
@@ -55,9 +55,9 @@ __Changes from 0-0-0__
 011 
 71r
 *dart*- 1d, 5p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 1.3s, 5j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -67,7 +67,7 @@ __Changes from 0-0-0__
 200 
 60r
 *dart*- 1d, 4p, 0.75s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from Previous Tier__
 *dart* gets +1j
@@ -78,10 +78,10 @@ __Changes from 0-0-0__
 020 
 60r
 *dart*- 1d, 4p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 1.3s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from Previous Tier__
@@ -94,7 +94,7 @@ gets *grape* attack
 002 
 71r
 *dart*- 1d, 4p, 1.0s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from Previous Tier__
 *dart* gets camo
@@ -105,9 +105,9 @@ __Changes from 0-0-0__
 210 
 60r
 *dart*- 1d, 4p, 0.75s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.975s, 10j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -118,10 +118,10 @@ all attacks get 75%s
 220 
 60r
 *dart*- 1d, 4p, 0.75s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.975s, 10j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -133,7 +133,7 @@ all attacks get 75%s
 201 
 71r
 *dart*- 1d, 5p, 0.75s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from 0-0-0__
 *dart* gets 75%s, +1p, +1j, +11r, faster projectile speed
@@ -141,7 +141,7 @@ __Changes from 0-0-0__
 202 
 71r
 *dart*- 1d, 5p, 0.75s, 2j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from 0-0-0__
 *dart* gets 75%s, +1p, +1j, +11r, faster projectile speed, camo
@@ -149,10 +149,10 @@ __Changes from 0-0-0__
 120 
 60r
 *dart*- 1d, 4p, 0.75s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.975s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -162,10 +162,10 @@ all attacks get 75%s
 021 
 71r
 *dart*- 1d, 5p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 1.3s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -177,10 +177,10 @@ all attacks get faster projectile speed
 022 
 71r
 *dart*- 1d, 5p, 1.0s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 1.3s, 5j, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -192,7 +192,7 @@ all attacks get faster projectile speed, camo
 102 
 71r
 *dart*- 1d, 5p, 0.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from 0-0-0__
 *dart* gets 75%s, +1p, +11r, faster projectile speed, camo
@@ -200,9 +200,9 @@ __Changes from 0-0-0__
 012 
 71r
 *dart*- 1d, 5p, 1.0s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 1.3s, 5j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from 0-0-0__
@@ -214,7 +214,7 @@ all attacks get faster projectile speed, camo
 300 
 60r
 *dart*- 1d, 4p, 0.15s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from Previous Tier__
 *dart* gets 20%s
@@ -222,38 +222,36 @@ __Changes from Previous Tier__
 310 
 60r
 *dart*- 1d, 4p, 0.15s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.375s, 10j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from Previous Tier__
 *dart* gets 20%s
-*grape* gets 38.47%s
  
 __Crosspath Benefits__
-gets *grape* attack
+*grape* gets 28.85%s
 
 320 
 60r
 *dart*- 1d, 4p, 0.15s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.375s, 10j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
  
 __Changes from Previous Tier__
 *dart* gets 20%s
-*grape* gets 38.47%s
  
 __Crosspath Benefits__
-gets *grape* attack
+*grape* gets 28.85%s
 
 301 
 71r
 *dart*- 1d, 4p, 0.15s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from Previous Tier__
 *dart* gets 20%s
@@ -264,7 +262,7 @@ __Crosspath Benefits__
 302 
 71r
 *dart*- 1d, 5p, 0.15s, 2j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
  
 __Changes from Previous Tier__
 *dart* gets 20%s
@@ -275,10 +273,10 @@ __Crosspath Benefits__
 030 
 60r
 *dart*- 1d, 4p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 1.3s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 *cannon-ball*- 1d, 28p, 1.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
@@ -290,10 +288,10 @@ gets *cannon-ball* attack
 130 
 60r
 *dart*- 1d, 4p, 0.75s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.975s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 *cannon-ball*- 1d, 28p, 0.9s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
@@ -308,10 +306,10 @@ all attacks get 75%s
 230 
 60r
 *dart*- 1d, 4p, 0.75s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.975s, 10j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 *cannon-ball*- 1d, 28p, 0.9s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
@@ -328,10 +326,10 @@ all attacks get 75%s
 031 
 71r
 *dart*- 1d, 4p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 1.3s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 *cannon-ball*- 1d, 28p, 1.2s, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
@@ -349,10 +347,10 @@ all attacks get faster projectile speed
 032 
 71r
 *dart*- 1d, 5p, 1.0s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 1.3s, 5j, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 *cannon-ball*- 1d, 28p, 1.2s, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
@@ -370,8 +368,8 @@ all attacks get faster projectile speed, camo
 003 
 71r
 *dart*- 1d, 5p, 1.0s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $200 income at the end of the round
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $300 income at the end of the round
  
 __Changes from Previous Tier__
 gets *income*
@@ -379,8 +377,8 @@ gets *income*
 103 
 71r
 *dart*- 1d, 5p, 0.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $200 income at the end of the round
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $300 income at the end of the round
  
 __Changes from Previous Tier__
 gets *income*
@@ -391,8 +389,8 @@ __Crosspath Benefits__
 203 
 71r
 *dart*- 1d, 5p, 0.75s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $200 income at the end of the round
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $300 income at the end of the round
  
 __Changes from Previous Tier__
 gets *income*
@@ -403,11 +401,11 @@ __Crosspath Benefits__
 013 
 71r
 *dart*- 1d, 5p, 1.0s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 1.3s, 5j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*income*- $200 income at the end of the round
+*income*- $300 income at the end of the round
  
 __Changes from Previous Tier__
 gets *income*
@@ -418,12 +416,12 @@ gets *grape* attack
 023 
 71r
 *dart*- 1d, 5p, 1.0s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 1.3s, 5j, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*income*- $200 income at the end of the round
+*income*- $300 income at the end of the round
  
 __Changes from Previous Tier__
 gets *income*
@@ -434,13 +432,13 @@ gets *grape* attack
 400 
 60r
 *dart*- 1d, 4p, 0.15s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 1d, 9p, 0.15s, 2j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only aim forward
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 1d, 9p, 1.0s, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 15md, 3p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 20md, 3p, 3.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
@@ -449,56 +447,56 @@ gets aircraft subtowers
 410 
 60r
 *dart*- 1d, 4p, 0.15s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.375s, 10j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 1d, 9p, 0.15s, 2j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only aim forward
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 1d, 9p, 1.0s, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 15md, 3p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 20md, 3p, 3.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
 gets aircraft subtowers
  
 __Crosspath Benefits__
-gets *grape* attack
+*grape* gets +5j
 
 420 
 60r
 *dart*- 1d, 4p, 0.15s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.375s, 10j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 1d, 9p, 0.15s, 2j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only aim forward
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 1d, 9p, 1.0s, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 15md, 3p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 20md, 3p, 3.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
 gets aircraft subtowers
  
 __Crosspath Benefits__
-gets *grape* attack
+*grape* gets +5j
 
 401 
 71r
 *dart*- 1d, 5p, 0.15s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 1d, 10p, 0.15s, 2j, sharp
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only aim forward
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 1d, 10p, 1.0s, 8j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 15md, 3p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 20md, 3p, 3.0s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
@@ -512,13 +510,13 @@ all attacks get faster projectile speed
 402 
 71r
 *dart*- 1d, 5p, 0.15s, 2j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 1d, 10p, 0.15s, 2j, sharp, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only aim forward
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 1d, 10p, 1.0s, 8j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 15md, 3p, 3.0s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 20md, 3p, 3.0s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
  
 __Changes from Previous Tier__
@@ -532,41 +530,37 @@ all attacks get faster projectile speed, camo
 040 
 60r
 *dart*- 1d, 4p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 2d, +2cd (4), 1p, 1.3s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 1d, 1p, 1.3s, 5j, fire
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +3md (6), 28p, 1.2s, 3j, explosive
+*cannon-ball*- 2d, 28p, 1.2s, 3j, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
-**MOAB Takedown** ability: 50s cooldown, instantly kills the strongest blimp on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+**MOAB Takedown** ability: 50s cooldown (battle ready), instantly kills the strongest blimp on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s or B.A.D.s
  
 __Changes from Previous Tier__
-*grape* gets +1d (2), +2cd (4)
-*cannon-ball* gets +2d (3), +3md (6), +2j (3)
+*cannon-ball* gets +1d, +2j
 gets **MOAB Takedown** ability
 
 140 
 60r
 *dart*- 1d, 4p, 0.75s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 2d, +2cd (4), 1p, 0.975s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 1d, 1p, 0.975s, 5j, fire
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +3md (6), 28p, 0.9s, 3j, explosive
+*cannon-ball*- 2d, 28p, 0.9s, 3j, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
-**MOAB Takedown** ability: 50s cooldown, instantly kills the strongest blimp on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+**MOAB Takedown** ability: 50s cooldown (battle ready), instantly kills the strongest blimp on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s or B.A.D.s
  
 __Changes from Previous Tier__
-*grape* gets +1d (2), +2cd (4)
-*cannon-ball* gets +2d (3), +3md (6), +2j (3)
+*cannon-ball* gets +1d, +2j
 gets **MOAB Takedown** ability
  
 __Crosspath Benefits__
@@ -575,21 +569,19 @@ all attacks get 75%s
 240 
 60r
 *dart*- 1d, 4p, 0.75s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 2d, +2cd (4), 1p, 0.975s, 10j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 1d, 1p, 0.975s, 10j, fire
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +3md (6), 28p, 0.9s, 3j, explosive
+*cannon-ball*- 2d, 28p, 0.9s, 3j, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
-**MOAB Takedown** ability: 50s cooldown, instantly kills the strongest blimp on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+**MOAB Takedown** ability: 50s cooldown (battle ready), instantly kills the strongest blimp on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s or B.A.D.s
  
 __Changes from Previous Tier__
-*grape* gets +1d (2), +2cd (4)
-*cannon-ball* gets +2d (3), +3md (6), +2j (3)
+*cannon-ball* gets +1d, +2j
 gets **MOAB Takedown** ability
  
 __Crosspath Benefits__
@@ -600,21 +592,19 @@ all attacks get 75%s
 041 
 71r
 *dart*- 1d, 5p, 1.0s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 2d, +2cd (4), 2p, 1.3s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 1d, 2p, 1.3s, 5j, fire
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +3md (6), 28p, 1.2s, 3j, explosive
+*cannon-ball*- 2d, 28p, 1.2s, 3j, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
-**MOAB Takedown** ability: 50s cooldown, instantly kills the strongest blimp on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+**MOAB Takedown** ability: 50s cooldown (battle ready), instantly kills the strongest blimp on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s or B.A.D.s
  
 __Changes from Previous Tier__
-*grape* gets +1d (2), +2cd (4)
-*cannon-ball* gets +2d (3), +3md (6), +2j (3)
+*cannon-ball* gets +1d, +2j
 gets **MOAB Takedown** ability
  
 __Crosspath Benefits__
@@ -626,21 +616,19 @@ all attacks get faster projectile speed
 042 
 71r
 *dart*- 1d, 5p, 1.0s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 2d, +2cd (4), 2p, 1.3s, 5j, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 1d, 2p, 1.3s, 5j, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +3md (6), 28p, 1.2s, 3j, explosive, camo
+*cannon-ball*- 2d, 28p, 1.2s, 3j, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
-**MOAB Takedown** ability: 50s cooldown, instantly kills the strongest blimp on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+**MOAB Takedown** ability: 50s cooldown (battle ready), instantly kills the strongest blimp on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s or B.A.D.s
  
 __Changes from Previous Tier__
-*grape* gets +1d (2), +2cd (4)
-*cannon-ball* gets +2d (3), +3md (6), +2j (3)
+*cannon-ball* gets +1d, +2j
 gets **MOAB Takedown** ability
  
 __Crosspath Benefits__
@@ -652,27 +640,27 @@ all attacks get faster projectile speed, camo
 004 
 71r
 *dart*- 1d, 5p, 0.5s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $500 income at the end of the round
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $1000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
  
 __Changes from Previous Tier__
 *dart* gets 50%s
-*income* improved $200 -> $500
+*income* improved $300 -> $1000
 gets *trade-deal-buff*
 
 104 
 71r
 *dart*- 1d, 5p, 0.375s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $500 income at the end of the round
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $1000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
  
 __Changes from Previous Tier__
 *dart* gets 50%s
-*income* improved $200 -> $500
+*income* improved $300 -> $1000
 gets *trade-deal-buff*
  
 __Crosspath Benefits__
@@ -681,15 +669,15 @@ __Crosspath Benefits__
 204 
 71r
 *dart*- 1d, 5p, 0.375s, 2j, sharp, camo
- ‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $500 income at the end of the round
+ ‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $1000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
  
 __Changes from Previous Tier__
 *dart* gets 50%s
-*income* improved $200 -> $500
-gets *trade-deal-buff*
+*income* improved $300 -> $1000
+gets *trade-dealbuff*
  
 __Crosspath Benefits__
 *dart* gets 75%s, +1j
@@ -697,17 +685,17 @@ __Crosspath Benefits__
 014 
 71r
 *dart*- 1d, 5p, 0.5s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 0.65s, 5j, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*income*- $500 income at the end of the round
+*income*- $1000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
  
 __Changes from Previous Tier__
 *dart* gets 50%s
-*income* improved $200 -> $500
+*income* improved $300 -> $1000
 gets *trade-deal-buff*
  
 __Crosspath Benefits__
@@ -716,18 +704,18 @@ __Crosspath Benefits__
 024 
 71r
 *dart*- 1d, 5p, 0.5s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 2p, 0.65s, 5j, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*income*- $500 income at the end of the round
+*income*- $1000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
  
 __Changes from Previous Tier__
 *dart* gets 50%s
-*income* improved $200 -> $500
+*income* improved $300 -> $1000
 gets *trade-deal-buff*
  
 __Crosspath Benefits__
@@ -736,12 +724,12 @@ __Crosspath Benefits__
 500 
 60r
 *dart*- 1d, 4p, 0.1275s, 2j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 2d, 5cd, 14p, 0.1275s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 2d, 5cd, 14p, 0.85s, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 30md, 4p, 1.275s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 60md, 4p, 1.275s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
 *buff*- all water towers and aces get 85%s
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
@@ -750,23 +738,23 @@ can place size *small* towers on the upper platforms
 __Changes from Previous Tier__
 *dart* damage type sharp -> normal
 *forward-dart* and *radial-dart* gets +1d, +3cd, +5p, damage type sharp -> normal
-*forward-dart* gets -1j, follows targeting, and light homing
-*missile* gets +15md, +1p, 50%s, damage type explosion -> normal 
+*forward-dart* gets -1j and follows targeting
+*missile* gets +40md, +1p, 50%s
 gets *buff*
 can place small towers on upper deck
 
 510 
 60r
 *dart*- 1d, 4p, 0.1275s, 2j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.3188s, 10j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 2d, 5cd, 14p, 0.1275s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 2d, 5cd, 14p, 0.85s, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 30md, 4p, 1.275s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 60md, 4p, 1.275s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
 *buff*- all water towers and aces get 85%s
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
@@ -775,27 +763,27 @@ can place size *small* towers on the upper platforms
 __Changes from Previous Tier__
 *dart* damage type sharp -> normal
 *forward-dart* and *radial-dart* gets +1d, +3cd, +5p, damage type sharp -> normal
-*forward-dart* gets -1j, follows targeting, and light homing
-*missile* gets +15md, +1p, 50%s, damage type explosion -> normal
+*forward-dart* gets -1j and follows targeting
+*missile* gets +40md, +1p, 50%s
 gets *buff*
 can place small towers on upper deck
  
 __Crosspath Benefits__
-gets *grape* attack
+*grape* gets +5j
 
 520 
 60r
 *dart*- 1d, 4p, 0.1275s, 2j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 *grape*- 1d, 1p, 0.3188s, 10j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 2d, 5cd, 14p, 0.1275s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 2d, 5cd, 14p, 0.85s, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 30md, 4p, 1.275s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 60md, 4p, 1.275s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
 *buff*- all water towers and aces get 85%s
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
@@ -804,23 +792,23 @@ can place size *small* towers on the upper platforms
 __Changes from Previous Tier__
 *dart* damage type sharp -> normal
 *forward-dart* and *radial-dart* gets +1d, +3cd, +5p, damage type sharp -> normal
-*forward-dart* gets -1j, follows targeting, and light homing
-*missile* gets +15md, +1p, 50%s, damage type explosion -> normal
+*forward-dart* gets -1j and follows targeting
+*missile* gets +40md, +1p, 50%s
 gets *buff*
 can place small towers on upper deck
  
 __Crosspath Benefits__
-gets *grape* attack
+*grape* gets +5j
 
 501 
 71r
 *dart*- 1d, 5p, 0.1275s, 2j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 2d, 5cd, 15p, 0.1275s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 2d, 5cd, 15p, 0.85s, 8j, normal
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 30md, 4p, 1.275s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 60md, 4p, 1.275s, normal
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
 *buff*- all water towers and aces get 85%s
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
@@ -829,8 +817,8 @@ can place size *small* towers on the upper platforms
 __Changes from Previous Tier__
 *dart* damage type sharp -> normal
 *forward-dart* and *radial-dart* gets +1d, +3cd, +5p, damage type sharp -> normal
-*forward-dart* gets -1j, follows targeting, and light homing
-*missile* gets +15md, +1p, 50%s, damage type explosion -> normal 
+*forward-dart* gets -1j and follows targeting
+*missile* gets +40md, +1p, 50%s
 gets *buff*
 can place small towers on upper deck 
  
@@ -842,12 +830,12 @@ all attacks get faster projectile speed
 502 
 71r
 *dart*- 1d, 5p, 0.1275s, 2j, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
 spawns 3 aircraft subtowers
 ‎ ‎ ‎ ‎ ‎ ‎ - ∞r
 ‎ ‎ ‎ ‎ ‎ ‎ - *forward-dart*- 2d, 5cd, 15p, 0.1275s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - *radial-dart*- 2d, 5cd, 15p, 0.85s, 8j, normal, camo
-‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 30md, 4p, 1.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - *missile*- 0d, 60md, 4p, 1.5s, normal, camo
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can only target moabs
 *buff*- all water towers and aces get 85%s
 ‎ ‎ ‎ ‎ ‎ ‎ - (this buff is factored into the stats)
@@ -856,65 +844,57 @@ can place size *small* towers on the upper platforms
 __Changes from Previous Tier__
 *dart* damage type sharp -> normal
 *forward-dart* and *radial-dart* gets +1d, +3cd, +5p, damage type sharp -> normal
-*forward-dart* gets -1j, follows targeting, and light homing
-*missile* gets +15md, +1p, 50%s, damage type explosion -> normal 
+*forward-dart* gets -1j and follows targeting
+*missile* gets +40md, +1p, 50%s
 gets *buff*
 can place small towers on upper deck
  
 __Crosspath Benefits__
 +11r
 all attacks get faster projectile speed, camo
-*dart*, *forward-dart*, and *radial-dart* get +1p
+*dart*, *forward-dart*, and raidal*dart* get +1p
 
 050 
 60r
 *dart*- 1d, 4p, 0.5s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 10d, +10cd (20), 1p, 0.65s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 9d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 5d, 10cd, 1p, 0.65s, 5j, fire
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +6md (9), 28p, 0.6s, 3j, explosive
+*cannon-ball*- 2d, 28p, 0.6s, 3j, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 6d, +4md (10), 1p, 8j, sharp
-**MOAB Takedown** ability: 30s cooldown, instantly kills the 3 strongest blimps on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
+**MOAB Takedown** ability: 30s cooldown (battle ready), instantly kills the 3 strongest blimps on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s require the use of 2 hooks
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ - bloons popped this way give 2 times the normal cash
  
 __Changes from Previous Tier__
 all attacks get 50%s
-*grape* gets +8d (10), +8cd (20)
-*burn* status gets +7d (9)
-*cannon-ball* gets +3md (9)
-*frags* get +5d (6), +4md (10)
-**MOAB Takedown** ability cooldown 50s -> 30s, gets +2 hooks, can target Z.O.M.G.s, gives x2 cash
+*grape* gets +4d, +5cd
+**MOAB Takedown** ability gets +2 hooks, can target Z.O.M.G.s
 
 150 
 60r
 *dart*- 1d, 4p, 0.375s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 10d, +10cd (20), 1p, 0.4875s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 9d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 5d, 10cd, 1p, 0.4875s, 5j, fire
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +6md (9), 28p, 0.45s, 3j, explosive
+*cannon-ball*- 2d, 28p, 0.45s, 3j, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 6d, +4md (10), 1p, 8j, sharp
-**MOAB Takedown** ability: 30s cooldown, instantly kills the 3 strongest blimps on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
+**MOAB Takedown** ability: 30s cooldown (battle ready), instantly kills the 3 strongest blimps on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s require the use of 2 hooks
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ - bloons popped this way give 2 times the normal cash
  
 __Changes from Previous Tier__
 all attacks get 50%s
-*grape* gets +8d (10), +8cd (20)
-*burn* status gets +7d (9)
-*cannon-ball* gets +3md (9)
-*frags* get +5d (6), +4md (10)
-**MOAB Takedown** ability cooldown 50s -> 30s, gets +2 hooks, can target Z.O.M.G.s, gives x2 cash
+*grape* gets +4d, +5cd
+**MOAB Takedown** ability gets +2 hooks, can target Z.O.M.G.s
  
 __Crosspath Benefits__
 all attacks get 75%s
@@ -922,27 +902,23 @@ all attacks get 75%s
 250 
 60r
 *dart*- 1d, 4p, 0.375s, 2j, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 10d, +10cd (20), 1p, 0.4875s, 10j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 9d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 5d, 10cd, 1p, 0.4875s, 10j, fire
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +6md (9), 28p, 0.45s, 3j, explosive
+*cannon-ball*- 2d, 28p, 0.45s, 3j, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 6d, +4md (10), 1p, 8j, sharp
-**MOAB Takedown** ability: 30s cooldown, instantly kills the 3 strongest blimps on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
+**MOAB Takedown** ability: 30s cooldown (battle ready), instantly kills the 3 strongest blimps on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s require the use of 2 hooks
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ - bloons popped this way give 2 times the normal cash
  
 __Changes from Previous Tier__
 all attacks get 50%s
-*grape* gets +8d (10), +8cd (20)
-*burn* status gets +7d (9)
-*cannon-ball* gets +3md (9)
-*frags* get +5d (6), +4md (10)
-**MOAB Takedown** ability cooldown 50s -> 30s, gets +2 hooks, can target Z.O.M.G.s, gives x2 cash
+*grape* gets +4d, +5cd
+**MOAB Takedown** ability gets +2 hooks, can target Z.O.M.G.s
  
 __Crosspath Benefits__
 all attacks get 75%s
@@ -952,27 +928,23 @@ all attacks get 75%s
 051 
 71r
 *dart*- 1d, 5p, 0.5s, sharp
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 10d, +10cd (20), 2p, 0.65s, 5j, fire
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 9d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 5d, 10cd, 2p, 0.65s, 5j, fire
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +6md (9), 28p, 0.6s, 3j, explosive
+*cannon-ball*- 2d, 28p, 0.6s, 3j, explosive
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 6d, +4md (10), 1p, 8j, sharp
-**MOAB Takedown** ability: 30s cooldown, instantly kills the 3 strongest blimps on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
+**MOAB Takedown** ability: 30s cooldown (battle ready), instantly kills the 3 strongest blimps on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s require the use of 2 hooks
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ - bloons popped this way give 2 times the normal cash
  
 __Changes from Previous Tier__
 all attacks get 50%s
-*grape* gets +8d (10), +8cd (20)
-*burn* status gets +7d (9)
-*cannon-ball* gets +3md (9)
-*frags* get +5d (6), +4md (10)
-**MOAB Takedown** ability cooldown 50s -> 30s, gets +2 hooks, can target Z.O.M.G.s, gives x2 cash
+*grape* gets +4d, +5cd
+**MOAB Takedown** ability gets +2 hooks, can target Z.O.M.G.s
  
 __Crosspath Benefits__
 +11r
@@ -983,27 +955,23 @@ all attacks get faster projectile speed
 052 
 71r
 *dart*- 1d, 5p, 0.5s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*grape*- 10d, +10cd (20), 2p, 0.65s, 5j, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 9d/1.5s, fire, 3.1s duration
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*grape*- 5d, 10cd, 2p, 0.65s, 5j, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 1d/1.5s, fire, 3s duration
 ‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*cannon-ball*- 3d, +6md (9), 28p, 0.6s, 3j, explosive, camo
+*cannon-ball*- 2d, 28p, 0.6s, 3j, explosive, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - emits *frags* on impact
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 6d, +4md (10), 1p, 8j, sharp
-**MOAB Takedown** ability: 30s cooldown, instantly kills the 3 strongest blimps on screen, camo
-‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 20s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *frags*- 1d, 1p, 8j, sharp
+**MOAB Takedown** ability: 30s cooldown (battle ready), instantly kills the 3 strongest blimps on screen, camo
 ‎ ‎ ‎ ‎ ‎ ‎ - Z.O.M.G.s require the use of 2 hooks
 ‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
 ‎ ‎ ‎ ‎ ‎ ‎ - bloons popped this way give 2 times the normal cash
  
 __Changes from Previous Tier__
 all attacks get 50%s
-*grape* gets +8d (10), +8cd (20)
-*burn* status gets +7d (9)
-*cannon-ball* gets +3md (9)
-*frags* get +5d (6), +4md (10)
-**MOAB Takedown** ability cooldown 50s -> 30s, gets +2 hooks, can target Z.O.M.G.s, gives x2 cash
+*grape* gets +4d, +5cd
+**MOAB Takedown** ability gets +2 hooks, can target Z.O.M.G.s
  
 __Crosspath Benefits__
 +11r
@@ -1013,36 +981,34 @@ all attacks get faster projectile speed, camo
 
 005 
 71r
-*dart*- 2d, +1cd (3), +1md (3), 5p, 0.5s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $800 income at the end of the round
+*dart*- 2d, 3cd, 3md, 5p, 0.5s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $3000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
 *empire-buff*- all xx3+ buccaneers get +1d, +1cd, +1md 
-‎ ‎ ‎ ‎ ‎ ‎ - +10 income for every xx3 buccaneer
-‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx4+ buccaneer
+‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx3+ buccaneer
 ‎ ‎ ‎ ‎ ‎ ‎ - income buff can only affect 20 xx3+ buccaneers, main tower is not affected
 ‎ ‎ ‎ ‎ ‎ ‎ - (all damage buffs are factored into the stats)
  
 __Changes from Previous Tier__
-*income* improved $500 -> $800
+*income* improved $1000 -> $3000
 gets *empire-buff*
 
 105 
 71r
-*dart*- 2d, +1cd (3), +1md (3), 5p, 0.5s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $800 income at the end of the round
+*dart*- 2d, 3cd, 3md, 5p, 0.5s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $3000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
 *empire-buff*- all xx3+ buccaneers get +1d, +1cd, +1md 
-‎ ‎ ‎ ‎ ‎ ‎ - +10 income for every xx3 buccaneer
-‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx4+ buccaneer
+‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx3+ buccaneer
 ‎ ‎ ‎ ‎ ‎ ‎ - income buff can only affect 20 xx3+ buccaneers, main tower is not affected
 ‎ ‎ ‎ ‎ ‎ ‎ - (all damage buffs are factored into the stats)
  
 __Changes from Previous Tier__
-*income* improved $500 -> $800
+*income* improved $1000 -> $3000
 gets *empire-buff*
  
 __Crosspath Benefits__
@@ -1050,19 +1016,18 @@ __Crosspath Benefits__
 
 205 
 71r
-*dart*- 2d, +1cd (3), +1md (3), 5p, 0.5s, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-*income*- $800 income at the end of the round
+*dart*- 2d, 3cd, 3md, 5p, 0.5s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $3000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable 
 *empire-buff*- all xx3+ buccaneers get +1d, +1cd, +1md 
-‎ ‎ ‎ ‎ ‎ ‎ - +10 income for every xx3 buccaneer
-‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx4+ buccaneer
+‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx3+ buccaneer
 ‎ ‎ ‎ ‎ ‎ ‎ - income buff can only affect 20 xx3+ buccaneers, main tower is not affected
 ‎ ‎ ‎ ‎ ‎ ‎ - (all damage buffs are factored into the stats)
  
 __Changes from Previous Tier__
-*income* improved $500 -> $800
+*income* improved $1000 -> $3000
 gets *empire-buff*
  
 __Crosspath Benefits__
@@ -1070,45 +1035,42 @@ __Crosspath Benefits__
 
 015 
 71r
-*dart*- 2d, +1cd (3), +1md (3), 5p, 0.5s, sharp, camo
-*grape*- 2d, +1cd (3), +1md (3), 2p, 0.65s, 5j, sharp, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*income*- $800 income at the end of the round
+*dart*- 2d, 3cd, 3md, 5p, 0.5s, sharp, camo
+*grape*- 2d, 3cd, 3md, 2p, 0.65s, 5j, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $3000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
 *empire-buff*- all xx3+ buccaneers get +1d, +1cd, +1md 
-‎ ‎ ‎ ‎ ‎ ‎ - +10 income for every xx3 buccaneer
-‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx4+ buccaneer
+‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx3+ buccaneer
 ‎ ‎ ‎ ‎ ‎ ‎ - income buff can only affect 20 xx3+ buccaneers, main tower is not affected
 ‎ ‎ ‎ ‎ ‎ ‎ - (all damage buffs are factored into the stats)
  
 __Changes from Previous Tier__
-*income* improved $500 -> $800
+*income* improved $1000 -> $3000
 gets *empire-buff*
  
 __Crosspath Benefits__
 gets *grape* attack
+*grape* gets +1p
 
 025 
 71r
-*dart*- 2d, +1cd (3), +1md (3), 5p, 0.5s, sharp, camo
-*grape*- 2d, +1cd (3), +1md (3), 2p, 0.65s, 5j, fire, camo
-‎ ‎ ‎ ‎ ‎ ‎ - can shoot from left and right side at once
-‎ ‎ ‎ ‎ ‎ ‎ - applies burn status- 2d/1.5s, fire, 3.1s duration
-‎ ‎ ‎ ‎ ‎ ‎ - 100º spread
-*income*- $800 income at the end of the round
+*dart*- 2d, 3cd, 3md, 5p, 0.5s, sharp, camo
+*grape*- 2d, 3cd, 3md, 2p, 0.65s, 5j, fire, camo
+‎ ‎ ‎ ‎ ‎ ‎ - shoots from left and right sides (effectively 2Xj)
+*income*- $3000 income at the end of the round
 *trade-deal-buff*- towers in radius sell for 10% more
 ‎ ‎ ‎ ‎ ‎ ‎ - not stackable
 *empire-buff*- all xx3+ buccaneers get +1d, +1cd, +1md 
-‎ ‎ ‎ ‎ ‎ ‎ - +10 income for every xx3 buccaneer
-‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx4+ buccaneer
+‎ ‎ ‎ ‎ ‎ ‎ - +20 income for every xx3+ buccaneer
 ‎ ‎ ‎ ‎ ‎ ‎ - income buff can only affect 20 xx3+ buccaneers, main tower is not affected
 ‎ ‎ ‎ ‎ ‎ ‎ - (all damage buffs are factored into the stats)
  
 __Changes from Previous Tier__
-*income* improved $500 -> $800
+*income* improved $1000 -> $3000
 gets *empire-buff*
  
 __Crosspath Benefits__
 gets *grape* attack
+*grape* gets +1p
