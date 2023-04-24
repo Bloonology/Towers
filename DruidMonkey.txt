@@ -1,0 +1,1203 @@
+000 
+35r
+*thorn*- 1d, 1p, 1.1s, 5j, sharp 
+ 
+footprint radius: 7 (medium)
+
+100 
+35r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+ 
+__Changes from 0-0-0__
+*thorn* gets +1p, damage type sharp -> normal
+
+010 
+35r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+ 
+__Changes from 0-0-0__
+*thorn* gets +3j
+
+001 
+45r
+*thorn*- 1d, 1p, 1.1s, 5j, sharp
+ 
+__Changes from 0-0-0__
+*thorn* gets +10r
+
+110 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+ 
+__Changes from 0-0-0__
+*thorn* gets +1p, +3j, damage type sharp -> normal
+
+101 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+ 
+__Changes from 0-0-0__
+*thorn* gets +1p, +10r, damage type sharp -> normal
+
+011 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+ 
+__Changes from 0-0-0__
+*thorn* gets +3j, +10r
+
+200 
+35r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+ 
+__Changes from Previous Tier__
+gets *lightning* attack
+ 
+__Changes from 0-0-0__
+*thorn* gets +1p, damage type sharp -> normal
+gets *lightning* attack
+
+020 
+35r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+removes regrow on damage
+ 
+__Changes from Previous Tier__
+*thorn* removes regrow
+ 
+__Changes from 0-0-0__
+*thorn* gets +3j, removes regrow
+
+002 
+45r
+*thorn*- 1d, 1p, 1.1s, 5j, sharp
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *heart-of-vengeance* passive
+ 
+__Changes from 0-0-0__
+*thorn* gets +10r, 91%s
+gets *heart-of-vengeance* passive
+
+210 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+ 
+__Changes from 0-0-0__
+*thorn* gets +1p, +3j, damage type sharp -> normal
+gets *lightning* attack
+
+220 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*lightning*- 2d, 31p, 2.3s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+ 
+__Changes from 0-0-0__
+*thorn* gets +1p, +3j, removes regrow, damage type sharp -> normal
+gets *lightning* attack
+*lightning* removes regrow
+
+201 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+ 
+__Changes from 0-0-0__
++10r
+*thorn* gets +1p, damage type sharp -> normal
+gets *lightning* attack
+
+202 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from 0-0-0__
++10r, damage type sharp -> normal
+*thorn* gets +1p
+gets *lightning* attack
+gets *heart-of-vengeance* passive
+
+120 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+ 
+__Changes from 0-0-0__
+*thorn* gets +1p, +3j, removes regrow, damage type sharp -> normal
+
+021 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+ 
+__Changes from 0-0-0__
+*thorn* gets +3j, +10r, removes regrow
+
+022 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from 0-0-0__
+*thorn* gets +3j, removes regrow
+
+102 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from 0-0-0__
+*thorn* gets +1p, +10r, damage type sharp -> normal
+gets *heart-of-vengeance* passive
+
+012 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from 0-0-0__
+*thorn* gets +3j, +10r
+gets *heart-of-vengeance* passive
+
+300 
+35r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+*tornado*- 0d, 30p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 100-200 units
+ 
+__Changes from Previous Tier__
+gets *tornado* attack
+
+310 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+*tornado*- 0d, 30p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 100-200 units
+ 
+__Changes from Previous Tier__
+gets *tornado* attack
+ 
+__Crosspath Benefits__
+*thorn* gets +3j
+
+320 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*lightning*- 2d, 31p, 2.3s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*tornado*- 0d, 30p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 100-200 units
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+ 
+__Changes from Previous Tier__
+gets *tornado* attack
+ 
+__Crosspath Benefits__
+all attacks remove regrow
+*thorn* gets +3j
+
+301 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+*tornado*- 0d, 30p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 100-200 units
+ 
+__Changes from Previous Tier__
+gets *tornado* attack
+ 
+__Crosspath Benefits__
++10r
+
+302 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+*tornado*- 0d, 30p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 100-200 units
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *tornado* attack
+ 
+__Crosspath Benefits__
++10r
+gets *heart-of-vengeance* passive
+
+030 
+35r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the strongest non-moab
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 20p, 0.3s, sharp on top of the bloon it tangled, lasts for 4.5s
+ 
+__Changes from Previous Tier__
+gets *vine* attack
+
+130 
+35
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the strongest non-moab
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 20p, 0.3s, normal on top of the bloon it tangled, lasts for 4.5s
+ 
+__Changes from Previous Tier__
+gets *vine* attack
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+*thorns* damage type sharp -> normal
+
+230 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*lightning*- 2d, 31p, 2.3s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the strongest non-moab
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 20p, 0.3s, normal on top of the bloon it tangled, lasts for 4.5s
+ 
+__Changes from Previous Tier__
+gets *vine* attack
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+*thorns* damage type sharp -> normal
+gets *lightning* attack
+
+031 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the strongest non-moab
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 20p, 0.3s, sharp on top of the bloon it tangled, lasts for 4.5s
+ 
+__Changes from Previous Tier__
+gets *vine* attack
+ 
+__Crosspath Benefits__
+*thorn* gets +10r
+
+032 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the strongest non-moab
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 if its not)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 20p, 0.3s, sharp on top of the bloon it tangled, lasts for 4.5s
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect *vine* attack
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *vine* attack
+ 
+__Crosspath Benefits__
+*thorn* gets +10r
+gets *heart-of-vengeance* passive
+
+003 
+45r
+*thorn*- 1d, 1p, 1.1s, 5j, sharp
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *wrathful* passive
+
+103 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *wrathful* passive
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+
+203 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *wrathful* passive
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+gets *lightning* attack
+
+013 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *wrathful* passive
+ 
+__Crosspath Benefits__
+*thorn* gets +3j
+
+023 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+heartofvengence- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *wrathful* passive
+ 
+__Crosspath Benefits__
+*thorn* gets +3j, removes regrow
+
+400 
+35r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 3d, 31p, 2.3s, plasma
+*tornado*- 0d, 60p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 3d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice 
+ 
+__Changes from Previous Tier__
+gets *light-ball* attack
+*lightning* gets +1d
+*tornado* gets +30p, blowback increased 50 units
+
+410 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+*lightning*- 3d, 31p, 2.3s, plasma
+*tornado*- 0d, 60p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 3d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice
+ 
+__Changes from Previous Tier__
+gets *light-ball* attack
+*lightning* gets +1d
+*tornado* gets +30p, *tornado* blowback increased 50 units
+ 
+__Crosspath Benefits__
+*thorn* gets +3j
+
+420 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*lightning*- 3d, 31p, 2.3s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*tornado*- 0d, 60p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 3d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+ 
+__Changes from Previous Tier__
+gets *light-ball* attack
+*lightning* gets +1d
+*tornado* gets +30p, *tornado* blowback increased 50 units
+ 
+__Crosspath Benefits__
+all attacks remove regrow
+*thorn* gets +3j
+
+401 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 3d, 31p, 2.3s, plasma
+*tornado*- 0d, 60p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 3d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice 
+ 
+__Changes from Previous Tier__
+gets *light-ball* attack
+*lightning* gets +1d
+*tornado* gets +30p, *tornado* blowback increased 50 units
+ 
+__Crosspath Benefits__
++10r
+
+402 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 3d, 31p, 2.3s, plasma
+*tornado*- 0d, 60p, 2.5s, normal
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 3d, 30p, 0.35s, plasma
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+gets *light-ball* attack
+*lightning* gets +1d
+*tornado* gets +30p, *tornado* blowback increased 50 units
+ 
+__Crosspath Benefits__
++10r
+gets *heart-of-vengeance* passive
+
+040 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 40p, 0.3s, sharp on top of the bloon it tangled, lasts for 4.5s
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
++10r (55)
+gets **Jungle's Bounty** ability
+*vine* attack entangles 2 bloons at the same time
+*thorns* get +20p (40)
+
+140 
+45r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 40p, 0.3s, normal on top of the bloon it tangled, lasts for 4.5s 
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
++10r (55)
+gets **Jungle's Bounty** ability
+*vine* attack entangles 2 bloons at the same time
+*thorns* get +20p (40)
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+*thorns* damage type sharp -> normal
+
+240 
+45r
+*thorn*- 1d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*lightning*- 2d, 31p, 2.3s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 40p, 0.3s, normal on top of the bloon it tangled, lasts for 4.5s
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
++10r (55)
+gets **Jungle's Bounty** ability
+*vine* attack entangles 2 bloons at the same time
+*thorns* get +20p (40)
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+*thorns* damage type sharp -> normal
+gains *lightning* attack
+
+041 
+55r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 40p, 0.3s, sharp on top of the bloon it tangled, lasts for 4.5s
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
++10r (55)
+gets **Jungle's Bounty** ability
+*vine* attack entangles 2 bloons at the same time
+*thorns* get +20p (40)
+ 
+__Crosspath Benefits__
++10r
+
+042 
+55r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 1.4s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 1d, 40p, 0.3s, sharp on top of the bloon it tangled, lasts for 4.5s
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect *vine* attack
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+**Jungle's Bounty** ability: 60s cooldown, gives $240 + $120 for every farm within its range
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
++10r (55)
+gets **Jungle's Bounty** ability
+*vine* attack entangles 2 bloons at the same time
+*thorns* get +20p (40)
+ 
+__Crosspath Benefits__
++10r
+gets *heart-of-vengeance* passive
+
+004 
+45r
+*thorn*- 1d, 1p, 1.1s, 5j, sharp
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+gets *buff*
+
+104 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+gets *buff*
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+
+204 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal
+*lightning*- 2d, 31p, 2.3s, plasma
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+gets *buff*
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal 
+gets *lightning* attack
+
+014 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+gets *buff*
+ 
+__Crosspath Benefits__
+*thorn* gets +3j
+
+024 
+45r
+*thorn*- 1d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+gets *buff*
+ 
+__Crosspath Benefits__
+*thorn* gets +3j, removes regrow
+
+500 
+35r
+*thorn*- 1d, 2p, 1.1s, 5j, normal, camo
+*lightning*- 10d, 31p, 2.3s, plasma, camo
+*tornado*- 0d, 60p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 10d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice
+*superstorm*- 12d, 200p, 4s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back anything it hits but Z.O.M.G.s 30-300 units
+	-blows back Z.O.M.G.s 15-150 units
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 5p, D.D.T.s use 10p, B.F.B.s use 20p, Z.O.M.G.s use 50p
+‎ ‎ ‎ ‎ ‎ ‎ - spawns a *light-ball* once every second until expiration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
+ 
+__Changes from Previous Tier__
+all attacks get camo
+*lightning* gets +7d
+*light-ball* *lightning* gets +7d
+gets *superstorm* attack
+
+510 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal, camo
+*lightning*- 10d, 31p, 2.3s, plasma, camo
+*tornado*- 0d, 60p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 10d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice
+*superstorm*- 12d, 200p, 4s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back anything it hits but Z.O.M.G.s 30-300 units
+	-blows back Z.O.M.G.s 15-150 units
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 5p, D.D.T.s use 10p, B.F.B.s use 20p, Z.O.M.G.s use 50p
+‎ ‎ ‎ ‎ ‎ ‎ - spawns a *light-ball* once every second until expiration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
+ 
+__Changes from Previous Tier__
+all attacks get camo
+*lightning* gets +7d
+*light-ball* *lightning* gets +7d
+gets *superstorm* attack
+ 
+__Crosspath Benefits__
+*thorn* gets +3j
+
+520 
+35r
+*thorn*- 1d, 2p, 1.1s, 8j, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*lightning*- 10d, 31p, 2.3s, plasma, camo
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*tornado*- 0d, 60p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 10d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*superstorm*- 12d, 200p, 4s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back anything it hits but Z.O.M.G.s 30-300 units
+	-blows back Z.O.M.G.s 15-150 units
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 5p, D.D.T.s use 10p, B.F.B.s use 20p, Z.O.M.G.s use 50p
+‎ ‎ ‎ ‎ ‎ ‎ - spawns a *light-ball* once every second until expiration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+ 
+__Changes from Previous Tier__
+all attacks get camo
+*lightning* gets +7d
+*light-ball* *lightning* gets +7d
+gets *superstorm* attack
+ 
+__Crosspath Benefits__
+all attacks remove regrow
+*thorn* gets +3j
+
+501 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal, camo
+*lightning*- 10d, 31p, 2.3s, plasma, camo
+*tornado*- 0d, 60p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 10d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice
+*superstorm*- 12d, 200p, 4s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back anything it hits but Z.O.M.G.s 30-300 units
+	-blows back Z.O.M.G.s 15-150 units
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 5p, D.D.T.s use 10p, B.F.B.s use 20p, Z.O.M.G.s use 50p
+‎ ‎ ‎ ‎ ‎ ‎ - spawns a *light-ball* once every second until expiration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
+ 
+__Changes from Previous Tier__
+all attacks get camo
+*lightning* gets +7d
+*light-ball* *lightning* gets +7d
+gets *superstorm* attack
+ 
+__Crosspath Benefits__
++10r
+
+502 
+45r
+*thorn*- 1d, 2p, 1.1s, 5j, normal, camo
+*lightning*- 10d, 31p, 2.3s, plasma, camo
+*tornado*- 0d, 60p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back non-moabs 150-250 units
+*light-ball*- 6.0s, emits *light-ball* that shoots *lightning*, camo
+‎ ‎ ‎ ‎ ‎ ‎ - *lightning*- 10d, 30p, 0.35s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - has a 25% chance to freeze initial target, cannot freeze same bloon twice
+*superstorm*- 12d, 200p, 4s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - blows back anything it hits but Z.O.M.G.s 30-300 units
+	-blows back Z.O.M.G.s 15-150 units
+‎ ‎ ‎ ‎ ‎ ‎ - M.O.A.B.s use 5p, D.D.T.s use 10p, B.F.B.s use 20p, Z.O.M.G.s use 50p
+‎ ‎ ‎ ‎ ‎ ‎ - spawns a *light-ball* once every second until expiration
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect bads
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+ 
+__Changes from Previous Tier__
+all attacks get camo
+*lightning* gets +7d
+*light-ball* *lightning* gets +7d
+gets *superstorm* attack
+ 
+__Crosspath Benefits__
++10r
+gets *heart-of-vengeance* passive
+
+050 
+45r
+*thorn*- 6d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 0.3s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 5d, 30p, 0.1s, sharp on top of the bloon it tangled, lasts for 9s
+*brambles*- ∞p, 0.5s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - range increases by 6 every 2s until the whole map is covered
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 50r take 4d, +26cd (30), +26md (30)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 100r take 3d, +12cd (15), +12md (15)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons outside of 100r take 2d, +8cd (10), +8md (10)
+‎ ‎ ‎ ‎ ‎ ‎ - can only be buffed by x3x village
+*income*- $1000 income at the end of the round
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range, gives 25 lives
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
+*thorn* gets +5d
+*thorns* gets +4d, 33.33%s, +4.5s duration
+gets *brambles* attack
+gets end of round income 
+**Jungle's Bounty** ability gives 25 lives 
+
+150 
+45r
+*thorn*- 6d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 0.3s, destroys the strongest non-moab
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 5d, 30p, 0.1s, normal on top of the bloon it tangled, lasts for 9s
+*brambles*- ∞p, 0.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - range increases by 6 every 2s until the whole map is covered
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 50r take 4d, +26cd (30), +26md (30)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 100r take 3d, +12cd (15), +12md (15)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons outside of 100r take 2d, +8cd (10), +8md (10)
+‎ ‎ ‎ ‎ ‎ ‎ - can only be buffed by x3x village
+*income*- $1000 income at the end of the round
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range, gives 25 lives
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
+*thorn* gets +5d
+*thorns* gets +4d, 33.33%s, +4.5s duration
+gets *brambles* attack
+gets end of round income 
+**Jungle's Bounty** ability gives 25 lives 
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+*thorns* damage type sharp -> normal
+*brambles* attack damage type sharp -> normal 
+
+250 
+45r
+*thorn*- 6d, 2p, 1.1s, 8j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*lightning*- 2d, 31p, 2.3s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 0.3s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 5d, 30p, 0.1s, normal on top of the bloon it tangled, lasts for 9s
+*brambles*- ∞p, 0.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - range increases by 6 every 2s until the whole map is covered
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 50r take 4d, +26cd (30), +26md (30)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 100r take 3d, +12cd (15), +12md (15)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons outside of 100r take 2d, +8cd (10), +8md (10)
+‎ ‎ ‎ ‎ ‎ ‎ - can only be buffed by x3x village
+*income*- $1000 income at the end of the round
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range, gives 25 lives
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
+*thorn* gets +5d
+*thorns* gets +4d, 33.33%s, +4.5s duration
+gets *brambles* attack
+gets end of round income 
+**Jungle's Bounty** ability gives 25 lives 
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+*thorns* damage type sharp -> normal
+*brambles* attack damage type sharp -> normal
+*lightning* gets +1d
+
+051 
+55r
+*thorn*- 6d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 0.3s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 5d, 30p, 0.1s, sharp on top of the bloon it tangled, lasts for 9s
+*brambles*- ∞p, 0.5s, sharp, camo
+‎ ‎ ‎ ‎ ‎ ‎ - range increases by 6 every 2s until the whole map is covered
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 50r take 4d, +26cd (30), +26md (30)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 100r take 3d, +12cd (15), +12md (15)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons outside of 100r take 2d, +8cd (10), +8md (10)
+‎ ‎ ‎ ‎ ‎ ‎ - can only be buffed by x3x village
+*income*- $1000 income at the end of the round
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range, gives 25 lives
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
+*thorn* gets +5d
+*thorns* gets +4d, 33.33%s, +4.5s duration
+gets *brambles* attack
+gets end of round income 
+**Jungle's Bounty** ability gives 25 lives 
+ 
+__Crosspath Benefits__
++10r
+
+052 
+55r
+*thorn*- 6d, 1p, 1.1s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*vine*- 0.3s, destroys the 2 strongest non-moabs
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is (√(rbe) + 2\*lead + 1) / 4 seconds
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (rbe is the red bloon equivalent / total hp of bloon including children, lead is 1 if the bloon is a lead and 0 otherwise)
+‎ ‎ ‎ ‎ ‎ ‎ - drops *thorns* with 5d, 30p, 0.1s, sharp on top of the bloon it tangled, lasts for 9s
+*brambles*- ∞p, 0.5s, sharp, camo 
+‎ ‎ ‎ ‎ ‎ ‎ - range increases by 6 every 2s until the whole map is covered
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 50r take 4d, +26cd (30), +26md (30)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons within 100r take 3d, +12cd (15), +12md (15)
+‎ ‎ ‎ ‎ ‎ ‎ - bloons outside of 100r take 2d, +8cd (10), +8md (10)
+‎ ‎ ‎ ‎ ‎ ‎ - can only be buffed by x3x village
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect *vine* attack
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect *brambles* attack
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*income*- $1000 income at the end of the round
+**Jungle's Bounty** ability: 60s cooldown, gives $320 + $120 for every farm within its range, gives 25 lives
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 60s
+‎ ‎ ‎ ‎ ‎ ‎ - ability disabled 180s into a round
+ 
+__Changes from Previous Tier__
+*thorn* gets +5d
+*thorns* gets +4d, 33.33%s, +4.5s duration
+gets *brambles* attack
+gets end of round income 
+**Jungle's Bounty** ability gives 25 lives 
+ 
+__Crosspath Benefits__
++10r
+gets *heart-of-vengeance* passive
+
+005 
+50r
+*thorn*- 4d, 1p, 0.55s, 5j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - damage increases by 1 for every 3000 rbe currently on screen
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - caps at +30d
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+*thorn* gets +3d, 50%s
+*thorn* damage increases by 1 for every 3000 rbe on screen
+
+105 
+50r
+*thorn*- 4d, 2p, 0.55s, 5j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - damage increases by 1 for every 3000 rbe currently on screen
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - caps at +30d
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+*thorn* gets +3d, 50%s, damage type sharp -> normal
+*thorn* damage increases by 1 for every 3000 rbe on screen
+ 
+__Crosspath Benefits__
+*thorn* gets +1p
+
+205 
+50r
+*thorn*- 4d, 2p, 0.55s, 5j, normal
+‎ ‎ ‎ ‎ ‎ ‎ - damage increases by 1 for every 3000 rbe currently on screen
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - caps at +30d
+*lightning*- 2d, 31p, 2.3s, plasma
+‎ ‎ ‎ ‎ ‎ ‎ - damage increases by 1 for every 3000 rbe currently on screen
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - caps at +30d
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed simply do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+*thorn* gets +3d, 50%s
+*thorn* damage increases by 1 for every 3000 rbe on screen
+ 
+__Crosspath Benefits__
+*thorn* gets +1p, damage type sharp -> normal
+*lightning* damage increases by 1 for every 3000 rbe on screen
+
+015 
+50r
+*thorn*- 4d, 1p, 0.55s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - damage increases by 1 for every 3000 rbe currently on screen
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - caps at +30d
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+*thorn* gets +3d, 50%s
+*thorn* damage increases by 1 for every 3000 rbe  on screen
+ 
+__Crosspath Benefits__
+*thorn* gets +3j
+
+025 
+50r
+*thorn*- 4d, 1p, 0.55s, 8j, sharp
+‎ ‎ ‎ ‎ ‎ ‎ - damage increases by 1 for every 3000 rbe currently on screen
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - caps at +30d
+‎ ‎ ‎ ‎ ‎ ‎ - removes regrow on damage
+*heart-of-vengeance*- for every life below the original life count when buying this upgrade, speed is increased by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +90% speed, with an addition +10% speed at all times
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (initial buff is not calculated into the stats because it stacks additively with the life loss buff)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*wrathful*- for every one damage done, attack speed increases by 1%
+‎ ‎ ‎ ‎ ‎ ‎ - caps at +100% speed
+‎ ‎ ‎ ‎ ‎ ‎ - resets after 2s of being idle
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+‎ ‎ ‎ ‎ ‎ ‎ - (listed separately for simplicity)
+*buff*- all druids in range get +15% speed and pierce, stacks 5 times
+‎ ‎ ‎ ‎ ‎ ‎ - buffs are additive with other druids
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (1 poplust is +15% speed, 2 is +30% speed, etc.)
+‎ ‎ ‎ ‎ ‎ ‎ - (this is an attack speed buff, not an attack cooldown buff. To convert to attack speed, do 1 / (buff) )
+ 
+__Changes from Previous Tier__
+*thorn* gets +3d, 50%s
+*thorn* damage increases by 1 for every 3000 rbe  on screen
+ 
+__Crosspath Benefits__
+*thorn* gets +3j, removes regrow
